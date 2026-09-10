@@ -32,7 +32,7 @@ By the end of this task, I was comfortable using both `for` and `while` loops to
 
 ## Interview Questions
 1. **What is the difference between a `for` loop and a `while` loop?**
-   A `for` loop iterates over a known collection or a fixed range of values — it runs once for each item and stops automatically when the collection is exhausted. A `while` loop instead repeats for as long as a condition stays `True`, which is useful when you don't know in advance exactly how many times you'll need to loop (e.g., searching for a value or counting down).
+   A `for` loop iterates over a known collection or a fixed range of values. It runs once for each item and stops automatically when the collection is exhausted. A `while` loop instead repeats for as long as a condition stays `True`, which is useful when you don't know in advance exactly how many times you'll need to loop (e.g., searching for a value or counting down).
 2. **What does `range()` do?**
    `range()` generates a sequence of numbers, typically used to control how many times a loop runs. `range(5)` produces `0, 1, 2, 3, 4`, and `range(start, stop, step)` lets you control the starting point and the step size between numbers, such as `range(0, 100, 10)` for every 10th value.
 3. **Why are vectorized operations generally preferred over loops in data science?**
