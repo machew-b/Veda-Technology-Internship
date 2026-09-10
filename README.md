@@ -1,13 +1,14 @@
 # Veda Technology Internship — Data Science Track
 
-Daily tasks completed for the Veda Technology internship, Data Science track. The program runs from **Day 1 to Day 45**, with one task tackled per day and its own folder containing the notebook, dataset references, and a short README write-up.
+Daily tasks completed for the Veda Technology internship, Data Science track. The program runs from **Day 01 to Day 45**, with one task tackled per day and its own folder containing the notebook, dataset references, and a short README write-up.
 
 ## Progress Tracker
 
 | Day | Task | Status |
 |-----|------|--------|
-| [Day 1](./day-01) | Python for Data Science - Variables and Data Types | Finished |
-| [Day 2](./day-02) | Conditional Statements for Data Decisions | Finished |
+| [Day 01](./day-01) | Python for Data Science - Variables and Data Types | Finished |
+| [Day 02](./day-02) | Conditional Statements for Data Decisions | Finished |
+| [Day 03](./day-03) | Loops for Dataset Processing | Finished |
 
 **Status key:** `Finished` — task complete · `In Progress` — currently working on it · `Pending` — not yet started.
 

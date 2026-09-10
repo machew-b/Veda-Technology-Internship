@@ -25,6 +25,6 @@ By the end of this task, I could confidently identify and work with all of Pytho
 1. **What are the main built-in data types in Python?**
    The core built-in types are `int`, `float`, `str`, `bool`, `list`, `tuple`, `set`, and `dict`.
 2. **What is the difference between a list and a tuple?**
-   A list (`[]`) is ordered and mutable — items can be added, removed, or changed after creation. A tuple (`()`) is ordered but immutable, i.e., once created, its contents cannot be changed.
+   A list (`[]`) is ordered and mutable, where items can be added, removed, or changed after creation. A tuple (`()`) is ordered but immutable, i.e., once created, its contents cannot be changed.
 3. **Why is Python widely used in data science?**
    Python has a simple, readable syntax and a rich ecosystem of libraries (like pandas, NumPy, and matplotlib) built specifically for loading, cleaning, analyzing, and visualizing data, which makes it fast to go from raw data to insights.

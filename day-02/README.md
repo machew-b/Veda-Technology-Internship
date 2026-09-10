@@ -34,6 +34,6 @@ By the end of this task, I was able to classify individual employees into a sala
 1. **What is the difference between `if` and `elif`?**
    `if` is the first condition checked in a chain. `elif` ("else if") lets you check an additional condition only if the conditions above it were `False`. Python evaluates them in order and runs the first matching branch, then skips the rest. Thus, `elif` is used for extra conditions after the initial `if`.
 2. **How do you combine multiple conditions in Python?**
-   By using the logical operators `and` and `or` inside a single condition — `and` requires every condition to be `True`, while `or` requires at least one to be `True`. For example: `if experience_years > 10 and salary > 500000:` only runs when both conditions hold.
+   By using the logical operators `and` and `or` inside a single condition. Note that `and` requires every condition to be `True`, while `or` requires at least one to be `True`. For example: `if experience_years > 10 and salary > 500000:` only runs when both conditions hold.
 3. **What is the purpose of the `else` statement?**
    `else` is the fallback branch at the end of an `if`/`elif` chain. It runs whenever none of the conditions above it were `True`, making sure every possible case is handled instead of being silently skipped.
