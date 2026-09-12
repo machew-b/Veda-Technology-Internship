@@ -10,6 +10,7 @@ Daily tasks completed for the Veda Technology internship, Data Science track. Th
 | [Day 02](./day-02) | Conditional Statements for Data Decisions | Finished |
 | [Day 03](./day-03) | Loops for Dataset Processing | Finished |
 | [Day 04](./day-04) | Functions for Reusable Data Tasks | Finished |
+| [Day 05](./day-05) | Python Lists, Tuples, Sets and Dictionaries | Finished |
 
 **Status key:** `Finished` — task complete · `In Progress` — currently working on it · `Pending` — not yet started.
 
