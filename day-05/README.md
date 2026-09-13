@@ -1,4 +1,4 @@
-# Day 5: Lists, Tuples, Sets and Dictionaries
+# Day 05: Lists, Tuples, Sets and Dictionaries
 
 ## Description
 Work with Python collection data structures and perform operations such as adding, removing, searching, and updating elements.
