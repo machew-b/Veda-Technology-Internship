@@ -1,0 +1,44 @@
+Order ID,Customer Name,Age,Gender,City,Signup Date,Purchase Amount,Email
+1000,Bob Lee,25,male,LA,01/22/2023,$45,alice@example.com 
+1001,Bob Lee,22,F,,15-04-2023,$120.50,john@example.com
+1002,MARY JOHNSON,-5,Female,miami ,19-05-2023,$120.50,
+1003,Emma Brown,22,M,LA,15-04-2023,,john@example.com
+1004, David Kim,29,female,Chicago,01/22/2023,"1,200.00",bad-email
+1005,Bob Lee,34,M,new york,2023.03.10,-20,
+1006,grace hall,25,F,miami ,15-01-2023,300,john@example.com
+1007,Paul Young,150,F,chicago,19-05-2023,"1,200.00",alice@example.com 
+1008,MARY JOHNSON,25,Female,Chicago,15-01-2023,"1,200.00",john@example.com
+1009,Karen White,150,F,Boston,01-07-2023,-20,JANE@EXAMPLE.COM
+1010,Jack Ryan,,Female,Boston,2023.03.10,89.99,
+1011, David Kim,22,Female,Los Angeles,15-04-2023,300,bad-email
+1012,Paul Young,-5,female,New York,01/22/2023,$120.50,bad-email
+1013,Karen White,150,F,LA,19-05-2023,-20,JANE@EXAMPLE.COM
+1014,Nate Ross,29,F,Los Angeles,2023.03.10,$45,JANE@EXAMPLE.COM
+1015,Paul Young,22,male,Seattle,19-05-2023,300,
+1016,Karen White,,Female,Los Angeles,19-05-2023,$75.25,john@example.com
+1017,jane doe,34,Male,Boston,01/22/2023,300,
+1018,MARY JOHNSON,29,M,,15-04-2023,,
+1019,John Smith,34,,Chicago,01-07-2023,-20,john@example.com
+1020,Henry Ford,29,Male,Miami,15-01-2023,,
+1021, David Kim,22,F,Boston,2023.03.10,"1,200.00",JANE@EXAMPLE.COM
+1022,Jack Ryan,45,,miami ,15-01-2023,-20,bob@example
+1023,John Smith,34,female,Chicago,01/22/2023,$120.50,JANE@EXAMPLE.COM
+1024,Quinn Adams,34,F,Seattle,15-04-2023,89.99,
+1025,Alice Wong ,45,F,miami ,01/22/2023,,
+1026,Rita Gomez,29,Female,miami ,01-07-2023,"1,200.00",alice@example.com 
+1027,Henry Ford,29,female,Miami,19-05-2023,$75.25,john@example.com
+1028,Frank Miller,-5,F,chicago,15-01-2023,"1,200.00",
+1029,Frank Miller,25,F,Seattle,,$120.50,JANE@EXAMPLE.COM
+1030,MARY JOHNSON,25,female,new york,19-05-2023,"1,200.00",bad-email
+1031,Nate Ross,-5,,Los Angeles,,$75.25,JANE@EXAMPLE.COM
+1032,Nate Ross,29,Female,new york,15-01-2023,300,bad-email
+1033,Leo Chen,29,F,Seattle,15-01-2023,89.99,john@example.com
+1034,Karen White,,F,LA,01/22/2023,"1,200.00",
+1035,Mona Patel,45,M,Los Angeles,2023.03.10,$75.25,JANE@EXAMPLE.COM
+1036,MARY JOHNSON,31,,new york,15-01-2023,$120.50,john@example.com
+1037,Frank Miller,45,M,Miami,15-04-2023,"1,200.00",bob@example
+1038,jane doe,45,M,New York,15-04-2023,,bob@example
+1039,Henry Ford,29,,Boston,,$75.25,JANE@EXAMPLE.COM
+1003,Emma Brown,22,M,LA,15-04-2023,,john@example.com
+1010,Jack Ryan,,Female,Boston,2023.03.10,89.99,
+1022,Jack Ryan,45,,miami ,15-01-2023,-20,bob@example
