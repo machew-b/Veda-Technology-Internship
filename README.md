@@ -13,6 +13,7 @@ Daily tasks completed for the Veda Technology internship, Data Science track. Th
 | [Day 05](./day-05) | Python Lists, Tuples, Sets and Dictionaries | Finished |
 | [Day 06](./day-06) | List and Dictionary Comprehensions | Finished |
 | [Day 07](./day-07) | String Processing for Data Cleaning | Finished |
+| [Day 08](./day-08) | Exception Handling for Data Programs | Finished |
 
 **Status key:** `Finished` — task complete · `In Progress` — currently working on it · `Pending` — not yet started.
 
