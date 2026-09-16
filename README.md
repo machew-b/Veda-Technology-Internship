@@ -1,4 +1,4 @@
-# Veda Technology Internship — Data Science Track
+# Veda Technology Internship: Data Science Track
 
 Daily tasks completed for the Veda Technology internship, Data Science track. The program runs from **Day 01 to Day 45**, with one task tackled per day and its own folder containing the notebook, dataset references, and a short README write-up.
 
@@ -14,6 +14,7 @@ Daily tasks completed for the Veda Technology internship, Data Science track. Th
 | [Day 06](./day-06) | List and Dictionary Comprehensions | Finished |
 | [Day 07](./day-07) | String Processing for Data Cleaning | Finished |
 | [Day 08](./day-08) | Exception Handling for Data Programs | Finished |
+| [Day 09](./day-09) | NumPy Array Creation and Data Types | Finished |
 
 **Status key:** `Finished` — task complete · `In Progress` — currently working on it · `Pending` — not yet started.
 
