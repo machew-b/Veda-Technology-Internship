@@ -4,18 +4,19 @@ Daily tasks completed for the Veda Technology internship, Data Science track. Th
 
 ## Progress Tracker
 
-| Day | Task | Status |
-|-----|------|--------|
-| [Day 01](./day-01) | Python Variables and Data Types | Finished |
-| [Day 02](./day-02) | Conditional Statements for Data Decisions | Finished |
-| [Day 03](./day-03) | Loops for Dataset Processing | Finished |
-| [Day 04](./day-04) | Functions for Reusable Data Tasks | Finished |
-| [Day 05](./day-05) | Python Lists, Tuples, Sets and Dictionaries | Finished |
-| [Day 06](./day-06) | List and Dictionary Comprehensions | Finished |
-| [Day 07](./day-07) | String Processing for Data Cleaning | Finished |
-| [Day 08](./day-08) | Exception Handling for Data Programs | Finished |
-| [Day 09](./day-09) | NumPy Array Creation and Data Types | Finished |
-| [Day 10](./day-10) | NumPy Indexing and Slicing | Finished |
+| Day | Task | Status | Date Submitted |
+|-----|------|--------|----------------|
+| [Day 01](./day-01) | Python Variables and Data Types | Finished | September 08, 2026 |
+| [Day 02](./day-02) | Conditional Statements for Data Decisions | Finished | September 09, 2026 |
+| [Day 03](./day-03) | Loops for Dataset Processing | Finished | September 10, 2026 |
+| [Day 04](./day-04) | Functions for Reusable Data Tasks | Finished | September 11, 2026 |
+| [Day 05](./day-05) | Python Lists, Tuples, Sets and Dictionaries | Finished | September 12, 2026 |
+| [Day 06](./day-06) | List and Dictionary Comprehensions | Finished | September 13, 2026 |
+| [Day 07](./day-07) | String Processing for Data Cleaning | Finished | September 14, 2026 |
+| [Day 08](./day-08) | Exception Handling for Data Programs | Finished | September 15, 2026 |
+| [Day 09](./day-09) | NumPy Array Creation and Data Types | Finished | September 16, 2026 |
+| [Day 10](./day-10) | NumPy Indexing and Slicing | Finished | September 17, 2026 |
+| [Day 11](./day-11) | NumPy Vectorization and Broadcasting | Finished | September 18, 2026 |
 
 **Status key:** `Finished` — task complete · `In Progress` — currently working on it · `Pending` — not yet started.
 
