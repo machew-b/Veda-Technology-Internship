@@ -1,4 +1,4 @@
-# Day 12 — NumPy Aggregations and Statistics
+# Day 12: NumPy Aggregations and Statistics
 
 ## Description
 Use NumPy functions to calculate sum, mean, median, minimum, maximum, standard deviation, and variance.
