@@ -18,6 +18,7 @@ Daily tasks completed for the Veda Technology internship, Data Science track. Th
 | [Day 10](./day-10) | NumPy Indexing and Slicing | Finished | September 17, 2026 |
 | [Day 11](./day-11) | NumPy Vectorization and Broadcasting | Finished | September 18, 2026 |
 | [Day 12](./day-12) | NumPy Aggregations and Statistics | Finished | September 19, 2026 |
+| [Day 13](./day-13) | NumPy Random Sampling | Finished | September 20, 2026 |
 
 **Status key:** `Finished` — task complete · `In Progress` — currently working on it · `Pending` — not yet started.
 
