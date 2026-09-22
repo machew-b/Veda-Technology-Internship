@@ -1,4 +1,4 @@
-# Day 14 — NumPy Array Reshaping and Stacking
+# Day 14: NumPy Array Reshaping and Stacking
 
 ## Description
 Reshape arrays into different dimensions and combine multiple arrays using stacking and concatenation.
