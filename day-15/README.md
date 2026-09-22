@@ -1,4 +1,4 @@
-# Day 15 — Pandas DataFrame Basics
+# Day 15: Pandas DataFrame Basics
 
 ## Description
 Create DataFrames from dictionaries and datasets and explore rows, columns, shape, and summary information.
