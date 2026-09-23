@@ -21,6 +21,7 @@ Daily tasks completed for the Veda Technology internship, Data Science track. Th
 | [Day 13](./day-13) | NumPy Random Sampling | Finished | September 20, 2026 |
 | [Day 14](./day-14) | NumPy Array Reshaping and Stacking | Finished | September 21, 2026 |
 | [Day 15](./day-15) | Pandas DataFrame Basics | Finished | September 22, 2026 |
+| [Day 16](./day-16) | Selecting Rows and Columns with loc and iloc | Finished | September 23, 2026 |
 
 **Status key:** `Finished` — task complete · `In Progress` — currently working on it · `Pending` — not yet started.
 
