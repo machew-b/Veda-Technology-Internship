@@ -23,6 +23,7 @@ Daily tasks completed for the Veda Technology internship, Data Science track. Th
 | [Day 15](./day-15) | Pandas DataFrame Basics | Finished | September 22, 2026 |
 | [Day 16](./day-16) | Selecting Rows and Columns with loc and iloc | Finished | September 23, 2026 |
 | [Day 17](./day-17) | Filtering and Sorting DataFrames | Finished | September 24, 2026 |
+| [Day 18](./day-18) | Missing Values in Pandas | Finished | September 25, 2026 |
 
 **Status key:** `Finished` — task complete · `In Progress` — currently working on it · `Pending` — not yet started.
 
