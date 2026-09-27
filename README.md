@@ -25,6 +25,7 @@ Daily tasks completed for the Veda Technology internship, Data Science track. Th
 | [Day 17](./day-17) | Filtering and Sorting DataFrames | Finished | September 24, 2026 |
 | [Day 18](./day-18) | Missing Values in Pandas | Finished | September 25, 2026 |
 | [Day 19](./day-19) | Duplicate Records and Data Validation | Finished | September 26, 2026 |
+| [Day 20](./day-20) | Data Types and Type Conversion | Finished | September 27, 2026 |
 
 **Status key:** `Finished` — task complete · `In Progress` — currently working on it · `Pending` — not yet started.
 
