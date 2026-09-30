@@ -28,6 +28,7 @@ Daily tasks completed for the Veda Technology internship, Data Science track. Th
 | [Day 20](./day-20) | Data Types and Type Conversion | Finished | September 27, 2026 |
 | [Day 21](./day-21) | Date Parsing and Datetime Basics | Finished | September 28, 2026 |
 | [Day 22](./day-22) | A/B Test Analysis | Finished | September 29, 2026 |
+| [Day 23](./day-23) | Multiple Linear Regression | Finished | September 30, 2026 |
 
 **Status key:** `Finished` — task complete · `In Progress` — currently working on it · `Pending` — not yet started.
 
