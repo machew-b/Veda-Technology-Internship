@@ -1,4 +1,4 @@
-# Day 23 — Multiple Linear Regression
+# Day 23: Multiple Linear Regression
 
 ## Description
 Build a multiple linear regression model using several numerical or encoded predictors to estimate a continuous target.
