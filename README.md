@@ -30,6 +30,7 @@ Daily tasks completed for the Veda Technology internship, Data Science track. Th
 | [Day 22](./day-22) | A/B Test Analysis | Finished | September 29, 2026 |
 | [Day 23](./day-23) | Multiple Linear Regression | Finished | September 30, 2026 |
 | [Day 24](./day-24) | Regression Metrics | Finished | October 01, 2026 |
+| [Day 25](./day-25) | Logistic Regression Classification | Finished | October 02, 2026 |
 
 **Status key:** `Finished` — task complete · `In Progress` — currently working on it · `Pending` — not yet started.
 
