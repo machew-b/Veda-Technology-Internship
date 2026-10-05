@@ -33,6 +33,7 @@ Daily tasks completed for the Veda Technology internship, Data Science track. Th
 | [Day 25](./day-25) | Logistic Regression Classification | Finished | October 02, 2026 |
 | [Day 26](./day-26) | Classification Metrics Deep Dive | Finished | October 03, 2026 |
 | [Day 27](./day-27) | Confusion Matrix and Threshold Tuning | Finished | October 04, 2026 |
+| [Day 28](./day-28) | Decision Tree Classifier | Finished | October 05, 2026 |
 
 **Status key:** `Finished` — task complete · `In Progress` — currently working on it · `Pending` — not yet started.
 
