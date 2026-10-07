@@ -35,7 +35,7 @@ Daily tasks completed for the Veda Technology internship, Data Science track. Th
 | [Day 27](./day-27) | Confusion Matrix and Threshold Tuning | Finished | October 04, 2026 |
 | [Day 28](./day-28) | Decision Tree Classifier | Finished | October 05, 2026 |
 | [Day 29](./day-29) | Random Forest Classifier | Finished | October 06, 2026 |
-
+| [Day 30](./day-30) | K-Nearest Neighbors | Finished | October 07, 2026 |
 
 **Status key:** `Finished` — task complete · `In Progress` — currently working on it · `Pending` — not yet started.
 
