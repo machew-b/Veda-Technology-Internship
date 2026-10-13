@@ -1,0 +1,1307 @@
+inquiry_id,inquiry_date,service_type,client_type,channel,budget_inr,response_time_hours,status,deal_value_inr
+DG00001,2025-10-01,E-commerce Setup,Small Business,Email,74000.0,6.8,In Progress,0.0
+DG00002,2025-10-01,Website Design & Development,Small Business,Direct,61000.0,6.7,Converted,55000.0
+DG00003,2025-10-01,Website Design & Development,Educational Institution,Paid Ads,103000.0,1.3,converted,78000.0
+DG00004,2025-10-01,Social Media Management,Small Business,Organic Search,43000.0,4.7,Converted,32000.0
+DG00005,2025-10-02,Social Media Management,Educational Institution,Paid Ads,51000.0,7.5,Lost,0.0
+DG00006,2025-10-02,Website Design & Development,Small Business,Direct,75000.0,4.2,In Progress,0.0
+DG00007,2025-10-02,Content Marketing,Small Business,Paid Ads,53000.0,3.3,Converted,49000.0
+DG00008,2025-10-03,Social Media Management,Small Business,Email,92000.0,11.3,In Progress,0.0
+DG00009,2025-10-03,Social Media Management,Individual / Freelancer,Referral,12000.0,5.3,Converted,11000.0
+DG00010,2025-10-04,Social Media Management,Startup,Referral,75000.0,2.4,Converted,53000.0
+DG00011,2025-10-04,Website Design & Development,Small Business,Email,21000.0,9.5,Lost,0.0
+DG00012,2025-10-04,Content Marketing,Startup,Organic Search,89000.0,15.0,converted,90000.0
+DG00013,2025-10-04,SEO,Small Business,Direct,136000.0,5.1,In Progress,0.0
+DG00014,2025-10-05,E-commerce Setup,NGO,Email,38000.0,3.4,Lost,0.0
+DG00015,2025-10-05,SEO,Individual / Freelancer,Direct,,10.3,Converted,11000.0
+DG00016,2025-10-06,Ecommerce Setup,Small Business,Social Media,54000.0,18.5,In Progress,0.0
+DG00017,2025-10-06,Web Design,Educational Institution,Paid Ads,46000.0,8.1,Converted,47000.0
+DG00018,2025-10-06,Website Design & Development,NGO,Referral,25000.0,2.9,In Progress,0.0
+DG00019,2025-10-06,Web Design,Startup,Paid Ads,127000.0,8.6,Converted,123000.0
+DG00020,2025-10-07,Social Media Management,Small Business,Paid Ads,34000.0,4.5,In Progress,0.0
+DG00021,2025-10-07,E-commerce Setup,Educational Institution,Email,120000.0,4.3,Lost,0.0
+DG00022,07-10-2025,E-commerce Setup,Educational Institution,Paid Ads,109000.0,3.3,Lost,0.0
+DG00023,2025-10-07,Website Design & Development,Small Business,Social Media,39000.0,17.6,Converted,36000.0
+DG00024,2025-10-08,SEO,Small Business,Email,18000.0,5.6,Lost,0.0
+DG00025,2025-10-08,SEO,Individual / Freelancer,Paid Ads,12000.0,2.8,Converted,9000.0
+DG00026,2025-10-08,Social Media Management,Startup,Paid Ads,179000.0,3.2,Converted,129000.0
+DG00027,2025-10-09,Social Media Management,Small Business,Paid Ads,42000.0,2.1,Converted,32000.0
+DG00028,2025-10-09,Content Marketing,Startup,Paid Ads,40000.0,3.5,Converted,35000.0
+DG00029,2025-10-09,Social Media Management,Startup,Social Media,101000.0,3.6,Lost,0.0
+DG00030,2025-10-09,E-commerce Setup,NGO,Paid Ads,38000.0,3.8,Converted,32000.0
+DG00031,2025-10-09,E-commerce Setup,Small Business,Social Media,31000.0,26.1,In Progress,0.0
+DG00032,2025-10-10,E-commerce Setup,Small Business,Email,25000.0,3.8,lost,0.0
+DG00033,2025-10-11,E-commerce Setup,Individual / Freelancer,Direct,15000.0,3.6,Converted,12000.0
+DG00034,2025-10-11,Social Media Management,Startup,Referral,62000.0,,In Progress,0.0
+DG00035,2025-10-11,SEO,Small Business,Direct,66000.0,4.6,Converted,58000.0
+DG00036,2025-10-12,Website Design & Development,Startup,Paid Ads,255000.0,1.3,In Progress,0.0
+DG00037,2025-10-12,Website Design & Development,Individual / Freelancer,Referral,22000.0,10.8,Lost,0.0
+DG00038,2025-10-12,SEO,Small Business,Paid Ads,54000.0,2.4,Converted,57000.0
+DG00039,2025-10-13,SEO,Individual / Freelancer,Paid Ads,13000.0,4.3,Lost,0.0
+DG00040,2025-10-13,Social Media Management,Startup,Paid Ads,209000.0,4.2,In Progress,0.0
+DG00041,2025-10-13,Website Design & Development,Startup,Paid Ads,63000.0,3.2,Converted,63000.0
+DG00042,2025-10-13,SEO,Educational Institution,Direct,72000.0,4.6,Converted,65000.0
+DG00043,2025-10-13,Social Media Management,Small Business,Direct,30000.0,5.6,Lost,0.0
+DG00044,2025-10-14,Social Media Management,Individual / Freelancer,Social Media,,17.9,Converted,15000.0
+DG00045,2025-10-14,Website Design & Development,Startup,Direct,40000.0,2.1,Converted,31000.0
+DG00046,2025-10-14,Website Design & Development,Individual / Freelancer,Social Media,20000.0,9.1,In Progress,0.0
+DG00047,2025-10-15,Content Marketing,Small Business,Paid Ads,52000.0,15.0,In Progress,0.0
+DG00048,2025-10-15,Website Design & Development,Startup,Social Media,87000.0,2.6,In Progress,0.0
+DG00049,2025-10-15,Social Media Management,Startup,Social Media,80000.0,6.9,Converted,77000.0
+DG00050,2025-10-15,SEO,Small Business,Social Media,77000.0,5.6,Lost,0.0
+DG00051,15-10-2025,E-commerce Setup,NGO,Organic Search,25000.0,14.7,In Progress,0.0
+DG00052,2025-10-15,Ecommerce Setup,Individual / Freelancer,Paid Ads,14000.0,17.5,In Progress,0.0
+DG00053,2025-10-16,Website Design & Development,NGO,Organic Search,13000.0,14.1,Lost,0.0
+DG00054,2025-10-16,Content Marketing,Small Business,Paid Ads,29000.0,9.1,Lost,0.0
+DG00055,2025-10-16,Social Media Management,Small Business,Paid Ads,74000.0,3.7,Converted,67000.0
+DG00056,2025-10-16,Website Design & Development,Small Business,Social Media,33000.0,22.1,Converted,32000.0
+DG00057,2025-10-16,Website Design & Development,Small Business,Referral,,6.3,In Progress,0.0
+DG00058,2025-10-17,Website Design & Development,Small Business,Organic Search,183000.0,3.0,Converted,161000.0
+DG00059,2025-10-18,SEO,Startup,Social Media,143000.0,11.2,Lost,0.0
+DG00060,2025-10-18,Content Marketing,Educational Institution,Direct,61000.0,5.1,Lost,0.0
+DG00061,2025-10-20,SEO,Small Business,Paid Ads,61000.0,4.4,In Progress,0.0
+DG00062,2025-10-20,E-commerce Setup,Small Business,Organic Search,38000.0,0.5,In Progress,0.0
+DG00063,2025-10-21,Social Media Management,Small Business,Organic Search,60000.0,13.0,In Progress,0.0
+DG00064,2025-10-21,E-commerce Setup,Individual / Freelancer,Email,54000.0,3.6,Converted,46000.0
+DG00065,2025-10-21,Content Marketing,Startup,Email,99000.0,3.5,Converted,85000.0
+DG00066,2025-10-21,Social Media Management,Educational Institution,Social Media,35000.0,7.9,Converted,32000.0
+DG00067,2025-10-22,Website Design & Development,Educational Institution,Organic Search,161000.0,2.3,Converted,132000.0
+DG00068,2025-10-22,Content Marketing,Individual / Freelancer,Direct,26000.0,3.3,Lost,0.0
+DG00069,2025-10-22,Website Design & Development,Small Business,Email,51000.0,17.7,Lost,0.0
+DG00070,2025-10-22,E-commerce Setup,Small Business,Paid Ads,119000.0,1.5,In Progress,0.0
+DG00071,2025-10-22,E-commerce Setup,Small Business,Social Media,57000.0,1.9,Converted,58000.0
+DG00072,2025-10-23,SEO,Startup,Organic Search,95000.0,1.7,Lost,0.0
+DG00073,2025-10-23,Website Design & Development,Startup,Referral,94000.0,1.7,Converted,96000.0
+DG00074,2025-10-23,Social Media Management,Individual / Freelancer,Direct,20000.0,3.0,In Progress,0.0
+DG00075,2025-10-23,Website Design & Development,Individual / Freelancer,Direct,21000.0,3.5,Lost,0.0
+DG00076,2025-10-23,SEO,Individual / Freelancer,Referral,16000.0,10.4,Converted,11000.0
+DG00077,2025-10-23,Website Design & Development,Individual / Freelancer,Social Media,55000.0,11.9,In Progress,0.0
+DG00078,2025-10-23,Website Design & Development,Startup,Paid Ads,98000.0,6.3,Converted,87000.0
+DG00079,2025-10-24,Website Design & Development,Individual / Freelancer,Organic Search,18000.0,11.3,In Progress,0.0
+DG00080,2025-10-24,Content Marketing,Small Business,Organic Search,81000.0,,In Progress,0.0
+DG00081,2025-10-25,SEO,Startup,Social Media,171000.0,5.7,Lost,0.0
+DG00082,2025-10-25,SEO,NGO,Social Media,43000.0,8.5,Converted,31000.0
+DG00083,2025-10-26,E-commerce Setup,Small Business,Organic Search,22000.0,17.2,Converted,21000.0
+DG00084,2025-10-26,Social Media Management,Startup,Direct,145000.0,5.9,Won,120000.0
+DG00085,2025-10-26,SEO,Individual / Freelancer,Organic Search,39000.0,17.9,Converted,30000.0
+DG00086,27-10-2025,Social Media Management,Small Business,Paid Ads,45000.0,3.1,Converted,41000.0
+DG00087,2025-10-27,website design & development,Individual / Freelancer,Paid Ads,17000.0,7.8,In Progress,0.0
+DG00088,2025-10-27,social media management,Small Business,Social Media,37000.0,4.9,Lost,0.0
+DG00089,2025-10-27,Website Design & Development,Small Business,Direct,62000.0,22.2,In Progress,0.0
+DG00090,2025-10-28,SEO,Startup,Referral,103000.0,2.7,Converted,98000.0
+DG00091,2025-10-28,Social Media Management,Startup,Paid Ads,196000.0,4.8,Lost,0.0
+DG00092,2025-10-28,Website Design & Development,Startup,Paid Ads,53000.0,10.4,Converted,48000.0
+DG00093,2025-10-28,SEO,Small Business,Social Media,128000.0,8.7,In Progress,0.0
+DG00094,2025-10-29,Social Media Management,Small Business,Referral,53000.0,15.3,Converted,52000.0
+DG00095,2025-10-29,E-commerce Setup,NGO,Direct,30000.0,5.9,Converted,27000.0
+DG00096,2025-10-29,Website Design & Development,Educational Institution,Social Media,33000.0,1.9,Converted,30000.0
+DG00097,2025-10-29,E-commerce Setup,Small Business,Email,72000.0,12.3,Converted,67000.0
+DG00098,2025-10-29,social media management,Startup,Direct,170000.0,15.8,In Progress,0.0
+DG00099,2025-10-29,E-commerce Setup,Individual / Freelancer,Paid Ads,19000.0,25.9,Lost,0.0
+DG00100,2025-10-29,Content Marketing,Startup,Organic Search,47000.0,12.1,In Progress,0.0
+DG00101,2025-10-30,Social Media Management,Educational Institution,Paid Ads,150000.0,10.0,Converted,109000.0
+DG00102,2025-10-30,Content Marketing,Individual / Freelancer,Referral,22000.0,2.9,Converted,22000.0
+DG00103,2025-10-30,Content Marketing,Startup,Organic Search,74000.0,12.7,In Progress,0.0
+DG00104,2025-10-30,Social Media Management,Small Business,Social Media,60000.0,4.1,In Progress,0.0
+DG00105,2025-10-30,Content Marketing,Individual / Freelancer,Email,9000.0,5.9,In Progress,0.0
+DG00106,2025-10-30,Content Marketing,Small Business,Social Media,53000.0,2.9,Lost,0.0
+DG00107,2025-10-30,Website Design & Development,Startup,Paid Ads,130000.0,32.0,Lost,0.0
+DG00108,2025-10-30,Website Design & Development,Small Business,Email,49000.0,7.8,Lost,0.0
+DG00109,2025-10-31,Social Media Management,Educational Institution,Social Media,39000.0,9.2,In Progress,0.0
+DG00110,2025-10-31,Website Design & Development,Startup,Organic Search,98000.0,4.9,In-Progress,0.0
+DG00111,2025-10-31,Website Design & Development,Small Business,Email,53000.0,9.8,Converted,48000.0
+DG00112,2025-10-31,SEO,Small Business,Email,81000.0,22.0,Lost,0.0
+DG00113,2025-10-31,Website Design & Development,Individual / Freelancer,Paid Ads,28000.0,17.6,Converted,23000.0
+DG00114,2025-10-31,Social Media Management,Individual / Freelancer,Email,30000.0,,Lost,0.0
+DG00115,2025-10-31,SEO,Small Business,Email,59000.0,2.4,Converted,43000.0
+DG00116,2025-10-31,SEO,Small Business,Organic Search,63000.0,6.7,Lost,0.0
+DG00117,01-11-2025,Content Marketing,Startup,Organic Search,60000.0,13.4,In Progress,0.0
+DG00118,2025-11-02,Website Design & Development,Startup,Email,208000.0,10.3,Lost,0.0
+DG00119,2025-11-02,Content Marketing,Startup,Social Media,73000.0,6.0,Lost,0.0
+DG00120,2025-11-03,SEO,Startup,Social Media,100000.0,11.8,Lost,0.0
+DG00121,2025-11-03,Website Design & Development,Individual / Freelancer,Direct,13000.0,1.0,in progress,0.0
+DG00122,2025-11-03,SEO,NGO,Referral,27000.0,3.4,Lost,0.0
+DG00123,2025-11-04,website design & development,Small Business,Direct,167000.0,3.3,In Progress,0.0
+DG00124,2025-11-04,Content Marketing,Small Business,Paid Ads,39000.0,4.6,converted,37000.0
+DG00125,2025-11-04,Website Design & Development,Small Business,Email,88000.0,2.2,Converted,63000.0
+DG00126,2025-11-04,SEO,NGO,Direct,25000.0,6.2,Lost,0.0
+DG00127,2025-11-04,Content Marketing,Small Business,Organic Search,72000.0,2.0,Converted,53000.0
+DG00128,2025-11-04,social media management,Individual / Freelancer,Social Media,15000.0,1.4,in progress,0.0
+DG00129,2025-11-05,Content Marketing,Educational Institution,Direct,143000.0,22.2,Converted,137000.0
+DG00130,2025-11-05,Social Media Management,Small Business,Paid Ads,62000.0,5.4,Converted,46000.0
+DG00131,2025-11-05,E-commerce Setup,Small Business,Direct,101000.0,2.1,Lost,0.0
+DG00132,2025-11-05,Content Marketing,Individual / Freelancer,Direct,19000.0,4.2,Lost,0.0
+DG00133,2025-11-05,Social Media Management,Individual / Freelancer,Paid Ads,29000.0,4.5,Lost,0.0
+DG00134,2025-11-06,Social Media Management,Individual / Freelancer,Email,26000.0,13.3,Lost,0.0
+DG00135,06-11-2025,Social Media Management,Individual / Freelancer,Referral,19000.0,1.5,Converted,17000.0
+DG00136,2025-11-06,Website Design & Development,Small Business,Paid Ads,36000.0,2.2,Converted,36000.0
+DG00137,2025-11-07,SEO,Startup,Email,117000.0,2.0,In Progress,0.0
+DG00138,2025-11-07,SEO,Startup,Paid Ads,74000.0,0.3,In Progress,0.0
+DG00139,2025-11-07,SEO,Educational Institution,Paid Ads,,5.3,Converted,64000.0
+DG00140,2025-11-07,Content Marketing,Startup,Email,46000.0,34.1,In Progress,0.0
+DG00141,2025-11-07,E-commerce Setup,Small Business,Social Media,50000.0,9.0,In Progress,0.0
+DG00142,2025-11-07,Social Media Management,Small Business,Referral,103000.0,10.3,Converted,98000.0
+DG00143,2025-11-07,SEO,Startup,Email,116000.0,5.3,Converted,93000.0
+DG00144,08-11-2025,Website Design & Development,Startup,Paid Ads,200000.0,6.0,In Progress,0.0
+DG00145,2025-11-08,SEO,Individual / Freelancer,Organic Search,29000.0,6.4,Converted,30000.0
+DG00146,2025-11-08,Social Media Management,Individual / Freelancer,Direct,20000.0,45.1,Lost,0.0
+DG00147,2025-11-09,Social Media Management,Startup,Referral,83000.0,9.7,Lost,0.0
+DG00148,2025-11-09,Content Marketing,Educational Institution,Paid Ads,118000.0,19.4,in progress,0.0
+DG00149,2025-11-10,E-commerce Setup,Small Business,Organic Search,33000.0,11.4,In Progress,0.0
+DG00150,2025-11-10,SEO,Educational Institution,Paid Ads,136000.0,2.4,Lost,0.0
+DG00151,2025-11-10,Content Marketing,Small Business,Paid Ads,88000.0,4.0,In Progress,0.0
+DG00152,2025-11-10,SEO,Individual / Freelancer,Direct,21000.0,1.2,Lost,0.0
+DG00153,2025-11-10,E-commerce Setup,Small Business,Referral,28000.0,5.1,Converted,23000.0
+DG00154,2025-11-11,website design & development,Small Business,Paid Ads,,5.6,In Progress,0.0
+DG00155,2025-11-11,Social Media Management,Small Business,Social Media,77000.0,10.8,Converted,56000.0
+DG00156,2025-11-11,Website Design & Development,Small Business,Paid Ads,31000.0,6.0,Converted,27000.0
+DG00157,2025-11-11,Social Media Management,Educational Institution,Social Media,87000.0,51.2,Lost,0.0
+DG00158,2025-11-11,Website Design & Development,Startup,Paid Ads,154000.0,6.9,In Progress,0.0
+DG00159,11-11-2025,Social Media Management,Small Business,Referral,24000.0,9.0,Lost,0.0
+DG00160,2025-11-11,SEO,Startup,Paid Ads,36000.0,7.3,Lost,0.0
+DG00161,2025-11-12,Social Media Management,Individual / Freelancer,Email,20000.0,1.9,In Progress,0.0
+DG00162,2025-11-13,Social Media Management,Small Business,Organic Search,44000.0,17.1,Lost,0.0
+DG00163,2025-11-13,Website Design & Development,Individual / Freelancer,Organic Search,22000.0,3.2,In Progress,0.0
+DG00164,2025-11-13,Website Design & Development,Small Business,Social Media,43000.0,5.0,In Progress,0.0
+DG00165,2025-11-14,Website Design & Development,Startup,Paid Ads,82000.0,3.5,Converted,70000.0
+DG00166,2025-11-14,SEO,Individual / Freelancer,Paid Ads,8000.0,1.9,Converted,7000.0
+DG00167,2025-11-14,Content Marketing,NGO,Paid Ads,37000.0,4.7,Lost,0.0
+DG00168,2025-11-14,Social Media Management,Small Business,Email,51000.0,2.1,Converted,37000.0
+DG00169,2025-11-14,Social Media Management,Startup,Direct,43000.0,2.2,Lost,0.0
+DG00170,2025-11-14,Content Marketing,Small Business,Social Media,86000.0,10.6,Lost,0.0
+DG00171,2025-11-15,Website Design & Development,Small Business,Social Media,109000.0,4.4,Lost,0.0
+DG00172,2025-11-15,Website Design & Development,Small Business,Organic Search,52000.0,19.9,Lost,0.0
+DG00173,2025-11-15,Website Design & Development,Individual / Freelancer,Direct,21000.0,7.6,Won,17000.0
+DG00174,2025-11-16,E-commerce Setup,Small Business,Social Media,58000.0,1.9,lost,0.0
+DG00175,2025-11-16,SEO,Startup,Referral,,3.9,Converted,110000.0
+DG00176,2025-11-17,Content Marketing,Educational Institution,Referral,65000.0,5.1,In Progress,0.0
+DG00177,2025-11-17,Social Media Management,Small Business,Referral,65000.0,4.9,In Progress,0.0
+DG00178,2025-11-18,SEO,Startup,Social Media,169000.0,2.6,Lost,0.0
+DG00179,2025-11-18,E-commerce Setup,Startup,Social Media,113000.0,3.9,Converted,97000.0
+DG00180,2025-11-18,E-commerce Setup,Small Business,Social Media,56000.0,5.7,Converted,53000.0
+DG00181,2025-11-19,Website Design & Development,Educational Institution,Paid Ads,73000.0,8.8,Converted,71000.0
+DG00182,2025-11-19,Website Design & Development,Startup,Paid Ads,192000.0,2.5,Lost,0.0
+DG00183,2025-11-19,Social Media Management,Small Business,Paid Ads,90000.0,5.3,Converted,87000.0
+DG00184,2025-11-19,SEO,Small Business,Organic Search,73000.0,2.8,Lost,0.0
+DG00185,2025-11-20,Content Marketing,Small Business,Social Media,49000.0,15.0,Converted,51000.0
+DG00186,2025-11-20,E-commerce Setup,Educational Institution,Direct,51000.0,5.2,In Progress,0.0
+DG00187,2025-11-20,Social Media Management,Educational Institution,Organic Search,36000.0,3.0,Converted,35000.0
+DG00188,2025-11-21,SEO,Small Business,Email,151000.0,12.7,Converted,110000.0
+DG00189,2025-11-21,Content Marketing,Startup,Social Media,61000.0,5.1,Lost,0.0
+DG00190,2025-11-21,SEO,Small Business,Paid Ads,63000.0,3.5,In Progress,0.0
+DG00191,2025-11-22,SEO,Individual / Freelancer,Paid Ads,18000.0,5.5,Lost,0.0
+DG00192,2025-11-22,E-commerce Setup,Startup,Social Media,64000.0,15.0,In Progress,0.0
+DG00193,2025-11-22,E-commerce Setup,Small Business,Organic Search,61000.0,4.9,Lost,0.0
+DG00194,2025-11-22,Social Media Management,Small Business,Social Media,77000.0,29.6,Converted,57000.0
+DG00195,2025-11-23,Content Marketing,Small Business,Paid Ads,117000.0,7.5,Converted,105000.0
+DG00196,2025-11-24,SEO,Individual / Freelancer,Organic Search,18000.0,3.3,Lost,0.0
+DG00197,2025-11-24,Website Design & Development,Startup,Email,109000.0,7.3,In Progress,0.0
+DG00198,2025-11-24,social media management,NGO,Social Media,48000.0,5.4,Lost,0.0
+DG00199,2025-11-25,Content Marketing,Small Business,Paid Ads,67000.0,,In Progress,0.0
+DG00200,2025-11-25,SEO,Small Business,Referral,41000.0,12.6,Converted,33000.0
+DG00201,2025-11-25,SEO,Small Business,Direct,73000.0,23.9,Lost,0.0
+DG00202,2025-11-25,Website Design & Development,Small Business,Organic Search,87000.0,4.6,Converted,79000.0
+DG00203,2025-11-25,Content Marketing,Startup,Social Media,63000.0,5.0,Lost,0.0
+DG00204,2025-11-26,SEO,Small Business,Paid Ads,127000.0,2.8,Converted,121000.0
+DG00205,2025-11-26,SEO,Small Business,Paid Ads,67000.0,3.8,Lost,0.0
+DG00206,2025-11-26,Website Design & Development,Small Business,Direct,156000.0,3.1,Converted,136000.0
+DG00207,2025-11-26,E-commerce Setup,Small Business,Paid Ads,31000.0,14.0,Converted,22000.0
+DG00208,2025-11-27,Website Design & Development,Small Business,Organic Search,35000.0,2.7,Lost,0.0
+DG00209,2025-11-27,Website Design & Development,Small Business,Referral,39000.0,3.2,Won,28000.0
+DG00210,2025-11-27,Content Marketing,Small Business,Email,46000.0,3.3,Lost,0.0
+DG00211,2025-11-27,E-commerce Setup,Individual / Freelancer,Organic Search,43000.0,9.9,Converted,38000.0
+DG00212,28-11-2025,SEO,Small Business,Direct,40000.0,18.0,Lost,0.0
+DG00213,2025-11-28,E-commerce Setup,Small Business,Organic Search,42000.0,3.6,Converted,39000.0
+DG00214,2025-11-28,Social Media Management,Small Business,Direct,62000.0,6.4,Converted,59000.0
+DG00215,2025-11-28,SEO,Educational Institution,Paid Ads,,7.2,Converted,158000.0
+DG00216,2025-11-28,SEO,Startup,Paid Ads,78000.0,8.4,Lost,0.0
+DG00217,2025-11-29,Web Design,NGO,Referral,,0.5,Converted,37000.0
+DG00218,2025-11-29,E-commerce Setup,Startup,Email,84000.0,2.5,Converted,69000.0
+DG00219,2025-11-29,SEO,Small Business,Organic Search,57000.0,9.2,lost,0.0
+DG00220,2025-12-01,E-commerce Setup,Startup,Direct,88000.0,7.7,Converted,67000.0
+DG00221,2025-12-01,Social Media Management,Small Business,Paid Ads,83000.0,6.1,Lost,0.0
+DG00222,2025-12-01,Content Marketing,Small Business,Social Media,89000.0,9.1,lost,0.0
+DG00223,2025-12-01,Social Media Management,Small Business,Direct,,9.8,in progress,0.0
+DG00224,2025-12-01,Website Design & Development,NGO,Organic Search,36000.0,2.5,Converted,25000.0
+DG00225,2025-12-02,Website Design & Development,NGO,Referral,62000.0,8.0,Lost,0.0
+DG00226,2025-12-02,Website Design & Development,Small Business,Social Media,44000.0,6.8,In Progress,0.0
+DG00227,2025-12-02,Website Design & Development,Startup,Email,121000.0,24.6,In Progress,0.0
+DG00228,2025-12-02,Social Media Management,Startup,Organic Search,48000.0,14.7,Converted,47000.0
+DG00229,2025-12-02,Social Media Management,Small Business,Social Media,22000.0,6.3,Lost,0.0
+DG00230,2025-12-02,Content Marketing,Startup,Referral,218000.0,4.2,Converted,156000.0
+DG00231,2025-12-02,Website Design & Development,Small Business,Social Media,84000.0,1.5,Converted,75000.0
+DG00232,2025-12-02,Website Design & Development,Individual / Freelancer,Paid Ads,13000.0,8.8,Converted,12000.0
+DG00233,2025-12-03,SEO,Small Business,Paid Ads,145000.0,23.6,lost,0.0
+DG00234,2025-12-03,SEO,Small Business,Social Media,52000.0,2.7,Converted,46000.0
+DG00235,2025-12-03,Website Design & Development,Startup,Referral,174000.0,2.1,lost,0.0
+DG00236,2025-12-04,SEO,NGO,Paid Ads,32000.0,2.3,in progress,0.0
+DG00237,2025-12-04,Website Design & Development,Startup,Organic Search,150000.0,6.2,Converted,112000.0
+DG00238,2025-12-04,Content Marketing,Small Business,Organic Search,41000.0,3.4,Converted,43000.0
+DG00239,2025-12-05,Social Media Management,Small Business,Email,69000.0,3.5,Lost,0.0
+DG00240,2025-12-05,Website Design & Development,Small Business,Social Media,35000.0,7.6,Lost,0.0
+DG00241,2025-12-05,Content Marketing,Startup,Email,91000.0,1.8,In Progress,0.0
+DG00242,2025-12-05,Website Design & Development,Startup,Social Media,155000.0,13.0,In Progress,0.0
+DG00243,2025-12-05,SEO,Small Business,Organic Search,59000.0,5.3,In Progress,0.0
+DG00244,2025-12-05,E-commerce Setup,Small Business,Email,75000.0,14.2,Lost,0.0
+DG00245,2025-12-05,E-commerce Setup,Educational Institution,Referral,23000.0,3.4,Converted,17000.0
+DG00246,2025-12-06,E-commerce Setup,Small Business,Paid Ads,73000.0,14.4,In Progress,0.0
+DG00247,2025-12-07,Social Media Management,Startup,Paid Ads,69000.0,2.3,Lost,0.0
+DG00248,2025-12-08,Website Design & Development,Small Business,Paid Ads,78000.0,5.6,In Progress,0.0
+DG00249,08-12-2025,Social Media Management,Individual / Freelancer,Paid Ads,31000.0,21.8,In Progress,0.0
+DG00250,2025-12-08,SEO,Educational Institution,Organic Search,67000.0,2.3,Converted,59000.0
+DG00251,2025-12-08,Website Design & Development,Individual / Freelancer,Social Media,10000.0,,Converted,10000.0
+DG00252,2025-12-09,Website Design & Development,Educational Institution,Social Media,58000.0,13.0,Converted,51000.0
+DG00253,2025-12-09,e-commerce setup,Small Business,Organic Search,151000.0,10.0,Lost,0.0
+DG00254,2025-12-09,Social Media Management,NGO,Referral,83000.0,4.0,Converted,61000.0
+DG00255,2025-12-09,Content Marketing,Educational Institution,Paid Ads,100000.0,1.8,In Progress,0.0
+DG00256,2025-12-09,Website Design & Development,Individual / Freelancer,Organic Search,18000.0,9.5,In Progress,0.0
+DG00257,2025-12-09,Website Design & Development,Startup,Email,143000.0,10.0,In Progress,0.0
+DG00258,2025-12-10,Website Design & Development,Small Business,Paid Ads,42000.0,14.7,Converted,31000.0
+DG00259,2025-12-10,SEO,Startup,Paid Ads,119000.0,7.0,In Progress,0.0
+DG00260,11-12-2025,Social Media Management,Educational Institution,Organic Search,118000.0,5.7,Lost,0.0
+DG00261,2025-12-11,Website Design & Development,Educational Institution,Paid Ads,39000.0,8.6,Lost,0.0
+DG00262,2025-12-11,SEO,Individual / Freelancer,Direct,24000.0,5.3,Lost,0.0
+DG00263,2025-12-11,Website Design & Development,Startup,Social Media,203000.0,7.7,Lost,0.0
+DG00264,2025-12-11,Website Design & Development,Small Business,Social Media,41000.0,2.2,Converted,30000.0
+DG00265,2025-12-11,Content Marketing,Small Business,Social Media,101000.0,1.7,Won,97000.0
+DG00266,2025-12-11,Website Design & Development,Small Business,Paid Ads,88000.0,17.1,Lost,0.0
+DG00267,2025-12-12,Content Marketing,Startup,Referral,76000.0,2.0,In Progress,0.0
+DG00268,2025-12-12,E-commerce Setup,NGO,Paid Ads,37000.0,3.1,Converted,28000.0
+DG00269,2025-12-12,Content Marketing,Startup,Social Media,117000.0,3.8,Converted,86000.0
+DG00270,2025-12-12,Website Design & Development,Educational Institution,Organic Search,53000.0,33.2,Converted,42000.0
+DG00271,2025-12-13,Content Marketing,Small Business,Referral,76000.0,5.3,Converted,70000.0
+DG00272,2025-12-13,Website Design & Development,Startup,Organic Search,128000.0,1.5,Converted,114000.0
+DG00273,2025-12-13,Social Media Management,Startup,Social Media,45000.0,9.0,Converted,32000.0
+DG00274,2025-12-15,Website Design & Development,Small Business,Email,35000.0,5.4,in progress,0.0
+DG00275,2025-12-16,Website Design & Development,Small Business,Social Media,52000.0,2.9,In-Progress,0.0
+DG00276,2025-12-16,Social Media Management,Small Business,Social Media,105000.0,24.8,Converted,81000.0
+DG00277,2025-12-16,Social Media Management,Startup,Social Media,209000.0,2.5,In Progress,0.0
+DG00278,2025-12-16,Content Marketing,Individual / Freelancer,Organic Search,17000.0,7.7,In Progress,0.0
+DG00279,2025-12-17,Website Design & Development,Educational Institution,Paid Ads,89000.0,4.2,Lost,0.0
+DG00280,2025-12-17,Website Design & Development,Individual / Freelancer,Organic Search,25000.0,4.1,Converted,18000.0
+DG00281,2025-12-17,E-commerce Setup,Small Business,Organic Search,22000.0,2.4,Lost,0.0
+DG00282,2025-12-18,Social Media Management,Individual / Freelancer,Referral,37000.0,5.5,In-Progress,0.0
+DG00283,2025-12-18,Social Media Management,Startup,Organic Search,162000.0,11.7,Converted,155000.0
+DG00284,2025-12-18,SEO,Educational Institution,Paid Ads,184000.0,4.0,converted,156000.0
+DG00285,2025-12-18,Social Media Management,Small Business,Referral,31000.0,8.4,In Progress,0.0
+DG00286,2025-12-19,SEO,Small Business,Direct,71000.0,8.2,Converted,69000.0
+DG00287,2025-12-19,Website Design & Development,NGO,Paid Ads,22000.0,33.2,Lost,0.0
+DG00288,2025-12-19,Website Design & Development,Startup,Social Media,136000.0,5.4,Lost,0.0
+DG00289,2025-12-19,Social Media Management,NGO,Organic Search,117000.0,14.5,In Progress,0.0
+DG00290,2025-12-20,Social Media Management,Small Business,Organic Search,80000.0,15.8,Converted,83000.0
+DG00291,2025-12-21,Website Design & Development,Startup,Organic Search,46000.0,-5.0,Lost,0.0
+DG00292,2025-12-21,Content Marketing,Small Business,Organic Search,45000.0,4.0,In-Progress,0.0
+DG00293,21-12-2025,SEO,Startup,Organic Search,74000.0,12.9,Converted,68000.0
+DG00294,2025-12-21,Social Media Management,Individual / Freelancer,Email,21000.0,9.3,Lost,0.0
+DG00295,2025-12-21,E-commerce Setup,Small Business,Social Media,30000.0,20.8,In Progress,0.0
+DG00296,22-12-2025,Social Media Management,NGO,Direct,41000.0,7.3,Lost,0.0
+DG00297,2025-12-22,Website Design & Development,Small Business,Referral,38000.0,7.6,Converted,32000.0
+DG00298,2025-12-22,Social Media Management,Startup,Social Media,50000.0,3.8,Converted,46000.0
+DG00299,2025-12-23,Content Marketing,Small Business,Social Media,61000.0,9.4,Converted,52000.0
+DG00300,2025-12-23,Website Design & Development,NGO,Paid Ads,17000.0,6.1,In Progress,0.0
+DG00301,2025-12-23,SEO,Small Business,Social Media,46000.0,5.7,Converted,37000.0
+DG00302,2025-12-23,Social Media Management,Small Business,Organic Search,70000.0,3.3,In Progress,0.0
+DG00303,2025-12-23,SEO,Small Business,Paid Ads,54000.0,3.7,In Progress,0.0
+DG00304,2025-12-23,SEO,Small Business,Referral,75000.0,4.3,Lost,0.0
+DG00305,2025-12-23,Website Design & Development,Educational Institution,Referral,56000.0,6.1,In Progress,0.0
+DG00306,2025-12-24,Website Design & Development,Startup,Organic Search,147000.0,1.9,Converted,150000.0
+DG00307,2025-12-24,E-commerce Setup,Startup,Social Media,106000.0,1.6,In Progress,0.0
+DG00308,2025-12-24,Website Design & Development,Small Business,Organic Search,54000.0,10.6,Lost,0.0
+DG00309,24-12-2025,Content Marketing,Startup,Referral,63000.0,17.1,In Progress,0.0
+DG00310,2025-12-25,Website Design & Development,Startup,Direct,131000.0,6.4,In Progress,0.0
+DG00311,2025-12-25,Website Design & Development,Small Business,Paid Ads,55000.0,15.5,Lost,0.0
+DG00312,2025-12-25,Website Design & Development,Startup,Email,63000.0,3.1,Converted,66000.0
+DG00313,2025-12-25,Website Design & Development,Individual / Freelancer,Direct,12000.0,6.1,Converted,9000.0
+DG00314,2025-12-28,Social Media Management,Small Business,Organic Search,53000.0,14.5,Converted,47000.0
+DG00315,2025-12-29,Content Marketing,Startup,Social Media,68000.0,2.9,In Progress,0.0
+DG00316,2025-12-29,Web Design,Individual / Freelancer,Direct,23000.0,3.8,Converted,18000.0
+DG00317,2025-12-30,SEO,Small Business,Paid Ads,70000.0,3.7,Converted,72000.0
+DG00318,2025-12-30,Content Marketing,Small Business,Direct,,7.2,Converted,44000.0
+DG00319,2025-12-31,Social Media Management,Small Business,Direct,56000.0,2.3,Converted,48000.0
+DG00320,2025-12-31,E-commerce Setup,Small Business,Referral,46000.0,3.8,In Progress,0.0
+DG00321,2025-12-31,SEO,Small Business,Paid Ads,43000.0,4.3,Lost,0.0
+DG00322,2025-12-31,Website Design & Development,NGO,Referral,65000.0,16.4,Converted,48000.0
+DG00323,2025-12-31,SEO,Individual / Freelancer,Social Media,16000.0,7.7,Lost,0.0
+DG00324,2025-12-31,SEO,Individual / Freelancer,Email,10000.0,2.0,In Progress,0.0
+DG00325,2026-01-02,Content Marketing,Small Business,Referral,49000.0,5.6,Lost,0.0
+DG00326,2026-01-02,E-commerce Setup,Small Business,Direct,76000.0,4.3,Lost,0.0
+DG00327,2026-01-02,SEO,Small Business,Organic Search,,1.8,LOST,0.0
+DG00328,2026-01-02,Website Design & Development,Startup,Social Media,106000.0,15.6,Converted,106000.0
+DG00329,2026-01-02,Social Media Management,Small Business,Paid Ads,38000.0,4.0,In Progress,0.0
+DG00330,2026-01-03,Content Marketing,Startup,Social Media,168000.0,5.4,Converted,150000.0
+DG00331,2026-01-03,SEO,Small Business,Social Media,32000.0,4.9,In Progress,0.0
+DG00332,2026-01-04,Content Marketing,Small Business,Organic Search,42000.0,10.6,In-Progress,0.0
+DG00333,04-01-2026,E-commerce Setup,Educational Institution,Email,71000.0,13.5,In Progress,0.0
+DG00334,2026-01-04,SEO,Startup,Organic Search,89000.0,3.1,Converted,82000.0
+DG00335,2026-01-05,Website Design & Development,Startup,Paid Ads,102000.0,1.2,In Progress,0.0
+DG00336,2026-01-05,SEO,Educational Institution,Organic Search,117000.0,14.2,Converted,87000.0
+DG00337,2026-01-06,E-commerce Setup,Startup,Organic Search,59000.0,2.4,Converted,51000.0
+DG00338,2026-01-06,Website Design & Development,Educational Institution,Paid Ads,90000.0,6.6,Converted,80000.0
+DG00339,2026-01-06,Social Media Management,Startup,Organic Search,82000.0,1.6,In Progress,0.0
+DG00340,2026-01-06,Social Media Management,Small Business,Paid Ads,46000.0,13.8,LOST,0.0
+DG00341,06-01-2026,Content Marketing,Small Business,Organic Search,51000.0,2.5,Lost,0.0
+DG00342,2026-01-07,Website Design & Development,NGO,Direct,14000.0,10.9,Lost,0.0
+DG00343,2026-01-07,Content Marketing,NGO,Social Media,25000.0,2.4,Lost,0.0
+DG00344,2026-01-08,Social Media Management,Small Business,Organic Search,45000.0,3.2,In Progress,0.0
+DG00345,2026-01-08,Social Media Management,Small Business,Organic Search,92000.0,12.3,In Progress,0.0
+DG00346,2026-01-08,Website Design & Development,Small Business,Organic Search,41000.0,1.8,Converted,32000.0
+DG00347,2026-01-08,Content Marketing,Small Business,Organic Search,98000.0,4.5,In-Progress,0.0
+DG00348,2026-01-08,Social Media Management,Educational Institution,Organic Search,43000.0,6.4,Lost,0.0
+DG00349,2026-01-08,SEO,Startup,Organic Search,50000.0,9.0,In Progress,0.0
+DG00350,2026-01-08,Content Marketing,Startup,Organic Search,,7.8,Lost,0.0
+DG00351,2026-01-08,SEO,NGO,Organic Search,60000.0,2.5,Converted,46000.0
+DG00352,2026-01-09,Content Marketing,Small Business,Social Media,83000.0,2.9,Lost,0.0
+DG00353,2026-01-09,Website Design & Development,Startup,Social Media,129000.0,3.5,Lost,0.0
+DG00354,2026-01-09,Social Media Management,Startup,Organic Search,163000.0,,In Progress,0.0
+DG00355,2026-01-09,SEO,Small Business,Direct,54000.0,9.3,In Progress,0.0
+DG00356,09-01-2026,E-commerce Setup,Individual / Freelancer,Email,19000.0,8.7,Converted,17000.0
+DG00357,2026-01-09,SEO,Educational Institution,Paid Ads,94000.0,17.1,Converted,72000.0
+DG00358,2026-01-10,SEO,Small Business,Organic Search,30000.0,2.1,Converted,24000.0
+DG00359,2026-01-10,Social Media Management,Small Business,Email,39000.0,5.8,Converted,35000.0
+DG00360,2026-01-11,Social Media Management,Startup,Organic Search,73000.0,21.4,Lost,0.0
+DG00361,2026-01-11,Content Marketing,Small Business,Organic Search,38000.0,13.7,Converted,30000.0
+DG00362,2026-01-12,Social Media Management,Small Business,Paid Ads,81000.0,24.4,Converted,76000.0
+DG00363,2026-01-12,Website Design & Development,Individual / Freelancer,Paid Ads,,1.8,Lost,0.0
+DG00364,2026-01-12,Content Marketing,Small Business,Paid Ads,76000.0,3.7,converted,65000.0
+DG00365,2026-01-13,Website Design & Development,Startup,Organic Search,60000.0,11.0,Converted,61000.0
+DG00366,2026-01-13,E-commerce Setup,Startup,Organic Search,146000.0,6.4,Converted,113000.0
+DG00367,2026-01-13,Social Media Management,Small Business,Organic Search,156000.0,2.9,Converted,159000.0
+DG00368,2026-01-13,Social Media Management,Small Business,Organic Search,138000.0,2.7,Converted,106000.0
+DG00369,13-01-2026,Content Marketing,Small Business,Direct,107000.0,4.9,Converted,79000.0
+DG00370,2026-01-14,SEO,Educational Institution,Referral,63000.0,0.8,Converted,58000.0
+DG00371,2026-01-14,Content Marketing,Individual / Freelancer,Organic Search,17000.0,5.5,Lost,0.0
+DG00372,2026-01-14,Content Marketing,Small Business,Paid Ads,45000.0,4.4,Converted,42000.0
+DG00373,2026-01-14,Content Marketing,Educational Institution,Organic Search,90000.0,4.3,Lost,0.0
+DG00374,2026-01-15,SEO,Small Business,Organic Search,52000.0,3.4,Converted,44000.0
+DG00375,2026-01-15,SEO,Individual / Freelancer,Direct,10000.0,2.1,Lost,0.0
+DG00376,2026-01-15,SEO,Educational Institution,Direct,40000.0,2.2,Converted,39000.0
+DG00377,2026-01-15,SEO,Educational Institution,Email,64000.0,8.1,Lost,0.0
+DG00378,2026-01-16,E-commerce Setup,Educational Institution,Organic Search,36000.0,5.5,In Progress,0.0
+DG00379,2026-01-16,Website Design & Development,Startup,Direct,73000.0,11.2,In Progress,0.0
+DG00380,2026-01-16,Website Design & Development,Individual / Freelancer,Direct,18000.0,7.9,Lost,0.0
+DG00381,2026-01-16,Content Marketing,Small Business,Social Media,162000.0,7.8,Converted,149000.0
+DG00382,2026-01-16,Website Design & Development,Small Business,Social Media,27000.0,18.6,In Progress,0.0
+DG00383,2026-01-16,Website Design & Development,Startup,Organic Search,178000.0,,Lost,0.0
+DG00384,2026-01-17,Social Media Management,Individual / Freelancer,Email,50000.0,2.1,Converted,52000.0
+DG00385,2026-01-18,E-commerce Setup,Small Business,Paid Ads,80000.0,5.5,In Progress,0.0
+DG00386,2026-01-20,Web Design,Startup,Referral,48000.0,4.8,Lost,0.0
+DG00387,2026-01-21,SEO,Small Business,Direct,69000.0,3.3,Lost,0.0
+DG00388,2026-01-21,Social Media Management,Educational Institution,Social Media,89000.0,3.9,Converted,65000.0
+DG00389,2026-01-21,Website Design & Development,Educational Institution,Paid Ads,,6.8,Lost,0.0
+DG00390,2026-01-22,Content Marketing,Individual / Freelancer,Social Media,24000.0,2.9,Converted,19000.0
+DG00391,2026-01-22,Content Marketing,Individual / Freelancer,Paid Ads,42000.0,8.8,Converted,35000.0
+DG00392,2026-01-23,Website Design & Development,Startup,Organic Search,34000.0,5.4,Lost,0.0
+DG00393,2026-01-23,SEO,Educational Institution,Email,33000.0,2.3,converted,24000.0
+DG00394,2026-01-24,Social Media Management,Startup,Organic Search,127000.0,7.8,converted,129000.0
+DG00395,2026-01-24,Website Design & Development,Small Business,Social Media,100000.0,27.7,In Progress,0.0
+DG00396,2026-01-24,SEO,Individual / Freelancer,Social Media,16000.0,2.2,In Progress,0.0
+DG00397,2026-01-24,Social Media Management,Startup,Organic Search,43000.0,2.8,In Progress,0.0
+DG00398,2026-01-25,Website Design & Development,Small Business,Email,114000.0,2.6,Lost,0.0
+DG00399,2026-01-25,SEO,Startup,Organic Search,97000.0,3.1,Converted,89000.0
+DG00400,2026-01-25,Social Media Management,Small Business,Paid Ads,73000.0,9.5,Converted,63000.0
+DG00401,2026-01-26,Website Design & Development,Small Business,Organic Search,33000.0,5.2,Converted,23000.0
+DG00402,2026-01-26,Content Marketing,Startup,Organic Search,69000.0,2.1,In Progress,0.0
+DG00403,2026-01-26,SEO,Small Business,Social Media,31000.0,3.7,In Progress,0.0
+DG00404,2026-01-27,E-commerce Setup,Small Business,Social Media,79000.0,1.7,Converted,61000.0
+DG00405,2026-01-27,SEO,Small Business,Referral,58000.0,4.0,converted,43000.0
+DG00406,2026-01-27,SEO,Small Business,Organic Search,56000.0,3.0,In Progress,0.0
+DG00407,2026-01-28,SEO,Educational Institution,Paid Ads,43000.0,4.2,Converted,43000.0
+DG00408,2026-01-28,Website Design & Development,Small Business,Referral,69000.0,4.4,Lost,0.0
+DG00409,2026-01-28,SEO,Startup,Social Media,44000.0,3.7,Converted,38000.0
+DG00410,2026-01-28,SEO,Individual / Freelancer,Paid Ads,11000.0,7.7,In Progress,0.0
+DG00411,2026-01-28,Social Media Management,Small Business,Direct,42000.0,4.8,Lost,0.0
+DG00412,2026-01-28,Social Media Management,Small Business,Social Media,25000.0,5.7,Converted,18000.0
+DG00413,2026-01-29,Social Media Management,Individual / Freelancer,Social Media,35000.0,6.3,Lost,0.0
+DG00414,2026-01-29,Social Media Management,Individual / Freelancer,Email,20000.0,1.9,Converted,18000.0
+DG00415,2026-01-30,Content Marketing,NGO,Social Media,19000.0,11.2,Converted,20000.0
+DG00416,2026-01-30,Content Marketing,Small Business,Paid Ads,28000.0,7.2,In Progress,0.0
+DG00417,2026-01-30,Website Design & Development,NGO,Social Media,93000.0,8.9,In Progress,0.0
+DG00418,2026-01-30,Content Marketing,Startup,Organic Search,58000.0,2.9,Converted,51000.0
+DG00419,2026-01-30,Website Design & Development,Startup,Paid Ads,91000.0,4.5,Lost,0.0
+DG00420,2026-01-31,Website Design & Development,NGO,Direct,49000.0,3.3,In Progress,0.0
+DG00421,01-02-2026,E-commerce Setup,Startup,Email,42000.0,5.0,Won,40000.0
+DG00422,2026-02-02,E-commerce Setup,Individual / Freelancer,Social Media,48000.0,4.8,Won,43000.0
+DG00423,2026-02-02,Social Media Management,Small Business,Social Media,65000.0,1.8,Lost,0.0
+DG00424,2026-02-02,Website Design & Development,Startup,Referral,87000.0,1.5,In Progress,0.0
+DG00425,2026-02-02,Social Media Management,Individual / Freelancer,Email,14000.0,4.4,In Progress,0.0
+DG00426,2026-02-02,Social Media Management,Startup,Referral,149000.0,2.5,Lost,0.0
+DG00427,2026-02-03,Website Design & Development,Small Business,Organic Search,154000.0,11.2,Converted,112000.0
+DG00428,2026-02-03,Content Marketing,Startup,Social Media,67000.0,7.5,Converted,59000.0
+DG00429,2026-02-03,SEO,Individual / Freelancer,Paid Ads,39000.0,19.6,Lost,0.0
+DG00430,03-02-2026,SEO,Startup,Referral,136000.0,6.0,Converted,132000.0
+DG00431,03-02-2026,SEO,Educational Institution,Organic Search,50000.0,6.3,Converted,40000.0
+DG00432,2026-02-03,SEO,Small Business,Email,75000.0,7.2,Lost,0.0
+DG00433,2026-02-04,Website Design & Development,Small Business,Paid Ads,55000.0,2.4,Lost,0.0
+DG00434,2026-02-04,Social Media Management,Small Business,Referral,55000.0,8.3,Converted,47000.0
+DG00435,2026-02-04,Content Marketing,Individual / Freelancer,Direct,28000.0,2.9,Lost,0.0
+DG00436,2026-02-05,SEO,Small Business,Referral,23000.0,5.9,Converted,23000.0
+DG00437,2026-02-05,SEO,Educational Institution,Paid Ads,51000.0,9.4,In Progress,0.0
+DG00438,2026-02-05,Content Marketing,Educational Institution,Direct,51000.0,11.9,Converted,50000.0
+DG00439,2026-02-05,E-commerce Setup,Startup,Referral,75000.0,27.6,Lost,0.0
+DG00440,2026-02-05,Content Marketing,Small Business,Organic Search,,25.9,Converted,148000.0
+DG00441,2026-02-05,Content Marketing,Small Business,Direct,89000.0,8.1,In Progress,0.0
+DG00442,2026-02-06,SEO,Small Business,Social Media,56000.0,1.9,converted,49000.0
+DG00443,2026-02-06,E-commerce Setup,Individual / Freelancer,Social Media,7000.0,,Lost,0.0
+DG00444,2026-02-06,SEO,Small Business,Social Media,85000.0,10.4,Lost,0.0
+DG00445,2026-02-06,Web Design,Individual / Freelancer,Direct,22000.0,1.0,Lost,0.0
+DG00446,2026-02-06,Website Design & Development,Small Business,Social Media,45000.0,11.6,Converted,36000.0
+DG00447,2026-02-06,E-commerce Setup,Small Business,Direct,36000.0,9.0,Lost,0.0
+DG00448,2026-02-07,Content Marketing,Small Business,Referral,159000.0,31.9,Lost,0.0
+DG00449,2026-02-07,Social Media Management,Individual / Freelancer,Organic Search,25000.0,1.6,Lost,0.0
+DG00450,2026-02-07,Social Media Management,Startup,Direct,93000.0,2.8,Won,82000.0
+DG00451,2026-02-08,Social Media Management,Startup,Email,60000.0,19.3,Lost,0.0
+DG00452,2026-02-08,SEO,Educational Institution,Organic Search,73000.0,6.8,In Progress,0.0
+DG00453,2026-02-08,Social Media Management,Individual / Freelancer,Email,18000.0,1.9,In Progress,0.0
+DG00454,2026-02-08,social media management,Small Business,Email,54000.0,1.7,Converted,38000.0
+DG00455,2026-02-08,E-commerce Setup,Individual / Freelancer,Organic Search,48000.0,0.9,Lost,0.0
+DG00456,2026-02-09,SEO,Small Business,Paid Ads,83000.0,22.3,In Progress,0.0
+DG00457,2026-02-09,E-commerce Setup,Startup,Organic Search,110000.0,26.7,Converted,111000.0
+DG00458,2026-02-10,Social Media Management,Startup,Referral,99000.0,3.9,Converted,98000.0
+DG00459,2026-02-10,Social Media Mgmt,Small Business,Referral,33000.0,3.7,Converted,34000.0
+DG00460,2026-02-10,SEO,Individual / Freelancer,Referral,22000.0,2.7,Converted,22000.0
+DG00461,2026-02-11,Website Design & Development,Startup,Email,97000.0,3.8,Lost,0.0
+DG00462,2026-02-11,Social Media Management,Individual / Freelancer,Social Media,17000.0,1.9,Converted,18000.0
+DG00463,2026-02-11,Website Design & Development,NGO,Referral,79000.0,2.9,Converted,58000.0
+DG00464,2026-02-11,SEO,Individual / Freelancer,Social Media,33000.0,32.0,Lost,0.0
+DG00465,2026-02-12,Social Media Management,Small Business,Social Media,49000.0,3.5,Converted,35000.0
+DG00466,2026-02-12,E-commerce Setup,Small Business,Organic Search,49000.0,9.7,Converted,37000.0
+DG00467,2026-02-12,Website Design & Development,NGO,Social Media,22000.0,4.9,Lost,0.0
+DG00468,2026-02-12,SEO,Small Business,Email,26000.0,2.3,Lost,0.0
+DG00469,2026-02-12,SEO,Individual / Freelancer,Organic Search,24000.0,13.7,In Progress,0.0
+DG00470,13-02-2026,Content Marketing,Startup,Social Media,68000.0,5.8,Converted,71000.0
+DG00471,2026-02-13,Website Design & Development,Small Business,Organic Search,64000.0,4.5,In Progress,0.0
+DG00472,2026-02-13,Social Media Management,Individual / Freelancer,Referral,7000.0,35.1,Converted,6000.0
+DG00473,2026-02-13,Website Design & Development,Small Business,Email,69000.0,8.9,Converted,57000.0
+DG00474,13-02-2026,Content Marketing,Small Business,Organic Search,77000.0,4.9,Converted,65000.0
+DG00475,2026-02-15,Website Design & Development,Startup,Email,78000.0,1.4,In Progress,0.0
+DG00476,2026-02-15,SEO,Small Business,Referral,136000.0,4.3,In Progress,0.0
+DG00477,2026-02-15,Content Marketing,Small Business,Social Media,46000.0,15.7,In Progress,0.0
+DG00478,2026-02-16,E-commerce Setup,Small Business,Social Media,174000.0,4.4,Converted,154000.0
+DG00479,2026-02-16,Website Design & Development,Small Business,Organic Search,151000.0,4.4,In Progress,0.0
+DG00480,2026-02-16,Website Design & Development,Startup,Organic Search,82000.0,8.7,Converted,60000.0
+DG00481,2026-02-16,E-commerce Setup,Small Business,Social Media,43000.0,9.6,Converted,33000.0
+DG00482,2026-02-17,Social Media Management,Small Business,Email,70000.0,8.8,Lost,0.0
+DG00483,2026-02-17,Website Design & Development,Small Business,Email,34000.0,2.6,In Progress,0.0
+DG00484,2026-02-17,Social Media Management,Startup,Organic Search,106000.0,20.0,Lost,0.0
+DG00485,2026-02-17,Social Media Management,Small Business,Social Media,191000.0,3.4,Lost,0.0
+DG00486,2026-02-18,Content Marketing,Startup,Direct,206000.0,7.0,In Progress,0.0
+DG00487,2026-02-18,Website Design & Development,Small Business,Organic Search,34000.0,4.4,In Progress,0.0
+DG00488,2026-02-18,E-commerce Setup,Small Business,Organic Search,67000.0,7.9,Converted,66000.0
+DG00489,2026-02-18,Website Design & Development,Startup,Referral,109000.0,4.5,In Progress,0.0
+DG00490,2026-02-18,Content Marketing,Startup,Paid Ads,75000.0,11.1,Converted,69000.0
+DG00491,2026-02-18,Website Design & Development,Educational Institution,Paid Ads,144000.0,6.2,In Progress,0.0
+DG00492,2026-02-18,SEO,Startup,Social Media,184000.0,6.2,Lost,0.0
+DG00493,2026-02-18,Social Media Management,Small Business,Organic Search,81000.0,24.1,Converted,84000.0
+DG00494,2026-02-19,Content Marketing,Startup,Organic Search,164000.0,3.0,Converted,132000.0
+DG00495,19-02-2026,E-commerce Setup,Small Business,Referral,180000.0,1.9,Converted,154000.0
+DG00496,2026-02-19,Social Media Management,Small Business,Organic Search,47000.0,2.9,Converted,33000.0
+DG00497,2026-02-19,Website Design & Development,Small Business,Organic Search,87000.0,9.6,Lost,0.0
+DG00498,2026-02-19,Social Media Management,Small Business,Social Media,63000.0,8.6,Lost,0.0
+DG00499,2026-02-20,Website Design & Development,Startup,Paid Ads,84000.0,11.8,LOST,0.0
+DG00500,2026-02-20,Website Design & Development,Small Business,Paid Ads,23000.0,4.9,In Progress,0.0
+DG00501,2026-02-20,SEO,Individual / Freelancer,Social Media,19000.0,6.7,Lost,0.0
+DG00502,2026-02-20,E-commerce Setup,Small Business,Organic Search,52000.0,3.6,Converted,44000.0
+DG00503,2026-02-22,Social Media Management,Individual / Freelancer,Email,10000.0,5.0,Converted,10000.0
+DG00504,2026-02-22,website design & development,Small Business,Organic Search,62000.0,7.6,Converted,61000.0
+DG00505,2026-02-23,E-commerce Setup,Startup,Email,159000.0,1.7,Converted,141000.0
+DG00506,2026-02-23,Content Marketing,Small Business,Email,43000.0,3.4,Lost,0.0
+DG00507,2026-02-23,Ecommerce Setup,Small Business,Social Media,54000.0,4.7,Lost,0.0
+DG00508,2026-02-24,Social Media Management,Small Business,Social Media,72000.0,2.6,In Progress,0.0
+DG00509,2026-02-24,Content Marketing,Small Business,Organic Search,47000.0,1.7,Converted,37000.0
+DG00510,2026-02-24,Social Media Management,Small Business,Referral,66000.0,3.3,Lost,0.0
+DG00511,2026-02-24,Website Design & Development,Educational Institution,Social Media,42000.0,7.3,Lost,0.0
+DG00512,2026-02-24,Website Design & Development,Educational Institution,Social Media,122000.0,3.2,in progress,0.0
+DG00513,2026-02-24,SEO,NGO,Organic Search,25000.0,9.8,Converted,22000.0
+DG00514,2026-02-24,Social Media Management,Small Business,Social Media,21000.0,54.4,Lost,0.0
+DG00515,2026-02-25,Content Marketing,Small Business,Direct,42000.0,4.9,Converted,39000.0
+DG00516,2026-02-25,Website Design & Development,Small Business,Organic Search,44000.0,15.6,Converted,37000.0
+DG00517,2026-02-25,Content Marketing,Startup,Referral,286000.0,19.3,Converted,221000.0
+DG00518,2026-02-25,Website Design & Development,Small Business,Email,160000.0,9.6,Lost,0.0
+DG00519,2026-02-26,Social Media Management,Individual / Freelancer,Organic Search,41000.0,8.9,Lost,0.0
+DG00520,2026-02-26,Website Design & Development,Startup,Organic Search,117000.0,0.7,Converted,90000.0
+DG00521,2026-02-26,Website Design & Development,Educational Institution,Direct,32000.0,6.1,In Progress,0.0
+DG00522,2026-02-26,Social Media Management,Startup,Direct,124000.0,5.4,In Progress,0.0
+DG00523,2026-02-26,SEO,Small Business,Organic Search,61000.0,7.5,Lost,0.0
+DG00524,2026-02-26,SEO,Individual / Freelancer,Email,4000.0,9.6,Converted,3000.0
+DG00525,2026-02-27,Website Design & Development,Startup,Organic Search,98000.0,2.0,Lost,0.0
+DG00526,2026-02-27,Social Media Management,Small Business,Paid Ads,29000.0,1.4,In Progress,0.0
+DG00527,2026-02-28,Content Marketing,Startup,Paid Ads,64000.0,6.9,Lost,0.0
+DG00528,28-02-2026,Website Design & Development,Small Business,Paid Ads,86000.0,6.2,In Progress,0.0
+DG00529,2026-02-28,SEO,Educational Institution,Email,38000.0,17.7,Converted,33000.0
+DG00530,2026-02-28,Social Media Management,Small Business,Organic Search,20000.0,2.3,Converted,20000.0
+DG00531,2026-03-01,SEO,Small Business,Paid Ads,62000.0,5.1,Lost,0.0
+DG00532,2026-03-01,E-commerce Setup,Small Business,Organic Search,200000.0,13.5,In Progress,0.0
+DG00533,2026-03-02,Social Media Management,Small Business,Paid Ads,,14.3,Converted,82000.0
+DG00534,2026-03-03,Website Design & Development,Startup,Organic Search,103000.0,1.7,In Progress,0.0
+DG00535,2026-03-03,Website Design & Development,Educational Institution,Paid Ads,61000.0,2.1,Lost,0.0
+DG00536,2026-03-03,E-commerce Setup,Small Business,Referral,67000.0,,In Progress,0.0
+DG00537,2026-03-03,SEO,Startup,Organic Search,95000.0,2.8,Converted,88000.0
+DG00538,2026-03-03,Content Marketing,Small Business,Paid Ads,64000.0,3.7,Converted,67000.0
+DG00539,2026-03-04,Content Marketing,Small Business,Paid Ads,65000.0,2.6,Converted,54000.0
+DG00540,2026-03-05,SEO,Small Business,Paid Ads,,10.3,In Progress,0.0
+DG00541,2026-03-05,Content Marketing,Individual / Freelancer,Direct,21000.0,11.8,Converted,17000.0
+DG00542,2026-03-05,Website Design & Development,Small Business,Social Media,64000.0,5.7,In Progress,0.0
+DG00543,2026-03-06,E-commerce Setup,Educational Institution,Email,36000.0,11.8,Lost,0.0
+DG00544,2026-03-06,Website Design & Development,Startup,Organic Search,103000.0,3.9,Lost,0.0
+DG00545,2026-03-06,Content Marketing,Small Business,Paid Ads,134000.0,1.8,Lost,0.0
+DG00546,2026-03-07,Content Marketing,Small Business,Paid Ads,100000.0,6.0,Converted,79000.0
+DG00547,2026-03-08,Website Design & Development,Educational Institution,Direct,137000.0,7.7,Converted,127000.0
+DG00548,2026-03-08,Content Marketing,Educational Institution,Organic Search,142000.0,7.6,Converted,106000.0
+DG00549,2026-03-08,Content Marketing,Individual / Freelancer,Social Media,20000.0,5.2,Lost,0.0
+DG00550,2026-03-09,E-commerce Setup,Small Business,Social Media,43000.0,8.1,Lost,0.0
+DG00551,2026-03-10,Website Design & Development,Small Business,Referral,31000.0,4.9,Lost,0.0
+DG00552,2026-03-10,Website Design & Development,Individual / Freelancer,Organic Search,20000.0,3.7,In Progress,0.0
+DG00553,2026-03-10,E-commerce Setup,Small Business,Social Media,60000.0,4.3,Converted,56000.0
+DG00554,2026-03-10,Social Media Management,Individual / Freelancer,Social Media,18000.0,6.8,Lost,0.0
+DG00555,2026-03-11,SEO,Startup,Paid Ads,276000.0,3.3,Converted,259000.0
+DG00556,2026-03-11,SEO,Small Business,Paid Ads,81000.0,7.2,Converted,72000.0
+DG00557,2026-03-11,Website Design & Development,Startup,Organic Search,95000.0,1.9,Lost,0.0
+DG00558,2026-03-11,Social Media Management,Startup,Social Media,63000.0,11.6,Converted,64000.0
+DG00559,2026-03-11,E-commerce Setup,Individual / Freelancer,Paid Ads,22000.0,22.6,Converted,23000.0
+DG00560,2026-03-11,E-commerce Setup,Small Business,Paid Ads,50000.0,2.6,Converted,43000.0
+DG00561,2026-03-11,Social Media Management,Small Business,Organic Search,58000.0,26.3,Lost,0.0
+DG00562,2026-03-11,Social Media Management,Startup,Paid Ads,135000.0,8.8,Converted,140000.0
+DG00563,2026-03-12,SEO,Small Business,Social Media,88000.0,2.2,Converted,88000.0
+DG00564,2026-03-12,SEO,Individual / Freelancer,Paid Ads,20000.0,5.5,Lost,0.0
+DG00565,2026-03-12,SEO,Small Business,Organic Search,46000.0,8.2,In Progress,0.0
+DG00566,2026-03-12,Website Design & Development,Educational Institution,Paid Ads,,1.9,In Progress,0.0
+DG00567,2026-03-13,Social Media Management,Individual / Freelancer,Social Media,30000.0,3.2,Converted,24000.0
+DG00568,2026-03-13,Website Design & Development,Small Business,Paid Ads,62000.0,7.7,Won,50000.0
+DG00569,2026-03-13,Social Media Mgmt,Startup,Paid Ads,112000.0,12.5,Lost,0.0
+DG00570,2026-03-14,Website Design & Development,Small Business,Social Media,89000.0,7.5,Converted,63000.0
+DG00571,2026-03-14,Social Media Management,Individual / Freelancer,Social Media,,5.3,Lost,0.0
+DG00572,2026-03-15,E-commerce Setup,Educational Institution,Organic Search,97000.0,13.0,lost,0.0
+DG00573,2026-03-15,SEO,Small Business,Direct,24000.0,5.3,In Progress,0.0
+DG00574,2026-03-15,SEO,Small Business,Direct,113000.0,6.0,Lost,0.0
+DG00575,2026-03-15,Website Design & Development,Startup,Organic Search,132000.0,9.9,In Progress,0.0
+DG00576,2026-03-16,Website Design & Development,Small Business,Email,61000.0,2.4,Lost,0.0
+DG00577,2026-03-17,SEO,Small Business,Email,93000.0,4.1,Converted,93000.0
+DG00578,2026-03-17,Website Design & Development,Small Business,Paid Ads,48000.0,4.3,In Progress,0.0
+DG00579,2026-03-17,E-commerce Setup,NGO,Referral,44000.0,5.4,Lost,0.0
+DG00580,2026-03-17,Social Media Management,Small Business,Direct,162000.0,21.8,In Progress,0.0
+DG00581,2026-03-17,Website Design & Development,Individual / Freelancer,Referral,39000.0,8.0,In Progress,0.0
+DG00582,2026-03-18,Website Design & Development,Startup,Paid Ads,141000.0,8.2,In Progress,0.0
+DG00583,2026-03-18,Content Marketing,Small Business,Organic Search,132000.0,12.0,Lost,0.0
+DG00584,2026-03-19,E-commerce Setup,Individual / Freelancer,Referral,9000.0,4.5,In Progress,0.0
+DG00585,2026-03-19,Content Marketing,NGO,Organic Search,57000.0,7.4,Lost,0.0
+DG00586,2026-03-19,Website Design & Development,Individual / Freelancer,Organic Search,22000.0,4.3,Converted,18000.0
+DG00587,2026-03-19,Website Design & Development,Small Business,Social Media,13000.0,15.9,In Progress,0.0
+DG00588,2026-03-19,E-commerce Setup,Small Business,Direct,39000.0,4.1,Converted,28000.0
+DG00589,2026-03-19,Content Marketing,Educational Institution,Organic Search,61000.0,2.3,Lost,0.0
+DG00590,2026-03-20,E-commerce Setup,Individual / Freelancer,Direct,35000.0,7.7,Lost,0.0
+DG00591,2026-03-20,Content Marketing,Small Business,Social Media,101000.0,7.3,Converted,74000.0
+DG00592,2026-03-21,SEO,Startup,Social Media,118000.0,3.4,Converted,86000.0
+DG00593,2026-03-21,Social Media Management,Startup,Organic Search,65000.0,10.8,in progress,0.0
+DG00594,2026-03-22,SEO,Small Business,Organic Search,31000.0,4.9,Converted,29000.0
+DG00595,22-03-2026,Website Design & Development,Small Business,Social Media,24000.0,29.0,In Progress,0.0
+DG00596,2026-03-22,SEO,Educational Institution,Direct,53000.0,4.0,Converted,49000.0
+DG00597,2026-03-23,Website Design & Development,Educational Institution,Organic Search,109000.0,17.0,Lost,0.0
+DG00598,2026-03-23,SEO,Small Business,Organic Search,65000.0,3.3,Lost,0.0
+DG00599,2026-03-23,SEO,Startup,Direct,78000.0,4.0,In Progress,0.0
+DG00600,2026-03-24,Content Marketing,Small Business,Organic Search,,4.7,Converted,172000.0
+DG00601,2026-03-24,Social Media Management,Small Business,Referral,100000.0,7.9,In Progress,0.0
+DG00602,2026-03-24,E-commerce Setup,Small Business,Organic Search,73000.0,11.8,Converted,59000.0
+DG00603,2026-03-25,Social Media Management,NGO,Direct,34000.0,6.6,In Progress,0.0
+DG00604,2026-03-26,Website Design & Development,Small Business,Social Media,26000.0,18.9,Lost,0.0
+DG00605,2026-03-26,Content Marketing,NGO,Social Media,34000.0,6.8,Converted,30000.0
+DG00606,2026-03-26,E-commerce Setup,Educational Institution,Social Media,23000.0,9.8,Converted,19000.0
+DG00607,2026-03-26,Social Media Management,Startup,Direct,89000.0,8.4,Lost,0.0
+DG00608,2026-03-26,Social Media Management,Small Business,Paid Ads,121000.0,5.0,Converted,94000.0
+DG00609,2026-03-26,Web Design,Individual / Freelancer,Referral,,2.6,Converted,23000.0
+DG00610,2026-03-26,Social Media Management,Small Business,Paid Ads,58000.0,7.9,In Progress,0.0
+DG00611,2026-03-27,Content Marketing,Small Business,Social Media,38000.0,5.4,Lost,0.0
+DG00612,2026-03-27,Website Design & Development,Startup,Social Media,170000.0,2.1,Converted,133000.0
+DG00613,2026-03-27,Content Marketing,Startup,Social Media,93000.0,16.4,Converted,93000.0
+DG00614,2026-03-27,SEO,Small Business,Direct,39000.0,7.8,In Progress,0.0
+DG00615,2026-03-27,Content Marketing,Startup,Paid Ads,157000.0,5.4,Converted,133000.0
+DG00616,2026-03-28,E-commerce Setup,Small Business,Email,61000.0,11.2,Converted,50000.0
+DG00617,2026-03-28,E-commerce Setup,Startup,Organic Search,106000.0,4.2,Converted,99000.0
+DG00618,2026-03-28,Content Marketing,Small Business,Organic Search,57000.0,2.8,In Progress,0.0
+DG00619,2026-03-28,Content Marketing,Startup,Paid Ads,82000.0,35.8,Converted,62000.0
+DG00620,2026-03-28,SEO,Small Business,Organic Search,101000.0,10.9,Converted,77000.0
+DG00621,2026-03-28,Website Design & Development,Small Business,Paid Ads,20000.0,4.8,Converted,20000.0
+DG00622,2026-03-29,Social Media Management,Small Business,Paid Ads,27000.0,13.2,Converted,21000.0
+DG00623,2026-03-29,SEO,Educational Institution,Paid Ads,52000.0,14.3,lost,0.0
+DG00624,2026-03-30,Social Media Management,Startup,Organic Search,104000.0,3.3,lost,0.0
+DG00625,2026-03-30,E-commerce Setup,Educational Institution,Referral,52000.0,6.5,Lost,0.0
+DG00626,2026-03-30,E-commerce Setup,Small Business,Organic Search,103000.0,5.0,Lost,0.0
+DG00627,2026-03-30,SEO,Small Business,Direct,88000.0,5.9,In Progress,0.0
+DG00628,2026-03-31,Social Media Management,Startup,Email,51000.0,1.3,Converted,50000.0
+DG00629,2026-04-01,E-commerce Setup,Individual / Freelancer,Social Media,28000.0,6.3,Lost,0.0
+DG00630,2026-04-01,Website Design & Development,Small Business,Social Media,61000.0,10.4,Converted,49000.0
+DG00631,2026-04-01,Website Design & Development,Educational Institution,Direct,64000.0,11.3,In Progress,0.0
+DG00632,2026-04-01,E-commerce Setup,Small Business,Social Media,71000.0,16.5,Converted,52000.0
+DG00633,2026-04-01,Social Media Management,Individual / Freelancer,Paid Ads,13000.0,17.4,In Progress,0.0
+DG00634,2026-04-01,Social Media Management,Startup,Email,76000.0,12.5,Lost,0.0
+DG00635,2026-04-01,Website Design & Development,Educational Institution,Social Media,42000.0,6.4,Converted,38000.0
+DG00636,2026-04-01,Website Design & Development,Small Business,Paid Ads,96000.0,3.7,Converted,74000.0
+DG00637,2026-04-02,Website Design & Development,NGO,Social Media,18000.0,5.0,In Progress,0.0
+DG00638,2026-04-02,SEO,Educational Institution,Paid Ads,99000.0,3.5,In Progress,0.0
+DG00639,2026-04-03,Social Media Management,Startup,Direct,99000.0,8.3,converted,91000.0
+DG00640,2026-04-04,SEO,Small Business,Referral,64000.0,7.9,Converted,55000.0
+DG00641,2026-04-04,Website Design & Development,Small Business,Paid Ads,48000.0,5.1,Converted,41000.0
+DG00642,2026-04-04,Social Media Mgmt,Small Business,Organic Search,40000.0,2.7,Lost,0.0
+DG00643,2026-04-04,Social Media Management,Small Business,Social Media,70000.0,4.9,Converted,57000.0
+DG00644,2026-04-04,SEO,Small Business,Social Media,68000.0,45.7,In Progress,0.0
+DG00645,2026-04-05,Content Marketing,Small Business,Organic Search,84000.0,8.5,Lost,0.0
+DG00646,2026-04-05,E-commerce Setup,Small Business,Social Media,79000.0,11.6,Converted,67000.0
+DG00647,2026-04-05,Website Design & Development,Educational Institution,Organic Search,59000.0,3.3,In Progress,0.0
+DG00648,2026-04-05,Website Design & Development,Startup,Organic Search,97000.0,2.6,In Progress,0.0
+DG00649,2026-04-06,E-commerce Setup,Startup,Email,52000.0,13.6,Converted,46000.0
+DG00650,2026-04-06,Content Marketing,Educational Institution,Paid Ads,54000.0,10.6,Lost,0.0
+DG00651,2026-04-06,Website Design & Development,Individual / Freelancer,Social Media,16000.0,13.5,Converted,16000.0
+DG00652,2026-04-06,SEO,Small Business,Direct,41000.0,4.5,Converted,34000.0
+DG00653,2026-04-06,Website Design & Development,Educational Institution,Paid Ads,47000.0,12.4,In Progress,0.0
+DG00654,2026-04-06,SEO,Startup,Organic Search,123000.0,19.2,In Progress,0.0
+DG00655,2026-04-06,E-commerce Setup,Small Business,Direct,39000.0,10.8,Converted,37000.0
+DG00656,2026-04-06,SEO,Small Business,Direct,190000.0,12.8,Lost,0.0
+DG00657,2026-04-06,SEO,Startup,Social Media,70000.0,3.0,Lost,0.0
+DG00658,2026-04-06,Content Marketing,Startup,Social Media,54000.0,16.1,Converted,45000.0
+DG00659,2026-04-07,E-commerce Setup,Individual / Freelancer,Social Media,24000.0,-5.0,In Progress,0.0
+DG00660,2026-04-07,Social Media Management,Startup,Organic Search,159000.0,9.0,Converted,120000.0
+DG00661,2026-04-08,website design & development,Small Business,Email,45000.0,8.4,Converted,44000.0
+DG00662,2026-04-08,Website Design & Development,Startup,Organic Search,156000.0,6.5,In Progress,0.0
+DG00663,2026-04-08,Content Marketing,Small Business,Paid Ads,49000.0,3.0,Lost,0.0
+DG00664,2026-04-08,Social Media Management,Small Business,Email,45000.0,6.2,Converted,32000.0
+DG00665,2026-04-09,SEO,Startup,Email,48000.0,7.6,Lost,0.0
+DG00666,2026-04-09,Content Marketing,Small Business,Paid Ads,39000.0,18.3,converted,31000.0
+DG00667,09-04-2026,Social Media Management,Small Business,Organic Search,96000.0,5.5,Lost,0.0
+DG00668,2026-04-09,Content Marketing,Small Business,Referral,39000.0,6.4,Converted,37000.0
+DG00669,2026-04-10,Content Marketing,Startup,Organic Search,109000.0,5.4,Converted,89000.0
+DG00670,2026-04-10,Content Marketing,NGO,Organic Search,31000.0,10.9,Lost,0.0
+DG00671,2026-04-10,Social Media Management,Small Business,Organic Search,67000.0,3.4,Lost,0.0
+DG00672,2026-04-10,Social Media Management,Small Business,Paid Ads,69000.0,7.7,Lost,0.0
+DG00673,2026-04-10,Social Media Management,Small Business,Email,83000.0,12.1,Converted,78000.0
+DG00674,2026-04-11,E-commerce Setup,Small Business,Social Media,81000.0,16.2,Converted,80000.0
+DG00675,2026-04-11,Content Marketing,Small Business,Social Media,87000.0,11.2,lost,0.0
+DG00676,2026-04-11,E-commerce Setup,Small Business,Direct,100000.0,2.5,Converted,84000.0
+DG00677,2026-04-11,Website Design & Development,Small Business,Social Media,11000.0,6.4,Converted,10000.0
+DG00678,2026-04-11,E-commerce Setup,Individual / Freelancer,Organic Search,53000.0,2.0,Converted,44000.0
+DG00679,2026-04-12,E-commerce Setup,Individual / Freelancer,Paid Ads,13000.0,39.5,Lost,0.0
+DG00680,2026-04-13,Website Design & Development,Small Business,Referral,63000.0,1.5,Converted,59000.0
+DG00681,2026-04-13,Social Media Management,Startup,Paid Ads,77000.0,12.5,Lost,0.0
+DG00682,2026-04-13,Content Marketing,Small Business,Referral,90000.0,2.6,Converted,76000.0
+DG00683,2026-04-13,SEO,Small Business,Direct,142000.0,0.7,Converted,105000.0
+DG00684,2026-04-14,SEO,Startup,Organic Search,47000.0,2.8,Converted,43000.0
+DG00685,2026-04-14,SEO,Small Business,Social Media,80000.0,1.4,Converted,68000.0
+DG00686,2026-04-14,SEO,Individual / Freelancer,Organic Search,9000.0,12.9,Lost,0.0
+DG00687,2026-04-14,Social Media Mgmt,Startup,Paid Ads,77000.0,7.4,lost,0.0
+DG00688,2026-04-15,E-commerce Setup,Small Business,Organic Search,88000.0,10.2,In Progress,0.0
+DG00689,2026-04-16,Content Marketing,Individual / Freelancer,Paid Ads,37000.0,60.3,Lost,0.0
+DG00690,2026-04-16,SEO,Small Business,Social Media,52000.0,9.4,Lost,0.0
+DG00691,2026-04-16,Website Design & Development,Small Business,Paid Ads,141000.0,9.6,Lost,0.0
+DG00692,2026-04-16,Website Design & Development,Startup,Referral,103000.0,2.5,Converted,96000.0
+DG00693,2026-04-16,Content Marketing,Small Business,Paid Ads,39000.0,2.0,In Progress,0.0
+DG00694,2026-04-17,Website Design & Development,Individual / Freelancer,Referral,15000.0,5.1,In Progress,0.0
+DG00695,2026-04-17,Social Media Management,Small Business,Social Media,13000.0,20.2,Lost,0.0
+DG00696,17-04-2026,Social Media Management,Educational Institution,Paid Ads,89000.0,13.0,Converted,79000.0
+DG00697,2026-04-17,Social Media Management,Small Business,Social Media,47000.0,6.5,Lost,0.0
+DG00698,2026-04-18,Content Marketing,Startup,Social Media,77000.0,0.8,Lost,0.0
+DG00699,2026-04-18,Website Design & Development,Small Business,Organic Search,43000.0,12.3,In Progress,0.0
+DG00700,2026-04-18,E-commerce Setup,Individual / Freelancer,Organic Search,29000.0,4.0,In Progress,0.0
+DG00701,2026-04-19,E-commerce Setup,Startup,Social Media,71000.0,1.9,Converted,67000.0
+DG00702,2026-04-19,Website Design & Development,Small Business,Referral,53000.0,,Lost,0.0
+DG00703,2026-04-20,Content Marketing,Startup,Organic Search,190000.0,3.2,Converted,153000.0
+DG00704,2026-04-20,Content Marketing,Small Business,Paid Ads,121000.0,4.9,Lost,0.0
+DG00705,20-04-2026,Website Design & Development,Small Business,Organic Search,40000.0,6.3,Lost,0.0
+DG00706,2026-04-20,Website Design & Development,Small Business,Social Media,52000.0,3.5,Converted,48000.0
+DG00707,2026-04-20,Website Design & Development,Startup,Direct,197000.0,2.9,lost,0.0
+DG00708,2026-04-21,SEO,Startup,Organic Search,59000.0,7.1,Lost,0.0
+DG00709,2026-04-21,SEO,Startup,Referral,161000.0,6.1,Converted,160000.0
+DG00710,21-04-2026,E-commerce Setup,Startup,Paid Ads,35000.0,2.7,Lost,0.0
+DG00711,2026-04-22,Social Media Management,Individual / Freelancer,Email,35000.0,10.0,Converted,36000.0
+DG00712,2026-04-22,SEO,NGO,Social Media,108000.0,16.9,Converted,99000.0
+DG00713,2026-04-22,Website Design & Development,Small Business,Organic Search,83000.0,6.8,Lost,0.0
+DG00714,2026-04-22,Website Design & Development,Individual / Freelancer,Organic Search,,11.0,Lost,0.0
+DG00715,2026-04-22,E-commerce Setup,Small Business,Direct,39000.0,5.6,converted,30000.0
+DG00716,2026-04-23,E-commerce Setup,NGO,Organic Search,39000.0,10.9,converted,33000.0
+DG00717,2026-04-23,Website Design & Development,Startup,Social Media,59000.0,6.9,LOST,0.0
+DG00718,2026-04-24,SEO,Educational Institution,Direct,98000.0,49.1,Lost,0.0
+DG00719,2026-04-24,Website Design & Development,Educational Institution,Organic Search,71000.0,2.8,Converted,56000.0
+DG00720,2026-04-24,Website Design & Development,Small Business,Organic Search,39000.0,12.5,Converted,37000.0
+DG00721,2026-04-24,Website Design & Development,Small Business,Social Media,98000.0,1.7,Lost,0.0
+DG00722,2026-04-24,SEO,Individual / Freelancer,Paid Ads,24000.0,2.3,Lost,0.0
+DG00723,2026-04-24,Social Media Management,Educational Institution,Organic Search,73000.0,3.3,In Progress,0.0
+DG00724,2026-04-25,SEO,Individual / Freelancer,Organic Search,17000.0,6.7,In Progress,0.0
+DG00725,2026-04-25,Social Media Management,Startup,Direct,182000.0,4.4,In-Progress,0.0
+DG00726,2026-04-25,Content Marketing,Startup,Social Media,125000.0,17.4,Converted,88000.0
+DG00727,2026-04-25,Social Media Management,Small Business,Social Media,58000.0,4.2,In Progress,0.0
+DG00728,2026-04-26,Social Media Management,Small Business,Paid Ads,79000.0,3.1,Lost,0.0
+DG00729,2026-04-26,Website Design & Development,Educational Institution,Referral,74000.0,4.6,Converted,55000.0
+DG00730,2026-04-26,SEO,Educational Institution,Referral,63000.0,3.8,Converted,58000.0
+DG00731,2026-04-27,SEO,Individual / Freelancer,Social Media,23000.0,3.5,Converted,21000.0
+DG00732,2026-04-28,Social Media Management,Startup,Social Media,273000.0,6.0,In Progress,0.0
+DG00733,2026-04-28,SEO,Startup,Paid Ads,69000.0,3.8,Lost,0.0
+DG00734,2026-04-29,Website Design & Development,Startup,Email,44000.0,2.6,Converted,35000.0
+DG00735,2026-04-29,SEO,Educational Institution,Organic Search,62000.0,7.0,Lost,0.0
+DG00735,2026-04-29,SEO,Educational Institution,Organic Search,62000.0,7.0,Lost,0.0
+DG00736,2026-04-29,Social Media Management,Small Business,Organic Search,192000.0,14.5,Lost,0.0
+DG00737,2026-04-29,Website Design & Development,Small Business,Paid Ads,57000.0,1.1,Converted,44000.0
+DG00738,2026-04-29,Website Design & Development,NGO,Referral,120000.0,4.4,Converted,123000.0
+DG00739,2026-04-29,Social Media Management,Startup,Direct,133000.0,13.9,In Progress,0.0
+DG00740,2026-04-30,SEO,Small Business,Email,95000.0,13.8,Lost,0.0
+DG00741,01-05-2026,Website Design & Development,Startup,Direct,129000.0,1.7,Converted,91000.0
+DG00742,2026-05-02,Content Marketing,Small Business,Paid Ads,103000.0,5.6,Converted,87000.0
+DG00743,2026-05-03,E-commerce Setup,Small Business,Organic Search,80000.0,9.9,In Progress,0.0
+DG00744,2026-05-03,Website Design & Development,Small Business,Social Media,36000.0,2.8,Lost,0.0
+DG00745,2026-05-03,E-commerce Setup,Small Business,Email,38000.0,3.2,Converted,38000.0
+DG00746,2026-05-04,E-commerce Setup,Small Business,Social Media,24000.0,,Converted,20000.0
+DG00747,2026-05-04,Website Design & Development,Startup,Direct,82000.0,3.3,Lost,0.0
+DG00748,2026-05-04,E-commerce Setup,Educational Institution,Paid Ads,74000.0,3.8,Lost,0.0
+DG00749,2026-05-04,Content Marketing,Individual / Freelancer,Referral,34000.0,6.5,In Progress,0.0
+DG00750,2026-05-04,Website Design & Development,Small Business,Paid Ads,169000.0,4.4,Converted,155000.0
+DG00751,2026-05-05,Social Media Management,NGO,Organic Search,38000.0,12.2,Lost,0.0
+DG00752,2026-05-05,Website Design & Development,Individual / Freelancer,Paid Ads,20000.0,8.1,In Progress,0.0
+DG00753,2026-05-05,SEO,Individual / Freelancer,Email,10000.0,2.0,Converted,7000.0
+DG00754,2026-05-05,Website Design & Development,Small Business,Paid Ads,49000.0,4.1,In Progress,0.0
+DG00755,2026-05-06,Website Design & Development,Startup,Referral,107000.0,11.8,Lost,0.0
+DG00756,2026-05-06,SEO,Small Business,Organic Search,33000.0,4.7,In Progress,0.0
+DG00757,2026-05-06,Website Design & Development,Small Business,Direct,54000.0,3.9,In Progress,0.0
+DG00758,2026-05-06,Social Media Management,Individual / Freelancer,Direct,14000.0,13.8,Converted,11000.0
+DG00759,2026-05-06,Social Media Management,Startup,Email,118000.0,41.8,In Progress,0.0
+DG00759,2026-05-06,Social Media Management,Startup,Email,118000.0,41.8,In Progress,0.0
+DG00760,2026-05-06,Website Design & Development,Small Business,Referral,73000.0,20.9,Converted,61000.0
+DG00761,2026-05-06,SEO,Small Business,Social Media,155000.0,1.4,Converted,159000.0
+DG00762,2026-05-07,Social Media Management,Small Business,Organic Search,156000.0,2.8,Converted,161000.0
+DG00763,2026-05-07,E-commerce Setup,Small Business,Organic Search,31000.0,1.4,Converted,24000.0
+DG00764,2026-05-07,Social Media Management,Small Business,Organic Search,30000.0,20.2,Lost,0.0
+DG00765,2026-05-07,SEO,Startup,Direct,158000.0,16.6,Converted,142000.0
+DG00766,2026-05-08,Website Design & Development,Small Business,Direct,69000.0,3.0,Converted,57000.0
+DG00767,2026-05-08,E-commerce Setup,Individual / Freelancer,Paid Ads,19000.0,2.2,Lost,0.0
+DG00768,2026-05-08,Content Marketing,Small Business,Social Media,61000.0,3.4,Converted,46000.0
+DG00769,2026-05-08,SEO,Small Business,Referral,56000.0,2.5,Converted,45000.0
+DG00770,2026-05-09,E-commerce Setup,Individual / Freelancer,Social Media,10000.0,1.7,Converted,10000.0
+DG00771,2026-05-09,E-commerce Setup,Educational Institution,Social Media,86000.0,6.3,Converted,61000.0
+DG00772,2026-05-09,Content Marketing,Small Business,Referral,37000.0,3.0,Lost,0.0
+DG00773,2026-05-10,Social Media Management,NGO,Organic Search,35000.0,3.6,In Progress,0.0
+DG00774,2026-05-10,Content Marketing,Small Business,Paid Ads,41000.0,13.6,Lost,0.0
+DG00775,2026-05-10,Social Media Management,NGO,Direct,35000.0,18.2,Converted,27000.0
+DG00776,2026-05-10,Content Marketing,Small Business,Organic Search,48000.0,2.2,Lost,0.0
+DG00777,2026-05-11,Website Design & Development,Small Business,Direct,90000.0,9.6,Converted,89000.0
+DG00778,2026-05-11,Content Marketing,Educational Institution,Email,82000.0,4.7,Lost,0.0
+DG00779,2026-05-11,Website Design & Development,Startup,Paid Ads,151000.0,5.7,In Progress,0.0
+DG00780,2026-05-11,E-commerce Setup,Startup,Social Media,112000.0,15.1,Lost,0.0
+DG00781,2026-05-12,SEO,Startup,Organic Search,110000.0,9.1,Converted,108000.0
+DG00782,2026-05-12,E-commerce Setup,Individual / Freelancer,Paid Ads,14000.0,2.3,In Progress,0.0
+DG00783,2026-05-13,E-commerce Setup,Startup,Paid Ads,162000.0,15.5,Lost,0.0
+DG00784,2026-05-13,E-commerce Setup,NGO,Direct,38000.0,20.5,Converted,31000.0
+DG00785,2026-05-13,Content Marketing,Small Business,Social Media,56000.0,3.6,In-Progress,0.0
+DG00786,2026-05-13,SEO,Small Business,Email,39000.0,3.5,Converted,39000.0
+DG00787,2026-05-13,SEO,Small Business,Organic Search,122000.0,8.8,Converted,108000.0
+DG00788,2026-05-13,SEO,Small Business,Paid Ads,79000.0,1.9,In Progress,0.0
+DG00789,2026-05-14,Website Design & Development,Startup,Organic Search,92000.0,14.0,In Progress,0.0
+DG00790,2026-05-14,Social Media Management,Small Business,Direct,111000.0,1.6,In-Progress,0.0
+DG00791,2026-05-14,Website Design & Development,Small Business,Organic Search,28000.0,2.5,Converted,29000.0
+DG00792,2026-05-14,Website Design & Development,NGO,Organic Search,21000.0,,In Progress,0.0
+DG00793,2026-05-14,SEO,NGO,Organic Search,43000.0,3.6,In Progress,0.0
+DG00794,2026-05-14,Social Media Management,Educational Institution,Social Media,45000.0,6.5,Lost,0.0
+DG00795,2026-05-15,E-commerce Setup,Small Business,Paid Ads,69000.0,8.0,Converted,58000.0
+DG00796,2026-05-15,Content Marketing,Startup,Paid Ads,118000.0,10.8,Converted,123000.0
+DG00797,2026-05-15,SEO,Startup,Organic Search,94000.0,6.8,Lost,0.0
+DG00798,2026-05-15,Website Design & Development,Small Business,Organic Search,95000.0,12.4,Converted,93000.0
+DG00799,2026-05-15,SEO,Startup,Paid Ads,171000.0,7.4,Converted,129000.0
+DG00800,2026-05-16,Social Media Management,Startup,Email,110000.0,2.5,Converted,105000.0
+DG00801,2026-05-17,E-commerce Setup,Startup,Organic Search,,6.4,Lost,0.0
+DG00802,2026-05-17,SEO,Educational Institution,Referral,64000.0,3.4,Converted,55000.0
+DG00803,2026-05-17,Social Media Management,Educational Institution,Email,80000.0,8.6,Lost,0.0
+DG00804,2026-05-17,Website Design & Development,Individual / Freelancer,Direct,22000.0,28.9,In Progress,0.0
+DG00805,2026-05-18,E-commerce Setup,Small Business,Paid Ads,87000.0,6.2,Lost,0.0
+DG00806,2026-05-18,Website Design & Development,Small Business,Referral,91000.0,13.2,converted,88000.0
+DG00807,2026-05-18,Social Media Management,Small Business,Organic Search,30000.0,4.9,Converted,29000.0
+DG00808,2026-05-18,E-commerce Setup,Small Business,Social Media,46000.0,10.0,In Progress,0.0
+DG00809,2026-05-18,SEO,Educational Institution,Organic Search,144000.0,13.5,Converted,132000.0
+DG00810,2026-05-18,Social Media Management,Small Business,Email,41000.0,,In Progress,0.0
+DG00811,2026-05-18,SEO,Small Business,Email,49000.0,6.8,Lost,0.0
+DG00812,2026-05-18,Website Design & Development,Small Business,Social Media,25000.0,7.0,Converted,20000.0
+DG00813,2026-05-18,SEO,Individual / Freelancer,Paid Ads,51000.0,7.8,Converted,47000.0
+DG00814,2026-05-19,SEO,Startup,Organic Search,62000.0,6.2,Lost,0.0
+DG00815,2026-05-20,Social Media Management,Startup,Direct,113000.0,1.8,Lost,0.0
+DG00816,2026-05-20,SEO,Small Business,Referral,113000.0,4.3,Converted,81000.0
+DG00817,2026-05-20,SEO,Startup,Organic Search,63000.0,1.6,Converted,46000.0
+DG00818,2026-05-21,E-commerce Setup,Educational Institution,Referral,,5.1,In Progress,0.0
+DG00819,2026-05-21,Website Design & Development,Individual / Freelancer,Organic Search,18000.0,3.2,Lost,0.0
+DG00820,2026-05-21,Web Design,NGO,Organic Search,51000.0,1.5,Converted,45000.0
+DG00821,2026-05-21,Social Media Management,Individual / Freelancer,Paid Ads,13000.0,6.3,Converted,11000.0
+DG00822,2026-05-21,E-commerce Setup,Startup,Social Media,,8.6,Converted,110000.0
+DG00823,2026-05-21,Website Design & Development,Educational Institution,Social Media,51000.0,1.9,Converted,37000.0
+DG00824,2026-05-21,Social Media Management,Startup,Direct,160000.0,5.3,Lost,0.0
+DG00825,2026-05-21,Website Design & Development,Startup,Organic Search,71000.0,15.5,Lost,0.0
+DG00826,2026-05-22,E-commerce Setup,Educational Institution,Social Media,83000.0,1.6,Lost,0.0
+DG00827,2026-05-22,Website Design & Development,Individual / Freelancer,Social Media,22000.0,6.3,Converted,17000.0
+DG00828,2026-05-23,Social Media Management,Small Business,Social Media,74000.0,7.8,In Progress,0.0
+DG00829,2026-05-23,Website Design & Development,Individual / Freelancer,Social Media,8000.0,4.5,Converted,7000.0
+DG00830,2026-05-23,SEO,Small Business,Organic Search,122000.0,3.5,converted,104000.0
+DG00831,2026-05-25,Social Media Management,Startup,Organic Search,114000.0,2.8,Converted,99000.0
+DG00832,2026-05-25,Social Media Management,Individual / Freelancer,Paid Ads,18000.0,,Converted,19000.0
+DG00833,2026-05-25,Website Design & Development,Individual / Freelancer,Paid Ads,19000.0,22.9,In-Progress,0.0
+DG00834,2026-05-25,Website Design & Development,Small Business,Email,83000.0,1.5,In Progress,0.0
+DG00835,2026-05-25,Website Design & Development,NGO,Paid Ads,66000.0,6.2,In Progress,0.0
+DG00836,2026-05-26,E-commerce Setup,Individual / Freelancer,Organic Search,23000.0,3.2,Converted,17000.0
+DG00837,2026-05-26,Social Media Management,Individual / Freelancer,Email,11000.0,4.0,Won,8000.0
+DG00838,2026-05-26,Content Marketing,Educational Institution,Organic Search,108000.0,6.6,In Progress,0.0
+DG00839,2026-05-27,Social Media Management,Startup,Organic Search,167000.0,6.3,Converted,163000.0
+DG00840,2026-05-27,Content Marketing,Small Business,Social Media,24000.0,3.7,In Progress,0.0
+DG00841,2026-05-27,Website Design & Development,Startup,Paid Ads,,1.3,Converted,43000.0
+DG00842,2026-05-28,Website Design & Development,Small Business,Direct,44000.0,9.8,Converted,38000.0
+DG00843,2026-05-28,Website Design & Development,NGO,Social Media,24000.0,10.6,Lost,0.0
+DG00844,2026-05-28,Website Design & Development,Small Business,Email,125000.0,6.1,converted,106000.0
+DG00845,2026-05-28,SEO,Startup,Social Media,56000.0,4.4,Lost,0.0
+DG00846,2026-05-30,SEO,Small Business,Social Media,32000.0,,Converted,23000.0
+DG00847,2026-05-30,Website Design & Development,Small Business,Referral,21000.0,3.9,Converted,20000.0
+DG00848,2026-05-30,Social Media Management,Small Business,Paid Ads,16000.0,13.8,Converted,16000.0
+DG00849,2026-05-30,Website Design & Development,Startup,Organic Search,148000.0,8.1,Lost,0.0
+DG00850,2026-05-30,SEO,Startup,Organic Search,144000.0,1.9,In Progress,0.0
+DG00851,2026-05-31,Content Marketing,Individual / Freelancer,Organic Search,18000.0,6.2,Lost,0.0
+DG00852,2026-05-31,Website Design & Development,Small Business,Social Media,146000.0,4.4,Converted,152000.0
+DG00853,2026-06-01,Website Design & Development,Small Business,Organic Search,50000.0,11.4,LOST,0.0
+DG00854,2026-06-01,Website Design & Development,Individual / Freelancer,Direct,38000.0,4.1,In Progress,0.0
+DG00855,2026-06-01,E-commerce Setup,Startup,Paid Ads,94000.0,19.9,Converted,75000.0
+DG00856,2026-06-02,Social Media Management,Individual / Freelancer,Email,38000.0,3.5,In Progress,0.0
+DG00857,2026-06-02,Website Design & Development,Small Business,Social Media,35000.0,8.6,In Progress,0.0
+DG00858,2026-06-02,Website Design & Development,Startup,Paid Ads,68000.0,8.8,Converted,57000.0
+DG00859,2026-06-02,Website Design & Development,Small Business,Referral,16000.0,1.4,In-Progress,0.0
+DG00860,2026-06-02,Website Design & Development,Small Business,Paid Ads,39000.0,3.3,Converted,35000.0
+DG00861,2026-06-02,E-commerce Setup,Educational Institution,Organic Search,68000.0,5.7,Lost,0.0
+DG00862,2026-06-03,E-commerce Setup,Small Business,Direct,53000.0,2.1,Lost,0.0
+DG00863,2026-06-03,Website Design & Development,Individual / Freelancer,Email,12000.0,17.1,In Progress,0.0
+DG00864,2026-06-03,Social Media Management,Small Business,Email,135000.0,9.3,Lost,0.0
+DG00865,2026-06-04,SEO,Small Business,Organic Search,40000.0,6.9,Lost,0.0
+DG00866,2026-06-04,E-commerce Setup,Small Business,Email,37000.0,8.7,Converted,37000.0
+DG00867,2026-06-04,Content Marketing,Small Business,Organic Search,39000.0,18.3,Lost,0.0
+DG00868,2026-06-05,Website Design & Development,Individual / Freelancer,Referral,20000.0,10.8,In Progress,0.0
+DG00869,2026-06-05,Social Media Management,Small Business,Paid Ads,41000.0,2.7,Converted,38000.0
+DG00870,2026-06-05,Content Marketing,Small Business,Paid Ads,39000.0,3.7,In Progress,0.0
+DG00871,2026-06-05,Website Design & Development,Startup,Organic Search,139000.0,6.0,Converted,123000.0
+DG00872,2026-06-06,E-commerce Setup,Small Business,Email,138000.0,8.7,Lost,0.0
+DG00873,2026-06-06,Content Marketing,Individual / Freelancer,Direct,34000.0,9.3,Converted,30000.0
+DG00874,2026-06-07,Social Media Management,Individual / Freelancer,Social Media,36000.0,13.6,Converted,26000.0
+DG00875,2026-06-07,Website Design & Development,Individual / Freelancer,Social Media,7000.0,3.7,Converted,7000.0
+DG00876,2026-06-08,SEO,Small Business,Referral,88000.0,12.1,Converted,92000.0
+DG00877,2026-06-08,Social Media Management,Startup,Social Media,196000.0,24.9,Converted,177000.0
+DG00878,2026-06-08,SEO,Startup,Organic Search,76000.0,15.4,In Progress,0.0
+DG00879,2026-06-08,E-commerce Setup,Startup,Social Media,75000.0,7.6,Converted,53000.0
+DG00880,2026-06-09,Social Media Management,Startup,Social Media,,3.1,Converted,66000.0
+DG00881,2026-06-09,Website Design & Development,Educational Institution,Social Media,89000.0,2.5,Lost,0.0
+DG00882,2026-06-09,Website Design & Development,Small Business,Direct,53000.0,15.5,Lost,0.0
+DG00883,2026-06-09,Content Marketing,Small Business,Social Media,59000.0,19.9,in progress,0.0
+DG00884,2026-06-09,Content Marketing,Small Business,Social Media,89000.0,11.5,Converted,77000.0
+DG00885,2026-06-10,Web Design,NGO,Referral,21000.0,4.5,Converted,22000.0
+DG00886,2026-06-10,Website Design & Development,Small Business,Direct,79000.0,7.9,Lost,0.0
+DG00887,2026-06-10,Website Design & Development,NGO,Paid Ads,23000.0,24.6,Lost,0.0
+DG00888,2026-06-10,E-commerce Setup,Startup,Paid Ads,63000.0,3.9,in progress,0.0
+DG00889,2026-06-10,Website Design & Development,Startup,Referral,195000.0,3.3,Converted,163000.0
+DG00890,2026-06-10,Social Media Management,Individual / Freelancer,Direct,18000.0,2.3,Converted,18000.0
+DG00891,2026-06-11,SEO,Small Business,Organic Search,182000.0,6.2,Converted,148000.0
+DG00892,2026-06-11,Website Design & Development,Small Business,Email,129000.0,13.7,Converted,134000.0
+DG00893,2026-06-11,SEO,Startup,Paid Ads,132000.0,16.1,Converted,101000.0
+DG00894,2026-06-12,E-commerce Setup,Small Business,Referral,55000.0,10.5,In Progress,0.0
+DG00895,2026-06-12,Social Media Management,Educational Institution,Social Media,72000.0,5.8,converted,52000.0
+DG00896,2026-06-13,SEO,Startup,Email,62000.0,20.6,Converted,62000.0
+DG00897,2026-06-13,Website Design & Development,Educational Institution,Direct,100000.0,6.1,Lost,0.0
+DG00898,2026-06-15,Website Design & Development,Educational Institution,Email,69000.0,2.5,Lost,0.0
+DG00899,2026-06-15,E-commerce Setup,Individual / Freelancer,Organic Search,18000.0,8.1,Converted,17000.0
+DG00900,2026-06-15,SEO,Individual / Freelancer,Email,17000.0,5.5,Lost,0.0
+DG00901,2026-06-15,Social Media Management,Small Business,Social Media,19000.0,17.3,In Progress,0.0
+DG00902,2026-06-15,Social Media Management,Small Business,Email,65000.0,4.5,Converted,63000.0
+DG00903,2026-06-15,SEO,Individual / Freelancer,Organic Search,34000.0,3.1,Converted,31000.0
+DG00904,2026-06-15,Website Design & Development,Small Business,Social Media,134000.0,2.6,Converted,103000.0
+DG00905,2026-06-16,Social Media Management,Small Business,Social Media,151000.0,2.8,In Progress,0.0
+DG00906,2026-06-16,Content Marketing,Small Business,Organic Search,58000.0,2.5,In Progress,0.0
+DG00907,2026-06-16,Website Design & Development,Educational Institution,Social Media,62000.0,8.1,Converted,57000.0
+DG00908,2026-06-16,Social Media Management,Educational Institution,Paid Ads,35000.0,5.9,Converted,34000.0
+DG00909,2026-06-16,E-commerce Setup,Educational Institution,Organic Search,80000.0,19.5,In Progress,0.0
+DG00910,2026-06-16,E-commerce Setup,Small Business,Social Media,61000.0,5.9,In Progress,0.0
+DG00911,2026-06-17,SEO,Small Business,Social Media,91000.0,7.9,Converted,93000.0
+DG00912,2026-06-17,Website Design & Development,Educational Institution,Organic Search,84000.0,2.4,Lost,0.0
+DG00913,2026-06-17,Social Media Management,Educational Institution,Paid Ads,102000.0,1.9,In-Progress,0.0
+DG00914,2026-06-17,Content Marketing,Startup,Social Media,,6.1,Converted,101000.0
+DG00915,2026-06-18,Website Design & Development,Small Business,Email,46000.0,85.8,Lost,0.0
+DG00916,2026-06-18,Website Design & Development,Small Business,Direct,184000.0,1.3,Lost,0.0
+DG00917,2026-06-18,SEO,Individual / Freelancer,Social Media,88000.0,4.1,in progress,0.0
+DG00918,2026-06-19,SEO,Individual / Freelancer,Paid Ads,27000.0,26.9,Converted,24000.0
+DG00919,2026-06-19,Content Marketing,Educational Institution,Paid Ads,89000.0,13.1,Converted,89000.0
+DG00920,2026-06-19,SEO,Individual / Freelancer,Referral,23000.0,6.2,Converted,18000.0
+DG00921,2026-06-19,SEO,Small Business,Direct,64000.0,20.6,In Progress,0.0
+DG00922,2026-06-19,SEO,NGO,Email,58000.0,8.5,Lost,0.0
+DG00923,2026-06-20,Social Media Management,Small Business,Referral,65000.0,13.2,Won,50000.0
+DG00924,2026-06-20,E-commerce Setup,Educational Institution,Social Media,30000.0,2.7,Lost,0.0
+DG00925,2026-06-21,Social Media Management,Small Business,Referral,18000.0,23.4,Converted,17000.0
+DG00926,2026-06-21,Content Marketing,NGO,Email,48000.0,4.4,Converted,34000.0
+DG00927,2026-06-22,Website Design & Development,Small Business,Paid Ads,49000.0,2.8,Converted,39000.0
+DG00928,2026-06-22,Social Media Management,Small Business,Paid Ads,39000.0,11.1,In Progress,0.0
+DG00929,2026-06-22,Social Media Management,Small Business,Paid Ads,57000.0,9.1,Lost,0.0
+DG00930,2026-06-23,Website Design & Development,Small Business,Paid Ads,119000.0,,In Progress,0.0
+DG00931,2026-06-23,E-commerce Setup,NGO,Organic Search,21000.0,7.0,In Progress,0.0
+DG00932,2026-06-23,Website Design & Development,NGO,Paid Ads,71000.0,3.1,In Progress,0.0
+DG00933,2026-06-23,Social Media Management,Small Business,Referral,40000.0,7.4,Converted,29000.0
+DG00934,2026-06-23,SEO,Startup,Direct,63000.0,2.0,In Progress,0.0
+DG00935,2026-06-24,Website Design & Development,Small Business,Social Media,75000.0,2.0,Converted,66000.0
+DG00936,2026-06-24,SEO,Small Business,Paid Ads,23000.0,5.4,Converted,18000.0
+DG00937,2026-06-24,Social Media Management,Small Business,Organic Search,48000.0,3.3,Converted,35000.0
+DG00938,2026-06-25,Social Media Management,NGO,Organic Search,70000.0,2.7,In Progress,0.0
+DG00939,2026-06-25,Social Media Management,Individual / Freelancer,Organic Search,27000.0,22.9,Lost,0.0
+DG00940,2026-06-25,Website Design & Development,Startup,Paid Ads,98000.0,9.0,In Progress,0.0
+DG00941,2026-06-26,Social Media Management,Small Business,Referral,78000.0,14.4,In Progress,0.0
+DG00942,2026-06-26,Website Design & Development,Educational Institution,Organic Search,104000.0,7.1,Converted,95000.0
+DG00943,2026-06-26,Content Marketing,Small Business,Paid Ads,43000.0,7.8,Converted,45000.0
+DG00944,2026-06-26,Social Media Management,Small Business,Email,36000.0,6.4,Lost,0.0
+DG00945,2026-06-26,Social Media Management,Small Business,Organic Search,88000.0,3.9,Lost,0.0
+DG00946,2026-06-26,SEO,Small Business,Organic Search,48000.0,10.5,Lost,0.0
+DG00947,2026-06-27,Ecommerce Setup,Startup,Paid Ads,106000.0,13.9,Converted,111000.0
+DG00948,2026-06-27,Website Design & Development,Educational Institution,Email,33000.0,10.2,Lost,0.0
+DG00949,2026-06-27,Content Marketing,Individual / Freelancer,Social Media,17000.0,8.3,Converted,16000.0
+DG00949,2026-06-27,Content Marketing,Individual / Freelancer,Social Media,17000.0,8.3,Converted,16000.0
+DG00950,2026-06-28,Social Media Management,Small Business,Paid Ads,38000.0,2.4,Lost,0.0
+DG00951,2026-06-28,SEO,Individual / Freelancer,Direct,37000.0,14.7,Lost,0.0
+DG00952,2026-06-29,Social Media Management,Small Business,Paid Ads,116000.0,-5.0,Lost,0.0
+DG00953,2026-06-29,Website Design & Development,Small Business,Referral,74000.0,8.2,In Progress,0.0
+DG00954,2026-06-29,Content Marketing,Small Business,Referral,85000.0,2.0,Converted,65000.0
+DG00955,2026-06-29,SEO,Startup,Paid Ads,146000.0,3.7,Converted,151000.0
+DG00956,2026-06-29,Social Media Management,Small Business,Social Media,98000.0,4.4,Lost,0.0
+DG00957,2026-06-29,E-commerce Setup,Small Business,Direct,101000.0,,Lost,0.0
+DG00958,29-06-2026,Social Media Management,Small Business,Organic Search,115000.0,8.5,In Progress,0.0
+DG00959,2026-06-30,Web Design,Individual / Freelancer,Referral,23000.0,9.4,In Progress,0.0
+DG00960,2026-06-30,E-commerce Setup,Individual / Freelancer,Direct,36000.0,2.4,Converted,37000.0
+DG00961,2026-06-30,Social Media Management,Startup,Organic Search,31000.0,7.0,In Progress,0.0
+DG00962,2026-06-30,Content Marketing,Startup,Social Media,117000.0,7.4,Lost,0.0
+DG00963,2026-06-30,E-commerce Setup,NGO,Referral,61000.0,3.5,Lost,0.0
+DG00964,2026-07-01,Content Marketing,Small Business,Direct,32000.0,3.1,In-Progress,0.0
+DG00965,01-07-2026,Content Marketing,Startup,Email,,16.3,Lost,0.0
+DG00966,2026-07-01,Content Marketing,Individual / Freelancer,Social Media,16000.0,13.3,In Progress,0.0
+DG00967,2026-07-01,E-commerce Setup,Small Business,Social Media,21000.0,5.0,Converted,18000.0
+DG00968,2026-07-01,Website Design & Development,Small Business,Organic Search,70000.0,4.5,Converted,57000.0
+DG00969,2026-07-01,E-commerce Setup,Startup,Email,63000.0,7.8,Lost,0.0
+DG00970,2026-07-01,E-commerce Setup,Individual / Freelancer,Direct,15000.0,11.8,In Progress,0.0
+DG00971,02-07-2026,Website Design & Development,Startup,Organic Search,116000.0,1.0,converted,105000.0
+DG00972,2026-07-02,Social Media Management,Small Business,Direct,30000.0,4.6,Converted,31000.0
+DG00973,2026-07-03,Website Design & Development,Small Business,Paid Ads,40000.0,10.5,Lost,0.0
+DG00974,2026-07-03,E-commerce Setup,NGO,Paid Ads,15000.0,2.4,Lost,0.0
+DG00975,2026-07-04,Content Marketing,Startup,Paid Ads,95000.0,13.4,in progress,0.0
+DG00976,2026-07-04,Website Design & Development,Small Business,Social Media,194000.0,5.7,Converted,145000.0
+DG00977,2026-07-04,Social Media Management,Educational Institution,Referral,97000.0,4.2,Lost,0.0
+DG00978,2026-07-04,Social Media Management,Startup,Direct,65000.0,4.5,Lost,0.0
+DG00979,04-07-2026,Social Media Management,Startup,Social Media,82000.0,8.2,Converted,86000.0
+DG00980,2026-07-05,SEO,Individual / Freelancer,Direct,,4.3,Converted,60000.0
+DG00981,2026-07-05,Social Media Management,Small Business,Paid Ads,83000.0,4.8,Lost,0.0
+DG00982,2026-07-06,SEO,Individual / Freelancer,Paid Ads,26000.0,7.0,In Progress,0.0
+DG00983,2026-07-06,SEO,Small Business,Organic Search,43000.0,14.0,Lost,0.0
+DG00984,2026-07-06,Social Media Management,NGO,Paid Ads,20000.0,11.2,Converted,19000.0
+DG00985,2026-07-07,Social Media Management,Small Business,Direct,54000.0,1.9,Converted,54000.0
+DG00986,2026-07-07,Content Marketing,Small Business,Paid Ads,117000.0,4.4,In Progress,0.0
+DG00987,2026-07-07,Website Design & Development,Small Business,Paid Ads,22000.0,5.4,In Progress,0.0
+DG00988,2026-07-07,Website Design & Development,Startup,Email,53000.0,9.7,Converted,44000.0
+DG00989,2026-07-08,SEO,Startup,Referral,80000.0,7.0,Converted,61000.0
+DG00990,2026-07-08,Website Design & Development,Small Business,Organic Search,178000.0,5.2,Converted,162000.0
+DG00991,2026-07-08,Website Design & Development,Startup,Email,127000.0,4.6,Converted,129000.0
+DG00992,2026-07-08,E-commerce Setup,Startup,Direct,141000.0,1.8,Converted,115000.0
+DG00993,2026-07-08,website design & development,Small Business,Organic Search,55000.0,4.4,In Progress,0.0
+DG00994,2026-07-09,E-commerce Setup,Startup,Social Media,68000.0,38.4,Lost,0.0
+DG00995,2026-07-09,SEO,Small Business,Email,121000.0,-5.0,In Progress,0.0
+DG00996,2026-07-09,SEO,Startup,Direct,112000.0,3.9,Converted,110000.0
+DG00997,2026-07-09,Social Media Management,Small Business,Organic Search,30000.0,4.1,Converted,25000.0
+DG00998,2026-07-09,SEO,Educational Institution,Paid Ads,84000.0,2.1,Lost,0.0
+DG00999,2026-07-09,Content Marketing,Individual / Freelancer,Paid Ads,19000.0,2.8,Lost,0.0
+DG01000,2026-07-10,Website Design & Development,Small Business,Organic Search,53000.0,4.7,Lost,0.0
+DG01001,2026-07-10,Ecommerce Setup,Startup,Social Media,186000.0,1.8,Lost,0.0
+DG01002,2026-07-10,Social Media Management,Small Business,Paid Ads,41000.0,9.3,In Progress,0.0
+DG01003,2026-07-10,Social Media Management,Individual / Freelancer,Organic Search,16000.0,4.4,In Progress,0.0
+DG01004,2026-07-11,Website Design & Development,Small Business,Organic Search,37000.0,14.4,In Progress,0.0
+DG01005,2026-07-11,Content Marketing,Educational Institution,Paid Ads,47000.0,5.8,Converted,47000.0
+DG01006,2026-07-11,Content Marketing,Small Business,Organic Search,62000.0,4.0,Lost,0.0
+DG01007,2026-07-11,E-commerce Setup,Small Business,Email,63000.0,4.4,In Progress,0.0
+DG01008,2026-07-12,Content Marketing,NGO,Direct,54000.0,4.3,Converted,56000.0
+DG01009,2026-07-13,E-commerce Setup,NGO,Paid Ads,58000.0,4.4,In Progress,0.0
+DG01010,2026-07-13,Website Design & Development,Small Business,Paid Ads,27000.0,4.5,Converted,23000.0
+DG01011,2026-07-13,Social Media Management,Educational Institution,Organic Search,68000.0,8.1,Lost,0.0
+DG01012,2026-07-13,Website Design & Development,Small Business,Social Media,29000.0,10.3,Lost,0.0
+DG01013,2026-07-13,Social Media Management,Individual / Freelancer,Organic Search,24000.0,18.8,Lost,0.0
+DG01014,2026-07-14,Website Design & Development,Small Business,Email,86000.0,7.8,In Progress,0.0
+DG01015,2026-07-14,SEO,Small Business,Paid Ads,64000.0,25.6,Lost,0.0
+DG01016,2026-07-14,Social Media Management,Startup,Referral,64000.0,4.5,Converted,56000.0
+DG01017,2026-07-14,Social Media Management,Small Business,Direct,78000.0,5.0,Converted,81000.0
+DG01018,2026-07-14,Website Design & Development,NGO,Organic Search,41000.0,6.8,In Progress,0.0
+DG01019,2026-07-14,Social Media Management,Small Business,Direct,25000.0,4.0,Lost,0.0
+DG01020,2026-07-14,SEO,Small Business,Social Media,73000.0,3.3,Converted,73000.0
+DG01021,2026-07-15,SEO,Educational Institution,Paid Ads,60000.0,32.0,Lost,0.0
+DG01022,2026-07-15,SEO,Small Business,Direct,44000.0,7.2,In Progress,0.0
+DG01022,2026-07-15,SEO,Small Business,Direct,44000.0,7.2,In Progress,0.0
+DG01023,2026-07-16,Website Design & Development,Individual / Freelancer,Organic Search,22000.0,8.0,In-Progress,0.0
+DG01024,2026-07-16,Social Media Management,Small Business,Direct,46000.0,23.7,Lost,0.0
+DG01025,2026-07-16,SEO,Individual / Freelancer,Social Media,9000.0,3.2,Lost,0.0
+DG01026,2026-07-16,SEO,Small Business,Organic Search,26000.0,7.7,Converted,19000.0
+DG01027,2026-07-16,social media management,Startup,Paid Ads,151000.0,10.8,Lost,0.0
+DG01028,2026-07-16,Content Marketing,Small Business,Social Media,120000.0,3.3,In Progress,0.0
+DG01029,2026-07-17,Content Marketing,Small Business,Paid Ads,124000.0,32.8,lost,0.0
+DG01030,2026-07-17,Content Marketing,Startup,Social Media,139000.0,12.1,Converted,100000.0
+DG01031,2026-07-17,E-commerce Setup,NGO,Organic Search,42000.0,13.6,Lost,0.0
+DG01032,2026-07-17,SEO,Small Business,Direct,25000.0,4.3,Converted,21000.0
+DG01033,2026-07-17,Social Media Management,NGO,Paid Ads,21000.0,1.8,Converted,21000.0
+DG01034,2026-07-17,SEO,Individual / Freelancer,Organic Search,,4.4,Lost,0.0
+DG01035,2026-07-18,E-commerce Setup,NGO,Social Media,34000.0,2.2,In Progress,0.0
+DG01036,2026-07-18,Social Media Management,Small Business,Email,114000.0,30.8,In Progress,0.0
+DG01037,2026-07-18,SEO,Individual / Freelancer,Paid Ads,16000.0,2.4,lost,0.0
+DG01038,2026-07-18,Social Media Management,Small Business,Referral,59000.0,6.9,In Progress,0.0
+DG01039,2026-07-19,Website Design & Development,Small Business,Direct,44000.0,5.6,In Progress,0.0
+DG01040,2026-07-19,Social Media Management,Startup,Direct,152000.0,11.8,Converted,120000.0
+DG01041,2026-07-19,E-commerce Setup,Startup,Direct,59000.0,4.8,Lost,0.0
+DG01042,2026-07-20,Website Design & Development,Individual / Freelancer,Social Media,7000.0,4.9,Lost,0.0
+DG01043,2026-07-20,SEO,Small Business,Direct,,24.3,In Progress,0.0
+DG01043,2026-07-20,SEO,Small Business,Direct,,24.3,In Progress,0.0
+DG01044,2026-07-20,Website Design & Development,Educational Institution,Email,98000.0,2.9,In Progress,0.0
+DG01045,2026-07-21,Website Design & Development,Small Business,Direct,61000.0,21.1,Converted,56000.0
+DG01046,2026-07-21,SEO,Startup,Social Media,77000.0,2.8,Converted,57000.0
+DG01047,2026-07-21,Website Design & Development,Small Business,Organic Search,49000.0,2.3,In Progress,0.0
+DG01048,2026-07-21,Content Marketing,Individual / Freelancer,Direct,26000.0,4.4,Lost,0.0
+DG01049,2026-07-22,Website Design & Development,Startup,Organic Search,122000.0,1.4,Converted,117000.0
+DG01050,2026-07-22,E-commerce Setup,Startup,Referral,119000.0,21.4,Converted,106000.0
+DG01051,2026-07-22,SEO,Small Business,Direct,76000.0,3.8,In Progress,0.0
+DG01052,2026-07-23,Content Marketing,Small Business,Social Media,47000.0,5.8,In Progress,0.0
+DG01053,2026-07-23,E-commerce Setup,Small Business,Email,92000.0,22.4,In-Progress,0.0
+DG01054,2026-07-23,E-commerce Setup,Startup,Social Media,92000.0,0.6,Converted,68000.0
+DG01055,2026-07-23,SEO,Small Business,Organic Search,37000.0,6.2,In Progress,0.0
+DG01056,2026-07-24,Content Marketing,Small Business,Paid Ads,65000.0,23.5,Converted,54000.0
+DG01057,2026-07-24,SEO,Startup,Paid Ads,89000.0,0.6,In Progress,0.0
+DG01058,2026-07-24,Content Marketing,Startup,Social Media,98000.0,3.2,Lost,0.0
+DG01059,2026-07-25,Website Design & Development,Small Business,Paid Ads,63000.0,1.9,Lost,0.0
+DG01060,2026-07-25,Website Design & Development,Educational Institution,Referral,45000.0,2.4,In Progress,0.0
+DG01061,2026-07-26,Content Marketing,Small Business,Social Media,35000.0,21.0,In Progress,0.0
+DG01062,2026-07-26,website design & development,Small Business,Social Media,70000.0,4.2,Converted,67000.0
+DG01063,2026-07-27,Social Media Management,Small Business,Paid Ads,80000.0,10.9,Lost,0.0
+DG01064,2026-07-27,SEO,Startup,Social Media,247000.0,3.8,Lost,0.0
+DG01065,2026-07-27,Social Media Management,Startup,Organic Search,130000.0,8.9,Lost,0.0
+DG01066,2026-07-28,SEO,Startup,Social Media,80000.0,5.2,Converted,71000.0
+DG01067,2026-07-28,Social Media Management,Small Business,Direct,48000.0,10.6,converted,43000.0
+DG01068,2026-07-28,Content Marketing,Small Business,Social Media,88000.0,3.6,Lost,0.0
+DG01069,2026-07-28,SEO,Individual / Freelancer,Paid Ads,13000.0,2.8,Converted,12000.0
+DG01070,2026-07-28,Website Design & Development,Small Business,Paid Ads,84000.0,1.7,In Progress,0.0
+DG01071,2026-07-28,Website Design & Development,Startup,Paid Ads,128000.0,2.4,Lost,0.0
+DG01072,2026-07-29,Social Media Management,Startup,Paid Ads,26000.0,6.6,Converted,20000.0
+DG01073,2026-07-29,Social Media Management,Individual / Freelancer,Paid Ads,37000.0,4.5,converted,38000.0
+DG01074,2026-07-29,Content Marketing,Small Business,Social Media,67000.0,10.0,Converted,52000.0
+DG01075,2026-07-29,Website Design & Development,Startup,Paid Ads,72000.0,4.1,Lost,0.0
+DG01076,2026-07-29,SEO,Small Business,Social Media,51000.0,26.2,Lost,0.0
+DG01077,2026-07-29,Website Design & Development,Startup,Email,71000.0,3.3,In Progress,0.0
+DG01078,2026-07-29,Website Design & Development,NGO,Direct,33000.0,5.3,Lost,0.0
+DG01079,2026-07-29,Website Design & Development,Small Business,Social Media,54000.0,2.6,In-Progress,0.0
+DG01080,2026-07-31,Website Design & Development,Startup,Social Media,86000.0,38.1,Converted,78000.0
+DG01081,2026-07-31,Content Marketing,Small Business,Organic Search,44000.0,16.6,In Progress,0.0
+DG01082,2026-07-31,SEO,Individual / Freelancer,Social Media,14000.0,2.4,Converted,12000.0
+DG01083,2026-07-31,SEO,Startup,Direct,78000.0,2.0,Converted,61000.0
+DG01084,31-07-2026,Content Marketing,Small Business,Organic Search,60000.0,8.2,Converted,51000.0
+DG01085,2026-07-31,Content Marketing,Startup,Email,109000.0,1.8,Converted,95000.0
+DG01086,2026-08-01,Content Marketing,Startup,Email,55000.0,4.5,Lost,0.0
+DG01087,2026-08-02,Web Design,Small Business,Social Media,29000.0,5.1,In Progress,0.0
+DG01088,2026-08-03,Content Marketing,Educational Institution,Organic Search,168000.0,4.9,Converted,158000.0
+DG01089,2026-08-03,Website Design & Development,NGO,Social Media,41000.0,5.5,In Progress,0.0
+DG01090,2026-08-03,Social Media Management,Small Business,Social Media,52000.0,17.0,Converted,50000.0
+DG01091,2026-08-04,Content Marketing,Startup,Paid Ads,242000.0,5.7,Converted,251000.0
+DG01092,2026-08-04,SEO,Small Business,Direct,62000.0,9.3,Converted,54000.0
+DG01093,2026-08-04,Website Design & Development,Small Business,Referral,36000.0,3.5,Lost,0.0
+DG01094,2026-08-05,Web Design,Small Business,Organic Search,33000.0,1.5,Lost,0.0
+DG01095,2026-08-05,SEO,Small Business,Paid Ads,,2.4,Converted,43000.0
+DG01096,2026-08-05,Website Design & Development,Small Business,Organic Search,51000.0,10.8,In Progress,0.0
+DG01097,2026-08-05,Social Media Management,Small Business,Organic Search,104000.0,15.0,Lost,0.0
+DG01098,2026-08-06,E-commerce Setup,Startup,Email,132000.0,4.0,In Progress,0.0
+DG01099,2026-08-06,Content Marketing,Small Business,Direct,72000.0,4.2,Lost,0.0
+DG01100,2026-08-06,SEO,Small Business,Direct,72000.0,5.7,Converted,68000.0
+DG01101,07-08-2026,Social Media Management,NGO,Direct,28000.0,9.0,Converted,28000.0
+DG01102,2026-08-07,Social Media Management,Startup,Paid Ads,102000.0,4.2,In Progress,0.0
+DG01103,2026-08-07,Social Media Management,Small Business,Organic Search,29000.0,25.2,In Progress,0.0
+DG01104,2026-08-08,Social Media Management,NGO,Organic Search,39000.0,1.4,Converted,32000.0
+DG01105,2026-08-08,Website Design & Development,Educational Institution,Paid Ads,42000.0,0.8,Lost,0.0
+DG01106,2026-08-08,E-commerce Setup,Small Business,Paid Ads,63000.0,21.6,Converted,45000.0
+DG01107,2026-08-09,SEO,Startup,Social Media,146000.0,7.7,Converted,106000.0
+DG01108,2026-08-09,Website Design & Development,Educational Institution,Organic Search,62000.0,6.5,Lost,0.0
+DG01109,2026-08-09,Content Marketing,Small Business,Social Media,50000.0,11.3,Lost,0.0
+DG01110,2026-08-09,Social Media Management,Small Business,Organic Search,57000.0,2.1,Converted,54000.0
+DG01111,2026-08-10,Social Media Management,Individual / Freelancer,Paid Ads,18000.0,2.5,Converted,13000.0
+DG01112,2026-08-10,Social Media Management,Startup,Paid Ads,34000.0,7.3,Lost,0.0
+DG01113,2026-08-10,SEO,Small Business,Social Media,86000.0,1.5,Lost,0.0
+DG01114,2026-08-10,E-commerce Setup,Small Business,Organic Search,103000.0,9.1,Converted,99000.0
+DG01115,2026-08-11,website design & development,Small Business,Referral,70000.0,6.2,Converted,56000.0
+DG01116,2026-08-11,Website Design & Development,Small Business,Referral,66000.0,4.7,Lost,0.0
+DG01117,2026-08-11,Content Marketing,Educational Institution,Social Media,68000.0,1.7,converted,49000.0
+DG01118,2026-08-11,Website Design & Development,Small Business,Organic Search,75000.0,9.6,Lost,0.0
+DG01119,2026-08-11,E-commerce Setup,Startup,Organic Search,222000.0,9.6,Lost,0.0
+DG01120,2026-08-11,SEO,Individual / Freelancer,Organic Search,,4.7,Lost,0.0
+DG01121,2026-08-12,E-commerce Setup,Small Business,Referral,76000.0,2.2,Converted,58000.0
+DG01122,2026-08-12,SEO,Individual / Freelancer,Social Media,7000.0,21.2,Lost,0.0
+DG01123,2026-08-12,E-commerce Setup,Small Business,Organic Search,88000.0,6.9,Lost,0.0
+DG01124,2026-08-13,SEO,Startup,Referral,83000.0,9.2,Lost,0.0
+DG01125,2026-08-13,Content Marketing,Small Business,Paid Ads,50000.0,1.8,Lost,0.0
+DG01126,2026-08-13,Content Marketing,Small Business,Organic Search,39000.0,2.0,Converted,35000.0
+DG01127,2026-08-14,Content Marketing,Small Business,Paid Ads,80000.0,3.2,Lost,0.0
+DG01128,2026-08-14,Social Media Management,Small Business,Organic Search,51000.0,13.5,Converted,44000.0
+DG01129,2026-08-14,Social Media Management,Small Business,Direct,84000.0,14.7,Lost,0.0
+DG01130,2026-08-15,Social Media Management,Individual / Freelancer,Referral,10000.0,24.5,Lost,0.0
+DG01131,2026-08-15,SEO,Startup,Paid Ads,123000.0,9.4,Converted,117000.0
+DG01132,2026-08-15,Social Media Management,Startup,Referral,36000.0,2.2,Lost,0.0
+DG01133,2026-08-16,Content Marketing,Small Business,Paid Ads,69000.0,3.1,converted,52000.0
+DG01134,2026-08-16,Social Media Management,Small Business,Organic Search,257000.0,2.3,Converted,216000.0
+DG01135,2026-08-17,SEO,Small Business,Referral,77000.0,15.8,converted,67000.0
+DG01136,2026-08-17,Social Media Management,Startup,Organic Search,99000.0,26.6,Lost,0.0
+DG01137,2026-08-17,Content Marketing,Small Business,Organic Search,38000.0,3.5,Converted,31000.0
+DG01138,2026-08-17,Social Media Management,Startup,Paid Ads,114000.0,2.3,Lost,0.0
+DG01139,2026-08-17,SEO,Startup,Paid Ads,49000.0,5.2,Converted,38000.0
+DG01140,2026-08-18,SEO,Startup,Paid Ads,51000.0,10.1,Lost,0.0
+DG01141,2026-08-18,SEO,Startup,Paid Ads,121000.0,3.7,Converted,122000.0
+DG01142,2026-08-19,Website Design & Development,Individual / Freelancer,Organic Search,12000.0,4.7,Converted,11000.0
+DG01143,2026-08-20,Website Design & Development,Small Business,Direct,50000.0,18.1,Lost,0.0
+DG01144,20-08-2026,E-commerce Setup,Small Business,Direct,73000.0,5.9,Lost,0.0
+DG01145,2026-08-20,SEO,Small Business,Direct,,4.8,Converted,47000.0
+DG01146,2026-08-20,Website Design & Development,Small Business,Social Media,20000.0,1.9,Converted,14000.0
+DG01147,2026-08-21,Social Media Management,Small Business,Referral,61000.0,8.1,In Progress,0.0
+DG01148,2026-08-21,Content Marketing,Educational Institution,Direct,139000.0,6.7,Lost,0.0
+DG01149,2026-08-21,Content Marketing,Small Business,Organic Search,64000.0,3.9,Lost,0.0
+DG01150,2026-08-21,E-commerce Setup,Individual / Freelancer,Paid Ads,23000.0,13.0,Converted,19000.0
+DG01151,2026-08-22,SEO,Small Business,Email,64000.0,7.5,Lost,0.0
+DG01152,2026-08-22,Website Design & Development,Small Business,Social Media,42000.0,54.4,In Progress,0.0
+DG01153,2026-08-23,Website Design & Development,Educational Institution,Social Media,43000.0,4.8,Converted,30000.0
+DG01154,2026-08-24,Social Media Management,Startup,Direct,48000.0,41.6,In Progress,0.0
+DG01155,2026-08-24,E-commerce Setup,Individual / Freelancer,Social Media,17000.0,6.4,In Progress,0.0
+DG01156,2026-08-24,Content Marketing,Small Business,Organic Search,18000.0,5.9,Converted,13000.0
+DG01157,2026-08-24,Content Marketing,Small Business,Social Media,39000.0,15.4,Converted,33000.0
+DG01158,2026-08-24,Website Design & Development,Startup,Organic Search,171000.0,9.0,In-Progress,0.0
+DG01159,2026-08-24,E-commerce Setup,Small Business,Direct,29000.0,3.0,In Progress,0.0
+DG01160,2026-08-24,Website Design & Development,Small Business,Social Media,113000.0,23.2,Lost,0.0
+DG01161,2026-08-25,Social Media Mgmt,Small Business,Referral,32000.0,2.4,Converted,32000.0
+DG01162,2026-08-25,SEO,Small Business,Organic Search,67000.0,5.6,In Progress,0.0
+DG01163,2026-08-25,Website Design & Development,Small Business,Social Media,117000.0,3.0,lost,0.0
+DG01164,2026-08-25,SEO,Startup,Email,103000.0,13.4,In Progress,0.0
+DG01165,2026-08-26,Social Media Management,Individual / Freelancer,Social Media,40000.0,7.3,Lost,0.0
+DG01166,2026-08-26,Social Media Management,Small Business,Paid Ads,,4.4,Lost,0.0
+DG01167,2026-08-26,Content Marketing,Educational Institution,Direct,71000.0,8.0,Converted,72000.0
+DG01168,2026-08-26,E-commerce Setup,NGO,Paid Ads,38000.0,3.8,Converted,37000.0
+DG01169,2026-08-26,Website Design & Development,Startup,Direct,194000.0,6.5,Converted,168000.0
+DG01170,2026-08-26,E-commerce Setup,Startup,Email,89000.0,8.5,Lost,0.0
+DG01171,2026-08-26,Content Marketing,Startup,Direct,81000.0,4.4,In Progress,0.0
+DG01172,2026-08-26,SEO,Small Business,Email,130000.0,17.1,In Progress,0.0
+DG01173,2026-08-27,Social Media Management,Small Business,Organic Search,69000.0,3.2,Converted,58000.0
+DG01174,2026-08-27,Content Marketing,Small Business,Referral,27000.0,7.4,In Progress,0.0
+DG01175,2026-08-27,Website Design & Development,Individual / Freelancer,Organic Search,31000.0,6.1,Converted,23000.0
+DG01176,2026-08-27,Social Media Management,Startup,Email,124000.0,6.6,Lost,0.0
+DG01177,2026-08-28,Social Media Management,Small Business,Direct,115000.0,2.9,Converted,108000.0
+DG01178,2026-08-28,SEO,Small Business,Organic Search,46000.0,5.0,Converted,34000.0
+DG01179,2026-08-28,Website Design & Development,Startup,Social Media,47000.0,1.5,Lost,0.0
+DG01180,2026-08-28,Social Media Management,Individual / Freelancer,Organic Search,26000.0,0.8,Converted,23000.0
+DG01181,2026-08-29,Website Design & Development,Startup,Paid Ads,61000.0,9.2,In Progress,0.0
+DG01182,2026-08-29,E-commerce Setup,Startup,Referral,69000.0,3.9,Converted,59000.0
+DG01183,2026-08-29,Website Design & Development,Small Business,Social Media,69000.0,7.7,Converted,63000.0
+DG01184,2026-08-30,Content Marketing,Individual / Freelancer,Social Media,54000.0,5.1,In Progress,0.0
+DG01185,2026-08-30,Social Media Management,Startup,Email,106000.0,10.5,Converted,78000.0
+DG01186,2026-08-30,Website Design & Development,Startup,Direct,75000.0,0.7,Converted,65000.0
+DG01187,2026-08-31,Content Marketing,NGO,Paid Ads,32000.0,1.9,Converted,33000.0
+DG01188,2026-08-31,Website Design & Development,Startup,Paid Ads,204000.0,6.2,In Progress,0.0
+DG01189,2026-08-31,SEO,Small Business,Social Media,72000.0,19.8,Lost,0.0
+DG01190,2026-08-31,Social Media Management,Startup,Social Media,100000.0,4.2,Converted,81000.0
+DG01191,2026-08-31,Website Design & Development,Educational Institution,Organic Search,108000.0,3.1,Lost,0.0
+DG01192,2026-08-31,SEO,Small Business,Organic Search,54000.0,49.1,Converted,56000.0
+DG01193,2026-08-31,Website Design & Development,Startup,Paid Ads,140000.0,2.8,Converted,104000.0
+DG01194,2026-09-01,SEO,Small Business,Referral,43000.0,25.5,Converted,41000.0
+DG01195,2026-09-01,Social Media Management,Small Business,Paid Ads,107000.0,8.0,In Progress,0.0
+DG01196,2026-09-01,Content Marketing,NGO,Email,31000.0,3.5,Lost,0.0
+DG01197,2026-09-01,SEO,Startup,Direct,61000.0,16.1,In Progress,0.0
+DG01198,01-09-2026,SEO,Individual / Freelancer,Paid Ads,14000.0,,In Progress,0.0
+DG01199,2026-09-01,Content Marketing,Startup,Direct,59000.0,4.4,Lost,0.0
+DG01200,2026-09-02,Website Design & Development,Small Business,Paid Ads,,13.9,In Progress,0.0
+DG01201,2026-09-02,Website Design & Development,Individual / Freelancer,Organic Search,18000.0,3.7,Converted,16000.0
+DG01202,2026-09-02,Content Marketing,Small Business,Paid Ads,35000.0,2.5,Converted,33000.0
+DG01203,2026-09-02,Social Media Management,Startup,Paid Ads,46000.0,11.2,Converted,43000.0
+DG01204,2026-09-03,Website Design & Development,Startup,Social Media,146000.0,8.5,In Progress,0.0
+DG01205,2026-09-03,SEO,Small Business,Organic Search,50000.0,6.1,Lost,0.0
+DG01206,2026-09-03,Content Marketing,Individual / Freelancer,Organic Search,15000.0,5.1,Lost,0.0
+DG01207,2026-09-03,SEO,Startup,Direct,164000.0,5.2,Converted,124000.0
+DG01208,2026-09-03,Social Media Management,Small Business,Direct,41000.0,4.6,Converted,42000.0
+DG01209,2026-09-03,Website Design & Development,Educational Institution,Social Media,40000.0,5.7,Lost,0.0
+DG01210,2026-09-04,Website Design & Development,Startup,Referral,64000.0,13.2,Converted,55000.0
+DG01211,2026-09-05,Website Design & Development,Small Business,Social Media,46000.0,10.6,Lost,0.0
+DG01212,2026-09-06,E-commerce Setup,Startup,Organic Search,37000.0,2.0,Converted,31000.0
+DG01213,2026-09-06,SEO,Small Business,Paid Ads,21000.0,1.4,converted,20000.0
+DG01214,2026-09-06,SEO,Startup,Organic Search,62000.0,4.6,In Progress,0.0
+DG01215,2026-09-06,Content Marketing,Small Business,Social Media,71000.0,5.6,Converted,74000.0
+DG01216,2026-09-06,Website Design & Development,Startup,Email,144000.0,3.4,Converted,121000.0
+DG01217,2026-09-08,Social Media Management,Small Business,Direct,77000.0,5.8,Converted,74000.0
+DG01218,2026-09-08,Content Marketing,Startup,Referral,132000.0,9.7,In Progress,0.0
+DG01219,2026-09-08,SEO,NGO,Organic Search,51000.0,2.1,Lost,0.0
+DG01220,2026-09-08,Website Design & Development,Educational Institution,Email,25000.0,6.3,Converted,19000.0
+DG01221,2026-09-08,SEO,Individual / Freelancer,Direct,21000.0,10.7,In Progress,0.0
+DG01222,2026-09-08,Content Marketing,Small Business,Paid Ads,145000.0,15.5,Converted,132000.0
+DG01223,2026-09-09,Content Marketing,Small Business,Direct,198000.0,5.0,Lost,0.0
+DG01224,2026-09-09,Content Marketing,Small Business,Organic Search,70000.0,3.0,In Progress,0.0
+DG01225,2026-09-09,e-commerce setup,Small Business,Organic Search,77000.0,8.9,Converted,58000.0
+DG01226,2026-09-09,Website Design & Development,Small Business,Organic Search,54000.0,4.3,Converted,41000.0
+DG01227,2026-09-10,Content Marketing,Educational Institution,Paid Ads,22000.0,6.0,Lost,0.0
+DG01228,2026-09-10,SEO,Startup,Referral,210000.0,2.8,Converted,177000.0
+DG01229,2026-09-10,Content Marketing,Small Business,Direct,59000.0,0.5,Converted,49000.0
+DG01230,2026-09-10,Social Media Management,Small Business,Referral,44000.0,10.9,In Progress,0.0
+DG01231,2026-09-11,E-commerce Setup,Small Business,Social Media,21000.0,,Lost,0.0
+DG01232,2026-09-11,Content Marketing,Small Business,Organic Search,39000.0,10.0,Converted,33000.0
+DG01233,2026-09-11,Website Design & Development,Small Business,Organic Search,64000.0,2.8,Converted,56000.0
+DG01234,2026-09-11,E-commerce Setup,Small Business,Organic Search,33000.0,6.2,Lost,0.0
+DG01235,2026-09-11,Website Design & Development,Individual / Freelancer,Email,11000.0,4.8,Lost,0.0
+DG01236,2026-09-11,E-commerce Setup,Individual / Freelancer,Organic Search,20000.0,10.2,In Progress,0.0
+DG01237,2026-09-12,SEO,Small Business,Organic Search,93000.0,7.9,Lost,0.0
+DG01238,2026-09-12,SEO,Startup,Organic Search,167000.0,3.0,Converted,123000.0
+DG01239,2026-09-12,E-commerce Setup,Educational Institution,Organic Search,89000.0,9.1,Lost,0.0
+DG01240,12-09-2026,SEO,Startup,Referral,52000.0,2.7,Converted,43000.0
+DG01241,2026-09-13,Content Marketing,Small Business,Organic Search,29000.0,3.7,Converted,27000.0
+DG01242,2026-09-14,Social Media Management,Individual / Freelancer,Paid Ads,17000.0,6.1,Lost,0.0
+DG01243,2026-09-14,Content Marketing,Small Business,Organic Search,37000.0,2.5,Converted,34000.0
+DG01244,2026-09-14,Website Design & Development,Startup,Referral,108000.0,6.1,Converted,112000.0
+DG01245,2026-09-14,Website Design & Development,Startup,Direct,78000.0,4.0,Converted,55000.0
+DG01246,2026-09-14,SEO,Startup,Referral,51000.0,1.6,Converted,37000.0
+DG01247,2026-09-15,SEO,Startup,Direct,70000.0,16.0,Lost,0.0
+DG01248,15-09-2026,Social Media Management,Small Business,Paid Ads,56000.0,4.2,Lost,0.0
+DG01249,2026-09-16,website design & development,Individual / Freelancer,Social Media,26000.0,3.1,In Progress,0.0
+DG01250,2026-09-16,Social Media Management,Small Business,Email,37000.0,4.9,Lost,0.0
+DG01251,2026-09-16,Social Media Management,Small Business,Referral,35000.0,24.4,In Progress,0.0
+DG01251,2026-09-16,Social Media Management,Small Business,Referral,35000.0,24.4,In Progress,0.0
+DG01252,2026-09-17,Content Marketing,Startup,Organic Search,90000.0,,LOST,0.0
+DG01253,2026-09-17,Social Media Management,Small Business,Social Media,61000.0,6.5,Converted,45000.0
+DG01254,2026-09-17,SEO,Startup,Organic Search,115000.0,6.0,Converted,88000.0
+DG01255,2026-09-17,E-commerce Setup,Small Business,Organic Search,103000.0,3.9,Converted,92000.0
+DG01256,2026-09-17,SEO,Small Business,Paid Ads,61000.0,8.5,in progress,0.0
+DG01257,2026-09-17,Website Design & Development,Individual / Freelancer,Social Media,31000.0,12.9,Lost,0.0
+DG01258,2026-09-17,Social Media Management,Startup,Direct,275000.0,3.0,Converted,277000.0
+DG01259,2026-09-17,Content Marketing,Small Business,Organic Search,115000.0,21.4,Converted,119000.0
+DG01260,2026-09-18,E-commerce Setup,NGO,Organic Search,11000.0,4.2,In Progress,0.0
+DG01261,2026-09-18,Web Design,Educational Institution,Direct,97000.0,5.7,In Progress,0.0
+DG01262,2026-09-20,E-commerce Setup,Small Business,Direct,83000.0,4.0,In Progress,0.0
+DG01263,2026-09-20,Website Design & Development,Startup,Referral,51000.0,14.2,In-Progress,0.0
+DG01264,2026-09-20,E-commerce Setup,Small Business,Paid Ads,158000.0,5.8,Lost,0.0
+DG01265,2026-09-20,SEO,Individual / Freelancer,Organic Search,10000.0,13.6,Converted,9000.0
+DG01266,2026-09-20,social media management,Small Business,Organic Search,133000.0,10.7,Converted,94000.0
+DG01267,2026-09-21,Website Design & Development,Startup,Referral,107000.0,4.6,Lost,0.0
+DG01268,2026-09-21,Social Media Management,Startup,Referral,94000.0,9.9,In Progress,0.0
+DG01269,2026-09-21,E-commerce Setup,Startup,Organic Search,123000.0,16.4,Converted,96000.0
+DG01270,2026-09-21,Social Media Management,Startup,Social Media,131000.0,15.8,Lost,0.0
+DG01271,21-09-2026,E-commerce Setup,Small Business,Organic Search,57000.0,5.5,Converted,58000.0
+DG01272,2026-09-22,Website Design & Development,Startup,Referral,89000.0,5.3,In Progress,0.0
+DG01273,2026-09-23,Social Media Management,Startup,Organic Search,77000.0,12.1,In Progress,0.0
+DG01274,2026-09-23,Social Media Management,Startup,Organic Search,75000.0,1.9,Lost,0.0
+DG01275,2026-09-24,Website Design & Development,Startup,Social Media,40000.0,20.2,Converted,41000.0
+DG01276,2026-09-24,Website Design & Development,Individual / Freelancer,Email,48000.0,4.2,Converted,45000.0
+DG01277,2026-09-24,SEO,Startup,Social Media,75000.0,4.3,In Progress,0.0
+DG01278,2026-09-24,Website Design & Development,NGO,Organic Search,32000.0,7.0,Converted,28000.0
+DG01279,25-09-2026,Social Media Management,Small Business,Social Media,74000.0,3.2,In Progress,0.0
+DG01280,2026-09-25,Social Media Management,Small Business,Social Media,66000.0,11.5,Lost,0.0
+DG01281,2026-09-25,Website Design & Development,Educational Institution,Referral,39000.0,0.6,Converted,35000.0
+DG01282,2026-09-25,Content Marketing,Small Business,Direct,74000.0,11.7,In Progress,0.0
+DG01283,2026-09-25,Website Design & Development,Small Business,Referral,82000.0,3.5,Converted,69000.0
+DG01284,2026-09-25,Social Media Management,Individual / Freelancer,Paid Ads,8000.0,14.9,In Progress,0.0
+DG01285,2026-09-26,Social Media Management,Startup,Social Media,119000.0,3.6,in progress,0.0
+DG01286,2026-09-26,Website Design & Development,Small Business,Referral,27000.0,4.4,Converted,26000.0
+DG01287,2026-09-26,Website Design & Development,Small Business,Direct,86000.0,3.0,Converted,86000.0
+DG01288,2026-09-27,Website Design & Development,Small Business,Social Media,214000.0,6.7,Lost,0.0
+DG01289,2026-09-27,E-commerce Setup,Individual / Freelancer,Organic Search,10000.0,3.4,Lost,0.0
+DG01290,2026-09-27,Social Media Management,Small Business,Paid Ads,79000.0,17.6,Lost,0.0
+DG01291,2026-09-27,SEO,Individual / Freelancer,Paid Ads,28000.0,15.9,Lost,0.0
+DG01292,2026-09-28,E-commerce Setup,NGO,Organic Search,30000.0,3.1,Converted,27000.0
+DG01293,2026-09-28,SEO,Startup,Paid Ads,183000.0,7.2,Converted,182000.0
+DG01294,28-09-2026,E-commerce Setup,Small Business,Paid Ads,106000.0,2.9,Won,109000.0
+DG01295,2026-09-29,Website Design & Development,NGO,Direct,28000.0,4.4,In Progress,0.0
+DG01296,2026-09-29,Content Marketing,Small Business,Paid Ads,50000.0,9.5,In Progress,0.0
+DG01297,2026-09-30,Website Design & Development,Individual / Freelancer,Email,15000.0,5.9,Converted,13000.0
+DG01298,2026-09-30,Content Marketing,Small Business,Social Media,37000.0,8.3,In Progress,0.0
+DG01299,2026-09-30,E-commerce Setup,Startup,Social Media,105000.0,21.9,Converted,100000.0
+DG01300,2026-09-30,Website Design & Development,Small Business,Social Media,20000.0,5.9,In Progress,0.0

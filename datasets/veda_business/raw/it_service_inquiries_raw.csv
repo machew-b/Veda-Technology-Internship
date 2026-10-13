@@ -1,0 +1,1107 @@
+inquiry_id,inquiry_date,service_type,client_type,channel,budget_inr,response_time_hours,status,deal_value_inr
+IT00001,2025-10-01,Software Development,SME,Email,433000.0,6.2,In Progress,0.0
+IT00002,2025-10-01,Cloud & DevOps,Startup,Social Media,677000.0,4.8,Lost,0.0
+IT00003,2025-10-01,Cybersecurity,Educational Institution,Paid Ads,220000.0,6.5,In Progress,0.0
+IT00004,2025-10-01,Cloud & DevOps,Educational Institution,Referral,256000.0,12.6,Converted,243000.0
+IT00005,2025-10-01,Cybersecurity,SME,Direct,946000.0,12.5,In Progress,0.0
+IT00006,2025-10-02,Software Development,Educational Institution,Paid Ads,531000.0,6.7,Converted,537000.0
+IT00007,2025-10-02,Cloud & DevOps,SME,Referral,247000.0,9.0,Lost,0.0
+IT00008,2025-10-02,Cybersecurity,Enterprise,Social Media,1038000.0,10.0,Converted,971000.0
+IT00009,2025-10-02,Cybersecurity,Enterprise,Organic Search,742000.0,2.4,converted,729000.0
+IT00010,2025-10-03,Data & Analytics Consulting,Startup,Organic Search,73000.0,3.2,Converted,56000.0
+IT00011,2025-10-03,Data & Analytics Consulting,SME,Organic Search,603000.0,4.6,Lost,0.0
+IT00012,2025-10-04,Software Development,SME,Referral,903000.0,2.5,Converted,662000.0
+IT00013,2025-10-04,Software Development,SME,Social Media,439000.0,51.3,In Progress,0.0
+IT00014,2025-10-04,IT Support & Maintenance,Individual,Email,20000.0,2.1,Converted,15000.0
+IT00015,2025-10-05,Software Development,SME,Organic Search,518000.0,14.3,In Progress,0.0
+IT00016,2025-10-06,Data & Analytics Consulting,Individual,Email,53000.0,8.8,Lost,0.0
+IT00017,2025-10-06,IT Support & Maintenance,Educational Institution,Email,141000.0,5.8,Converted,143000.0
+IT00018,07-10-2025,IT Support & Maintenance,SME,Organic Search,625000.0,25.9,Converted,589000.0
+IT00019,2025-10-08,Software Development,Startup,Organic Search,102000.0,16.8,In Progress,0.0
+IT00020,2025-10-09,Cloud & DevOps,SME,Direct,306000.0,8.4,Converted,263000.0
+IT00021,2025-10-09,Software Development,Enterprise,Organic Search,2758000.0,5.1,In Progress,0.0
+IT00022,2025-10-09,Data & Analytics Consulting,SME,Direct,592000.0,2.8,in progress,0.0
+IT00023,2025-10-09,IT Support & Maintenance,Enterprise,Social Media,1719000.0,9.3,In-Progress,0.0
+IT00024,2025-10-10,IT Support & Maintenance,Individual,Direct,18000.0,9.4,Converted,17000.0
+IT00025,2025-10-10,IT Support & Maintenance,Individual,Paid Ads,39000.0,5.6,In Progress,0.0
+IT00026,2025-10-11,IT Support & Maintenance,Educational Institution,Direct,340000.0,3.0,Converted,347000.0
+IT00027,2025-10-11,Cloud & DevOps,Enterprise,Organic Search,554000.0,15.6,Converted,552000.0
+IT00028,2025-10-11,Cloud & DevOps,Individual,Organic Search,28000.0,2.3,LOST,0.0
+IT00029,2025-10-13,Cloud & DevOps,SME,Social Media,1384000.0,2.4,Converted,1243000.0
+IT00030,2025-10-13,Cybersecurity,Educational Institution,Organic Search,431000.0,6.4,Lost,0.0
+IT00031,2025-10-13,IT Support & Maintenance,Startup,Email,130000.0,30.6,Lost,0.0
+IT00032,2025-10-13,Cloud & DevOps,Startup,Referral,307000.0,24.6,Converted,217000.0
+IT00033,2025-10-13,IT Support & Maintenance,Individual,Email,38000.0,9.7,Lost,0.0
+IT00034,2025-10-13,Data & Analytics Consulting,Startup,Organic Search,408000.0,8.8,Lost,0.0
+IT00035,2025-10-14,Software Development,SME,Email,283000.0,7.0,In Progress,0.0
+IT00036,2025-10-14,Software Development,SME,Direct,478000.0,9.5,Lost,0.0
+IT00037,2025-10-14,Data & Analytics Consulting,Individual,Organic Search,53000.0,13.1,Converted,50000.0
+IT00038,2025-10-14,Cloud & DevOps,SME,Referral,434000.0,16.8,Converted,355000.0
+IT00039,2025-10-15,Software Development,SME,Referral,501000.0,4.3,In-Progress,0.0
+IT00040,2025-10-15,Data & Analytics Consulting,Individual,Email,,19.0,Converted,60000.0
+IT00041,2025-10-16,IT Support & Maintenance,SME,Paid Ads,314000.0,6.4,Converted,326000.0
+IT00042,2025-10-16,IT Support & Maintenance,SME,Social Media,185000.0,2.4,Converted,162000.0
+IT00043,2025-10-16,Software Development,SME,Referral,603000.0,2.4,Converted,540000.0
+IT00044,2025-10-17,Cloud & DevOps,Startup,Organic Search,257000.0,22.4,Lost,0.0
+IT00045,2025-10-17,Cloud & DevOps,Educational Institution,Organic Search,348000.0,3.9,In Progress,0.0
+IT00046,2025-10-18,IT Support & Maintenance,SME,Paid Ads,474000.0,0.9,Lost,0.0
+IT00047,2025-10-19,Software Development,Startup,Referral,181000.0,7.0,Lost,0.0
+IT00048,2025-10-19,IT Support & Maintenance,Individual,Referral,27000.0,1.2,Converted,25000.0
+IT00049,2025-10-19,Cybersecurity,Educational Institution,Referral,258000.0,6.9,Lost,0.0
+IT00050,2025-10-20,Cloud & DevOps,SME,Organic Search,256000.0,16.1,In Progress,0.0
+IT00051,2025-10-20,IT Support & Maintenance,Enterprise,Organic Search,2332000.0,6.4,Lost,0.0
+IT00052,2025-10-21,IT Support & Maintenance,Individual,Organic Search,32000.0,4.7,Lost,0.0
+IT00053,2025-10-22,it support & maintenance,SME,Organic Search,308000.0,15.6,Lost,0.0
+IT00054,2025-10-22,Data & Analytics Consulting,Startup,Paid Ads,142000.0,10.4,Lost,0.0
+IT00055,2025-10-22,Data & Analytics Consulting,SME,Direct,265000.0,8.3,Converted,228000.0
+IT00056,2025-10-23,Data & Analytics Consulting,SME,Organic Search,405000.0,4.4,Lost,0.0
+IT00057,2025-10-23,IT Support & Maintenance,Individual,Direct,31000.0,5.1,Converted,25000.0
+IT00058,2025-10-23,Software Development,SME,Email,421000.0,5.1,In Progress,0.0
+IT00059,2025-10-23,Cybersecurity,SME,Referral,392000.0,4.1,Converted,309000.0
+IT00060,2025-10-24,IT Support & Maintenance,SME,Direct,389000.0,5.1,Converted,343000.0
+IT00061,2025-10-25,Cloud & DevOps,Educational Institution,Organic Search,211000.0,5.7,Converted,204000.0
+IT00062,2025-10-25,IT Support & Maintenance,SME,Organic Search,521000.0,19.6,Converted,366000.0
+IT00063,2025-10-26,IT Support & Maintenance,Startup,Referral,280000.0,21.4,Converted,267000.0
+IT00064,2025-10-27,Software Development,Startup,Direct,186000.0,2.1,Lost,0.0
+IT00065,2025-10-27,Data & Analytics Consulting,Educational Institution,Direct,223000.0,15.2,In Progress,0.0
+IT00066,2025-10-29,Cloud & DevOps,Individual,Referral,39000.0,19.9,Converted,33000.0
+IT00067,2025-10-29,Cybersecurity,Startup,Referral,215000.0,8.5,Lost,0.0
+IT00068,2025-10-29,Cybersecurity,Enterprise,Paid Ads,2524000.0,16.7,Converted,2152000.0
+IT00069,2025-10-29,IT Support & Maintenance,Enterprise,Direct,2492000.0,4.1,Lost,0.0
+IT00070,2025-10-29,Software Development,Individual,Organic Search,40000.0,33.5,Lost,0.0
+IT00071,2025-10-29,Cybersecurity,Startup,Email,205000.0,3.0,Converted,179000.0
+IT00072,2025-10-29,Cloud & DevOps,Startup,Organic Search,,19.0,Converted,232000.0
+IT00073,2025-10-30,IT Support & Maintenance,Educational Institution,Referral,260000.0,22.2,Converted,250000.0
+IT00074,2025-10-31,Software Development,Enterprise,Direct,2220000.0,3.5,Converted,2150000.0
+IT00075,2025-10-31,Software Development,Enterprise,Direct,3848000.0,6.1,Lost,0.0
+IT00076,2025-11-01,IT Support & Maintenance,SME,Organic Search,377000.0,5.0,Lost,0.0
+IT00077,2025-11-01,Cloud & DevOps,Educational Institution,Organic Search,442000.0,3.8,Converted,384000.0
+IT00078,2025-11-01,Cybersecurity,SME,Organic Search,362000.0,10.0,Converted,317000.0
+IT00079,2025-11-02,IT Support & Maintenance,Startup,Organic Search,267000.0,10.9,Lost,0.0
+IT00080,2025-11-03,Data & Analytics Consulting,Individual,Organic Search,30000.0,8.4,Lost,0.0
+IT00081,2025-11-03,Cloud & DevOps,Individual,Social Media,32000.0,9.6,Converted,28000.0
+IT00082,2025-11-03,Software Development,SME,Email,246000.0,5.0,Converted,255000.0
+IT00083,2025-11-04,Data & Analytics Consulting,Enterprise,Email,2009000.0,6.4,Lost,0.0
+IT00084,2025-11-04,IT Support & Maintenance,SME,Direct,437000.0,9.7,Lost,0.0
+IT00085,2025-11-05,Data & Analytics Consulting,SME,Email,518000.0,6.3,Lost,0.0
+IT00086,2025-11-05,IT Support & Maintenance,SME,Referral,226000.0,18.5,Converted,170000.0
+IT00087,2025-11-05,Cybersecurity,Enterprise,Direct,1551000.0,2.5,Converted,1324000.0
+IT00088,2025-11-06,IT Support & Maintenance,Individual,Paid Ads,47000.0,3.8,Lost,0.0
+IT00089,2025-11-06,IT Support & Maintenance,SME,Organic Search,392000.0,2.9,converted,325000.0
+IT00090,2025-11-07,Software Development,SME,Referral,499000.0,5.4,Lost,0.0
+IT00091,2025-11-07,Cybersecurity,Startup,Organic Search,332000.0,2.9,In Progress,0.0
+IT00092,2025-11-07,Software Development,Educational Institution,Paid Ads,321000.0,8.1,Lost,0.0
+IT00093,2025-11-07,Data & Analytics Consulting,Startup,Direct,208000.0,8.1,Lost,0.0
+IT00094,2025-11-07,IT Support & Maintenance,Enterprise,Paid Ads,1587000.0,3.4,In Progress,0.0
+IT00095,2025-11-07,IT Support & Maintenance,Educational Institution,Email,332000.0,9.7,In Progress,0.0
+IT00096,2025-11-08,Software Development,SME,Email,945000.0,1.1,Converted,739000.0
+IT00097,2025-11-08,Software Development,Enterprise,Referral,1051000.0,14.1,In Progress,0.0
+IT00098,2025-11-09,IT Support & Maintenance,Individual,Email,38000.0,21.5,Lost,0.0
+IT00099,2025-11-09,Data & Analytics Consulting,Educational Institution,Organic Search,371000.0,6.6,Converted,289000.0
+IT00100,2025-11-09,Cybersecurity,SME,Direct,465000.0,20.8,Converted,406000.0
+IT00101,11-11-2025,Software Development,Startup,Direct,460000.0,18.5,Lost,0.0
+IT00102,2025-11-11,Cloud & DevOps,Enterprise,Referral,2285000.0,4.8,Lost,0.0
+IT00103,2025-11-11,IT Support & Maintenance,Educational Institution,Email,138000.0,2.3,Lost,0.0
+IT00104,2025-11-12,Software Development,Educational Institution,Email,540000.0,32.8,In Progress,0.0
+IT00105,2025-11-12,Cloud & DevOps,SME,Direct,323000.0,9.5,Lost,0.0
+IT00106,2025-11-12,IT Support & Maintenance,SME,Organic Search,160000.0,13.9,lost,0.0
+IT00107,2025-11-12,IT Support & Maintenance,SME,Organic Search,404000.0,1.6,Converted,362000.0
+IT00108,2025-11-13,Data & Analytics Consulting,Enterprise,Organic Search,1422000.0,10.5,converted,1148000.0
+IT00109,2025-11-13,Cloud & DevOps,Startup,Direct,442000.0,3.2,Converted,458000.0
+IT00110,2025-11-14,Software Development,Enterprise,Referral,1365000.0,4.1,Lost,0.0
+IT00111,2025-11-14,Cloud & DevOps,Startup,Social Media,126000.0,4.7,Converted,120000.0
+IT00112,2025-11-14,Software Development,Startup,Referral,327000.0,3.7,Converted,255000.0
+IT00113,2025-11-15,Cloud & DevOps,Educational Institution,Organic Search,278000.0,11.9,In Progress,0.0
+IT00114,2025-11-15,Software Development,SME,Organic Search,523000.0,21.5,Converted,392000.0
+IT00115,2025-11-16,IT Support & Maintenance,Startup,Organic Search,152000.0,11.2,Lost,0.0
+IT00116,2025-11-16,IT Support & Maintenance,Individual,Email,69000.0,4.6,Converted,68000.0
+IT00117,2025-11-17,Cloud & DevOps,SME,Referral,456000.0,19.6,Converted,472000.0
+IT00118,2025-11-17,IT Support & Maintenance,Startup,Organic Search,216000.0,8.6,In Progress,0.0
+IT00119,2025-11-17,Data & Analytics Consulting,Individual,Referral,44000.0,7.1,In Progress,0.0
+IT00120,2025-11-17,IT Support & Maintenance,SME,Direct,453000.0,21.0,In Progress,0.0
+IT00121,2025-11-17,IT Support,SME,Paid Ads,316000.0,4.4,In Progress,0.0
+IT00122,2025-11-18,Software Development,SME,Referral,632000.0,2.9,Lost,0.0
+IT00123,2025-11-18,Cybersecurity,SME,Referral,612000.0,6.0,Converted,595000.0
+IT00124,2025-11-18,Cloud & DevOps,Startup,Referral,519000.0,8.2,In Progress,0.0
+IT00125,2025-11-19,Cybersecurity,SME,Organic Search,495000.0,4.3,Converted,358000.0
+IT00126,2025-11-19,Data & Analytics Consulting,Individual,Referral,31000.0,7.8,Converted,28000.0
+IT00127,2025-11-19,Software Development,Startup,Direct,166000.0,1.3,Lost,0.0
+IT00128,2025-11-19,Software Development,Enterprise,Social Media,1803000.0,3.3,Converted,1500000.0
+IT00129,2025-11-20,Cloud & DevOps,SME,Organic Search,291000.0,4.5,Lost,0.0
+IT00130,2025-11-21,Software Development,Startup,Organic Search,142000.0,19.7,Lost,0.0
+IT00131,2025-11-21,IT Support & Maintenance,SME,Organic Search,422000.0,,Converted,410000.0
+IT00132,21-11-2025,Cloud & DevOps,SME,Direct,341000.0,5.4,Converted,305000.0
+IT00133,2025-11-21,IT Support & Maintenance,SME,Direct,244000.0,6.5,Lost,0.0
+IT00134,2025-11-21,Cloud & DevOps,Educational Institution,Direct,257000.0,2.8,Converted,195000.0
+IT00135,2025-11-21,Cybersecurity,Educational Institution,Organic Search,824000.0,13.4,Lost,0.0
+IT00136,2025-11-22,IT Support & Maintenance,SME,Paid Ads,242000.0,1.7,Converted,175000.0
+IT00137,2025-11-22,Cloud & DevOps,Startup,Direct,141000.0,1.9,converted,125000.0
+IT00138,2025-11-24,Cybersecurity,Startup,Organic Search,91000.0,9.8,Converted,92000.0
+IT00139,24-11-2025,Software Development,Startup,Referral,188000.0,3.7,Converted,173000.0
+IT00140,2025-11-24,Software Development,SME,Referral,184000.0,8.1,Converted,170000.0
+IT00141,2025-11-24,IT Support & Maintenance,Startup,Organic Search,177000.0,13.1,Lost,0.0
+IT00142,2025-11-24,IT Support & Maintenance,Educational Institution,Referral,607000.0,1.1,Converted,452000.0
+IT00143,2025-11-24,IT Support & Maintenance,SME,Referral,258000.0,2.6,Converted,234000.0
+IT00144,2025-11-24,Software Dev,SME,Direct,,10.3,Converted,369000.0
+IT00145,2025-11-24,Cybersecurity,Startup,Social Media,204000.0,20.7,Won,162000.0
+IT00146,2025-11-25,Cloud & DevOps,Educational Institution,Direct,242000.0,7.2,In Progress,0.0
+IT00147,2025-11-25,Software Development,SME,Organic Search,588000.0,3.8,Lost,0.0
+IT00148,2025-11-25,Software Development,SME,Paid Ads,672000.0,7.3,In Progress,0.0
+IT00149,2025-11-25,Cloud & DevOps,Individual,Social Media,60000.0,2.9,Converted,51000.0
+IT00150,2025-11-25,Cloud & DevOps,Enterprise,Direct,1137000.0,3.5,Converted,1180000.0
+IT00151,2025-11-25,Data & Analytics Consulting,Individual,Social Media,48000.0,8.2,In Progress,0.0
+IT00152,2025-11-26,Data & Analytics Consulting,SME,Direct,326000.0,2.0,Converted,329000.0
+IT00153,2025-11-26,Data & Analytics Consulting,Individual,Direct,39000.0,2.1,Converted,34000.0
+IT00154,2025-11-26,Software Development,SME,Email,585000.0,1.5,Converted,493000.0
+IT00155,2025-11-26,Software Development,Educational Institution,Direct,171000.0,15.9,In Progress,0.0
+IT00156,2025-11-27,Software Development,Enterprise,Paid Ads,,7.7,Lost,0.0
+IT00157,2025-11-27,Data & Analytics Consulting,Startup,Organic Search,200000.0,5.7,Converted,155000.0
+IT00158,2025-11-28,Software Development,Individual,Email,41000.0,2.5,Converted,34000.0
+IT00159,2025-11-28,Cloud & DevOps,SME,Organic Search,649000.0,6.2,Lost,0.0
+IT00160,2025-11-28,Software Development,Startup,Paid Ads,262000.0,27.7,Converted,244000.0
+IT00161,2025-11-28,Cybersecurity,SME,Referral,705000.0,4.0,Converted,696000.0
+IT00162,2025-11-28,Software Development,Educational Institution,Email,397000.0,6.5,In Progress,0.0
+IT00163,2025-11-29,Data & Analytics Consulting,SME,Referral,321000.0,2.8,Lost,0.0
+IT00164,2025-11-30,Cloud & DevOps,Individual,Direct,47000.0,7.1,Converted,35000.0
+IT00165,30-11-2025,IT Support & Maintenance,Individual,Organic Search,66000.0,4.9,Lost,0.0
+IT00166,2025-12-01,Software Development,Enterprise,Social Media,1591000.0,7.6,Lost,0.0
+IT00167,2025-12-01,Software Development,SME,Organic Search,605000.0,6.6,Converted,471000.0
+IT00168,2025-12-01,IT Support & Maintenance,SME,Social Media,361000.0,8.7,In Progress,0.0
+IT00169,2025-12-01,IT Support & Maintenance,Startup,Social Media,359000.0,6.6,In Progress,0.0
+IT00170,2025-12-02,Cybersecurity,Individual,Email,7000.0,10.7,Lost,0.0
+IT00171,2025-12-02,Software Development,Startup,Email,362000.0,4.9,Converted,275000.0
+IT00172,2025-12-02,Cybersecurity,SME,Organic Search,471000.0,3.3,Converted,430000.0
+IT00173,2025-12-02,Software Development,SME,Direct,323000.0,14.0,Converted,274000.0
+IT00174,2025-12-03,Software Development,Enterprise,Direct,1221000.0,16.5,Converted,1036000.0
+IT00175,2025-12-03,Cloud & DevOps,Enterprise,Organic Search,1824000.0,8.7,In Progress,0.0
+IT00176,2025-12-03,Cloud & DevOps,Individual,Organic Search,71000.0,9.3,Lost,0.0
+IT00177,2025-12-03,Cybersecurity,Enterprise,Organic Search,891000.0,11.7,Converted,753000.0
+IT00178,2025-12-03,IT Support & Maintenance,Individual,Organic Search,21000.0,8.9,In Progress,0.0
+IT00179,2025-12-04,IT Support & Maintenance,Individual,Paid Ads,68000.0,11.2,Lost,0.0
+IT00180,2025-12-04,Data & Analytics Consulting,SME,Organic Search,763000.0,2.4,Converted,630000.0
+IT00181,2025-12-04,Cybersecurity,Startup,Direct,96000.0,4.5,In Progress,0.0
+IT00182,2025-12-05,it support & maintenance,Educational Institution,Referral,336000.0,8.6,Won,301000.0
+IT00183,2025-12-05,Cloud & DevOps,Enterprise,Email,1655000.0,5.8,In Progress,0.0
+IT00184,2025-12-06,Data & Analytics Consulting,SME,Paid Ads,421000.0,,Converted,375000.0
+IT00185,2025-12-06,Data & Analytics Consulting,Startup,Referral,320000.0,,Converted,321000.0
+IT00186,2025-12-06,Software Development,Enterprise,Social Media,1445000.0,2.2,Lost,0.0
+IT00187,2025-12-07,IT Support & Maintenance,Startup,Paid Ads,1080000.0,3.3,In Progress,0.0
+IT00188,2025-12-08,Cloud & DevOps,Startup,Organic Search,273000.0,14.9,Lost,0.0
+IT00189,2025-12-08,Data & Analytics Consulting,Educational Institution,Organic Search,355000.0,7.6,Converted,301000.0
+IT00190,2025-12-08,IT Support & Maintenance,SME,Direct,1306000.0,2.2,Converted,982000.0
+IT00191,2025-12-08,Software Development,Enterprise,Organic Search,1910000.0,7.0,Won,1943000.0
+IT00192,2025-12-09,IT Support,Startup,Referral,376000.0,2.6,Lost,0.0
+IT00193,2025-12-09,IT Support & Maintenance,Startup,Direct,319000.0,22.7,In Progress,0.0
+IT00194,2025-12-09,Software Development,Enterprise,Direct,518000.0,12.3,In Progress,0.0
+IT00195,2025-12-09,Cloud & DevOps,Educational Institution,Organic Search,443000.0,8.9,Converted,446000.0
+IT00196,2025-12-09,Software Development,Educational Institution,Email,581000.0,13.7,In Progress,0.0
+IT00197,2025-12-09,IT Support & Maintenance,SME,Referral,296000.0,8.6,Won,228000.0
+IT00198,2025-12-09,Cloud & DevOps,Educational Institution,Email,192000.0,5.0,Converted,182000.0
+IT00199,2025-12-09,IT Support & Maintenance,SME,Referral,459000.0,4.3,Lost,0.0
+IT00200,2025-12-10,IT Support & Maintenance,Individual,Direct,23000.0,9.1,Converted,20000.0
+IT00201,2025-12-10,IT Support & Maintenance,Enterprise,Paid Ads,1676000.0,8.3,In Progress,0.0
+IT00202,2025-12-11,IT Support & Maintenance,Enterprise,Referral,2540000.0,4.8,In Progress,0.0
+IT00203,2025-12-11,Cybersecurity,SME,Email,367000.0,8.1,In Progress,0.0
+IT00204,2025-12-11,IT Support & Maintenance,Individual,Organic Search,37000.0,2.4,Converted,32000.0
+IT00205,2025-12-12,Cybersecurity,Educational Institution,Paid Ads,270000.0,30.0,In Progress,0.0
+IT00206,2025-12-12,Data & Analytics Consulting,SME,Referral,627000.0,1.2,Converted,638000.0
+IT00207,2025-12-12,IT Support & Maintenance,Startup,Social Media,325000.0,11.9,Lost,0.0
+IT00208,2025-12-13,Software Development,Educational Institution,Social Media,290000.0,2.7,Converted,274000.0
+IT00209,13-12-2025,Cybersecurity,SME,Email,314000.0,12.1,Lost,0.0
+IT00210,2025-12-14,Cloud & DevOps,SME,Referral,330000.0,12.0,converted,254000.0
+IT00211,2025-12-14,Software Development,Startup,Email,354000.0,3.6,In Progress,0.0
+IT00212,2025-12-14,Software Development,SME,Referral,535000.0,5.8,Lost,0.0
+IT00213,2025-12-15,Data & Analytics Consulting,Individual,Direct,40000.0,1.6,In Progress,0.0
+IT00214,2025-12-15,Cloud & DevOps,Educational Institution,Direct,287000.0,29.5,Lost,0.0
+IT00215,2025-12-16,Cloud & DevOps,Educational Institution,Referral,318000.0,11.8,Converted,289000.0
+IT00216,2025-12-16,Data & Analytics Consulting,SME,Organic Search,,1.3,In Progress,0.0
+IT00217,2025-12-16,Cloud & DevOps,Educational Institution,Organic Search,187000.0,2.8,Converted,162000.0
+IT00218,2025-12-16,software development,Educational Institution,Referral,391000.0,4.0,Converted,313000.0
+IT00219,16-12-2025,Software Development,Enterprise,Paid Ads,2140000.0,17.4,In Progress,0.0
+IT00220,2025-12-17,Data & Analytics Consulting,SME,Paid Ads,439000.0,14.4,Won,329000.0
+IT00221,2025-12-17,IT Support & Maintenance,Individual,Organic Search,37000.0,10.3,Won,27000.0
+IT00222,2025-12-17,IT Support & Maintenance,Startup,Organic Search,239000.0,16.5,In Progress,0.0
+IT00223,2025-12-18,IT Support & Maintenance,SME,Organic Search,200000.0,11.7,Converted,172000.0
+IT00224,2025-12-18,Cloud & DevOps,SME,Organic Search,219000.0,3.5,In Progress,0.0
+IT00225,2025-12-18,Software Development,SME,Direct,374000.0,17.7,Converted,322000.0
+IT00226,2025-12-19,cloud & devops,Startup,Organic Search,371000.0,4.9,Converted,333000.0
+IT00227,2025-12-19,Software Development,SME,Referral,432000.0,2.5,Converted,365000.0
+IT00228,2025-12-19,Cloud & DevOps,Individual,Email,43000.0,6.8,Lost,0.0
+IT00229,2025-12-19,IT Support & Maintenance,SME,Organic Search,839000.0,1.2,Converted,839000.0
+IT00230,2025-12-20,Cloud & DevOps,Educational Institution,Social Media,260000.0,3.5,In-Progress,0.0
+IT00231,2025-12-20,Cybersecurity,Enterprise,Paid Ads,,5.0,Lost,0.0
+IT00232,2025-12-20,Software Development,Startup,Referral,424000.0,4.7,Converted,339000.0
+IT00233,2025-12-21,IT Support & Maintenance,SME,Direct,351000.0,35.6,Converted,335000.0
+IT00234,2025-12-22,Cybersecurity,Startup,Email,222000.0,10.2,Converted,211000.0
+IT00235,2025-12-22,Cybersecurity,SME,Organic Search,289000.0,32.1,Lost,0.0
+IT00236,2025-12-23,Cloud & DevOps,Enterprise,Direct,1034000.0,9.8,In Progress,0.0
+IT00237,2025-12-23,IT Support & Maintenance,Startup,Paid Ads,218000.0,13.7,In Progress,0.0
+IT00238,2025-12-23,IT Support & Maintenance,Startup,Organic Search,297000.0,19.8,Lost,0.0
+IT00239,2025-12-23,Cloud & DevOps,SME,Referral,423000.0,23.7,Converted,363000.0
+IT00240,24-12-2025,IT Support & Maintenance,SME,Referral,425000.0,2.9,Converted,406000.0
+IT00241,2025-12-24,Software Development,Individual,Organic Search,25000.0,8.6,Converted,21000.0
+IT00242,2025-12-25,IT Support & Maintenance,Educational Institution,Organic Search,233000.0,11.3,In Progress,0.0
+IT00243,2025-12-25,Cloud & DevOps,SME,Paid Ads,592000.0,5.9,Converted,574000.0
+IT00244,2025-12-25,IT Support & Maintenance,Enterprise,Email,1135000.0,,Converted,938000.0
+IT00245,2025-12-26,Cloud & DevOps,Startup,Referral,285000.0,8.6,Converted,285000.0
+IT00246,2025-12-26,Cybersecurity,SME,Organic Search,327000.0,2.6,In Progress,0.0
+IT00247,2025-12-26,IT Support & Maintenance,SME,Social Media,227000.0,19.8,In Progress,0.0
+IT00248,2025-12-27,IT Support & Maintenance,Enterprise,Organic Search,795000.0,10.5,Converted,803000.0
+IT00249,2025-12-27,IT Support & Maintenance,Startup,Organic Search,133000.0,33.1,Lost,0.0
+IT00250,2025-12-27,Data & Analytics Consulting,Enterprise,Referral,1320000.0,2.2,Converted,1178000.0
+IT00251,2025-12-28,Software Development,Startup,Paid Ads,209000.0,14.6,Lost,0.0
+IT00252,2025-12-28,Cybersecurity,SME,Organic Search,574000.0,3.0,In Progress,0.0
+IT00253,2025-12-28,Software Development,Enterprise,Direct,1512000.0,16.8,In Progress,0.0
+IT00253,2025-12-28,Software Development,Enterprise,Direct,1512000.0,16.8,In Progress,0.0
+IT00254,2025-12-28,IT Support & Maintenance,SME,Social Media,603000.0,46.8,Lost,0.0
+IT00255,2025-12-29,Software Development,SME,Organic Search,388000.0,3.8,Lost,0.0
+IT00256,2025-12-29,IT Support & Maintenance,Startup,Referral,353000.0,14.2,Converted,335000.0
+IT00257,2025-12-29,Cloud & DevOps,Educational Institution,Referral,73000.0,2.5,In Progress,0.0
+IT00258,2025-12-30,IT Support & Maintenance,Startup,Organic Search,225000.0,1.8,In Progress,0.0
+IT00259,2025-12-30,IT Support & Maintenance,Educational Institution,Organic Search,264000.0,8.3,In Progress,0.0
+IT00260,2025-12-31,Data & Analytics Consulting,Startup,Social Media,349000.0,6.0,Converted,355000.0
+IT00261,2025-12-31,Cloud & DevOps,Enterprise,Social Media,1090000.0,5.1,Lost,0.0
+IT00262,2025-12-31,Cybersecurity,Startup,Organic Search,563000.0,4.2,Lost,0.0
+IT00263,2026-01-01,Cloud & DevOps,SME,Direct,812000.0,4.4,Converted,592000.0
+IT00264,2026-01-01,Cloud & DevOps,Startup,Paid Ads,292000.0,6.9,Lost,0.0
+IT00265,2026-01-02,IT Support & Maintenance,Educational Institution,Referral,441000.0,4.6,Lost,0.0
+IT00266,2026-01-02,IT Support & Maintenance,Startup,Organic Search,339000.0,7.1,Converted,334000.0
+IT00267,2026-01-02,Software Development,Startup,Organic Search,264000.0,11.5,Converted,240000.0
+IT00268,2026-01-02,Software Development,Startup,Referral,423000.0,17.5,Won,374000.0
+IT00269,2026-01-03,IT Support & Maintenance,Enterprise,Organic Search,1618000.0,21.7,In Progress,0.0
+IT00270,2026-01-04,Cybersecurity,SME,Paid Ads,350000.0,12.5,Lost,0.0
+IT00271,2026-01-04,IT Support & Maintenance,Educational Institution,Direct,163000.0,6.3,Lost,0.0
+IT00272,2026-01-05,Cybersecurity,Enterprise,Direct,1752000.0,2.7,In Progress,0.0
+IT00273,2026-01-05,Data & Analytics Consulting,Individual,Social Media,37000.0,1.6,Converted,39000.0
+IT00274,2026-01-05,Data & Analytics Consulting,Educational Institution,Referral,383000.0,12.6,Converted,353000.0
+IT00275,2026-01-06,Software Development,Startup,Email,187000.0,19.3,Converted,173000.0
+IT00276,2026-01-06,Data & Analytics Consulting,SME,Organic Search,506000.0,10.7,Converted,490000.0
+IT00277,2026-01-07,Data & Analytics Consulting,Individual,Organic Search,15000.0,2.7,Lost,0.0
+IT00278,2026-01-07,IT Support & Maintenance,Individual,Direct,37000.0,1.8,Lost,0.0
+IT00279,2026-01-07,Cloud & DevOps,Educational Institution,Organic Search,304000.0,13.2,Lost,0.0
+IT00280,2026-01-07,IT Support & Maintenance,SME,Referral,342000.0,26.3,In Progress,0.0
+IT00281,2026-01-07,Cloud & DevOps,Educational Institution,Organic Search,320000.0,8.3,In Progress,0.0
+IT00282,2026-01-08,Software Development,Startup,Organic Search,208000.0,6.8,Lost,0.0
+IT00283,2026-01-08,IT Support & Maintenance,Educational Institution,Organic Search,147000.0,4.2,In Progress,0.0
+IT00284,2026-01-08,Software Development,Startup,Email,367000.0,6.0,In Progress,0.0
+IT00285,2026-01-08,Cloud & DevOps,SME,Social Media,698000.0,14.6,Converted,526000.0
+IT00286,2026-01-09,IT Support & Maintenance,Startup,Paid Ads,210000.0,2.6,Lost,0.0
+IT00287,2026-01-10,IT Support & Maintenance,Educational Institution,Social Media,268000.0,3.4,Lost,0.0
+IT00288,2026-01-10,Cloud & DevOps,Startup,Organic Search,241000.0,8.8,Converted,187000.0
+IT00289,2026-01-11,Data & Analytics Consulting,SME,Social Media,145000.0,6.2,Lost,0.0
+IT00290,2026-01-13,Data & Analytics Consulting,Startup,Referral,372000.0,5.5,Converted,370000.0
+IT00291,2026-01-13,Software Development,Enterprise,Organic Search,702000.0,11.2,Lost,0.0
+IT00292,2026-01-13,Data & Analytics Consulting,Individual,Organic Search,50000.0,5.0,Converted,43000.0
+IT00293,2026-01-14,IT Support & Maintenance,Startup,Referral,276000.0,8.7,Lost,0.0
+IT00294,2026-01-14,IT Support & Maintenance,SME,Email,303000.0,2.2,In Progress,0.0
+IT00295,2026-01-14,IT Support & Maintenance,SME,Organic Search,225000.0,11.8,In Progress,0.0
+IT00296,2026-01-15,Software Development,Startup,Referral,167000.0,9.1,LOST,0.0
+IT00297,2026-01-16,Cloud & DevOps,Individual,Referral,35000.0,1.2,Converted,30000.0
+IT00298,2026-01-16,Cloud & DevOps,SME,Social Media,775000.0,5.8,Lost,0.0
+IT00299,2026-01-16,IT Support & Maintenance,SME,Direct,347000.0,2.2,Lost,0.0
+IT00300,2026-01-17,Data & Analytics Consulting,Educational Institution,Direct,295000.0,42.4,Converted,304000.0
+IT00301,2026-01-18,Cloud & DevOps,Individual,Referral,30000.0,8.5,Lost,0.0
+IT00302,2026-01-18,Cybersecurity,Enterprise,Organic Search,974000.0,12.6,Lost,0.0
+IT00303,2026-01-19,Software Development,SME,Direct,474000.0,8.3,Lost,0.0
+IT00304,2026-01-19,Cloud & DevOps,Enterprise,Referral,871000.0,1.6,Converted,739000.0
+IT00305,2026-01-20,IT Support & Maintenance,Educational Institution,Organic Search,238000.0,8.1,Lost,0.0
+IT00306,2026-01-20,IT Support & Maintenance,Startup,Email,227000.0,3.0,Converted,166000.0
+IT00307,2026-01-20,Cloud & DevOps,SME,Referral,423000.0,14.1,Converted,400000.0
+IT00308,2026-01-21,Cloud & DevOps,Educational Institution,Direct,433000.0,7.9,In Progress,0.0
+IT00309,2026-01-21,Software Development,Educational Institution,Referral,130000.0,8.7,Converted,135000.0
+IT00310,2026-01-21,Data & Analytics Consulting,SME,Referral,253000.0,12.9,Converted,231000.0
+IT00311,2026-01-21,Software Development,Individual,Organic Search,35000.0,6.2,Lost,0.0
+IT00312,2026-01-22,Cybersecurity,Individual,Paid Ads,35000.0,3.7,in progress,0.0
+IT00313,2026-01-22,IT Support & Maintenance,Educational Institution,Referral,347000.0,8.5,In Progress,0.0
+IT00314,2026-01-22,Software Development,Educational Institution,Direct,333000.0,3.0,converted,345000.0
+IT00315,2026-01-22,Software Development,SME,Organic Search,355000.0,5.1,Converted,313000.0
+IT00316,2026-01-22,Data & Analytics Consulting,Startup,Organic Search,229000.0,3.7,Converted,194000.0
+IT00317,2026-01-23,Cybersecurity,Startup,Organic Search,218000.0,22.0,Lost,0.0
+IT00318,2026-01-24,Data & Analytics Consulting,SME,Organic Search,491000.0,8.7,In Progress,0.0
+IT00319,2026-01-25,IT Support & Maintenance,Startup,Referral,327000.0,12.5,Converted,316000.0
+IT00320,2026-01-25,Data & Analytics Consulting,SME,Referral,195000.0,1.5,Lost,0.0
+IT00321,2026-01-26,Cybersecurity,SME,Organic Search,504000.0,15.0,Lost,0.0
+IT00322,2026-01-26,Cybersecurity,Individual,Direct,37000.0,3.3,Converted,26000.0
+IT00323,2026-01-26,IT Support & Maintenance,Educational Institution,Social Media,334000.0,3.0,Converted,322000.0
+IT00324,2026-01-27,Software Dev,SME,Organic Search,276000.0,4.0,In Progress,0.0
+IT00325,2026-01-27,Cybersecurity,Educational Institution,Paid Ads,194000.0,6.2,Lost,0.0
+IT00326,2026-01-28,cloud & devops,Enterprise,Organic Search,2142000.0,16.2,Lost,0.0
+IT00327,2026-01-28,Cybersecurity,Enterprise,Referral,773000.0,1.6,Converted,806000.0
+IT00328,2026-01-28,Cloud & DevOps,Educational Institution,Paid Ads,247000.0,2.6,Converted,230000.0
+IT00329,2026-01-28,Software Development,SME,Social Media,323000.0,14.1,In Progress,0.0
+IT00330,28-01-2026,Data & Analytics Consulting,SME,Organic Search,629000.0,13.0,Lost,0.0
+IT00331,2026-01-29,IT Support & Maintenance,Educational Institution,Paid Ads,216000.0,14.7,Converted,182000.0
+IT00332,2026-01-29,Software Development,SME,Referral,420000.0,1.5,Converted,431000.0
+IT00333,2026-01-30,IT Support & Maintenance,Educational Institution,Direct,416000.0,10.8,Converted,417000.0
+IT00334,2026-01-30,IT Support & Maintenance,Educational Institution,Email,382000.0,3.7,In Progress,0.0
+IT00335,2026-01-30,Cybersecurity,Enterprise,Organic Search,3248000.0,45.5,In Progress,0.0
+IT00336,2026-01-31,Software Development,Educational Institution,Direct,190000.0,10.0,Won,197000.0
+IT00337,2026-02-01,Data & Analytics Consulting,Startup,Organic Search,147000.0,14.0,Converted,141000.0
+IT00338,2026-02-01,Data & Analytics Consulting,Startup,Referral,427000.0,1.9,In Progress,0.0
+IT00339,2026-02-01,Cybersecurity,SME,Referral,435000.0,1.9,Converted,366000.0
+IT00340,2026-02-02,Cloud & DevOps,SME,Organic Search,584000.0,2.3,In Progress,0.0
+IT00341,2026-02-02,IT Support & Maintenance,Educational Institution,Organic Search,545000.0,3.0,Lost,0.0
+IT00342,2026-02-02,IT Support & Maintenance,SME,Referral,655000.0,6.0,Converted,460000.0
+IT00343,2026-02-02,Software Development,Educational Institution,Referral,252000.0,1.0,Converted,227000.0
+IT00344,2026-02-02,Cybersecurity,Educational Institution,Paid Ads,222000.0,4.0,Converted,224000.0
+IT00345,2026-02-03,Data & Analytics Consulting,SME,Organic Search,840000.0,1.6,Lost,0.0
+IT00346,2026-02-03,Software Development,Educational Institution,Email,239000.0,4.0,Converted,217000.0
+IT00347,2026-02-03,IT Support & Maintenance,SME,Referral,283000.0,14.0,Converted,246000.0
+IT00348,2026-02-03,Data & Analytics Consulting,Educational Institution,Organic Search,412000.0,10.4,Lost,0.0
+IT00349,2026-02-03,IT Support & Maintenance,Educational Institution,Direct,284000.0,8.4,In Progress,0.0
+IT00350,2026-02-04,Cybersecurity,Startup,Direct,276000.0,11.2,Converted,202000.0
+IT00351,2026-02-04,Cloud & DevOps,Startup,Paid Ads,124000.0,20.4,In Progress,0.0
+IT00352,2026-02-04,Cloud & DevOps,Startup,Referral,496000.0,2.9,In Progress,0.0
+IT00353,2026-02-04,Cybersecurity,Startup,Organic Search,200000.0,5.4,Converted,206000.0
+IT00354,2026-02-05,software development,SME,Paid Ads,326000.0,26.8,Converted,271000.0
+IT00355,2026-02-05,Software Development,SME,Organic Search,373000.0,7.9,Lost,0.0
+IT00356,2026-02-05,Cybersecurity,Individual,Email,36000.0,22.5,Converted,33000.0
+IT00357,05-02-2026,IT Support & Maintenance,SME,Email,474000.0,3.1,Converted,489000.0
+IT00358,2026-02-05,Data & Analytics Consulting,Startup,Organic Search,115000.0,4.4,Lost,0.0
+IT00359,2026-02-05,IT Support & Maintenance,Educational Institution,Direct,357000.0,3.0,Converted,367000.0
+IT00360,2026-02-06,Software Development,Individual,Social Media,36000.0,7.8,Converted,34000.0
+IT00361,2026-02-06,Cybersecurity,Startup,Organic Search,205000.0,5.2,In Progress,0.0
+IT00362,2026-02-07,Data & Analytics Consulting,Startup,Direct,126000.0,0.6,Converted,97000.0
+IT00363,2026-02-07,Software Development,Individual,Referral,18000.0,10.0,Converted,15000.0
+IT00364,2026-02-07,cloud & devops,Educational Institution,Organic Search,261000.0,2.9,Lost,0.0
+IT00365,2026-02-07,Cybersecurity,Enterprise,Paid Ads,2782000.0,26.3,Converted,2271000.0
+IT00366,2026-02-08,Cloud & DevOps,SME,Organic Search,164000.0,6.0,Lost,0.0
+IT00367,2026-02-08,IT Support & Maintenance,SME,Email,366000.0,24.7,Lost,0.0
+IT00368,2026-02-09,Software Development,SME,Direct,400000.0,9.4,Lost,0.0
+IT00369,2026-02-09,IT Support & Maintenance,Individual,Organic Search,,5.8,Lost,0.0
+IT00370,2026-02-09,IT Support & Maintenance,Individual,Organic Search,20000.0,3.5,converted,19000.0
+IT00371,2026-02-09,Software Development,Individual,Direct,99000.0,6.4,Converted,88000.0
+IT00372,2026-02-10,Software Development,Startup,Email,187000.0,,Lost,0.0
+IT00373,2026-02-10,Cybersecurity,Enterprise,Email,1286000.0,33.1,Converted,1108000.0
+IT00374,2026-02-12,Data & Analytics Consulting,Startup,Organic Search,248000.0,6.4,Converted,223000.0
+IT00375,2026-02-12,IT Support & Maintenance,Startup,Organic Search,188000.0,15.1,Converted,139000.0
+IT00376,2026-02-12,Cloud & DevOps,Startup,Social Media,558000.0,11.6,In Progress,0.0
+IT00377,2026-02-12,Data & Analytics Consulting,Educational Institution,Organic Search,246000.0,15.2,Lost,0.0
+IT00378,2026-02-13,Software Development,Enterprise,Social Media,1337000.0,2.5,In Progress,0.0
+IT00379,2026-02-13,Cloud & DevOps,Individual,Direct,12000.0,28.1,Lost,0.0
+IT00380,2026-02-14,Software Development,Startup,Referral,1001000.0,8.9,Converted,1032000.0
+IT00381,2026-02-14,Software Development,SME,Organic Search,176000.0,2.7,Converted,136000.0
+IT00382,2026-02-15,Cybersecurity,Enterprise,Organic Search,758000.0,2.2,In Progress,0.0
+IT00383,2026-02-16,IT Support & Maintenance,Enterprise,Organic Search,1130000.0,27.2,Lost,0.0
+IT00384,2026-02-16,Cybersecurity,Enterprise,Referral,1310000.0,10.3,Converted,1108000.0
+IT00385,2026-02-16,Cloud & DevOps,Enterprise,Referral,1163000.0,3.4,Converted,1021000.0
+IT00386,2026-02-16,Software Development,SME,Social Media,445000.0,7.0,In Progress,0.0
+IT00387,2026-02-16,Software Development,Startup,Referral,281000.0,0.7,Converted,217000.0
+IT00388,2026-02-17,Cloud & DevOps,Enterprise,Organic Search,1702000.0,3.1,Converted,1266000.0
+IT00389,2026-02-17,Cybersecurity,SME,Email,690000.0,11.2,converted,685000.0
+IT00390,2026-02-17,Software Development,Individual,Referral,35000.0,3.5,Converted,25000.0
+IT00391,2026-02-17,IT Support & Maintenance,Startup,Referral,181000.0,12.1,Converted,132000.0
+IT00392,2026-02-18,Data & Analytics Consulting,Startup,Organic Search,292000.0,20.9,In Progress,0.0
+IT00393,2026-02-18,Cloud & DevOps,Enterprise,Organic Search,831000.0,8.7,Converted,790000.0
+IT00394,2026-02-18,Data & Analytics Consulting,Individual,Referral,22000.0,5.4,Lost,0.0
+IT00395,2026-02-18,Software Development,SME,Email,322000.0,10.7,Converted,246000.0
+IT00396,2026-02-19,Cybersecurity,Startup,Social Media,867000.0,7.5,Lost,0.0
+IT00397,2026-02-19,Cybersecurity,SME,Social Media,487000.0,3.9,Converted,438000.0
+IT00398,2026-02-19,Data & Analytics Consulting,SME,Organic Search,278000.0,8.8,In Progress,0.0
+IT00399,2026-02-19,IT Support & Maintenance,Startup,Referral,119000.0,6.4,Converted,91000.0
+IT00400,2026-02-20,Cybersecurity,Startup,Organic Search,384000.0,4.0,In Progress,0.0
+IT00401,2026-02-20,Cybersecurity,SME,Paid Ads,784000.0,2.9,Converted,663000.0
+IT00402,2026-02-20,Software Development,Individual,Direct,107000.0,3.4,Converted,100000.0
+IT00403,2026-02-20,Software Development,SME,Direct,1066000.0,52.3,In Progress,0.0
+IT00404,2026-02-21,IT Support & Maintenance,SME,Social Media,482000.0,7.0,In-Progress,0.0
+IT00405,2026-02-21,Software Development,SME,Social Media,301000.0,6.3,In Progress,0.0
+IT00406,2026-02-21,Software Development,Enterprise,Social Media,3209000.0,3.3,Lost,0.0
+IT00407,2026-02-22,Cloud & DevOps,Startup,Organic Search,467000.0,1.0,Converted,400000.0
+IT00408,2026-02-22,IT Support & Maintenance,Startup,Organic Search,88000.0,5.4,Converted,66000.0
+IT00409,2026-02-22,Software Development,Startup,Email,158000.0,3.7,Converted,157000.0
+IT00410,2026-02-22,Data & Analytics Consulting,Educational Institution,Social Media,481000.0,26.3,In Progress,0.0
+IT00411,2026-02-22,Cybersecurity,SME,Referral,488000.0,6.2,Converted,417000.0
+IT00412,2026-02-22,Cybersecurity,Educational Institution,Organic Search,346000.0,4.8,Converted,269000.0
+IT00413,2026-02-23,IT Support & Maintenance,Startup,Social Media,304000.0,12.2,Converted,254000.0
+IT00414,2026-02-24,Cloud & DevOps,Enterprise,Organic Search,2463000.0,3.4,Converted,2375000.0
+IT00415,2026-02-24,Cybersecurity,Enterprise,Organic Search,1695000.0,12.1,Lost,0.0
+IT00416,2026-02-24,Cybersecurity,SME,Direct,497000.0,1.5,Converted,411000.0
+IT00417,2026-02-24,Cybersecurity,SME,Organic Search,529000.0,4.4,Converted,539000.0
+IT00418,2026-02-25,Data & Analytics Consulting,SME,Organic Search,684000.0,5.4,Converted,568000.0
+IT00419,2026-02-25,IT Support & Maintenance,Startup,Referral,343000.0,15.5,Lost,0.0
+IT00420,2026-02-25,Data & Analytics Consulting,SME,Referral,195000.0,2.2,Converted,203000.0
+IT00421,2026-02-25,Data & Analytics Consulting,Startup,Referral,266000.0,5.8,Won,215000.0
+IT00422,2026-02-25,Software Development,Educational Institution,Organic Search,270000.0,9.9,Converted,259000.0
+IT00423,2026-02-26,IT Support & Maintenance,Startup,Email,182000.0,5.8,In Progress,0.0
+IT00424,2026-02-26,Software Development,SME,Direct,334000.0,3.6,Converted,264000.0
+IT00425,2026-02-26,Cloud & DevOps,SME,Referral,318000.0,5.7,Converted,307000.0
+IT00426,2026-02-26,Cloud & DevOps,SME,Email,774000.0,12.3,In Progress,0.0
+IT00427,2026-02-27,Cloud & DevOps,Startup,Organic Search,501000.0,8.1,In Progress,0.0
+IT00428,2026-02-27,IT Support & Maintenance,Enterprise,Direct,1244000.0,2.5,Converted,1241000.0
+IT00429,2026-02-27,IT Support & Maintenance,SME,Referral,329000.0,15.0,In Progress,0.0
+IT00430,2026-02-28,Software Development,SME,Referral,495000.0,12.6,Converted,351000.0
+IT00431,2026-03-01,Cloud & DevOps,Educational Institution,Social Media,388000.0,10.3,Lost,0.0
+IT00432,2026-03-01,Software Development,SME,Social Media,368000.0,5.5,Converted,333000.0
+IT00433,01-03-2026,IT Support & Maintenance,Startup,Organic Search,165000.0,3.9,Converted,171000.0
+IT00434,2026-03-02,Software Development,Educational Institution,Organic Search,495000.0,5.6,Lost,0.0
+IT00435,2026-03-02,Software Development,Individual,Organic Search,32000.0,5.6,Lost,0.0
+IT00436,2026-03-02,Cloud & DevOps,Educational Institution,Organic Search,463000.0,2.7,Converted,436000.0
+IT00437,2026-03-02,Software Development,Educational Institution,Referral,158000.0,14.0,In Progress,0.0
+IT00438,2026-03-02,Software Development,Educational Institution,Organic Search,356000.0,21.6,converted,340000.0
+IT00439,2026-03-02,Data & Analytics Consulting,Startup,Paid Ads,234000.0,3.7,Converted,225000.0
+IT00440,2026-03-03,Software Development,Educational Institution,Organic Search,369000.0,,Lost,0.0
+IT00441,2026-03-03,Software Development,Enterprise,Direct,1190000.0,2.9,In Progress,0.0
+IT00442,2026-03-03,Data & Analytics Consulting,SME,Organic Search,597000.0,3.2,Lost,0.0
+IT00443,2026-03-03,Cloud & DevOps,Startup,Referral,175000.0,8.9,Converted,153000.0
+IT00444,2026-03-03,Data & Analytics Consulting,Educational Institution,Organic Search,169000.0,1.1,Converted,168000.0
+IT00445,2026-03-03,IT Support & Maintenance,SME,Organic Search,472000.0,7.9,Lost,0.0
+IT00445,2026-03-03,IT Support & Maintenance,SME,Organic Search,472000.0,7.9,Lost,0.0
+IT00446,03-03-2026,IT Support & Maintenance,SME,Referral,722000.0,3.0,Converted,534000.0
+IT00447,2026-03-03,Data & Analytics Consulting,Individual,Referral,52000.0,42.3,Converted,39000.0
+IT00448,2026-03-03,Software Development,SME,Paid Ads,194000.0,7.7,Converted,149000.0
+IT00449,2026-03-03,IT Support & Maintenance,SME,Paid Ads,335000.0,5.3,Lost,0.0
+IT00450,2026-03-04,Data & Analytics Consulting,Enterprise,Direct,1322000.0,4.8,In Progress,0.0
+IT00451,2026-03-04,Software Development,Startup,Organic Search,338000.0,7.4,Lost,0.0
+IT00452,2026-03-05,Software Development,Startup,Direct,200000.0,3.6,Lost,0.0
+IT00453,2026-03-05,Cloud & DevOps,Startup,Paid Ads,247000.0,6.5,Lost,0.0
+IT00454,2026-03-05,Cybersecurity,Enterprise,Email,2795000.0,5.9,In Progress,0.0
+IT00455,2026-03-05,Software Development,Startup,Referral,292000.0,5.0,Lost,0.0
+IT00456,2026-03-05,Cloud & DevOps,SME,Organic Search,,2.5,Converted,271000.0
+IT00457,2026-03-05,Cloud & DevOps,SME,Paid Ads,501000.0,12.8,Converted,497000.0
+IT00458,2026-03-05,Software Development,Enterprise,Organic Search,1448000.0,17.1,In Progress,0.0
+IT00459,2026-03-06,Data & Analytics Consulting,Enterprise,Social Media,1390000.0,14.7,Converted,1188000.0
+IT00460,2026-03-06,IT Support & Maintenance,Startup,Referral,616000.0,5.3,Converted,638000.0
+IT00461,2026-03-06,Cybersecurity,Startup,Paid Ads,186000.0,2.5,Converted,133000.0
+IT00462,2026-03-06,Data & Analytics Consulting,SME,Organic Search,555000.0,5.4,In Progress,0.0
+IT00463,2026-03-06,Cloud & DevOps,SME,Paid Ads,236000.0,13.2,Lost,0.0
+IT00464,2026-03-06,Cybersecurity,Startup,Direct,223000.0,7.2,Lost,0.0
+IT00465,2026-03-06,Software Development,Enterprise,Direct,699000.0,3.8,lost,0.0
+IT00466,2026-03-07,Cybersecurity,SME,Referral,417000.0,2.3,Converted,308000.0
+IT00467,2026-03-07,Cybersecurity,Individual,Email,40000.0,5.7,Converted,35000.0
+IT00468,2026-03-07,Cloud & DevOps,SME,Referral,272000.0,1.4,Converted,196000.0
+IT00469,2026-03-08,IT Support & Maintenance,SME,Organic Search,766000.0,2.5,Lost,0.0
+IT00470,2026-03-08,IT Support & Maintenance,Individual,Referral,50000.0,7.4,Converted,47000.0
+IT00471,2026-03-08,IT Support & Maintenance,Enterprise,Social Media,1242000.0,6.1,Converted,1159000.0
+IT00472,2026-03-08,Software Development,Educational Institution,Referral,307000.0,9.5,Won,282000.0
+IT00473,2026-03-09,Cloud/DevOps,Startup,Email,100000.0,9.6,In Progress,0.0
+IT00474,2026-03-09,Software Development,Enterprise,Social Media,1912000.0,6.4,Converted,1793000.0
+IT00475,2026-03-10,Software Development,Startup,Referral,294000.0,6.2,Converted,245000.0
+IT00476,2026-03-10,Data & Analytics Consulting,SME,Paid Ads,563000.0,4.6,Converted,512000.0
+IT00477,2026-03-10,Software Development,SME,Organic Search,387000.0,2.1,Converted,296000.0
+IT00478,2026-03-10,Cybersecurity,SME,Referral,285000.0,12.7,Converted,216000.0
+IT00479,2026-03-10,Cybersecurity,Educational Institution,Organic Search,455000.0,2.5,Lost,0.0
+IT00480,2026-03-10,Cybersecurity,SME,Referral,313000.0,2.7,Converted,253000.0
+IT00481,2026-03-10,Cybersecurity,Enterprise,Email,1286000.0,2.6,In Progress,0.0
+IT00482,2026-03-10,Cloud & DevOps,SME,Organic Search,798000.0,2.5,Lost,0.0
+IT00483,2026-03-11,IT Support & Maintenance,Startup,Referral,96000.0,5.7,Converted,92000.0
+IT00484,2026-03-11,Software Development,Startup,Direct,166000.0,1.4,In Progress,0.0
+IT00485,2026-03-12,IT Support & Maintenance,Educational Institution,Direct,344000.0,6.4,Converted,354000.0
+IT00486,2026-03-12,IT Support & Maintenance,SME,Direct,,15.6,In Progress,0.0
+IT00487,2026-03-12,Cybersecurity,SME,Paid Ads,399000.0,6.1,Converted,321000.0
+IT00488,2026-03-12,Software Development,Startup,Social Media,236000.0,5.8,Lost,0.0
+IT00489,2026-03-12,Software Development,Startup,Direct,245000.0,4.1,In Progress,0.0
+IT00490,2026-03-13,Cloud & DevOps,SME,Direct,427000.0,10.7,Converted,344000.0
+IT00491,2026-03-13,IT Support & Maintenance,Startup,Referral,192000.0,14.6,In Progress,0.0
+IT00492,2026-03-13,Data & Analytics Consulting,SME,Paid Ads,609000.0,9.8,Lost,0.0
+IT00493,2026-03-13,Data & Analytics Consulting,Individual,Paid Ads,30000.0,5.1,Converted,23000.0
+IT00494,2026-03-13,Cybersecurity,Enterprise,Social Media,1155000.0,12.2,Lost,0.0
+IT00495,2026-03-14,Cloud & DevOps,Educational Institution,Referral,282000.0,10.7,In-Progress,0.0
+IT00496,2026-03-14,Cybersecurity,Startup,Referral,209000.0,10.3,Converted,155000.0
+IT00497,2026-03-15,Data & Analytics Consulting,Educational Institution,Paid Ads,704000.0,15.2,In Progress,0.0
+IT00498,2026-03-15,Software Development,Enterprise,Paid Ads,854000.0,5.1,converted,782000.0
+IT00499,2026-03-16,Software Development,SME,Email,725000.0,9.8,Converted,554000.0
+IT00500,2026-03-16,Software Development,SME,Paid Ads,222000.0,2.0,Converted,163000.0
+IT00501,2026-03-17,Software Development,Educational Institution,Direct,757000.0,14.4,Converted,598000.0
+IT00501,2026-03-17,Software Development,Educational Institution,Direct,757000.0,14.4,Converted,598000.0
+IT00502,2026-03-17,Cybersecurity,SME,Referral,730000.0,3.0,Converted,633000.0
+IT00503,2026-03-17,Software Development,SME,Paid Ads,229000.0,1.3,Converted,163000.0
+IT00504,2026-03-18,IT Support & Maintenance,Educational Institution,Referral,625000.0,3.6,Converted,563000.0
+IT00505,2026-03-18,IT Support & Maintenance,SME,Organic Search,264000.0,3.5,In Progress,0.0
+IT00506,2026-03-18,Cybersecurity,Startup,Email,196000.0,24.6,Lost,0.0
+IT00507,2026-03-19,Cloud & DevOps,Enterprise,Organic Search,2018000.0,3.8,Lost,0.0
+IT00508,2026-03-19,Cybersecurity,Educational Institution,Social Media,569000.0,1.4,In Progress,0.0
+IT00509,2026-03-19,IT Support & Maintenance,Startup,Referral,,46.9,Lost,0.0
+IT00510,2026-03-19,Software Development,Educational Institution,Paid Ads,172000.0,5.4,Lost,0.0
+IT00511,2026-03-20,IT Support & Maintenance,SME,Direct,841000.0,0.7,Lost,0.0
+IT00512,2026-03-20,Cloud & DevOps,Educational Institution,Referral,515000.0,3.6,Lost,0.0
+IT00513,2026-03-21,Software Development,SME,Organic Search,555000.0,27.2,Lost,0.0
+IT00514,2026-03-21,Cloud & DevOps,Individual,Social Media,43000.0,7.2,In Progress,0.0
+IT00515,2026-03-22,Cloud & DevOps,Educational Institution,Paid Ads,413000.0,5.8,In Progress,0.0
+IT00516,2026-03-22,Software Dev,SME,Paid Ads,455000.0,9.7,Lost,0.0
+IT00517,2026-03-23,Data & Analytics Consulting,Startup,Organic Search,289000.0,2.8,In Progress,0.0
+IT00518,2026-03-24,Cybersecurity,SME,Email,239000.0,5.9,In Progress,0.0
+IT00519,2026-03-24,Cloud & DevOps,Enterprise,Direct,1620000.0,5.1,Converted,1276000.0
+IT00520,2026-03-24,IT Support & Maintenance,SME,Referral,428000.0,9.7,Converted,378000.0
+IT00521,2026-03-24,Software Development,Startup,Direct,369000.0,7.4,Converted,345000.0
+IT00522,2026-03-24,Data & Analytics Consulting,SME,Direct,312000.0,2.3,Lost,0.0
+IT00523,2026-03-24,Software Development,Enterprise,Email,2968000.0,5.5,In Progress,0.0
+IT00524,2026-03-25,Software Development,Educational Institution,Paid Ads,242000.0,5.0,In Progress,0.0
+IT00525,2026-03-25,Data & Analytics Consulting,Educational Institution,Referral,193000.0,13.1,In Progress,0.0
+IT00526,2026-03-25,Software Development,SME,Referral,866000.0,7.4,Converted,882000.0
+IT00527,2026-03-26,Software Development,Enterprise,Referral,371000.0,10.9,In Progress,0.0
+IT00528,2026-03-26,Cloud & DevOps,SME,Organic Search,458000.0,51.4,In Progress,0.0
+IT00529,2026-03-26,Cloud & DevOps,Educational Institution,Email,352000.0,8.4,Lost,0.0
+IT00530,2026-03-26,Software Development,Startup,Organic Search,247000.0,10.2,In Progress,0.0
+IT00531,2026-03-27,IT Support & Maintenance,SME,Referral,340000.0,10.0,LOST,0.0
+IT00532,2026-03-27,Cloud & DevOps,SME,Email,316000.0,3.7,Converted,262000.0
+IT00533,2026-03-27,IT Support & Maintenance,Startup,Direct,262000.0,13.3,Lost,0.0
+IT00534,2026-03-27,Data & Analytics Consulting,Enterprise,Social Media,1066000.0,7.8,In Progress,0.0
+IT00535,2026-03-27,IT Support & Maintenance,SME,Organic Search,193000.0,5.2,In Progress,0.0
+IT00536,2026-03-27,Cloud & DevOps,Startup,Referral,150000.0,5.2,In Progress,0.0
+IT00537,2026-03-28,Software Development,Startup,Direct,112000.0,19.3,Converted,105000.0
+IT00538,2026-03-28,IT Support & Maintenance,Educational Institution,Direct,166000.0,5.6,Converted,163000.0
+IT00539,2026-03-28,IT Support & Maintenance,SME,Organic Search,647000.0,10.2,In Progress,0.0
+IT00540,2026-03-29,Software Development,SME,Social Media,75000.0,9.5,Lost,0.0
+IT00541,2026-03-29,IT Support & Maintenance,Startup,Paid Ads,143000.0,7.9,In Progress,0.0
+IT00542,2026-03-29,Software Development,Educational Institution,Referral,480000.0,,Lost,0.0
+IT00543,2026-03-30,IT Support & Maintenance,Individual,Paid Ads,60000.0,10.4,In Progress,0.0
+IT00544,2026-03-30,Cybersecurity,Enterprise,Social Media,2968000.0,2.0,Lost,0.0
+IT00545,2026-03-30,Software Development,Educational Institution,Paid Ads,195000.0,8.8,Converted,183000.0
+IT00546,2026-03-31,IT Support & Maintenance,SME,Organic Search,763000.0,7.4,In Progress,0.0
+IT00547,2026-03-31,Software Development,SME,Direct,247000.0,6.5,Converted,191000.0
+IT00548,2026-04-01,Data & Analytics Consulting,Educational Institution,Referral,355000.0,2.6,Converted,333000.0
+IT00549,2026-04-01,Software Development,Startup,Organic Search,453000.0,17.2,Lost,0.0
+IT00550,2026-04-02,Cloud & DevOps,Educational Institution,Email,256000.0,6.4,Converted,189000.0
+IT00551,2026-04-02,cloud & devops,Startup,Social Media,123000.0,2.7,Lost,0.0
+IT00552,2026-04-02,Software Development,Startup,Social Media,374000.0,5.2,Lost,0.0
+IT00553,2026-04-02,IT Support & Maintenance,Individual,Social Media,27000.0,10.7,In Progress,0.0
+IT00554,2026-04-03,Software Development,SME,Organic Search,664000.0,6.1,In Progress,0.0
+IT00555,2026-04-04,Data & Analytics Consulting,Educational Institution,Referral,290000.0,4.0,Converted,271000.0
+IT00556,2026-04-05,IT Support & Maintenance,Individual,Referral,35000.0,2.5,In Progress,0.0
+IT00557,2026-04-06,Software Development,Educational Institution,Organic Search,204000.0,0.6,lost,0.0
+IT00558,2026-04-07,Data & Analytics Consulting,SME,Referral,276000.0,12.2,Converted,280000.0
+IT00559,2026-04-07,IT Support & Maintenance,Enterprise,Referral,1004000.0,12.5,Lost,0.0
+IT00560,2026-04-08,Cloud & DevOps,Individual,Social Media,46000.0,5.9,In Progress,0.0
+IT00561,2026-04-08,Software Development,Enterprise,Referral,985000.0,5.9,Converted,816000.0
+IT00562,2026-04-08,Data & Analytics Consulting,SME,Social Media,154000.0,22.2,In Progress,0.0
+IT00563,2026-04-09,IT Support & Maintenance,Startup,Social Media,105000.0,5.1,Lost,0.0
+IT00564,2026-04-09,Cybersecurity,Educational Institution,Organic Search,515000.0,2.5,Lost,0.0
+IT00565,2026-04-10,IT Support & Maintenance,Individual,Email,15000.0,14.2,In Progress,0.0
+IT00566,2026-04-10,IT Support & Maintenance,SME,Paid Ads,213000.0,1.8,Converted,223000.0
+IT00567,2026-04-11,IT Support & Maintenance,Educational Institution,Referral,508000.0,9.7,Lost,0.0
+IT00568,2026-04-12,Software Development,SME,Paid Ads,369000.0,4.5,lost,0.0
+IT00569,2026-04-12,Cloud & DevOps,Enterprise,Paid Ads,1034000.0,21.6,Lost,0.0
+IT00570,2026-04-12,Software Development,SME,Social Media,298000.0,5.5,In Progress,0.0
+IT00571,2026-04-12,Cybersecurity,Startup,Direct,283000.0,6.6,Lost,0.0
+IT00572,2026-04-12,Software Development,Startup,Direct,108000.0,4.9,Converted,80000.0
+IT00573,2026-04-13,Cybersecurity,Enterprise,Organic Search,2504000.0,7.4,Converted,2534000.0
+IT00574,2026-04-13,Software Development,Startup,Referral,184000.0,7.8,Lost,0.0
+IT00575,2026-04-13,Cloud & DevOps,Educational Institution,Referral,449000.0,8.1,Converted,428000.0
+IT00576,2026-04-13,Software Dev,Startup,Organic Search,158000.0,3.7,In Progress,0.0
+IT00577,2026-04-14,Software Development,Educational Institution,Social Media,244000.0,5.0,Converted,214000.0
+IT00578,2026-04-15,Cloud & DevOps,Startup,Paid Ads,303000.0,6.5,Lost,0.0
+IT00579,2026-04-15,Software Development,Educational Institution,Paid Ads,211000.0,5.5,In Progress,0.0
+IT00580,15-04-2026,Data & Analytics Consulting,SME,Organic Search,464000.0,17.2,In Progress,0.0
+IT00581,2026-04-15,Data & Analytics Consulting,SME,Organic Search,121000.0,8.9,In Progress,0.0
+IT00582,2026-04-15,IT Support & Maintenance,Startup,Organic Search,553000.0,14.4,In Progress,0.0
+IT00583,2026-04-15,Cybersecurity,Enterprise,Organic Search,2061000.0,8.6,Lost,0.0
+IT00584,2026-04-15,IT Support & Maintenance,Startup,Social Media,177000.0,5.1,Lost,0.0
+IT00585,2026-04-16,Data & Analytics Consulting,SME,Social Media,190000.0,10.2,Lost,0.0
+IT00586,2026-04-16,Cloud & DevOps,Startup,Referral,264000.0,6.2,Lost,0.0
+IT00587,2026-04-16,IT Support & Maintenance,Individual,Organic Search,40000.0,3.8,Converted,33000.0
+IT00588,2026-04-17,IT Support & Maintenance,Startup,Email,128000.0,5.6,Lost,0.0
+IT00589,2026-04-17,Software Development,Individual,Direct,52000.0,27.1,Lost,0.0
+IT00590,2026-04-17,Software Development,Enterprise,Social Media,1698000.0,5.5,Converted,1372000.0
+IT00591,2026-04-18,Software Development,SME,Referral,207000.0,14.1,Converted,172000.0
+IT00592,2026-04-18,Data & Analytics Consulting,Startup,Paid Ads,188000.0,,Converted,187000.0
+IT00593,2026-04-19,Software Development,Educational Institution,Paid Ads,104000.0,5.8,Converted,95000.0
+IT00594,2026-04-19,IT Support & Maintenance,Educational Institution,Direct,148000.0,2.8,Won,139000.0
+IT00595,2026-04-20,Data & Analytics Consulting,Enterprise,Organic Search,1499000.0,-5.0,Converted,1374000.0
+IT00596,2026-04-20,Cloud & DevOps,Enterprise,Direct,1413000.0,3.1,Converted,1380000.0
+IT00597,2026-04-20,Software Development,Enterprise,Referral,1891000.0,13.8,Lost,0.0
+IT00598,2026-04-20,Cybersecurity,Individual,Paid Ads,36000.0,1.2,Converted,27000.0
+IT00599,2026-04-21,Data & Analytics Consulting,Individual,Referral,17000.0,14.9,Won,12000.0
+IT00600,2026-04-21,IT Support & Maintenance,Startup,Referral,238000.0,3.1,Converted,177000.0
+IT00601,2026-04-22,Cloud & DevOps,Enterprise,Direct,1288000.0,8.3,In Progress,0.0
+IT00602,2026-04-22,Software Development,SME,Direct,326000.0,5.6,Converted,234000.0
+IT00603,2026-04-22,Data & Analytics Consulting,SME,Paid Ads,211000.0,2.7,Lost,0.0
+IT00604,2026-04-23,Software Development,Educational Institution,Referral,179000.0,3.0,Converted,154000.0
+IT00605,2026-04-23,IT Support & Maintenance,SME,Direct,897000.0,18.7,Converted,857000.0
+IT00606,2026-04-24,Software Development,Startup,Paid Ads,152000.0,1.5,Lost,0.0
+IT00607,2026-04-24,Software Development,SME,Referral,241000.0,,Converted,211000.0
+IT00608,2026-04-24,IT Support & Maintenance,Educational Institution,Direct,297000.0,3.7,lost,0.0
+IT00609,24-04-2026,IT Support & Maintenance,SME,Direct,284000.0,5.3,Converted,230000.0
+IT00610,24-04-2026,Cloud & DevOps,Startup,Paid Ads,307000.0,6.0,In Progress,0.0
+IT00611,2026-04-24,IT Support & Maintenance,SME,Direct,491000.0,1.4,Converted,352000.0
+IT00612,2026-04-26,Cloud & DevOps,Enterprise,Referral,627000.0,4.0,Converted,515000.0
+IT00613,2026-04-27,Software Development,SME,Email,604000.0,2.3,Converted,458000.0
+IT00614,2026-04-27,Software Development,Enterprise,Referral,1236000.0,17.0,Lost,0.0
+IT00615,2026-04-27,Software Development,Educational Institution,Email,380000.0,1.8,Lost,0.0
+IT00616,2026-04-27,Data & Analytics Consulting,Startup,Direct,425000.0,2.3,Lost,0.0
+IT00617,2026-04-27,Cybersecurity,Startup,Organic Search,614000.0,3.1,Converted,495000.0
+IT00618,2026-04-28,cloud & devops,Individual,Email,46000.0,7.8,In Progress,0.0
+IT00619,2026-04-28,IT Support & Maintenance,Enterprise,Paid Ads,2569000.0,3.1,Converted,2007000.0
+IT00620,2026-04-29,Software Development,SME,Referral,194000.0,8.9,Converted,166000.0
+IT00621,2026-04-29,Software Development,Educational Institution,Referral,891000.0,20.2,In Progress,0.0
+IT00622,2026-04-29,IT Support & Maintenance,SME,Referral,183000.0,23.3,Converted,150000.0
+IT00623,2026-04-30,Cloud & DevOps,SME,Email,775000.0,16.7,Converted,591000.0
+IT00624,2026-04-30,IT Support & Maintenance,SME,Paid Ads,266000.0,2.5,Converted,265000.0
+IT00625,2026-04-30,IT Support & Maintenance,Educational Institution,Referral,417000.0,9.3,In Progress,0.0
+IT00626,2026-04-30,Cloud & DevOps,Startup,Organic Search,212000.0,5.6,Lost,0.0
+IT00627,2026-04-30,Software Development,SME,Organic Search,558000.0,1.9,Converted,550000.0
+IT00628,2026-05-01,IT Support & Maintenance,SME,Social Media,826000.0,2.2,In Progress,0.0
+IT00629,2026-05-03,Cloud & DevOps,Startup,Email,170000.0,8.7,Converted,133000.0
+IT00630,2026-05-03,Cloud & DevOps,SME,Paid Ads,266000.0,8.3,Converted,270000.0
+IT00631,2026-05-03,Cloud & DevOps,SME,Organic Search,669000.0,8.1,Lost,0.0
+IT00632,2026-05-04,Data & Analytics Consulting,Startup,Direct,174000.0,1.9,Converted,173000.0
+IT00633,2026-05-04,Software Development,SME,Referral,715000.0,5.9,Lost,0.0
+IT00634,2026-05-04,IT Support & Maintenance,Startup,Direct,356000.0,8.0,Converted,350000.0
+IT00635,2026-05-04,Software Development,Startup,Referral,257000.0,49.4,In Progress,0.0
+IT00636,2026-05-04,Cybersecurity,Educational Institution,Referral,151000.0,2.8,Converted,114000.0
+IT00637,2026-05-05,Cloud & DevOps,SME,Organic Search,281000.0,6.1,In Progress,0.0
+IT00638,2026-05-05,Cybersecurity,Enterprise,Referral,1427000.0,2.3,Lost,0.0
+IT00639,2026-05-05,Cybersecurity,Enterprise,Direct,3310000.0,3.5,In Progress,0.0
+IT00640,2026-05-07,IT Support & Maintenance,SME,Direct,386000.0,5.3,Converted,355000.0
+IT00641,2026-05-07,Data & Analytics Consulting,Individual,Paid Ads,51000.0,8.1,Converted,47000.0
+IT00642,07-05-2026,Data & Analytics Consulting,SME,Referral,269000.0,5.1,Converted,267000.0
+IT00643,2026-05-07,Software Development,Startup,Direct,283000.0,4.1,In Progress,0.0
+IT00644,2026-05-07,Cybersecurity,Educational Institution,Paid Ads,267000.0,4.3,Lost,0.0
+IT00645,2026-05-07,Software Development,SME,Direct,413000.0,8.7,in progress,0.0
+IT00646,2026-05-07,Software Development,Enterprise,Referral,1386000.0,11.7,Converted,1026000.0
+IT00647,2026-05-07,Software Development,SME,Social Media,573000.0,15.5,In Progress,0.0
+IT00648,2026-05-08,Software Development,Educational Institution,Organic Search,248000.0,18.6,In Progress,0.0
+IT00649,2026-05-08,Cybersecurity,SME,Referral,215000.0,1.6,Converted,162000.0
+IT00650,2026-05-09,Software Development,Enterprise,Referral,1437000.0,1.8,Lost,0.0
+IT00651,2026-05-09,Cloud & DevOps,Individual,Organic Search,19000.0,1.3,Converted,14000.0
+IT00652,2026-05-10,Data & Analytics Consulting,SME,Organic Search,387000.0,6.3,Converted,347000.0
+IT00653,2026-05-10,Software Development,SME,Direct,,2.7,Converted,201000.0
+IT00654,2026-05-10,Data & Analytics Consulting,Startup,Paid Ads,233000.0,14.5,Converted,224000.0
+IT00655,2026-05-10,Software Development,Startup,Direct,186000.0,10.2,Converted,141000.0
+IT00656,2026-05-11,Cloud & DevOps,Enterprise,Direct,1656000.0,10.2,Lost,0.0
+IT00657,2026-05-11,Cloud & DevOps,Individual,Social Media,62000.0,5.6,In Progress,0.0
+IT00658,2026-05-11,Software Development,Startup,Direct,382000.0,5.2,In Progress,0.0
+IT00659,2026-05-11,IT Support & Maintenance,SME,Direct,614000.0,7.5,Lost,0.0
+IT00660,2026-05-11,cloud & devops,Startup,Organic Search,588000.0,1.9,Lost,0.0
+IT00661,2026-05-12,Cybersecurity,Startup,Paid Ads,260000.0,8.3,In Progress,0.0
+IT00662,2026-05-12,Software Development,Startup,Organic Search,112000.0,3.3,In Progress,0.0
+IT00663,2026-05-12,Data & Analytics Consulting,SME,Email,221000.0,13.7,In Progress,0.0
+IT00664,2026-05-12,IT Support,Individual,Referral,38000.0,21.3,Converted,38000.0
+IT00665,2026-05-12,Data & Analytics Consulting,SME,Paid Ads,291000.0,21.7,Converted,252000.0
+IT00666,2026-05-12,Cloud & DevOps,Enterprise,Email,1101000.0,6.2,Converted,944000.0
+IT00667,2026-05-12,IT Support & Maintenance,Startup,Referral,129000.0,1.3,Lost,0.0
+IT00668,13-05-2026,IT Support & Maintenance,SME,Referral,355000.0,2.6,Converted,304000.0
+IT00669,2026-05-13,Software Development,Startup,Direct,520000.0,1.2,In Progress,0.0
+IT00670,2026-05-13,Data & Analytics Consulting,Startup,Referral,251000.0,7.1,In Progress,0.0
+IT00671,2026-05-13,Data & Analytics Consulting,Startup,Organic Search,112000.0,4.7,Lost,0.0
+IT00672,2026-05-13,Cloud & DevOps,Individual,Referral,72000.0,6.1,Converted,67000.0
+IT00673,2026-05-13,Software Development,Enterprise,Organic Search,2637000.0,23.2,Converted,2544000.0
+IT00674,2026-05-13,IT Support & Maintenance,Enterprise,Referral,1078000.0,11.1,Converted,786000.0
+IT00675,2026-05-13,Cloud & DevOps,SME,Email,544000.0,8.5,Converted,565000.0
+IT00676,2026-05-13,Software Development,Startup,Referral,539000.0,4.1,Won,401000.0
+IT00677,2026-05-15,Software Development,Educational Institution,Organic Search,504000.0,1.1,In Progress,0.0
+IT00678,2026-05-15,Cloud & DevOps,Enterprise,Referral,1867000.0,5.5,Lost,0.0
+IT00679,2026-05-16,Data & Analytics Consulting,Startup,Paid Ads,166000.0,1.1,Lost,0.0
+IT00680,2026-05-17,IT Support & Maintenance,Educational Institution,Paid Ads,320000.0,7.5,Lost,0.0
+IT00681,2026-05-17,Cybersecurity,Enterprise,Organic Search,802000.0,6.0,Lost,0.0
+IT00682,2026-05-18,Cloud & DevOps,SME,Referral,390000.0,4.0,Converted,317000.0
+IT00683,2026-05-18,IT Support & Maintenance,Individual,Paid Ads,14000.0,6.9,In Progress,0.0
+IT00684,2026-05-18,Cloud & DevOps,SME,Referral,321000.0,15.5,Converted,328000.0
+IT00685,2026-05-19,Cybersecurity,SME,Direct,,5.8,Lost,0.0
+IT00686,2026-05-19,Software Development,Enterprise,Organic Search,1183000.0,9.0,Converted,941000.0
+IT00687,2026-05-19,Software Development,Individual,Email,32000.0,3.7,Converted,24000.0
+IT00688,2026-05-20,Software Development,SME,Referral,1019000.0,37.6,Lost,0.0
+IT00689,2026-05-20,Cloud & DevOps,SME,Direct,300000.0,6.2,Lost,0.0
+IT00690,2026-05-20,IT Support & Maintenance,SME,Organic Search,335000.0,5.3,In Progress,0.0
+IT00691,2026-05-20,Software Development,SME,Referral,1021000.0,3.0,Converted,718000.0
+IT00692,2026-05-21,IT Support & Maintenance,Educational Institution,Social Media,162000.0,1.1,Converted,162000.0
+IT00693,2026-05-21,Data & Analytics Consulting,Enterprise,Organic Search,1179000.0,9.6,Lost,0.0
+IT00694,21-05-2026,Cloud & DevOps,Enterprise,Direct,1649000.0,1.8,In Progress,0.0
+IT00695,2026-05-22,Software Development,Enterprise,Paid Ads,1732000.0,5.6,Lost,0.0
+IT00696,2026-05-22,Cybersecurity,SME,Direct,147000.0,6.6,Converted,116000.0
+IT00697,2026-05-22,Software Development,SME,Referral,678000.0,8.2,Lost,0.0
+IT00698,2026-05-22,Software Development,Educational Institution,Email,234000.0,29.5,Converted,170000.0
+IT00699,23-05-2026,IT Support & Maintenance,Educational Institution,Organic Search,241000.0,18.8,Lost,0.0
+IT00700,2026-05-23,Cloud & DevOps,Educational Institution,Email,,10.1,Lost,0.0
+IT00701,2026-05-26,IT Support & Maintenance,Startup,Referral,261000.0,7.7,Converted,260000.0
+IT00702,2026-05-26,Cloud & DevOps,Educational Institution,Organic Search,335000.0,4.1,In Progress,0.0
+IT00703,2026-05-26,Data & Analytics Consulting,SME,Organic Search,674000.0,4.7,Converted,630000.0
+IT00704,2026-05-26,Data & Analytics Consulting,Enterprise,Email,411000.0,2.2,Lost,0.0
+IT00705,2026-05-26,IT Support & Maintenance,Startup,Email,355000.0,5.4,Lost,0.0
+IT00706,2026-05-26,IT Support & Maintenance,Startup,Referral,802000.0,13.7,Lost,0.0
+IT00707,2026-05-26,Software Development,Startup,Referral,347000.0,2.6,Converted,315000.0
+IT00708,2026-05-26,Software Development,Educational Institution,Email,221000.0,5.7,Lost,0.0
+IT00709,2026-05-27,Software Development,SME,Organic Search,392000.0,4.3,Lost,0.0
+IT00710,2026-05-27,IT Support & Maintenance,SME,Referral,367000.0,4.7,In Progress,0.0
+IT00711,2026-05-27,IT Support & Maintenance,Startup,Referral,90000.0,9.8,In Progress,0.0
+IT00712,2026-05-27,Software Development,Startup,Referral,149000.0,12.9,Lost,0.0
+IT00713,2026-05-28,IT Support & Maintenance,SME,Referral,645000.0,15.4,Converted,608000.0
+IT00714,2026-05-28,Data & Analytics Consulting,Startup,Referral,217000.0,14.3,Lost,0.0
+IT00715,2026-05-28,Data & Analytics Consulting,SME,Organic Search,368000.0,17.4,Converted,297000.0
+IT00716,2026-05-28,Software Development,Educational Institution,Referral,218000.0,,Converted,206000.0
+IT00717,2026-05-29,Data & Analytics Consulting,Educational Institution,Direct,255000.0,6.0,In Progress,0.0
+IT00718,2026-05-29,Cloud & DevOps,SME,Paid Ads,360000.0,1.8,Converted,261000.0
+IT00719,2026-05-29,Cybersecurity,Enterprise,Direct,2192000.0,2.7,Converted,2006000.0
+IT00720,2026-05-30,Data & Analytics Consulting,SME,Social Media,278000.0,5.6,Converted,244000.0
+IT00720,2026-05-30,Data & Analytics Consulting,SME,Social Media,278000.0,5.6,Converted,244000.0
+IT00721,2026-05-31,Cybersecurity,Enterprise,Organic Search,2053000.0,2.2,Lost,0.0
+IT00722,2026-06-01,Data & Analytics Consulting,Individual,Referral,28000.0,19.5,In Progress,0.0
+IT00723,2026-06-01,IT Support & Maintenance,SME,Organic Search,157000.0,6.2,Lost,0.0
+IT00724,2026-06-01,Cloud & DevOps,SME,Paid Ads,698000.0,4.5,Converted,690000.0
+IT00725,2026-06-01,Cloud & DevOps,Startup,Organic Search,,2.6,Converted,628000.0
+IT00726,2026-06-01,IT Support & Maintenance,Startup,Paid Ads,536000.0,3.8,In Progress,0.0
+IT00727,2026-06-02,Software Development,SME,Paid Ads,303000.0,9.0,converted,270000.0
+IT00728,2026-06-03,IT Support & Maintenance,Individual,Referral,59000.0,3.5,Lost,0.0
+IT00729,03-06-2026,Cybersecurity,Startup,Referral,191000.0,19.3,Lost,0.0
+IT00730,2026-06-04,Data & Analytics Consulting,Startup,Organic Search,,30.6,In Progress,0.0
+IT00731,2026-06-04,Software Development,Individual,Organic Search,39000.0,8.1,Lost,0.0
+IT00732,2026-06-04,Cybersecurity,Startup,Paid Ads,550000.0,1.3,Lost,0.0
+IT00733,2026-06-04,Software Development,Educational Institution,Email,585000.0,8.0,Lost,0.0
+IT00734,2026-06-04,Data & Analytics Consulting,Individual,Referral,68000.0,12.9,Converted,50000.0
+IT00735,2026-06-04,Software Development,Startup,Paid Ads,317000.0,13.3,Converted,227000.0
+IT00736,2026-06-05,Software Development,Individual,Organic Search,59000.0,4.0,Lost,0.0
+IT00737,2026-06-05,Cybersecurity,SME,Referral,954000.0,3.0,Lost,0.0
+IT00738,2026-06-06,cloud & devops,Startup,Social Media,108000.0,5.5,Converted,80000.0
+IT00739,2026-06-06,Data & Analytics Consulting,Startup,Referral,157000.0,2.3,In Progress,0.0
+IT00740,2026-06-06,Software Development,Individual,Email,23000.0,2.6,In Progress,0.0
+IT00741,06-06-2026,IT Support & Maintenance,Educational Institution,Organic Search,323000.0,8.3,Converted,276000.0
+IT00742,2026-06-08,IT Support & Maintenance,Startup,Referral,,3.7,Converted,148000.0
+IT00743,2026-06-08,Software Development,Enterprise,Email,1028000.0,6.0,Lost,0.0
+IT00744,2026-06-08,IT Support & Maintenance,Educational Institution,Email,396000.0,15.3,In Progress,0.0
+IT00745,2026-06-08,IT Support & Maintenance,SME,Direct,332000.0,6.8,In-Progress,0.0
+IT00746,2026-06-09,Software Development,Educational Institution,Referral,399000.0,18.4,Converted,283000.0
+IT00747,2026-06-09,Software Development,Educational Institution,Email,167000.0,14.8,Won,150000.0
+IT00748,09-06-2026,IT Support & Maintenance,Educational Institution,Paid Ads,245000.0,3.5,Converted,207000.0
+IT00749,2026-06-09,Cloud & DevOps,Enterprise,Paid Ads,1665000.0,15.3,Converted,1721000.0
+IT00750,2026-06-09,IT Support & Maintenance,SME,Direct,360000.0,3.2,Lost,0.0
+IT00751,2026-06-10,Software Development,Startup,Direct,429000.0,18.6,LOST,0.0
+IT00752,2026-06-10,IT Support & Maintenance,Startup,Direct,161000.0,31.6,Lost,0.0
+IT00753,2026-06-10,Data & Analytics Consulting,SME,Social Media,615000.0,18.3,In Progress,0.0
+IT00754,2026-06-10,Cloud & DevOps,Enterprise,Organic Search,1393000.0,25.7,In Progress,0.0
+IT00755,2026-06-12,Cloud & DevOps,SME,Direct,228000.0,3.3,Converted,199000.0
+IT00756,2026-06-12,Software Development,Startup,Direct,415000.0,5.8,Converted,411000.0
+IT00757,2026-06-12,IT Support & Maintenance,Enterprise,Email,991000.0,5.5,Lost,0.0
+IT00758,2026-06-13,Cloud & DevOps,Startup,Direct,327000.0,9.2,In Progress,0.0
+IT00759,2026-06-13,Data & Analytics Consulting,Educational Institution,Email,367000.0,3.4,Converted,368000.0
+IT00760,2026-06-13,Software Development,Startup,Referral,167000.0,13.6,Converted,141000.0
+IT00761,2026-06-13,Cybersecurity,Enterprise,Paid Ads,864000.0,2.1,Converted,606000.0
+IT00762,2026-06-14,IT Support & Maintenance,SME,Email,620000.0,12.5,Lost,0.0
+IT00763,14-06-2026,Cloud & DevOps,SME,Referral,356000.0,37.2,In Progress,0.0
+IT00764,14-06-2026,Cloud & DevOps,Startup,Direct,87000.0,2.5,In Progress,0.0
+IT00765,2026-06-15,Cybersecurity,SME,Direct,564000.0,6.1,Converted,471000.0
+IT00766,2026-06-15,Cybersecurity,Startup,Organic Search,205000.0,5.3,Converted,167000.0
+IT00767,17-06-2026,Data & Analytics Consulting,Educational Institution,Referral,491000.0,11.9,Lost,0.0
+IT00768,2026-06-17,Software Development,SME,Referral,396000.0,4.1,Converted,296000.0
+IT00769,2026-06-18,Software Development,Startup,Direct,120000.0,14.4,lost,0.0
+IT00770,2026-06-18,Software Development,Startup,Paid Ads,,4.8,Lost,0.0
+IT00771,2026-06-18,Cloud & DevOps,Startup,Paid Ads,266000.0,2.6,Lost,0.0
+IT00772,2026-06-19,Software Development,Enterprise,Organic Search,2340000.0,55.6,Converted,1947000.0
+IT00773,2026-06-19,IT Support & Maintenance,SME,Email,198000.0,6.2,Lost,0.0
+IT00774,2026-06-19,Software Development,Educational Institution,Email,468000.0,3.8,Converted,491000.0
+IT00775,2026-06-19,Data & Analytics Consulting,SME,Social Media,440000.0,9.2,Converted,430000.0
+IT00776,2026-06-19,Cloud & DevOps,Startup,Organic Search,458000.0,9.8,In Progress,0.0
+IT00777,2026-06-20,Data & Analytics Consulting,Individual,Organic Search,72000.0,2.7,In Progress,0.0
+IT00778,2026-06-20,IT Support & Maintenance,SME,Direct,484000.0,4.7,Lost,0.0
+IT00779,2026-06-21,Software Development,Individual,Paid Ads,,1.4,In Progress,0.0
+IT00780,2026-06-22,Cloud & DevOps,Individual,Referral,17000.0,1.4,Lost,0.0
+IT00781,2026-06-22,Data & Analytics Consulting,SME,Organic Search,499000.0,8.3,In Progress,0.0
+IT00782,2026-06-23,Data & Analytics Consulting,SME,Organic Search,630000.0,3.0,Lost,0.0
+IT00783,2026-06-23,Software Development,SME,Referral,267000.0,6.6,Converted,216000.0
+IT00784,2026-06-23,Data & Analytics Consulting,Educational Institution,Direct,179000.0,10.2,In Progress,0.0
+IT00785,2026-06-23,IT Support & Maintenance,Enterprise,Organic Search,1318000.0,5.5,Lost,0.0
+IT00786,2026-06-24,Cloud & DevOps,Startup,Referral,128000.0,2.3,Converted,123000.0
+IT00787,2026-06-24,Data & Analytics Consulting,SME,Paid Ads,453000.0,4.5,Converted,384000.0
+IT00788,24-06-2026,IT Support & Maintenance,Individual,Organic Search,39000.0,0.7,Lost,0.0
+IT00789,2026-06-24,Cybersecurity,SME,Referral,427000.0,9.7,Converted,332000.0
+IT00790,2026-06-24,Cloud & DevOps,Enterprise,Direct,1506000.0,3.6,In Progress,0.0
+IT00790,2026-06-24,Cloud & DevOps,Enterprise,Direct,1506000.0,3.6,In Progress,0.0
+IT00791,2026-06-25,Software Development,SME,Email,176000.0,25.4,Lost,0.0
+IT00792,2026-06-25,IT Support & Maintenance,Educational Institution,Organic Search,369000.0,2.8,In Progress,0.0
+IT00793,2026-06-25,Software Development,Startup,Referral,175000.0,8.4,Converted,139000.0
+IT00794,2026-06-25,Data & Analytics Consulting,Startup,Organic Search,105000.0,15.6,Converted,74000.0
+IT00795,2026-06-25,IT Support & Maintenance,Educational Institution,Referral,370000.0,4.0,Lost,0.0
+IT00796,2026-06-25,Data & Analytics Consulting,Startup,Direct,,5.6,Lost,0.0
+IT00797,2026-06-26,Cybersecurity,SME,Paid Ads,358000.0,9.4,Lost,0.0
+IT00798,2026-06-26,Data & Analytics Consulting,SME,Social Media,339000.0,4.3,In Progress,0.0
+IT00799,2026-06-26,Data & Analytics Consulting,Startup,Paid Ads,220000.0,2.1,Converted,209000.0
+IT00800,2026-06-26,Software Development,SME,Organic Search,205000.0,11.2,Lost,0.0
+IT00801,2026-06-27,IT Support & Maintenance,SME,Direct,687000.0,2.4,Converted,534000.0
+IT00802,2026-06-27,Software Development,Enterprise,Referral,1046000.0,2.0,Converted,758000.0
+IT00803,2026-06-28,IT Support & Maintenance,SME,Direct,276000.0,3.4,Converted,224000.0
+IT00804,2026-06-28,Data & Analytics Consulting,Individual,Referral,77000.0,26.6,Converted,63000.0
+IT00805,2026-06-29,Software Development,Individual,Organic Search,26000.0,31.1,In Progress,0.0
+IT00806,2026-06-29,IT Support & Maintenance,Individual,Direct,57000.0,4.4,Converted,49000.0
+IT00807,2026-06-29,Software Development,Individual,Referral,36000.0,7.1,Lost,0.0
+IT00808,2026-06-30,Software Development,Enterprise,Email,658000.0,5.8,In Progress,0.0
+IT00809,2026-06-30,Software Development,SME,Organic Search,196000.0,4.6,In Progress,0.0
+IT00810,2026-06-30,Cybersecurity,Enterprise,Referral,1283000.0,8.4,Converted,1171000.0
+IT00811,2026-07-01,Software Development,Educational Institution,Organic Search,532000.0,6.6,In Progress,0.0
+IT00812,2026-07-01,IT Support & Maintenance,Startup,Referral,260000.0,12.5,In Progress,0.0
+IT00813,01-07-2026,Cybersecurity,SME,Organic Search,476000.0,13.1,Converted,356000.0
+IT00814,2026-07-01,Software Development,Individual,Referral,23000.0,2.5,In Progress,0.0
+IT00815,2026-07-02,Data & Analytics Consulting,Enterprise,Direct,999000.0,8.2,Lost,0.0
+IT00816,2026-07-02,Cloud & DevOps,Individual,Organic Search,26000.0,4.7,Lost,0.0
+IT00817,2026-07-02,Data & Analytics Consulting,Educational Institution,Organic Search,,56.9,In Progress,0.0
+IT00818,2026-07-02,Data & Analytics Consulting,Startup,Organic Search,330000.0,2.3,In Progress,0.0
+IT00819,2026-07-03,Cloud & DevOps,SME,Referral,1042000.0,1.9,Converted,1003000.0
+IT00820,2026-07-03,IT Support & Maintenance,Startup,Paid Ads,539000.0,2.4,Converted,492000.0
+IT00821,2026-07-03,IT Support & Maintenance,Individual,Organic Search,89000.0,7.2,Lost,0.0
+IT00822,2026-07-04,Software Development,Individual,Paid Ads,24000.0,6.1,Lost,0.0
+IT00823,2026-07-04,IT Support & Maintenance,SME,Referral,186000.0,5.3,Lost,0.0
+IT00824,2026-07-04,Data & Analytics Consulting,Startup,Referral,236000.0,5.7,Converted,197000.0
+IT00825,2026-07-05,Cybersecurity,SME,Direct,,11.9,In Progress,0.0
+IT00826,2026-07-05,Data & Analytics Consulting,Educational Institution,Email,303000.0,13.5,Lost,0.0
+IT00827,2026-07-05,IT Support & Maintenance,Individual,Referral,52000.0,7.0,Converted,46000.0
+IT00828,2026-07-05,Software Development,Startup,Direct,238000.0,11.2,LOST,0.0
+IT00829,2026-07-06,Cloud & DevOps,Individual,Social Media,73000.0,5.9,Converted,65000.0
+IT00830,2026-07-06,Software Development,Enterprise,Organic Search,1231000.0,1.9,Converted,1154000.0
+IT00831,2026-07-06,Cloud & DevOps,Startup,Organic Search,167000.0,12.9,Lost,0.0
+IT00832,2026-07-06,Software Development,Individual,Referral,39000.0,8.1,Converted,31000.0
+IT00833,2026-07-06,IT Support & Maintenance,Individual,Direct,28000.0,11.9,Converted,27000.0
+IT00834,2026-07-06,Software Development,SME,Referral,787000.0,13.6,Converted,696000.0
+IT00835,2026-07-06,IT Support & Maintenance,SME,Organic Search,254000.0,8.1,In Progress,0.0
+IT00836,2026-07-06,Software Development,Startup,Email,271000.0,19.9,In Progress,0.0
+IT00837,2026-07-07,Software Development,SME,Direct,398000.0,4.4,In Progress,0.0
+IT00838,2026-07-08,Cloud & DevOps,Enterprise,Referral,2078000.0,3.2,Converted,1637000.0
+IT00839,2026-07-08,Data & Analytics Consulting,SME,Organic Search,434000.0,20.9,Lost,0.0
+IT00840,2026-07-08,IT Support & Maintenance,Individual,Direct,31000.0,6.7,Lost,0.0
+IT00841,2026-07-08,Data & Analytics Consulting,SME,Social Media,370000.0,2.0,Lost,0.0
+IT00842,2026-07-09,IT Support & Maintenance,Educational Institution,Organic Search,355000.0,3.0,Lost,0.0
+IT00843,2026-07-09,Software Dev,Individual,Organic Search,35000.0,1.5,In Progress,0.0
+IT00844,2026-07-09,Data & Analytics Consulting,Enterprise,Organic Search,1531000.0,2.7,Converted,1342000.0
+IT00845,2026-07-10,Cybersecurity,Individual,Paid Ads,52000.0,9.8,In-Progress,0.0
+IT00846,2026-07-10,Data & Analytics Consulting,Individual,Direct,34000.0,10.4,Lost,0.0
+IT00847,2026-07-10,IT Support & Maintenance,Enterprise,Paid Ads,1648000.0,9.7,In Progress,0.0
+IT00848,2026-07-10,Cybersecurity,Startup,Email,306000.0,,Converted,294000.0
+IT00849,2026-07-11,Cloud & DevOps,SME,Direct,460000.0,10.1,Lost,0.0
+IT00850,2026-07-13,IT Support,SME,Paid Ads,307000.0,13.3,Converted,235000.0
+IT00851,2026-07-13,Software Development,SME,Organic Search,303000.0,1.4,In Progress,0.0
+IT00852,2026-07-13,Data & Analytics Consulting,SME,Social Media,792000.0,4.9,In Progress,0.0
+IT00853,2026-07-13,Software Development,SME,Paid Ads,242000.0,,In Progress,0.0
+IT00854,2026-07-14,Data & Analytics Consulting,Enterprise,Paid Ads,,6.1,Converted,820000.0
+IT00855,2026-07-14,Cloud & DevOps,Startup,Referral,209000.0,14.0,Lost,0.0
+IT00856,2026-07-15,Cybersecurity,Startup,Email,228000.0,1.5,Converted,233000.0
+IT00857,16-07-2026,Software Development,SME,Paid Ads,633000.0,10.7,In-Progress,0.0
+IT00858,2026-07-16,IT Support & Maintenance,Educational Institution,Referral,,4.4,Lost,0.0
+IT00859,2026-07-16,IT Support & Maintenance,SME,Referral,560000.0,6.7,In Progress,0.0
+IT00860,2026-07-16,IT Support & Maintenance,Individual,Direct,,10.3,Converted,42000.0
+IT00861,2026-07-16,Cloud & DevOps,SME,Referral,246000.0,3.2,Converted,241000.0
+IT00862,2026-07-17,Cybersecurity,Startup,Organic Search,277000.0,8.9,Converted,242000.0
+IT00863,2026-07-17,Cybersecurity,SME,Organic Search,390000.0,4.8,In Progress,0.0
+IT00864,2026-07-18,Software Development,Individual,Email,31000.0,2.4,Lost,0.0
+IT00865,2026-07-18,Software Dev,Educational Institution,Paid Ads,230000.0,8.5,Converted,232000.0
+IT00866,2026-07-19,Cloud & DevOps,Individual,Organic Search,70000.0,4.3,In Progress,0.0
+IT00867,2026-07-19,Cloud & DevOps,Startup,Direct,192000.0,3.6,Converted,163000.0
+IT00868,2026-07-20,Cybersecurity,Startup,Paid Ads,177000.0,4.9,Converted,128000.0
+IT00869,2026-07-20,Software Development,Startup,Referral,376000.0,11.1,Converted,390000.0
+IT00870,2026-07-20,Data & Analytics Consulting,Startup,Organic Search,163000.0,3.6,In Progress,0.0
+IT00871,2026-07-20,Cloud & DevOps,Educational Institution,Social Media,186000.0,10.9,Converted,151000.0
+IT00872,2026-07-20,Data & Analytics Consulting,Individual,Referral,56000.0,6.1,Converted,47000.0
+IT00873,2026-07-21,Cloud & DevOps,Startup,Social Media,187000.0,16.9,Converted,185000.0
+IT00874,2026-07-21,IT Support & Maintenance,Startup,Referral,592000.0,4.5,In Progress,0.0
+IT00875,2026-07-22,Software Development,Individual,Referral,56000.0,9.4,In Progress,0.0
+IT00876,2026-07-22,Cloud & DevOps,Startup,Organic Search,140000.0,8.3,In Progress,0.0
+IT00877,2026-07-22,Software Development,Startup,Organic Search,154000.0,4.3,Lost,0.0
+IT00878,2026-07-23,IT Support & Maintenance,Individual,Organic Search,30000.0,2.7,In Progress,0.0
+IT00879,2026-07-23,Data & Analytics Consulting,SME,Email,283000.0,18.0,Converted,294000.0
+IT00880,2026-07-23,Data & Analytics Consulting,Individual,Organic Search,36000.0,3.7,Lost,0.0
+IT00881,2026-07-24,Data & Analytics Consulting,Educational Institution,Direct,,10.8,In Progress,0.0
+IT00882,2026-07-24,Software Development,Individual,Organic Search,27000.0,3.0,Converted,26000.0
+IT00883,2026-07-24,Software Development,SME,Direct,295000.0,5.5,Lost,0.0
+IT00884,27-07-2026,Cybersecurity,Startup,Organic Search,437000.0,3.8,Lost,0.0
+IT00885,2026-07-27,Data & Analytics Consulting,Startup,Social Media,141000.0,2.6,In-Progress,0.0
+IT00886,2026-07-27,Cloud & DevOps,SME,Email,678000.0,2.3,In Progress,0.0
+IT00887,2026-07-27,Software Development,SME,Referral,334000.0,2.4,In Progress,0.0
+IT00888,2026-07-27,Cybersecurity,Individual,Paid Ads,121000.0,5.3,Converted,103000.0
+IT00889,2026-07-28,Software Development,SME,Organic Search,307000.0,9.1,In Progress,0.0
+IT00890,2026-07-28,IT Support & Maintenance,SME,Organic Search,454000.0,5.1,In Progress,0.0
+IT00891,2026-07-28,Software Development,SME,Social Media,388000.0,4.8,Converted,398000.0
+IT00892,2026-07-28,Data & Analytics Consulting,SME,Referral,343000.0,11.1,In Progress,0.0
+IT00893,2026-07-29,Software Development,Individual,Referral,22000.0,14.7,Lost,0.0
+IT00894,2026-07-29,IT Support & Maintenance,Individual,Organic Search,102000.0,3.9,In-Progress,0.0
+IT00895,2026-07-29,Cybersecurity,Enterprise,Direct,2785000.0,4.0,Converted,2910000.0
+IT00896,2026-07-29,Software Development,Startup,Direct,363000.0,14.3,Converted,292000.0
+IT00897,2026-07-29,Software Development,Startup,Organic Search,553000.0,1.7,Lost,0.0
+IT00898,2026-07-29,IT Support & Maintenance,SME,Direct,416000.0,1.4,Converted,371000.0
+IT00899,2026-07-30,Software Development,SME,Email,561000.0,6.2,In Progress,0.0
+IT00900,2026-07-30,Software Development,Educational Institution,Paid Ads,451000.0,5.4,Lost,0.0
+IT00901,2026-07-30,Cybersecurity,SME,Organic Search,326000.0,12.7,Converted,301000.0
+IT00902,2026-07-30,Software Development,Startup,Email,,6.7,In Progress,0.0
+IT00903,2026-07-30,Data & Analytics Consulting,SME,Paid Ads,231000.0,12.0,Converted,213000.0
+IT00904,2026-07-31,Cloud & DevOps,Individual,Social Media,,5.9,In Progress,0.0
+IT00905,2026-07-31,it support & maintenance,Educational Institution,Referral,421000.0,28.2,Lost,0.0
+IT00906,2026-07-31,Software Development,Enterprise,Social Media,1548000.0,28.0,Converted,1553000.0
+IT00907,2026-08-01,Software Development,SME,Organic Search,382000.0,2.4,Converted,373000.0
+IT00908,2026-08-02,Software Development,Startup,Social Media,249000.0,3.2,Converted,257000.0
+IT00909,2026-08-02,Cybersecurity,SME,Referral,1123000.0,13.5,Converted,797000.0
+IT00910,2026-08-03,IT Support & Maintenance,SME,Organic Search,648000.0,15.9,Converted,671000.0
+IT00911,2026-08-03,Data & Analytics Consulting,SME,Organic Search,514000.0,6.0,Converted,538000.0
+IT00912,2026-08-03,IT Support & Maintenance,Individual,Organic Search,14000.0,12.0,Lost,0.0
+IT00913,2026-08-03,IT Support & Maintenance,Startup,Referral,229000.0,15.5,Converted,189000.0
+IT00914,2026-08-04,Data & Analytics Consulting,SME,Email,257000.0,11.3,Lost,0.0
+IT00915,2026-08-04,Data & Analytics Consulting,Individual,Organic Search,41000.0,0.9,Converted,42000.0
+IT00916,2026-08-04,Cybersecurity,Startup,Organic Search,344000.0,2.7,Converted,277000.0
+IT00917,2026-08-04,Software Development,Educational Institution,Organic Search,679000.0,17.4,In Progress,0.0
+IT00918,2026-08-04,IT Support & Maintenance,Educational Institution,Referral,800000.0,13.5,Converted,723000.0
+IT00919,2026-08-04,IT Support,Startup,Social Media,443000.0,3.2,In Progress,0.0
+IT00920,2026-08-05,Software Development,Educational Institution,Direct,468000.0,2.8,In Progress,0.0
+IT00921,2026-08-05,Cloud & DevOps,Individual,Paid Ads,44000.0,4.4,In Progress,0.0
+IT00922,2026-08-05,Cloud & DevOps,Startup,Direct,343000.0,16.4,Converted,294000.0
+IT00923,2026-08-05,Software Development,Startup,Referral,311000.0,3.8,Lost,0.0
+IT00924,2026-08-06,Cybersecurity,Enterprise,Organic Search,953000.0,7.9,Converted,934000.0
+IT00925,2026-08-06,IT Support & Maintenance,Educational Institution,Organic Search,213000.0,5.3,Converted,203000.0
+IT00926,2026-08-06,Cybersecurity,Individual,Social Media,74000.0,15.0,LOST,0.0
+IT00927,2026-08-07,Cybersecurity,Educational Institution,Referral,216000.0,6.1,Lost,0.0
+IT00928,2026-08-07,Software Development,SME,Email,385000.0,8.7,Converted,355000.0
+IT00929,2026-08-07,Cybersecurity,Individual,Referral,26000.0,4.6,Converted,23000.0
+IT00930,2026-08-08,Data & Analytics Consulting,SME,Referral,806000.0,12.9,Lost,0.0
+IT00931,2026-08-08,Cloud & DevOps,Educational Institution,Paid Ads,105000.0,30.1,In Progress,0.0
+IT00932,2026-08-08,Cloud & DevOps,SME,Direct,242000.0,6.6,Converted,201000.0
+IT00933,2026-08-08,Cloud & DevOps,Startup,Referral,341000.0,6.9,Converted,329000.0
+IT00934,2026-08-08,Cybersecurity,Startup,Paid Ads,98000.0,4.5,Won,93000.0
+IT00935,2026-08-09,IT Support & Maintenance,Individual,Direct,29000.0,6.4,Lost,0.0
+IT00936,2026-08-09,Software Development,SME,Direct,143000.0,6.1,Lost,0.0
+IT00937,2026-08-09,Software Development,Educational Institution,Referral,1421000.0,2.5,Converted,1138000.0
+IT00938,2026-08-10,Data & Analytics Consulting,Startup,Organic Search,335000.0,2.7,Converted,318000.0
+IT00939,2026-08-10,IT Support & Maintenance,Individual,Referral,32000.0,11.8,Converted,30000.0
+IT00940,2026-08-11,IT Support & Maintenance,Individual,Referral,30000.0,5.0,Converted,31000.0
+IT00941,2026-08-11,Data & Analytics Consulting,Startup,Organic Search,274000.0,7.0,Lost,0.0
+IT00942,2026-08-11,Data & Analytics Consulting,Startup,Paid Ads,,2.7,Lost,0.0
+IT00943,2026-08-11,IT Support & Maintenance,SME,Organic Search,374000.0,5.7,In Progress,0.0
+IT00944,2026-08-11,IT Support & Maintenance,SME,Organic Search,113000.0,3.9,In Progress,0.0
+IT00945,2026-08-12,Software Dev,Startup,Referral,329000.0,1.3,Converted,317000.0
+IT00946,2026-08-12,IT Support & Maintenance,SME,Direct,520000.0,5.4,Converted,416000.0
+IT00947,2026-08-13,Cloud & DevOps,SME,Paid Ads,372000.0,6.0,Converted,275000.0
+IT00948,2026-08-13,Software Development,SME,Email,336000.0,6.2,Converted,311000.0
+IT00949,2026-08-13,IT Support & Maintenance,SME,Paid Ads,465000.0,6.3,Converted,408000.0
+IT00950,2026-08-13,Software Development,Startup,Email,180000.0,7.8,Lost,0.0
+IT00951,2026-08-13,IT Support & Maintenance,Startup,Referral,217000.0,6.7,Converted,212000.0
+IT00952,2026-08-15,Software Development,Startup,Email,538000.0,3.0,Converted,444000.0
+IT00953,2026-08-15,Data & Analytics Consulting,SME,Organic Search,405000.0,2.7,Converted,294000.0
+IT00954,2026-08-15,Data & Analytics Consulting,SME,Direct,431000.0,8.7,Converted,419000.0
+IT00955,2026-08-15,IT Support & Maintenance,SME,Organic Search,607000.0,2.1,Converted,431000.0
+IT00956,2026-08-15,Software Development,Enterprise,Social Media,1520000.0,8.7,Converted,1261000.0
+IT00957,2026-08-15,Cloud & DevOps,SME,Organic Search,470000.0,5.2,Lost,0.0
+IT00958,2026-08-16,Cybersecurity,Enterprise,Email,1751000.0,8.4,Converted,1824000.0
+IT00958,2026-08-16,Cybersecurity,Enterprise,Email,1751000.0,8.4,Converted,1824000.0
+IT00959,2026-08-16,IT Support & Maintenance,Startup,Organic Search,,33.2,In Progress,0.0
+IT00960,2026-08-16,Software Development,SME,Direct,407000.0,42.9,Lost,0.0
+IT00961,2026-08-16,Data & Analytics Consulting,Startup,Paid Ads,122000.0,3.7,Converted,98000.0
+IT00962,2026-08-17,Data & Analytics Consulting,Startup,Referral,180000.0,7.7,Converted,149000.0
+IT00963,2026-08-17,IT Support & Maintenance,SME,Referral,491000.0,5.6,Converted,368000.0
+IT00964,2026-08-17,Software Development,Enterprise,Direct,2662000.0,2.2,Lost,0.0
+IT00965,2026-08-17,Data & Analytics Consulting,Individual,Organic Search,13000.0,5.9,Converted,10000.0
+IT00966,2026-08-17,Cloud & DevOps,Enterprise,Organic Search,1498000.0,7.7,Lost,0.0
+IT00967,2026-08-17,Data & Analytics Consulting,SME,Referral,277000.0,1.6,Converted,247000.0
+IT00968,2026-08-18,Cybersecurity,Startup,Referral,669000.0,3.9,Converted,624000.0
+IT00969,2026-08-19,Software Development,Startup,Paid Ads,187000.0,10.3,Lost,0.0
+IT00970,2026-08-19,it support & maintenance,SME,Direct,184000.0,5.2,Lost,0.0
+IT00971,2026-08-19,Software Development,Educational Institution,Referral,374000.0,2.1,Converted,311000.0
+IT00972,2026-08-19,Software Development,SME,Organic Search,360000.0,1.9,Converted,377000.0
+IT00973,2026-08-19,IT Support & Maintenance,SME,Organic Search,419000.0,18.9,Lost,0.0
+IT00974,2026-08-20,Software Development,Educational Institution,Referral,116000.0,2.7,LOST,0.0
+IT00975,2026-08-20,Software Development,Enterprise,Organic Search,2286000.0,16.9,Lost,0.0
+IT00976,2026-08-21,Software Development,SME,Organic Search,289000.0,6.5,In Progress,0.0
+IT00977,2026-08-21,Cloud & DevOps,SME,Organic Search,362000.0,6.9,Converted,300000.0
+IT00978,2026-08-21,Software Development,Startup,Referral,161000.0,3.4,Converted,136000.0
+IT00979,2026-08-23,IT Support & Maintenance,Startup,Direct,159000.0,18.5,Lost,0.0
+IT00980,2026-08-24,IT Support & Maintenance,Educational Institution,Social Media,414000.0,5.8,Lost,0.0
+IT00981,2026-08-25,IT Support & Maintenance,SME,Referral,366000.0,4.1,In Progress,0.0
+IT00982,2026-08-26,software development,Educational Institution,Paid Ads,566000.0,2.6,In Progress,0.0
+IT00983,2026-08-26,it support & maintenance,Startup,Paid Ads,462000.0,15.6,In Progress,0.0
+IT00984,2026-08-26,Data & Analytics Consulting,SME,Email,553000.0,1.7,In Progress,0.0
+IT00985,2026-08-27,Software Development,Individual,Organic Search,45000.0,1.5,Converted,41000.0
+IT00986,2026-08-27,Data & Analytics Consulting,Startup,Direct,489000.0,5.6,In Progress,0.0
+IT00987,2026-08-28,Software Development,Individual,Referral,54000.0,7.1,In Progress,0.0
+IT00988,2026-08-28,IT Support & Maintenance,Individual,Email,24000.0,16.5,In Progress,0.0
+IT00989,2026-08-28,Data & Analytics Consulting,SME,Referral,705000.0,8.5,In Progress,0.0
+IT00990,2026-08-28,Software Development,SME,Organic Search,546000.0,9.2,Lost,0.0
+IT00991,2026-08-28,Software Development,Startup,Direct,140000.0,5.3,In Progress,0.0
+IT00992,2026-08-28,Cloud & DevOps,Enterprise,Email,2075000.0,2.0,In Progress,0.0
+IT00993,2026-08-29,IT Support & Maintenance,Startup,Organic Search,250000.0,8.6,Lost,0.0
+IT00994,2026-08-29,Cybersecurity,SME,Social Media,312000.0,1.2,Converted,237000.0
+IT00995,2026-08-30,IT Support,Startup,Paid Ads,505000.0,0.9,Converted,366000.0
+IT00996,2026-08-30,Software Development,Startup,Email,412000.0,7.3,Converted,365000.0
+IT00997,2026-08-31,Data & Analytics Consulting,Startup,Direct,150000.0,4.7,Converted,113000.0
+IT00998,2026-08-31,Software Development,SME,Paid Ads,439000.0,41.2,In Progress,0.0
+IT00999,2026-08-31,Software Development,Educational Institution,Paid Ads,339000.0,10.0,In Progress,0.0
+IT01000,2026-09-01,IT Support & Maintenance,Startup,Paid Ads,234000.0,9.8,Converted,245000.0
+IT01001,2026-09-02,Cloud & DevOps,Startup,Direct,405000.0,2.3,Converted,404000.0
+IT01002,2026-09-02,Data & Analytics Consulting,SME,Referral,270000.0,,In Progress,0.0
+IT01003,2026-09-02,Cloud & DevOps,Startup,Referral,230000.0,7.0,Converted,213000.0
+IT01004,2026-09-02,IT Support & Maintenance,Individual,Organic Search,6000.0,1.9,Converted,5000.0
+IT01005,2026-09-02,Cloud & DevOps,SME,Referral,383000.0,2.4,converted,286000.0
+IT01006,2026-09-03,IT Support & Maintenance,SME,Social Media,230000.0,21.4,Lost,0.0
+IT01007,2026-09-03,Software Development,SME,Email,573000.0,2.7,Converted,562000.0
+IT01008,2026-09-03,Data & Analytics Consulting,Startup,Direct,139000.0,13.3,Converted,141000.0
+IT01009,2026-09-03,Cloud & DevOps,SME,Referral,424000.0,1.0,Converted,420000.0
+IT01010,2026-09-03,Data & Analytics Consulting,Enterprise,Organic Search,1224000.0,3.1,Converted,917000.0
+IT01011,2026-09-03,Software Development,SME,Organic Search,566000.0,9.9,Converted,463000.0
+IT01012,2026-09-04,Cybersecurity,Enterprise,Organic Search,879000.0,3.4,In Progress,0.0
+IT01013,2026-09-04,IT Support & Maintenance,SME,Direct,450000.0,13.3,Lost,0.0
+IT01014,2026-09-04,Data & Analytics Consulting,SME,Social Media,327000.0,2.3,Lost,0.0
+IT01015,2026-09-04,IT Support & Maintenance,Startup,Referral,358000.0,20.0,Converted,265000.0
+IT01016,2026-09-05,IT Support & Maintenance,SME,Paid Ads,654000.0,16.1,LOST,0.0
+IT01017,2026-09-06,Data & Analytics Consulting,SME,Referral,316000.0,8.7,In Progress,0.0
+IT01018,2026-09-07,IT Support & Maintenance,SME,Referral,301000.0,13.2,Converted,312000.0
+IT01019,2026-09-07,Software Development,SME,Referral,510000.0,12.2,Converted,437000.0
+IT01020,2026-09-08,Cybersecurity,Startup,Social Media,300000.0,2.6,In Progress,0.0
+IT01021,2026-09-08,IT Support & Maintenance,Startup,Referral,205000.0,10.4,Lost,0.0
+IT01022,2026-09-08,Cloud & DevOps,SME,Referral,146000.0,5.0,Converted,118000.0
+IT01023,2026-09-09,Software Development,Individual,Direct,74000.0,6.5,Lost,0.0
+IT01024,2026-09-09,Cloud & DevOps,Startup,Referral,338000.0,15.0,Converted,278000.0
+IT01025,2026-09-09,Data & Analytics Consulting,Startup,Social Media,208000.0,2.7,Lost,0.0
+IT01026,2026-09-09,Software Development,Individual,Organic Search,41000.0,10.2,Converted,30000.0
+IT01027,2026-09-09,Cybersecurity,Startup,Referral,146000.0,4.1,Converted,133000.0
+IT01028,2026-09-10,Software Development,Enterprise,Organic Search,1921000.0,0.7,Converted,1693000.0
+IT01029,2026-09-10,Data & Analytics Consulting,Startup,Referral,150000.0,11.9,Lost,0.0
+IT01030,2026-09-10,Data & Analytics Consulting,SME,Referral,602000.0,4.5,LOST,0.0
+IT01031,2026-09-10,Cybersecurity,SME,Paid Ads,355000.0,19.9,In Progress,0.0
+IT01032,2026-09-11,Software Development,Startup,Social Media,206000.0,10.2,Lost,0.0
+IT01033,2026-09-11,Data & Analytics Consulting,SME,Referral,1646000.0,10.4,In Progress,0.0
+IT01034,2026-09-11,Software Development,Educational Institution,Referral,287000.0,12.0,Lost,0.0
+IT01035,2026-09-11,Software Development,Educational Institution,Referral,178000.0,16.8,Converted,150000.0
+IT01036,2026-09-12,Data & Analytics Consulting,Individual,Organic Search,53000.0,3.7,Converted,47000.0
+IT01037,2026-09-12,IT Support & Maintenance,SME,Social Media,276000.0,13.9,In Progress,0.0
+IT01038,2026-09-12,Cloud & DevOps,SME,Organic Search,288000.0,10.6,Converted,224000.0
+IT01039,2026-09-13,IT Support & Maintenance,Enterprise,Paid Ads,2458000.0,9.1,Lost,0.0
+IT01040,2026-09-13,Software Development,Startup,Direct,1044000.0,35.2,Lost,0.0
+IT01041,2026-09-13,Software Development,Individual,Direct,22000.0,4.6,Lost,0.0
+IT01042,2026-09-14,Data & Analytics Consulting,SME,Paid Ads,443000.0,5.2,Converted,447000.0
+IT01043,2026-09-14,IT Support & Maintenance,Educational Institution,Referral,405000.0,10.2,Converted,363000.0
+IT01044,2026-09-15,Cybersecurity,SME,Referral,689000.0,3.2,Converted,705000.0
+IT01045,2026-09-15,IT Support & Maintenance,Educational Institution,Organic Search,275000.0,2.4,Converted,227000.0
+IT01046,2026-09-15,Software Development,SME,Referral,482000.0,3.8,Converted,366000.0
+IT01047,2026-09-15,Software Development,Individual,Direct,33000.0,1.8,Converted,24000.0
+IT01048,2026-09-15,Cybersecurity,Enterprise,Paid Ads,3207000.0,8.4,Lost,0.0
+IT01049,2026-09-17,IT Support & Maintenance,SME,Referral,731000.0,1.4,Converted,716000.0
+IT01050,2026-09-17,Cloud & DevOps,Startup,Referral,286000.0,6.0,Lost,0.0
+IT01051,2026-09-17,Cybersecurity,SME,Paid Ads,582000.0,5.6,Converted,517000.0
+IT01052,2026-09-18,IT Support & Maintenance,Startup,Direct,254000.0,3.8,Converted,216000.0
+IT01053,2026-09-18,Software Development,Educational Institution,Direct,476000.0,7.6,Lost,0.0
+IT01054,2026-09-18,Software Development,SME,Organic Search,696000.0,,Converted,548000.0
+IT01055,2026-09-18,IT Support & Maintenance,Startup,Referral,343000.0,1.8,Converted,268000.0
+IT01056,2026-09-19,Cybersecurity,SME,Direct,358000.0,7.7,In Progress,0.0
+IT01057,2026-09-19,Cloud & DevOps,Startup,Social Media,169000.0,4.3,Lost,0.0
+IT01058,2026-09-19,IT Support & Maintenance,Startup,Referral,108000.0,36.5,Lost,0.0
+IT01059,2026-09-19,Cloud & DevOps,Enterprise,Organic Search,1915000.0,3.6,Converted,1686000.0
+IT01060,2026-09-19,Software Development,SME,Referral,397000.0,10.4,Converted,352000.0
+IT01061,2026-09-20,Software Development,Startup,Organic Search,589000.0,8.4,Converted,433000.0
+IT01062,2026-09-20,Cloud & DevOps,Individual,Paid Ads,,4.1,Lost,0.0
+IT01063,2026-09-20,Data & Analytics Consulting,SME,Referral,489000.0,23.1,Lost,0.0
+IT01064,2026-09-21,Software Development,Enterprise,Paid Ads,1104000.0,7.7,Converted,781000.0
+IT01065,2026-09-21,IT Support & Maintenance,Startup,Paid Ads,639000.0,12.2,Lost,0.0
+IT01066,2026-09-21,Data & Analytics Consulting,Startup,Organic Search,484000.0,,Lost,0.0
+IT01067,2026-09-23,Software Development,Startup,Organic Search,142000.0,4.8,Lost,0.0
+IT01068,2026-09-23,Cybersecurity,Startup,Organic Search,949000.0,2.3,In Progress,0.0
+IT01069,2026-09-23,Cloud & DevOps,Startup,Organic Search,210000.0,2.6,Converted,193000.0
+IT01070,2026-09-23,IT Support & Maintenance,Individual,Organic Search,31000.0,11.3,Converted,23000.0
+IT01071,2026-09-23,IT Support & Maintenance,SME,Organic Search,525000.0,8.2,In Progress,0.0
+IT01072,2026-09-24,Cybersecurity,Individual,Organic Search,,1.8,In Progress,0.0
+IT01073,2026-09-24,Data & Analytics Consulting,Startup,Email,145000.0,1.6,Converted,102000.0
+IT01074,2026-09-24,Cloud & DevOps,SME,Organic Search,930000.0,5.9,Converted,831000.0
+IT01075,2026-09-24,Software Development,Startup,Organic Search,432000.0,2.2,Converted,341000.0
+IT01076,2026-09-24,Software Development,SME,Direct,296000.0,12.8,Converted,279000.0
+IT01077,2026-09-25,IT Support & Maintenance,Educational Institution,Direct,99000.0,4.8,Converted,82000.0
+IT01078,2026-09-25,Data & Analytics Consulting,Individual,Referral,83000.0,2.2,Converted,67000.0
+IT01079,2026-09-25,IT Support & Maintenance,Individual,Email,92000.0,14.1,In Progress,0.0
+IT01080,2026-09-25,Cloud & DevOps,Educational Institution,Email,273000.0,5.0,Lost,0.0
+IT01081,2026-09-25,Cybersecurity,Educational Institution,Referral,172000.0,4.7,converted,167000.0
+IT01082,2026-09-25,IT Support & Maintenance,Enterprise,Direct,1583000.0,7.6,Lost,0.0
+IT01083,2026-09-25,Software Development,Startup,Email,158000.0,24.6,Lost,0.0
+IT01084,2026-09-25,Software Development,SME,Organic Search,703000.0,6.2,Lost,0.0
+IT01085,2026-09-25,Cybersecurity,SME,Organic Search,464000.0,2.9,Lost,0.0
+IT01086,2026-09-25,Data & Analytics Consulting,SME,Referral,192000.0,2.2,Converted,178000.0
+IT01087,2026-09-25,Cybersecurity,Educational Institution,Organic Search,263000.0,6.4,Lost,0.0
+IT01088,2026-09-26,IT Support & Maintenance,SME,Organic Search,660000.0,8.3,Lost,0.0
+IT01089,2026-09-26,IT Support & Maintenance,SME,Direct,827000.0,2.2,Converted,592000.0
+IT01090,2026-09-27,Software Development,SME,Organic Search,293000.0,5.6,Lost,0.0
+IT01091,27-09-2026,Software Development,Individual,Direct,29000.0,1.5,In Progress,0.0
+IT01092,2026-09-28,Cybersecurity,Startup,Paid Ads,309000.0,4.3,Converted,296000.0
+IT01093,2026-09-28,Cloud & DevOps,Startup,Referral,293000.0,5.9,In Progress,0.0
+IT01094,2026-09-28,Data & Analytics Consulting,SME,Referral,189000.0,4.1,Lost,0.0
+IT01095,2026-09-29,Software Development,Startup,Paid Ads,390000.0,4.1,Converted,314000.0
+IT01096,2026-09-29,Data & Analytics Consulting,Educational Institution,Paid Ads,433000.0,5.2,Lost,0.0
+IT01097,2026-09-30,Data & Analytics Consulting,SME,Direct,330000.0,5.2,In Progress,0.0
+IT01098,2026-09-30,IT Support & Maintenance,Startup,Referral,279000.0,17.6,In Progress,0.0
+IT01099,2026-09-30,IT Support & Maintenance,Startup,Direct,208000.0,5.3,Lost,0.0
+IT01100,2026-09-30,Data & Analytics Consulting,Individual,Paid Ads,33000.0,17.9,Lost,0.0
