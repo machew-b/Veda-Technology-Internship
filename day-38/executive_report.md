@@ -93,4 +93,3 @@ Each day folder contains a `README.md` and a notebook named `veda_technology_bus
 1. Install Python 3 with `pandas`, `numpy`, `matplotlib`, `scikit-learn`, and `jupyter` (`sqlite3` is part of Python).
 2. Run the notebooks in order: `day-35`, `day-36`, `day-37`, `day-38`. Day 35 generates and cleans the data, and the later days read the cleaned tables from `datasets/veda_business/cleaned/`.
 3. The simulation uses a fixed random seed (`42`), so the data and the results are reproducible.
-4. The Power BI dashboard is built in Power BI Desktop from the Day 37 tables, following `day-37/power_bi_dashboard_guide.md`.
