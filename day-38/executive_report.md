@@ -82,7 +82,7 @@ Veda-Technology-Internship/
 │   └── powerbi/    # 6 tables for the Power BI dashboard (Day 37)
 ├── day-35/   # simulated dataset, cleaning pipeline, website and internship analyses
 ├── day-36/   # training, IT inquiry, digital inquiry, and service request analyses
-├── day-37/   # marketing, segmentation, service demand, KPI dashboard, Power BI guide
+├── day-37/   # marketing, segmentation, service demand, KPI dashboard
 └── day-38/   # predictive analysis, recommendations, this report
 ```
 
