@@ -1,0 +1,27 @@
+business_area,kpi,value,unit
+Website,Total visits,24000.0,visits
+Website,Bounce rate,47.72,%
+Website,Conversion rate,3.64,%
+Website,Average session duration,2.05,minutes
+Internships,Applications,2600.0,applications
+Internships,Selection rate,36.08,%
+Internships,Enrollment rate (of selected),84.54,%
+Training,Enrollments,1800.0,enrollments
+Training,Fee revenue,24.07,INR million
+Training,Completion rate,65.78,%
+Training,Average satisfaction,3.54,out of 5
+IT services,Inquiries,1100.0,inquiries
+IT services,Conversion rate,45.73,%
+IT services,Deal value,205.72,INR million
+Digital services,Inquiries,1300.0,inquiries
+Digital services,Conversion rate,43.15,%
+Digital services,Deal value,35.65,INR million
+Service requests,Total requests,3200.0,requests
+Service requests,Resolved,84.56,%
+Service requests,Escalated,9.56,%
+Service requests,Average resolution time,22.72,hours
+Service requests,Average satisfaction,3.9,out of 5
+Marketing,Total spend,1.6,INR million
+Marketing,Leads,20245.0,leads
+Marketing,Cost per lead,78.85,INR
+Marketing,Click-through rate,2.56,%
