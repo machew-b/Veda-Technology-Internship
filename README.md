@@ -40,6 +40,10 @@ Daily tasks completed for the Veda Technology internship, Data Science track. Th
 | [Day 32](./day-32) | Student Performance & Learning Analytics (Part 2): Correlation and Feature Engineering | Finished | October 09, 2026 |
 | [Day 33](./day-33) | Student Performance & Learning Analytics (Part 3): Prediction Models and Final Report | Finished | October 10, 2026 |
 | [Day 34](./day-34) | Buffer Day: Project Polish | Finished | October 11, 2026 |
+| [Day 35](./day-35) | Veda Technology Business & Service Analytics (Part 1): Dataset, Cleaning, Website and Internship Analysis | Finished | October 12, 2026 |
+| [Day 36](./day-36) | Veda Technology Business & Service Analytics (Part 2): Training, Inquiry, and Service Request Analysis | Finished | October 13, 2026 |
+| [Day 37](./day-37) | Veda Technology Business & Service Analytics (Part 3): Marketing, Segmentation, Demand, and KPI Dashboard | Finished | October 14, 2026 |
+| [Day 38](./day-38) | Veda Technology Business & Service Analytics (Part 4): Predictive Analysis, Recommendations, and Executive Report | Finished | October 15, 2026 |
 
 **Status key:** `Finished` — task complete · `In Progress` — currently working on it · `Pending` — not yet started.
 
