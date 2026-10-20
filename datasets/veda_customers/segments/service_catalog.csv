@@ -1,0 +1,25 @@
+family,offer,demand,demand_rank,outcome_measure,outcome_rate_pct,p_value_outcomes_differ
+Internship Programs,Data Science,578,1,selection_rate_pct,36.0,0.242
+Internship Programs,Web Development,513,2,selection_rate_pct,36.6,0.242
+Internship Programs,AI / Machine Learning,376,3,selection_rate_pct,34.6,0.242
+Internship Programs,Digital Marketing,323,4,selection_rate_pct,35.9,0.242
+Internship Programs,Cyber Security,236,5,selection_rate_pct,30.9,0.242
+Internship Programs,UI/UX Design,231,6,selection_rate_pct,43.7,0.242
+Internship Programs,Cloud Computing,212,7,selection_rate_pct,34.9,0.242
+Internship Programs,Business Analytics,131,8,selection_rate_pct,36.6,0.242
+Training Programs,Full Stack Web Development,412,1,completion_rate_pct,64.1,0.918
+Training Programs,Data Analytics,360,2,completion_rate_pct,67.8,0.918
+Training Programs,Python Programming,339,3,completion_rate_pct,65.2,0.918
+Training Programs,Digital Marketing,254,4,completion_rate_pct,66.5,0.918
+Training Programs,Cybersecurity Basics,222,5,completion_rate_pct,66.7,0.918
+Training Programs,Cloud Computing,213,6,completion_rate_pct,64.8,0.918
+IT Services,Software Development,310,1,conversion_rate_pct,44.8,0.274
+IT Services,IT Support & Maintenance,278,2,conversion_rate_pct,41.4,0.274
+IT Services,Cloud & DevOps,190,3,conversion_rate_pct,48.4,0.274
+IT Services,Data & Analytics Consulting,180,4,conversion_rate_pct,46.1,0.274
+IT Services,Cybersecurity,142,5,conversion_rate_pct,52.1,0.274
+Digital Services,Website Design & Development,361,1,conversion_rate_pct,40.2,0.586
+Digital Services,Social Media Management,288,2,conversion_rate_pct,42.0,0.586
+Digital Services,SEO,265,3,conversion_rate_pct,46.0,0.586
+Digital Services,Content Marketing,205,4,conversion_rate_pct,44.4,0.586
+Digital Services,E-commerce Setup,181,5,conversion_rate_pct,45.3,0.586
