@@ -1,0 +1,31 @@
+method,service_line,MAE,WAPE_pct,bias_pct
+Naive,Internship Programs,10.73,22.09,17.34
+Naive,Training Programs,10.38,27.66,-12.09
+Naive,IT Services,20.19,107.36,107.36
+Naive,Digital Services,13.62,41.84,-41.61
+Naive,All lines,19.0,13.82,7.67
+Moving average (4 weeks),Internship Programs,8.9,18.33,6.53
+Moving average (4 weeks),Training Programs,10.21,27.2,-10.09
+Moving average (4 weeks),IT Services,13.88,73.82,71.47
+Moving average (4 weeks),Digital Services,10.56,32.45,-28.55
+Moving average (4 weeks),All lines,17.54,12.76,2.57
+Moving average (13 weeks),Internship Programs,10.24,21.08,15.12
+Moving average (13 weeks),Training Programs,9.73,25.93,2.46
+Moving average (13 weeks),IT Services,4.9,26.03,8.38
+Moving average (13 weeks),Digital Services,14.92,45.86,-45.86
+Moving average (13 weeks),All lines,17.17,12.49,-3.69
+Seasonal naive,Internship Programs,12.15,25.02,-13.78
+Seasonal naive,Training Programs,11.62,30.94,-12.91
+Seasonal naive,IT Services,5.31,28.22,-3.27
+Seasonal naive,Digital Services,12.19,37.47,-27.3
+Seasonal naive,All lines,27.35,19.89,-15.3
+Seasonal naive with growth,Internship Programs,10.58,21.79,0.17
+Seasonal naive with growth,Training Programs,11.58,30.85,5.89
+Seasonal naive with growth,IT Services,5.97,31.73,7.59
+Seasonal naive with growth,Digital Services,10.86,33.36,-10.64
+Seasonal naive with growth,All lines,21.86,15.9,0.19
+Smoothed seasonal naive with growth,Internship Programs,7.26,14.94,-0.41
+Smoothed seasonal naive with growth,Training Programs,10.02,26.7,5.81
+Smoothed seasonal naive with growth,IT Services,5.09,27.07,7.66
+Smoothed seasonal naive with growth,Digital Services,8.77,26.94,-10.88
+Smoothed seasonal naive with growth,All lines,14.18,10.32,-0.09

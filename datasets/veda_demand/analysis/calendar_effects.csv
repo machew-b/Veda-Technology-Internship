@@ -1,0 +1,5 @@
+service_line,growth_pct_per_year,growth_low,growth_high,campaign_lift_pct,campaign_low,campaign_high,holiday_effect_pct,holiday_low,holiday_high
+Internship Programs,9.9,5.2,14.8,33.1,22.9,44.1,-51.3,-60.6,-39.8
+Training Programs,19.1,13.2,25.4,26.4,14.9,39.1,-55.2,-66.4,-40.2
+IT Services,12.5,5.9,19.6,15.8,2.2,31.2,-48.5,-64.4,-25.6
+Digital Services,25.0,18.2,32.3,34.8,21.4,49.6,-44.0,-58.6,-24.3

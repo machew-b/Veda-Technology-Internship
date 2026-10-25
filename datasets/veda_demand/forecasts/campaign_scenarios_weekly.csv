@@ -1,0 +1,313 @@
+week_start,service_line,plan,campaign_days,forecast_units
+2026-09-28,Internship Programs,No campaigns,0.0,40.57
+2026-10-05,Internship Programs,No campaigns,0.0,41.22
+2026-10-12,Internship Programs,No campaigns,0.0,41.99
+2026-10-19,Internship Programs,No campaigns,0.0,42.84
+2026-10-26,Internship Programs,No campaigns,0.0,39.5
+2026-11-02,Internship Programs,No campaigns,0.0,44.82
+2026-11-09,Internship Programs,No campaigns,0.0,45.99
+2026-11-16,Internship Programs,No campaigns,0.0,47.34
+2026-11-23,Internship Programs,No campaigns,0.0,48.89
+2026-11-30,Internship Programs,No campaigns,0.0,45.71
+2026-12-07,Internship Programs,No campaigns,0.0,52.62
+2026-12-14,Internship Programs,No campaigns,0.0,54.74
+2026-12-21,Internship Programs,No campaigns,0.0,46.34
+2026-12-28,Internship Programs,No campaigns,0.0,43.34
+2027-01-04,Internship Programs,No campaigns,0.0,60.85
+2027-01-11,Internship Programs,No campaigns,0.0,62.17
+2027-01-18,Internship Programs,No campaigns,0.0,62.83
+2027-01-25,Internship Programs,No campaigns,0.0,62.71
+2027-02-01,Internship Programs,No campaigns,0.0,61.77
+2027-02-08,Internship Programs,No campaigns,0.0,60.08
+2027-02-15,Internship Programs,No campaigns,0.0,57.8
+2027-02-22,Internship Programs,No campaigns,0.0,55.15
+2027-03-01,Internship Programs,No campaigns,0.0,52.39
+2027-03-08,Internship Programs,No campaigns,0.0,49.77
+2027-03-15,Internship Programs,No campaigns,0.0,47.48
+2027-03-22,Internship Programs,No campaigns,0.0,37.2
+2026-09-28,Internship Programs,Typical campaign load,1.87,43.79
+2026-10-05,Internship Programs,Typical campaign load,1.87,44.5
+2026-10-12,Internship Programs,Typical campaign load,1.87,45.32
+2026-10-19,Internship Programs,Typical campaign load,1.87,46.24
+2026-10-26,Internship Programs,Typical campaign load,1.87,42.64
+2026-11-02,Internship Programs,Typical campaign load,1.87,48.38
+2026-11-09,Internship Programs,Typical campaign load,1.87,49.65
+2026-11-16,Internship Programs,Typical campaign load,1.87,51.1
+2026-11-23,Internship Programs,Typical campaign load,1.87,52.77
+2026-11-30,Internship Programs,Typical campaign load,1.87,49.34
+2026-12-07,Internship Programs,Typical campaign load,1.87,56.8
+2026-12-14,Internship Programs,Typical campaign load,1.87,59.09
+2026-12-21,Internship Programs,Typical campaign load,1.87,50.02
+2026-12-28,Internship Programs,Typical campaign load,1.87,46.78
+2027-01-04,Internship Programs,Typical campaign load,1.87,65.69
+2027-01-11,Internship Programs,Typical campaign load,1.87,67.11
+2027-01-18,Internship Programs,Typical campaign load,1.87,67.82
+2027-01-25,Internship Programs,Typical campaign load,1.87,67.69
+2027-02-01,Internship Programs,Typical campaign load,1.87,66.68
+2027-02-08,Internship Programs,Typical campaign load,1.87,64.85
+2027-02-15,Internship Programs,Typical campaign load,1.87,62.39
+2027-02-22,Internship Programs,Typical campaign load,1.87,59.53
+2027-03-01,Internship Programs,Typical campaign load,1.87,56.55
+2027-03-08,Internship Programs,Typical campaign load,1.87,53.72
+2027-03-15,Internship Programs,Typical campaign load,1.87,51.25
+2027-03-22,Internship Programs,Typical campaign load,1.87,40.15
+2026-09-28,Internship Programs,Campaigns +50%,2.8,45.49
+2026-10-05,Internship Programs,Campaigns +50%,2.8,46.23
+2026-10-12,Internship Programs,Campaigns +50%,2.8,47.09
+2026-10-19,Internship Programs,Campaigns +50%,2.8,48.04
+2026-10-26,Internship Programs,Campaigns +50%,2.8,44.3
+2026-11-02,Internship Programs,Campaigns +50%,2.8,50.26
+2026-11-09,Internship Programs,Campaigns +50%,2.8,51.58
+2026-11-16,Internship Programs,Campaigns +50%,2.8,53.09
+2026-11-23,Internship Programs,Campaigns +50%,2.8,54.83
+2026-11-30,Internship Programs,Campaigns +50%,2.8,51.26
+2026-12-07,Internship Programs,Campaigns +50%,2.8,59.01
+2026-12-14,Internship Programs,Campaigns +50%,2.8,61.39
+2026-12-21,Internship Programs,Campaigns +50%,2.8,51.97
+2026-12-28,Internship Programs,Campaigns +50%,2.8,48.61
+2027-01-04,Internship Programs,Campaigns +50%,2.8,68.25
+2027-01-11,Internship Programs,Campaigns +50%,2.8,69.72
+2027-01-18,Internship Programs,Campaigns +50%,2.8,70.46
+2027-01-25,Internship Programs,Campaigns +50%,2.8,70.33
+2027-02-01,Internship Programs,Campaigns +50%,2.8,69.27
+2027-02-08,Internship Programs,Campaigns +50%,2.8,67.38
+2027-02-15,Internship Programs,Campaigns +50%,2.8,64.82
+2027-02-22,Internship Programs,Campaigns +50%,2.8,61.85
+2027-03-01,Internship Programs,Campaigns +50%,2.8,58.76
+2027-03-08,Internship Programs,Campaigns +50%,2.8,55.81
+2027-03-15,Internship Programs,Campaigns +50%,2.8,53.25
+2027-03-22,Internship Programs,Campaigns +50%,2.8,41.72
+2026-09-28,Training Programs,No campaigns,0.0,35.44
+2026-10-05,Training Programs,No campaigns,0.0,35.22
+2026-10-12,Training Programs,No campaigns,0.0,35.1
+2026-10-19,Training Programs,No campaigns,0.0,35.03
+2026-10-26,Training Programs,No campaigns,0.0,29.78
+2026-11-02,Training Programs,No campaigns,0.0,34.95
+2026-11-09,Training Programs,No campaigns,0.0,34.93
+2026-11-16,Training Programs,No campaigns,0.0,34.94
+2026-11-23,Training Programs,No campaigns,0.0,34.99
+2026-11-30,Training Programs,No campaigns,0.0,29.91
+2026-12-07,Training Programs,No campaigns,0.0,35.38
+2026-12-14,Training Programs,No campaigns,0.0,35.75
+2026-12-21,Training Programs,No campaigns,0.0,26.27
+2026-12-28,Training Programs,No campaigns,0.0,22.74
+2027-01-04,Training Programs,No campaigns,0.0,37.54
+2027-01-11,Training Programs,No campaigns,0.0,38.23
+2027-01-18,Training Programs,No campaigns,0.0,38.85
+2027-01-25,Training Programs,No campaigns,0.0,39.3
+2027-02-01,Training Programs,No campaigns,0.0,39.52
+2027-02-08,Training Programs,No campaigns,0.0,39.44
+2027-02-15,Training Programs,No campaigns,0.0,39.02
+2027-02-22,Training Programs,No campaigns,0.0,38.28
+2027-03-01,Training Programs,No campaigns,0.0,37.27
+2027-03-08,Training Programs,No campaigns,0.0,36.09
+2027-03-15,Training Programs,No campaigns,0.0,34.86
+2027-03-22,Training Programs,No campaigns,0.0,24.42
+2026-09-28,Training Programs,Typical campaign load,2.25,38.4
+2026-10-05,Training Programs,Typical campaign load,2.25,38.16
+2026-10-12,Training Programs,Typical campaign load,2.25,38.03
+2026-10-19,Training Programs,Typical campaign load,2.25,37.95
+2026-10-26,Training Programs,Typical campaign load,2.25,32.27
+2026-11-02,Training Programs,Typical campaign load,2.25,37.86
+2026-11-09,Training Programs,Typical campaign load,2.25,37.84
+2026-11-16,Training Programs,Typical campaign load,2.25,37.85
+2026-11-23,Training Programs,Typical campaign load,2.25,37.92
+2026-11-30,Training Programs,Typical campaign load,2.25,32.41
+2026-12-07,Training Programs,Typical campaign load,2.25,38.33
+2026-12-14,Training Programs,Typical campaign load,2.25,38.73
+2026-12-21,Training Programs,Typical campaign load,2.25,28.46
+2026-12-28,Training Programs,Typical campaign load,2.25,24.63
+2027-01-04,Training Programs,Typical campaign load,2.25,40.68
+2027-01-11,Training Programs,Typical campaign load,2.25,41.42
+2027-01-18,Training Programs,Typical campaign load,2.25,42.09
+2027-01-25,Training Programs,Typical campaign load,2.25,42.58
+2027-02-01,Training Programs,Typical campaign load,2.25,42.82
+2027-02-08,Training Programs,Typical campaign load,2.25,42.73
+2027-02-15,Training Programs,Typical campaign load,2.25,42.27
+2027-02-22,Training Programs,Typical campaign load,2.25,41.47
+2027-03-01,Training Programs,Typical campaign load,2.25,40.38
+2027-03-08,Training Programs,Typical campaign load,2.25,39.1
+2027-03-15,Training Programs,Typical campaign load,2.25,37.77
+2027-03-22,Training Programs,Typical campaign load,2.25,26.45
+2026-09-28,Training Programs,Campaigns +50%,3.38,39.97
+2026-10-05,Training Programs,Campaigns +50%,3.38,39.72
+2026-10-12,Training Programs,Campaigns +50%,3.38,39.58
+2026-10-19,Training Programs,Campaigns +50%,3.38,39.5
+2026-10-26,Training Programs,Campaigns +50%,3.38,33.58
+2026-11-02,Training Programs,Campaigns +50%,3.38,39.41
+2026-11-09,Training Programs,Campaigns +50%,3.38,39.39
+2026-11-16,Training Programs,Campaigns +50%,3.38,39.4
+2026-11-23,Training Programs,Campaigns +50%,3.38,39.47
+2026-11-30,Training Programs,Campaigns +50%,3.38,33.73
+2026-12-07,Training Programs,Campaigns +50%,3.38,39.9
+2026-12-14,Training Programs,Campaigns +50%,3.38,40.32
+2026-12-21,Training Programs,Campaigns +50%,3.38,29.62
+2026-12-28,Training Programs,Campaigns +50%,3.38,25.64
+2027-01-04,Training Programs,Campaigns +50%,3.38,42.34
+2027-01-11,Training Programs,Campaigns +50%,3.38,43.11
+2027-01-18,Training Programs,Campaigns +50%,3.38,43.81
+2027-01-25,Training Programs,Campaigns +50%,3.38,44.33
+2027-02-01,Training Programs,Campaigns +50%,3.38,44.57
+2027-02-08,Training Programs,Campaigns +50%,3.38,44.48
+2027-02-15,Training Programs,Campaigns +50%,3.38,44.0
+2027-02-22,Training Programs,Campaigns +50%,3.38,43.17
+2027-03-01,Training Programs,Campaigns +50%,3.38,42.03
+2027-03-08,Training Programs,Campaigns +50%,3.38,40.7
+2027-03-15,Training Programs,Campaigns +50%,3.38,39.31
+2027-03-22,Training Programs,Campaigns +50%,3.38,27.53
+2026-09-28,IT Services,No campaigns,0.0,18.3
+2026-10-05,IT Services,No campaigns,0.0,18.99
+2026-10-12,IT Services,No campaigns,0.0,19.53
+2026-10-19,IT Services,No campaigns,0.0,19.8
+2026-10-26,IT Services,No campaigns,0.0,17.06
+2026-11-02,IT Services,No campaigns,0.0,19.36
+2026-11-09,IT Services,No campaigns,0.0,18.65
+2026-11-16,IT Services,No campaigns,0.0,17.7
+2026-11-23,IT Services,No campaigns,0.0,16.64
+2026-11-30,IT Services,No campaigns,0.0,13.46
+2026-12-07,IT Services,No campaigns,0.0,14.63
+2026-12-14,IT Services,No campaigns,0.0,13.87
+2026-12-21,IT Services,No campaigns,0.0,9.96
+2026-12-28,IT Services,No campaigns,0.0,8.45
+2027-01-04,IT Services,No campaigns,0.0,13.21
+2027-01-11,IT Services,No campaigns,0.0,13.62
+2027-01-18,IT Services,No campaigns,0.0,14.37
+2027-01-25,IT Services,No campaigns,0.0,15.43
+2027-02-01,IT Services,No campaigns,0.0,16.78
+2027-02-08,IT Services,No campaigns,0.0,18.34
+2027-02-15,IT Services,No campaigns,0.0,20.01
+2027-02-22,IT Services,No campaigns,0.0,21.64
+2027-03-01,IT Services,No campaigns,0.0,23.06
+2027-03-08,IT Services,No campaigns,0.0,24.09
+2027-03-15,IT Services,No campaigns,0.0,24.64
+2027-03-22,IT Services,No campaigns,0.0,18.38
+2026-09-28,IT Services,Typical campaign load,1.6,18.94
+2026-10-05,IT Services,Typical campaign load,1.6,19.65
+2026-10-12,IT Services,Typical campaign load,1.6,20.2
+2026-10-19,IT Services,Typical campaign load,1.6,20.49
+2026-10-26,IT Services,Typical campaign load,1.6,17.65
+2026-11-02,IT Services,Typical campaign load,1.6,20.03
+2026-11-09,IT Services,Typical campaign load,1.6,19.29
+2026-11-16,IT Services,Typical campaign load,1.6,18.32
+2026-11-23,IT Services,Typical campaign load,1.6,17.22
+2026-11-30,IT Services,Typical campaign load,1.6,13.92
+2026-12-07,IT Services,Typical campaign load,1.6,15.14
+2026-12-14,IT Services,Typical campaign load,1.6,14.35
+2026-12-21,IT Services,Typical campaign load,1.6,10.3
+2026-12-28,IT Services,Typical campaign load,1.6,8.74
+2027-01-04,IT Services,Typical campaign load,1.6,13.67
+2027-01-11,IT Services,Typical campaign load,1.6,14.1
+2027-01-18,IT Services,Typical campaign load,1.6,14.87
+2027-01-25,IT Services,Typical campaign load,1.6,15.96
+2027-02-01,IT Services,Typical campaign load,1.6,17.36
+2027-02-08,IT Services,Typical campaign load,1.6,18.98
+2027-02-15,IT Services,Typical campaign load,1.6,20.7
+2027-02-22,IT Services,Typical campaign load,1.6,22.39
+2027-03-01,IT Services,Typical campaign load,1.6,23.85
+2027-03-08,IT Services,Typical campaign load,1.6,24.93
+2027-03-15,IT Services,Typical campaign load,1.6,25.49
+2027-03-22,IT Services,Typical campaign load,1.6,19.02
+2026-09-28,IT Services,Campaigns +50%,2.4,19.26
+2026-10-05,IT Services,Campaigns +50%,2.4,19.99
+2026-10-12,IT Services,Campaigns +50%,2.4,20.55
+2026-10-19,IT Services,Campaigns +50%,2.4,20.84
+2026-10-26,IT Services,Campaigns +50%,2.4,17.95
+2026-11-02,IT Services,Campaigns +50%,2.4,20.37
+2026-11-09,IT Services,Campaigns +50%,2.4,19.62
+2026-11-16,IT Services,Campaigns +50%,2.4,18.63
+2026-11-23,IT Services,Campaigns +50%,2.4,17.51
+2026-11-30,IT Services,Campaigns +50%,2.4,14.16
+2026-12-07,IT Services,Campaigns +50%,2.4,15.4
+2026-12-14,IT Services,Campaigns +50%,2.4,14.59
+2026-12-21,IT Services,Campaigns +50%,2.4,10.48
+2026-12-28,IT Services,Campaigns +50%,2.4,8.89
+2027-01-04,IT Services,Campaigns +50%,2.4,13.9
+2027-01-11,IT Services,Campaigns +50%,2.4,14.34
+2027-01-18,IT Services,Campaigns +50%,2.4,15.12
+2027-01-25,IT Services,Campaigns +50%,2.4,16.24
+2027-02-01,IT Services,Campaigns +50%,2.4,17.65
+2027-02-08,IT Services,Campaigns +50%,2.4,19.3
+2027-02-15,IT Services,Campaigns +50%,2.4,21.06
+2027-02-22,IT Services,Campaigns +50%,2.4,22.77
+2027-03-01,IT Services,Campaigns +50%,2.4,24.26
+2027-03-08,IT Services,Campaigns +50%,2.4,25.35
+2027-03-15,IT Services,Campaigns +50%,2.4,25.93
+2027-03-22,IT Services,Campaigns +50%,2.4,19.34
+2026-09-28,Digital Services,No campaigns,0.0,30.64
+2026-10-05,Digital Services,No campaigns,0.0,30.52
+2026-10-12,Digital Services,No campaigns,0.0,30.67
+2026-10-19,Digital Services,No campaigns,0.0,31.01
+2026-10-26,Digital Services,No campaigns,0.0,28.97
+2026-11-02,Digital Services,No campaigns,0.0,31.87
+2026-11-09,Digital Services,No campaigns,0.0,32.14
+2026-11-16,Digital Services,No campaigns,0.0,32.15
+2026-11-23,Digital Services,No campaigns,0.0,31.81
+2026-11-30,Digital Services,No campaigns,0.0,28.64
+2026-12-07,Digital Services,No campaigns,0.0,30.05
+2026-12-14,Digital Services,No campaigns,0.0,28.77
+2026-12-21,Digital Services,No campaigns,0.0,23.23
+2026-12-28,Digital Services,No campaigns,0.0,20.32
+2027-01-04,Digital Services,No campaigns,0.0,24.74
+2027-01-11,Digital Services,No campaigns,0.0,23.78
+2027-01-18,Digital Services,No campaigns,0.0,23.15
+2027-01-25,Digital Services,No campaigns,0.0,22.89
+2027-02-01,Digital Services,No campaigns,0.0,23.03
+2027-02-08,Digital Services,No campaigns,0.0,23.56
+2027-02-15,Digital Services,No campaigns,0.0,24.47
+2027-02-22,Digital Services,No campaigns,0.0,25.71
+2027-03-01,Digital Services,No campaigns,0.0,27.21
+2027-03-08,Digital Services,No campaigns,0.0,28.87
+2027-03-15,Digital Services,No campaigns,0.0,30.56
+2027-03-22,Digital Services,No campaigns,0.0,27.26
+2026-09-28,Digital Services,Typical campaign load,1.73,33.31
+2026-10-05,Digital Services,Typical campaign load,1.73,33.18
+2026-10-12,Digital Services,Typical campaign load,1.73,33.34
+2026-10-19,Digital Services,Typical campaign load,1.73,33.71
+2026-10-26,Digital Services,Typical campaign load,1.73,31.49
+2026-11-02,Digital Services,Typical campaign load,1.73,34.64
+2026-11-09,Digital Services,Typical campaign load,1.73,34.94
+2026-11-16,Digital Services,Typical campaign load,1.73,34.95
+2026-11-23,Digital Services,Typical campaign load,1.73,34.58
+2026-11-30,Digital Services,Typical campaign load,1.73,31.14
+2026-12-07,Digital Services,Typical campaign load,1.73,32.67
+2026-12-14,Digital Services,Typical campaign load,1.73,31.28
+2026-12-21,Digital Services,Typical campaign load,1.73,25.25
+2026-12-28,Digital Services,Typical campaign load,1.73,22.09
+2027-01-04,Digital Services,Typical campaign load,1.73,26.9
+2027-01-11,Digital Services,Typical campaign load,1.73,25.86
+2027-01-18,Digital Services,Typical campaign load,1.73,25.17
+2027-01-25,Digital Services,Typical campaign load,1.73,24.89
+2027-02-01,Digital Services,Typical campaign load,1.73,25.03
+2027-02-08,Digital Services,Typical campaign load,1.73,25.61
+2027-02-15,Digital Services,Typical campaign load,1.73,26.6
+2027-02-22,Digital Services,Typical campaign load,1.73,27.95
+2027-03-01,Digital Services,Typical campaign load,1.73,29.58
+2027-03-08,Digital Services,Typical campaign load,1.73,31.39
+2027-03-15,Digital Services,Typical campaign load,1.73,33.22
+2027-03-22,Digital Services,Typical campaign load,1.73,29.63
+2026-09-28,Digital Services,Campaigns +50%,2.6,34.73
+2026-10-05,Digital Services,Campaigns +50%,2.6,34.59
+2026-10-12,Digital Services,Campaigns +50%,2.6,34.76
+2026-10-19,Digital Services,Campaigns +50%,2.6,35.14
+2026-10-26,Digital Services,Campaigns +50%,2.6,32.83
+2026-11-02,Digital Services,Campaigns +50%,2.6,36.12
+2026-11-09,Digital Services,Campaigns +50%,2.6,36.43
+2026-11-16,Digital Services,Campaigns +50%,2.6,36.43
+2026-11-23,Digital Services,Campaigns +50%,2.6,36.05
+2026-11-30,Digital Services,Campaigns +50%,2.6,32.46
+2026-12-07,Digital Services,Campaigns +50%,2.6,34.06
+2026-12-14,Digital Services,Campaigns +50%,2.6,32.61
+2026-12-21,Digital Services,Campaigns +50%,2.6,26.33
+2026-12-28,Digital Services,Campaigns +50%,2.6,23.04
+2027-01-04,Digital Services,Campaigns +50%,2.6,28.04
+2027-01-11,Digital Services,Campaigns +50%,2.6,26.96
+2027-01-18,Digital Services,Campaigns +50%,2.6,26.24
+2027-01-25,Digital Services,Campaigns +50%,2.6,25.95
+2027-02-01,Digital Services,Campaigns +50%,2.6,26.1
+2027-02-08,Digital Services,Campaigns +50%,2.6,26.7
+2027-02-15,Digital Services,Campaigns +50%,2.6,27.73
+2027-02-22,Digital Services,Campaigns +50%,2.6,29.14
+2027-03-01,Digital Services,Campaigns +50%,2.6,30.84
+2027-03-08,Digital Services,Campaigns +50%,2.6,32.72
+2027-03-15,Digital Services,Campaigns +50%,2.6,34.64
+2027-03-22,Digital Services,Campaigns +50%,2.6,30.9

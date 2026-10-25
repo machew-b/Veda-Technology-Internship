@@ -1,0 +1,4405 @@
+date,service_line,demand_units,revenue_inr,campaign_active
+01-Oct-2023,Internship Programs,1.0,1200.0,0
+02-Oct-2023,Internships,3.0,4400.0,FALSE
+03-Oct-2023,Internship Programs,7.0,7800.0,FALSE
+04-Oct-2023,Internship Programs,1.0,1000.0,0
+2023-10-05,Internship,1.0,1100.0,N
+2023-10-06,Internship Programs,0.0,0.0,N
+07-Oct-2023,Internship Programs,6.0,6700.0,N
+2023-10-08,Internship,2.0,2100.0,N
+09-Oct-2023,Internship Programs,6.0,6100.0,No
+2023-10-10,Internship,4.0,4400.0,N
+2023-10-11,Internships,2.0,3000.0,No
+12-Oct-2023,Internships,5.0,6000.0,N
+2023-10-13,Internship Programs,4.0,4200.0,No
+2023-10-14,Internship Programs,4.0 units,5700.0,No
+2023-10-15,Internship Programs,1.0,1000.0,FALSE
+2023-10-16,internship programs,6.0,8500.0,FALSE
+2023-10-17,internship programs,1.0,1700.0,No
+2023-10-19,Internship,6.0,5900.0,0
+20-Oct-2023,Internship Programs,6.0,9500.0,No
+21-Oct-2023,Internship Programs,1.0,1300.0,No
+2023-10-22,Internship Programs,2.0,2200.0,0
+2023-10-23,Internship Programs,3.0,4200.0,0
+2023-10-24,Internship Programs,1.0,1400.0,No
+2023-10-25,internship programs,4.0,5800.0,N
+2023-10-26,Internship,3.0,3200.0,No
+2023-10-27,Internship Programs,4.0,5000.0,No
+2023-10-28,Internships,6.0,6200.0,FALSE
+2023-10-29,Internship Programs,2.0 units,2700.0,N
+2023-10-30,Internship,8.0,9500.0,N
+31-Oct-2023,internship programs,3.0,3700.0,0
+2023-11-01,Internship Programs,3.0,3500.0,No
+2023-11-02,Internship Programs,7.0,8100.0,N
+2023-11-03,Internships,11.0,12200.0,N
+2023-11-04,internship programs,0.0,0.0,0
+2023-11-05,Internship Programs,3.0,4600.0,FALSE
+2023-11-06,Internships,11.0,12500.0,No
+2023-11-07,Internship Programs,12.0,15100.0,0
+08-Nov-2023,Internship,5.0,6300.0,Y
+2023-11-09,Internships,6.0,7200.0,TRUE
+2023-11-10,Internship Programs,10.0,10300.0,1
+2023-11-11,Internship Programs,0.0,0.0,Y
+2023-11-12,Internship Programs,4.0,4200 INR,TRUE
+2023-11-13,Internship,14.0,,TRUE
+2023-11-14,Internship Programs,6.0,8500.0,TRUE
+2023-11-15,Internship Programs,3.0,3800.0,Yes
+2023-11-16,Internship Programs,10.0,11900.0,Y
+2023-11-17,Internship,5.0,4400.0,Y
+18-Nov-2023,Internship,3.0,2600.0,1
+2023-11-19,Internship Programs,2.0,2300.0,Y
+2023-11-20,Internship Programs,4.0,6400.0,1
+2023-11-21,Internship Programs,7.0,7700.0,Y
+22-Nov-2023,Internship Programs,60.0,7900.0,0
+2023-11-23,Internship Programs,2.0,2100.0,FALSE
+2023-11-24,Internship Programs,2.0,2400.0,0
+2023-11-25,Internships,9.0,12100.0,FALSE
+2023-11-26,Internship Programs,2.0,2200.0,N
+2023-11-27,internship programs,3.0,3100.0,0
+28-Nov-2023,Internship Programs,8.0,11100.0,No
+2023-11-29,Internship Programs,7.0,8400.0,0
+01-Dec-2023,Internship Programs,6.0,6600.0,0
+02-Dec-2023,Internship Programs,10.0,13700.0,FALSE
+03-Dec-2023,Internship,2.0,2500.0,No
+2023-12-04,Internship Programs,9.0,11200.0,No
+2023-12-05,Internship Programs,12.0,14500.0,No
+2023-12-06,Internships,9.0,10200.0,N
+2023-12-07,Internship,6.0,7100.0,0
+2023-12-08,Internship Programs,4.0,4400.0,FALSE
+09-Dec-2023,Internship Programs,8.0,10600.0,FALSE
+2023-12-10,internship programs,3.0,3400.0,0
+2023-12-10,Internships,3.0,3400.0,0
+11-Dec-2023,Internship Programs,8.0,8100.0,FALSE
+12-Dec-2023,Internship Programs,9.0,9100.0,FALSE
+2023-12-13,Internship Programs,6.0,5800.0,N
+14-Dec-2023,internship programs,5.0,6500.0,FALSE
+15-Dec-2023,Internships,7.0,7300.0,No
+2023-12-16,Internship Programs,0.0,0.0,No
+2023-12-17,Internship Programs,2.0,2400.0,0
+2023-12-18,Internship Programs,5.0,5900.0,N
+19-Dec-2023,Internship Programs,9.0,11200.0,N
+20-Dec-2023,Internship Programs,3.0,3600.0,0
+2023-12-21,Internship Programs,11.0,10300.0,No
+2023-12-22,Internships,5.0,5700.0,0
+2023-12-23,Internship Programs,4.0,5100.0,No
+2023-12-24,Internship Programs,1.0,1900.0,No
+25-Dec-2023,Internship Programs,3.0,"₹4,700",
+27-Dec-2023,Internship,11.0,12700.0,No
+2023-12-28,Internship Programs,15.0,15900.0,No
+2023-12-29,internship programs,4.0,6000.0,FALSE
+30-Dec-2023,Internships,0.0,,0
+31-Dec-2023,internship programs,2.0,2500.0,0
+2024-01-01,Internships,1.0,1200.0,N
+02-Jan-2024,Internship Programs,2.0,3100.0,N
+03-Jan-2024,Internship Programs,2.0,3000.0,FALSE
+04-Jan-2024,internship programs,14.0,18400.0,0
+2024-01-05,Internship Programs,6.0,7600.0,0
+2024-01-06,Internships,2.0,2200.0,0
+2024-01-07,Internships,8.0,10400.0,FALSE
+2024-01-08,Internship Programs,4.0,5400.0,No
+2024-01-09,Internship Programs,13.0,15300.0,0
+2024-01-10,Internship Programs,8.0,9200.0,TRUE
+2024-01-11,Internship Programs,17.0,22100.0,1
+2024-01-12,Internship Programs,7.0,10100.0,TRUE
+2024-01-13,internship programs,6.0,6500.0,Yes
+2024-01-14,Internship Programs,2.0,2200.0,1
+2024-01-14,Internships,2.0,2200.0,1
+2024-01-15,Internship Programs,8.0,9900.0,TRUE
+16-Jan-2024,Internship Programs,12.0,15000.0,Y
+2024-01-17,Internship Programs,8.0,9000.0,TRUE
+2024-01-18,Internship Programs,11.0,15600.0,Yes
+19-Jan-2024,Internship Programs,5.0,6300.0,1
+2024-01-20,Internships,5.0,6400.0,Yes
+2024-01-21,Internship Programs,5.0,7500.0,Yes
+2024-01-22,Internship Programs,15.0,17300.0,1
+2024-01-23,Internship Programs,9.0,10700.0,TRUE
+2024-01-24,Internships,5.0,5000.0,0
+2024-01-25,Internship Programs,7.0,8200.0,No
+2024-01-26,Internship,8.0,8200.0,0
+2024-01-27,Internship Programs,5.0,6600.0,N
+28-Jan-2024,Internship Programs,0.0,0.0,No
+2024-01-29,Internship Programs,10.0,11600.0,N
+2024-01-30,internship programs,6.0,7100.0,N
+31-Jan-2024,Internship Programs,8.0,10300.0,FALSE
+01-Feb-2024,Internships,9.0,9600.0,0
+2024-02-02,Internship Programs,8.0,9800.0,N
+03-Feb-2024,Internship Programs,5.0,6500.0,No
+2024-02-04,internship programs,0.0,0.0,No
+2024-02-05,Internship Programs,10.0,12700.0,N
+2024-02-06,Internship Programs,11.0,11300.0,No
+2024-02-07,internship programs,10.0,11800.0,No
+2024-02-08,Internships,7.0,7300.0,0
+09-Feb-2024,Internship,9.0,12400.0,0
+10-Feb-2024,Internship Programs,6.0,6200.0,FALSE
+2024-02-11,Internship Programs,4.0,3700.0,N
+2024-02-12,Internship Programs,13.0,15700.0,No
+2024-02-13,Internship Programs,5.0,5600.0,FALSE
+2024-02-14,Internship,14.0,14800.0,0
+15-Feb-2024,internship programs,9.0,11300.0,FALSE
+2024-02-16,Internships,7.0,6700.0,FALSE
+2024-02-17,Internship,9.0,9700.0,N
+2024-02-18,Internship Programs,4.0,4400.0,No
+2024-02-19,Internships,10.0,12900.0,N
+2024-02-20,Internship,8.0,11000.0,0
+2024-02-21,Internship Programs,10.0,13300.0,N
+2024-02-22,Internship Programs,4.0,4600.0,N
+2024-02-23,Internship Programs,3.0,2300 INR,FALSE
+24-Feb-2024,Internship Programs,6.0,7500.0,FALSE
+26-Feb-2024,internship programs,8.0,10900.0,N
+2024-02-27,Internship Programs,6.0,7600.0,FALSE
+28-Feb-2024,Internship Programs,2.0,1800.0,No
+2024-02-29,Internship Programs,3.0,3200.0,0
+2024-03-01,Internship Programs,10.0,14400.0,No
+2024-03-02,Internship Programs,6.0,6000.0,N
+03-Mar-2024,Internship Programs,2.0,1800.0,0
+2024-03-04,Internship Programs,6.0,8000.0,N
+2024-03-05,Internship Programs,5.0,5600.0,No
+06-Mar-2024,internship programs,6.0,6200.0,N
+2024-03-07,Internship Programs,7.0,9900.0,No
+2024-03-08,Internships,1.0,1300.0,N
+2024-03-09,internship programs,5.0,5600.0,N
+10-Mar-2024,Internships,2.0,1800.0,N
+2024-03-11,internship programs,9.0,13200.0,N
+12-Mar-2024,internship programs,7.0,8300.0,0
+2024-03-13,Internship Programs,9.0,12400.0,N
+2024-03-14,Internship Programs,9.0,11800.0,0
+15-Mar-2024,Internship Programs,4.0,,No
+2024-03-16,internship programs,1.0,1000.0,FALSE
+2024-03-17,internship programs,2.0,3200.0,FALSE
+18-Mar-2024,Internships,2.0,3200.0,0
+2024-03-19,Internship Programs,4.0,3600.0,N
+2024-03-20,Internship,11.0,13800.0,N
+2024-03-21,Internship Programs,3.0,3500.0,FALSE
+2024-03-22,Internships,4.0,4100.0,N
+2024-03-23,Internship Programs,2.0,2500.0,FALSE
+2024-03-24,Internship Programs,3.0,2800.0,FALSE
+2024-03-25,Internships,5.0,5600.0,0
+2024-03-26,Internship Programs,6.0,,No
+2024-03-27,Internship Programs,2.0,2100.0,0
+2024-03-28,internship programs,5.0,5900.0,0
+2024-03-29,Internship Programs,2.0,1900.0,No
+30-Mar-2024,internship programs,1.0,1800.0,N
+2024-03-31,Internship Programs,1.0,1300.0,No
+2024-04-01,Internship Programs,9.0,12900.0,No
+2024-04-01,Internships,9.0,12900.0,No
+02-Apr-2024,Internship Programs,7.0,8200.0,N
+03-Apr-2024,internship programs,9.0,10200.0,N
+2024-04-04,Internships,1.0,1900.0,FALSE
+2024-04-05,internship programs,6.0,6700.0,N
+2024-04-07,Internship Programs,2.0,2700.0,FALSE
+2024-04-08,Internship Programs,3.0,2900.0,FALSE
+09-Apr-2024,Internship,4.0,5300.0,0
+10-Apr-2024,Internships,7.0,8900.0,No
+2024-04-11,Internship Programs,5.0,7100.0,No
+2024-04-12,Internship Programs,5.0,6700.0,0
+2024-04-13,Internship Programs,3.0,4400.0,N
+2024-04-14,Internship,5.0,5900.0,N
+2024-04-15,Internship,3.0,3100.0,FALSE
+2024-04-16,Internship Programs,4.0,6500.0,1
+2024-04-17,Internships,8.0,8100.0,Yes
+2024-04-18,Internship Programs,9.0,9300.0,TRUE
+2024-04-19,Internship Programs,5.0,6400.0,TRUE
+2024-04-20,Internship Programs,2.0,3300.0,Y
+22-Apr-2024,Internship Programs,13.0,16900.0,Yes
+2024-04-23,Internship Programs,6.0,5600.0,TRUE
+2024-04-24,Internship Programs,8.0,9100.0,Y
+25-Apr-2024,Internships,15.0,15500.0,TRUE
+2024-04-26,Internship Programs,6.0,7900.0,Y
+27-Apr-2024,Internship,2.0,1700.0,1
+2024-04-28,Internship Programs,3.0,2800.0,N
+2024-04-29,Internship Programs,3.0,3900 INR,No
+2024-04-30,Internship,17.0 units,22000.0,0
+2024-05-01,Internship Programs,2.0,2300.0,No
+2024-05-02,Internship Programs,3.0,3900.0,FALSE
+2024-05-03,internship programs,3.0,3900.0,N
+04-May-2024,Internship Programs,6.0,7000.0,Y
+2024-05-05,Internship Programs,4.0,4000.0,1
+2024-05-06,Internship Programs,10.0,"₹12,600",1
+2024-05-07,Internship Programs,16.0,20000.0,Y
+08-May-2024,Internship Programs,7.0,9200.0,TRUE
+09-May-2024,Internship Programs,11.0,13500.0,TRUE
+2024-05-10,Internship Programs,2.0,1800.0,Yes
+2024-05-11,Internship Programs,8.0,10300.0,1
+2024-05-12,Internship,1.0,1100.0,Y
+2024-05-13,internship programs,5.0,5600.0,Y
+2024-05-14,Internship Programs,10.0,11600.0,Y
+2024-05-15,internship programs,7.0,7700.0,Yes
+16-May-2024,Internship,4.0,5400.0,Yes
+2024-05-17,Internship,14.0,14900.0,Yes
+2024-05-18,Internship,3.0,3000.0,FALSE
+19-May-2024,Internship Programs,2.0,2200.0,N
+2024-05-20,Internship,6.0,8700.0,0
+2024-05-21,Internship Programs,3.0,4300.0,0
+2024-05-22,Internship Programs,4.0,3700.0,N
+2024-05-23,Internship,8.0,11000.0,FALSE
+24-May-2024,Internship,8.0,11000.0,No
+2024-05-25,Internship Programs,2.0,1800.0,0
+2024-05-26,Internship Programs,2.0,1400.0,0
+27-May-2024,Internship Programs,5.0,5900.0,0
+28-May-2024,Internship Programs,18.0,23300.0,N
+29-May-2024,internship programs,9.0,12600.0,0
+30-May-2024,Internships,6.0,6400.0,0
+2024-05-31,Internship Programs,3.0,4800.0,FALSE
+2024-06-01,Internship Programs,2.0,1500.0,0
+2024-06-02,Internship,0.0,0.0,N
+03-Jun-2024,Internship,17.0,19700.0,FALSE
+2024-06-04,internship programs,9.0,12100.0,0
+05-Jun-2024,Internship Programs,5.0,"Rs. 7,100",No
+2024-06-06,Internship Programs,6.0,8000.0,No
+2024-06-07,Internship Programs,5.0,5000.0,No
+08-Jun-2024,Internships,4.0,5400.0,No
+2024-06-09,Internship Programs,4.0,5100.0,N
+10-Jun-2024,Internships,13.0,13500.0,0
+2024-06-11,Internship Programs,10.0,9800.0,No
+12-Jun-2024,Internships,3.0,4200.0,FALSE
+2024-06-13,internship programs,2.0,2300.0,No
+2024-06-14,Internship,5.0,5000.0,N
+2024-06-15,Internship Programs,2.0,2200.0,FALSE
+16-Jun-2024,internship programs,0.0,0.0,No
+2024-06-17,Internship,8.0,9500.0,0
+18-Jun-2024,internship programs,10.0,10300.0,No
+2024-06-19,Internship Programs,8.0,11700.0,N
+2024-06-20,internship programs,12.0,15600.0,FALSE
+2024-06-21,Internship Programs,9.0,10400.0,0
+22-Jun-2024,internship programs,3.0,3400.0,No
+2024-06-23,Internship Programs,3.0,3800.0,FALSE
+2024-06-24,Internship,15.0,16400.0,N
+2024-06-25,Internship Programs,4.0,5000.0,N
+2024-06-26,Internship Programs,4.0,3900.0,No
+2024-06-27,internship programs,5.0,5900.0,FALSE
+2024-06-28,Internship,4.0,4000.0,0
+2024-06-29,Internship Programs,6.0,6200.0,No
+2024-06-30,Internship Programs,4.0,6100.0,N
+2024-07-01,Internship Programs,7.0,8400.0,FALSE
+2024-07-02,Internships,9.0,11000.0,No
+2024-07-03,Internship Programs,13.0,13200.0,N
+04-Jul-2024,Internship,5.0,5500.0,0
+05-Jul-2024,Internship Programs,7.0,,FALSE
+2024-07-06,Internships,4.0,4900.0,No
+2024-07-07,Internships,3.0,2400.0,0
+08-Jul-2024,Internship Programs,10.0,12200.0,N
+2024-07-09,Internship Programs,3.0,3800.0,No
+10-Jul-2024,Internship Programs,10.0,13500.0,FALSE
+2024-07-11,Internship Programs,5.0,5400.0,FALSE
+2024-07-12,Internship Programs,3.0,2400.0,0
+2024-07-13,Internship Programs,1.0,900.0,No
+2024-07-14,internship programs,1.0,800.0,No
+2024-07-15,internship programs,5.0,6600.0,0
+2024-07-16,Internship Programs,2.0,1300.0,0
+2024-07-17,Internships,5.0,5600.0,N
+2024-07-18,Internship Programs,7.0,9800.0,N
+2024-07-19,Internship Programs,3.0,3600.0,No
+20-Jul-2024,Internships,2.0,2800.0,0
+2024-07-21,Internship Programs,1.0,700.0,No
+2024-07-22,Internship,9.0,9200.0,FALSE
+23-Jul-2024,Internship Programs,4.0,5900.0,FALSE
+2024-07-24,Internship Programs,5.0,6000.0,No
+2024-07-25,Internship Programs,4.0,4800.0,0
+26-Jul-2024,internship programs,9.0,9600.0,No
+27-Jul-2024,Internship Programs,3.0,3600.0,FALSE
+2024-07-28,internship programs,3.0,2900.0,0
+2024-07-29,Internship Programs,8.0 units,10800.0,0
+30-Jul-2024,internship programs,12.0,"₹18,200",N
+2024-07-31,Internship Programs,5.0,6300.0,FALSE
+2024-08-01,Internship,8.0,8900.0,FALSE
+02-Aug-2024,Internship Programs,6.0,5200.0,0
+2024-08-03,internship programs,7.0,6900.0,0
+04-Aug-2024,Internship Programs,1.0,1800.0,No
+2024-08-05,Internship,5.0,5200.0,No
+2024-08-06,Internship Programs,13.0,15100.0,N
+2024-08-07,Internship Programs,7.0,9000.0,No
+2024-08-08,Internship Programs,7.0,9900.0,N
+2024-08-09,Internship Programs,8.0,9300.0,Yes
+2024-08-10,Internship Programs,5.0,5600.0,Y
+11-Aug-2024,Internship Programs,0.0,0.0,1
+2024-08-12,Internship,7.0,7800.0,1
+13-Aug-2024,Internship,4.0,4400.0,TRUE
+2024-08-14,Internship,9.0,11200.0,Y
+15-Aug-2024,Internship,14.0,17000.0,Y
+16-Aug-2024,Internship Programs,15.0,21200.0,
+2024-08-17,Internship,2.0,2600.0,1
+18-Aug-2024,Internship Programs,3.0,4300.0,Y
+2024-08-19,Internship Programs,6.0,6300.0,Yes
+2024-08-20,internship programs,7.0,8900.0,FALSE
+2024-08-21,Internship Programs,5.0,5400.0,No
+2024-08-22,Internship Programs,6.0,7500.0,N
+23-Aug-2024,internship programs,2.0 units,2700.0,N
+2024-08-24,Internship Programs,3.0,3600.0,0
+2024-08-25,Internship Programs,1.0,2400.0,N
+2024-08-26,Internship Programs,4.0,5900.0,N
+2024-08-27,Internship,12.0,"Rs. 15,900",0
+2024-08-28,Internship Programs,-3.0,4000.0,0
+29-Aug-2024,Internship Programs,4.0,6200.0,0
+2024-08-30,Internship Programs,6.0,6000.0,FALSE
+2024-08-31,Internship Programs,7.0,9700.0,FALSE
+2024-09-01,Internship Programs,3.0,3000.0,N
+2024-09-02,Internship,4.0,4400.0,N
+2024-09-03,Internship Programs,4.0,5200.0,0
+2024-09-04,Internship Programs,4.0,5700.0,No
+2024-09-05,Internships,1.0,800.0,N
+06-Sep-2024,Internships,7.0,7900.0,FALSE
+07-Sep-2024,internship programs,3.0,3600.0,No
+2024-09-08,Internship Programs,0.0,0.0,N
+09-Sep-2024,Internship Programs,8.0,10500.0,FALSE
+2024-09-10,Internships,8.0,13700.0,FALSE
+2024-09-11,Internship Programs,6.0,7500.0,N
+2024-09-12,Internship Programs,4.0,4300.0,No
+2024-09-13,Internship Programs,1.0,800.0,FALSE
+2024-09-14,Internship Programs,3.0,3400.0,0
+2024-09-14,Internship Programs,3.0,3400.0,0
+15-Sep-2024,Internship Programs,1.0,900.0,N
+16-Sep-2024,Internship,9.0,11300.0,FALSE
+17-Sep-2024,internship programs,6.0,7600.0,0
+18-Sep-2024,Internships,7.0,7900.0,0
+2024-09-19,Internship Programs,6.0,9100.0,0
+2024-09-20,Internship Programs,3.0,3100.0,
+2024-09-21,Internship,2.0,2300.0,FALSE
+22-Sep-2024,Internship Programs,3.0,4000.0,No
+2024-09-23,Internship Programs,10.0,13000.0,No
+2024-09-24,Internship,4.0,5700.0,0
+2024-09-25,Internship Programs,8.0,10000.0,No
+26-Sep-2024,internship programs,5.0,6800.0,FALSE
+2024-09-27,internship programs,0.0,0.0,0
+28-Sep-2024,Internship Programs,2.0,2900.0,N
+2024-09-29,Internship Programs,2.0,2800.0,N
+30-Sep-2024,Internship,2.0,3200.0,0
+2024-10-01,Internship Programs,9.0,9100.0,No
+2024-10-02,Internship Programs,3.0,3000.0,0
+2024-10-03,Internship Programs,7.0,9200.0,0
+2024-10-03,Internship Programs,7.0,9200.0,0
+2024-10-04,Internship Programs,6.0,5200.0,No
+2024-10-05,Internship Programs,1.0,1300.0,No
+06-Oct-2024,Internship,3.0,4300.0,0
+2024-10-07,Internship Programs,10.0,11300.0,N
+2024-10-08,Internships,9.0,10300.0,FALSE
+09-Oct-2024,Internship,6.0,6300.0,0
+10-Oct-2024,Internship Programs,4.0,4400.0,0
+2024-10-11,Internship Programs,4.0,4400.0,0
+12-Oct-2024,Internship Programs,3.0,3200.0,0
+2024-10-13,internship programs,1.0,900.0,N
+2024-10-14,Internship,7.0,8100.0,N
+15-Oct-2024,Internship Programs,7.0,8100.0,0
+2024-10-16,internship programs,10.0,,Y
+2024-10-17,Internship,6.0,6800.0,Yes
+2024-10-18,Internship,9.0,11100.0,Y
+2024-10-19,Internship Programs,1.0,1000.0,Y
+20-Oct-2024,Internship Programs,5.0,5500.0,1
+2024-10-21,Internship Programs,8.0,8000.0,
+2024-10-22,Internships,9.0,9200.0,Yes
+23-Oct-2024,Internship Programs,12.0,12900.0,1
+24-Oct-2024,Internship Programs,7.0,8500.0,TRUE
+2024-10-25,Internship,12.0,15700.0,TRUE
+26-Oct-2024,Internship Programs,4.0,3600.0,Yes
+2024-10-27,internship programs,3.0,3200.0,TRUE
+2024-10-28,Internship Programs,7.0,7100.0,Yes
+2024-10-29,Internship Programs,6.0,6900.0,Y
+30-Oct-2024,Internships,5.0,6900.0,FALSE
+2024-10-31,Internship Programs,5.0,5600.0,0
+01-Nov-2024,Internship Programs,1.0,1100.0,FALSE
+02-Nov-2024,internship programs,3.0,4600.0,N
+2024-11-03,Internship,3.0,3800.0,0
+2024-11-04,Internship Programs,11.0,12300.0,0
+2024-11-05,Internship Programs,10.0,12100.0,No
+2024-11-06,Internship Programs,11.0,12200.0,0
+2024-11-07,Internship Programs,6.0,7500.0,FALSE
+2024-11-08,Internship Programs,10.0,12500.0,N
+09-Nov-2024,Internship Programs,1.0,800.0,FALSE
+2024-11-10,Internship Programs,1.0,1200.0,N
+11-Nov-2024,Internship Programs,12.0,14200.0,FALSE
+2024-11-12,Internship,11.0,13800.0,N
+2024-11-13,Internship,4.0,5400.0,N
+2024-11-14,Internship Programs,4.0,5100.0,N
+2024-11-15,internship programs,4.0,4500.0,0
+2024-11-16,Internship Programs,3.0,4200.0,0
+2024-11-17,Internship Programs,1.0,900.0,0
+2024-11-18,internship programs,5.0,5000.0,FALSE
+2024-11-19,Internship,6.0,4800.0,FALSE
+20-Nov-2024,Internships,6.0,7100.0,N
+21-Nov-2024,Internship Programs,5.0,5300.0,FALSE
+2024-11-22,Internship Programs,5.0,6300.0,0
+23-Nov-2024,Internship Programs,4.0,3500.0,0
+24-Nov-2024,Internship Programs,3.0,3200.0,N
+25-Nov-2024,Internship Programs,6.0,7600.0,No
+2024-11-26,Internship Programs,1.0,800.0,No
+2024-11-27,Internship Programs,2.0,2600.0,0
+2024-11-28,internship programs,13.0,14800.0,FALSE
+29-Nov-2024,Internship Programs,2.0,2300.0,FALSE
+30-Nov-2024,Internship Programs,0.0,0.0,No
+2024-12-01,Internship Programs,1.0,1500.0,No
+02-Dec-2024,Internship Programs,5.0,6000.0,FALSE
+2024-12-03,Internship Programs,10.0,11100.0,No
+04-Dec-2024,Internship Programs,5.0,5600.0,FALSE
+05-Dec-2024,Internship Programs,9.0,,N
+06-Dec-2024,Internship Programs,5.0,5200.0,0
+2024-12-07,Internship Programs,0.0,0.0,No
+08-Dec-2024,Internship Programs,1.0,1000.0,0
+2024-12-09,Internship,6.0,,No
+2024-12-10,Internships,6.0,6300.0,0
+2024-12-11,Internship Programs,5.0 units,4600.0,N
+12-Dec-2024,Internship Programs,9.0,11300.0,0
+2024-12-13,Internship Programs,10.0,13100.0,No
+14-Dec-2024,internship programs,7.0,6800.0,FALSE
+2024-12-15,Internship Programs,2.0,2500.0,FALSE
+2024-12-16,Internship Programs,9.0,12000.0,FALSE
+2024-12-17,Internship,7.0,8900.0,FALSE
+18-Dec-2024,Internship Programs,9.0,10300.0,No
+2024-12-19,Internship Programs,6.0,6400.0,N
+2024-12-20,Internship,8.0,9600.0,N
+2024-12-21,Internship Programs,5.0 units,6100.0,0
+22-Dec-2024,Internship Programs,8.0,9600.0,0
+2024-12-23,Internship Programs,6.0,7000.0,0
+2024-12-24,Internship Programs,3.0,2900.0,0
+25-Dec-2024,Internship,3.0,3800.0,N
+26-Dec-2024,Internship,5.0,6300.0,0
+2024-12-27,Internship Programs,10.0,12200.0,FALSE
+28-Dec-2024,Internships,4.0,4800.0,No
+2024-12-29,internship programs,2.0,3400.0,0
+2024-12-30,Internship Programs,4.0,4300.0,N
+2024-12-31,internship programs,4.0,5800.0,0
+01-Jan-2025,Internship Programs,3.0,3100.0,FALSE
+2025-01-02,Internship,10.0,13300.0,Yes
+04-Jan-2025,Internship Programs,4.0,4500.0,Y
+2025-01-05,Internship,2.0,3300.0,TRUE
+06-Jan-2025,Internship Programs,8.0,10000.0,TRUE
+07-Jan-2025,Internship,9.0,9800.0,Yes
+08-Jan-2025,internship programs,11.0,12700.0,Y
+2025-01-09,Internship,10.0,13300.0,Yes
+2025-01-10,internship programs,4.0,5500.0,Y
+2025-01-11,Internship Programs,20.0,1900.0,TRUE
+2025-01-12,Internship Programs,7.0,8200.0,Yes
+2025-01-13,Internship Programs,8.0,9800.0,1
+2025-01-14,Internship Programs,14.0,16100.0,TRUE
+2025-01-15,internship programs,11.0,16300.0,Y
+2025-01-16,Internship Programs,15.0,18300.0,FALSE
+17-Jan-2025,Internship Programs,5.0,5900.0,FALSE
+2025-01-18,Internship Programs,5.0,7000.0,N
+2025-01-19,internship programs,5.0,5700.0,No
+2025-01-20,Internship Programs,13.0,16900.0,N
+2025-01-21,internship programs,8.0,8000.0,0
+2025-01-22,Internship Programs,8.0,9100.0,FALSE
+2025-01-23,Internship,6.0,8100.0,0
+2025-01-24,Internship Programs,10.0,13900.0,FALSE
+2025-01-25,Internship Programs,2.0,2000.0,N
+26-Jan-2025,Internship Programs,0.0,0.0,FALSE
+26-Jan-2025,Internships,0.0,0.0,FALSE
+2025-01-27,internship programs,9.0,11400.0,0
+28-Jan-2025,Internships,11.0,12400.0,N
+2025-01-29,Internship Programs,8.0,9300.0,No
+2025-01-30,internship programs,6.0,8000.0,No
+31-Jan-2025,Internship,1.0,1000.0,0
+2025-02-01,Internships,4.0,3500.0,N
+02-Feb-2025,Internship Programs,1.0,800.0,N
+2025-02-03,Internship Programs,12.0,14400.0,FALSE
+2025-02-04,Internship Programs,13.0,13300.0,0
+05-Feb-2025,Internships,2.0,2200.0,N
+2025-02-06,Internship Programs,2.0,1700.0,N
+07-Feb-2025,Internship Programs,3.0,4700.0,N
+07-Feb-2025,Internship Programs,3.0,4700.0,N
+2025-02-08,Internship Programs,7.0,10700.0,0
+2025-02-09,Internship,1.0,800.0,0
+2025-02-15,Internship Programs,1.0,1100.0,0
+2025-02-16,Internship,2.0,1900.0,N
+2025-02-17,Internship,9.0,12100.0,No
+2025-02-18,internship programs,3.0,2000.0,FALSE
+2025-02-19,Internship,17.0,19700.0,FALSE
+2025-02-20,Internship Programs,4.0,4700.0,
+2025-02-21,Internship Programs,10.0,11200.0,No
+2025-02-22,Internship,4.0,5400.0,N
+2025-02-23,Internship Programs,3.0,4400.0,No
+24-Feb-2025,Internship,7.0,7100.0,N
+2025-02-25,Internship Programs,6.0,9200.0,No
+2025-02-26,internship programs,5.0,4900.0,No
+2025-02-27,Internships,8.0,10900.0,0
+2025-02-28,Internship Programs,7.0,8500.0,No
+2025-03-01,Internship Programs,3.0,3300.0,0
+2025-03-02,Internship Programs,3.0,3300.0,No
+2025-03-03,Internship Programs,13.0,15500.0,0
+04-Mar-2025,Internship Programs,8.0,9800.0,N
+2025-03-06,Internship Programs,10.0,11700.0,FALSE
+2025-03-07,Internship,4.0,4200.0,No
+2025-03-08,Internship Programs,5.0,5100.0,FALSE
+09-Mar-2025,internship programs,3.0,3100.0,FALSE
+2025-03-10,internship programs,3.0,2900.0,0
+2025-03-11,internship programs,9.0,10300.0,FALSE
+2025-03-12,Internship,3.0,3800.0,No
+2025-03-13,Internship Programs,6.0,7300.0,N
+2025-03-14,Internship Programs,11.0,15700.0,FALSE
+2025-03-14,Internships,11.0,15700.0,FALSE
+15-Mar-2025,Internship,4.0,3400.0,FALSE
+2025-03-16,Internship Programs,6.0,7600.0,FALSE
+17-Mar-2025,Internship Programs,5.0,6000.0,N
+18-Mar-2025,Internships,7.0,9200.0,FALSE
+2025-03-19,Internship Programs,2.0,2700.0,No
+2025-03-20,Internship,6.0,7000.0,0
+2025-03-21,Internships,4.0,4900.0,0
+22-Mar-2025,Internships,3.0,3100.0,No
+2025-03-23,Internship Programs,0.0,0.0,0
+2025-03-24,Internship Programs,8.0,7800.0,N
+2025-03-25,Internship Programs,6.0,7900.0,0
+2025-03-26,Internships,2.0,2300.0,N
+2025-03-27,Internship,5.0,5600.0,0
+2025-03-28,Internship Programs,5.0,5800.0,FALSE
+29-Mar-2025,Internship,3.0,3400.0,FALSE
+2025-03-30,Internship Programs,0.0,0.0,0
+2025-03-31,Internship Programs,6.0,10600.0,No
+2025-04-01,Internship Programs,14.0,18500.0,0
+2025-04-02,Internship Programs,11.0,12500.0,No
+2025-04-03,Internship Programs,7.0,9000.0,0
+2025-04-04,Internship,5.0,6500.0,FALSE
+2025-04-05,Internship Programs,1.0 units,900.0,0
+06-Apr-2025,Internships,2.0,1800.0,No
+07-Apr-2025,Internships,14.0,16700.0,Yes
+2025-04-10,Internship Programs,10.0,11200.0,1
+2025-04-11,Internship,5.0,6400.0,Yes
+2025-04-12,Internship Programs,3.0,3600.0,Yes
+2025-04-13,Internship Programs,5.0,7200.0,Yes
+14-Apr-2025,Internship Programs,4.0,3800.0,Y
+2025-04-15,Internship Programs,6.0,,Y
+16-Apr-2025,internship programs,4.0,3800.0,Yes
+2025-04-17,Internship Programs,2.0,1500.0,1
+18-Apr-2025,Internship,6.0,7100.0,TRUE
+2025-04-19,Internships,3.0,2900.0,FALSE
+2025-04-20,Internship Programs,1.0,1100.0,FALSE
+2025-04-21,Internship,5.0,5900.0,0
+2025-04-22,Internship Programs,5.0,5800.0,FALSE
+2025-04-23,Internships,6.0,6400.0,No
+2025-04-24,Internship Programs,10.0,12400.0,FALSE
+2025-04-25,Internship Programs,5.0,5700.0,N
+26-Apr-2025,internship programs,1.0,1600.0,N
+2025-04-27,Internship,30.0,3400.0,FALSE
+2025-04-28,Internship Programs,7.0,7500.0,0
+2025-04-29,Internships,5.0,4700.0,FALSE
+2025-04-29,internship programs,5.0,4700.0,FALSE
+2025-04-30,Internship Programs,9.0,10600.0,N
+01-May-2025,Internship Programs,3.0,2800.0,N
+2025-05-02,Internship,10.0,10500.0,N
+2025-05-03,Internship Programs,5.0,6400.0,0
+2025-05-04,Internship,4.0,"₹3,600",N
+2025-05-05,Internships,8.0,11100.0,No
+06-May-2025,Internship Programs,6.0,7300.0,FALSE
+2025-05-07,Internship Programs,2.0,2300.0,FALSE
+08-May-2025,Internships,8.0,8600.0,0
+09-May-2025,Internship Programs,5.0,6600.0,FALSE
+2025-05-10,Internship Programs,6.0,7100.0,Yes
+11-May-2025,Internships,6.0,6600.0,1
+2025-05-12,Internship Programs,6.0,7300.0,1
+13-May-2025,Internship Programs,7.0,6900.0,1
+2025-05-14,internship programs,15.0,15800.0,TRUE
+2025-05-15,Internship Programs,16.0,17600.0,Y
+2025-05-16,Internship Programs,10.0,12300.0,Yes
+2025-05-17,Internship Programs,6.0,7100.0,Yes
+18-May-2025,Internship Programs,4.0,5600.0,Y
+2025-05-19,Internship Programs,9.0,"₹9,800",TRUE
+2025-05-20,Internship,5.0,6400.0,FALSE
+2025-05-21,Internship Programs,8.0,9400.0,N
+22-May-2025,Internships,4.0,4100.0,N
+2025-05-23,Internships,7.0,8700.0,0
+24-May-2025,Internships,7.0,8300.0,N
+25-May-2025,Internship Programs,2.0,2100.0,No
+25-May-2025,Internship Programs,2.0,2100.0,No
+2025-05-26,Internship Programs,4.0,4800.0,No
+2025-05-27,Internships,7.0,8200.0,FALSE
+2025-05-28,Internship Programs,3.0,3500.0,No
+2025-05-29,Internship Programs,4.0,4500.0,FALSE
+2025-05-30,Internship Programs,13.0,13900.0,No
+31-May-2025,Internship Programs,4.0,4800.0,0
+2025-06-01,internship programs,20.0,2000.0,FALSE
+2025-06-02,internship programs,8.0,8600.0,No
+2025-06-03,Internship Programs,7.0,8100.0,No
+04-Jun-2025,Internship,9.0,11600.0,N
+2025-06-05,Internship Programs,6.0,7300.0,No
+2025-06-06,Internship Programs,6.0,6700.0,0
+07-Jun-2025,internship programs,4.0,4400.0,N
+2025-06-08,Internships,2.0,2700.0,No
+2025-06-09,Internship Programs,12.0,11700.0,0
+2025-06-10,Internship Programs,5.0,6600.0,No
+2025-06-11,Internship Programs,9.0,8900.0,N
+2025-06-12,Internship Programs,9.0,9300.0,N
+2025-06-13,Internships,7.0,7900.0,0
+14-Jun-2025,Internship,1.0,2200.0,FALSE
+15-Jun-2025,Internship,9.0,12700.0,No
+16-Jun-2025,Internships,11.0,14000.0,N
+2025-06-17,Internship Programs,8.0,9900.0,No
+18-Jun-2025,internship programs,12.0,12200.0,N
+19-Jun-2025,Internship Programs,8.0,9700.0,No
+2025-06-20,internship programs,3.0,3200.0,FALSE
+21-Jun-2025,Internship Programs,5.0,5300.0,FALSE
+2025-06-22,Internship,4.0,4900.0,No
+2025-06-23,Internship,2.0,2100.0,No
+2025-06-24,Internship,5.0,6700.0,N
+25-Jun-2025,Internship Programs,8.0,,FALSE
+26-Jun-2025,Internship Programs,4.0,4800.0,N
+2025-06-27,internship programs,2.0,1900.0,FALSE
+2025-06-28,internship programs,6.0,6800.0,N
+2025-06-29,Internship Programs,4.0,5000.0,N
+2025-06-30,internship programs,4.0,4000.0,No
+01-Jul-2025,Internship Programs,18.0,21800.0,0
+02-Jul-2025,Internship Programs,5.0,5800.0,FALSE
+04-Jul-2025,Internship Programs,5.0,"₹5,600",No
+05-Jul-2025,Internship Programs,1.0,1100.0,FALSE
+06-Jul-2025,Internship Programs,4.0,4200.0,No
+2025-07-07,Internship Programs,4.0,4800.0,N
+2025-07-07,Internship Programs,4.0,4800.0,N
+08-Jul-2025,Internship,12.0,14000.0,0
+2025-07-09,Internship Programs,4.0,4300.0,N
+10-Jul-2025,internship programs,4.0,6000.0,0
+2025-07-11,Internships,9.0,11200.0,FALSE
+2025-07-12,Internships,0.0,0.0,0
+2025-07-13,Internship Programs,1.0,1200.0,FALSE
+14-Jul-2025,internship programs,8.0 units,8600.0,No
+15-Jul-2025,Internship Programs,3.0,3300.0,N
+16-Jul-2025,Internship,15.0,17500.0,FALSE
+17-Jul-2025,Internship Programs,9.0,9500.0,N
+2025-07-18,Internship Programs,2.0,2500.0,FALSE
+2025-07-19,Internship Programs,0.0,0.0,No
+2025-07-20,Internship Programs,6.0,6800.0,0
+21-Jul-2025,Internship Programs,12.0,13700.0,0
+2025-07-22,Internship Programs,5.0,8800.0,0
+2025-07-23,internship programs,7.0,7700.0,N
+2025-07-24,Internship Programs,8.0,7700.0,0
+2025-07-25,Internship,6.0,,N
+2025-07-26,Internship Programs,3.0,4000.0,0
+27-Jul-2025,Internship Programs,3.0,4500.0,No
+2025-07-28,Internship Programs,8.0,8900.0,FALSE
+29-Jul-2025,internship programs,9.0,12200.0,0
+2025-07-30,Internship Programs,5.0,6600.0,No
+2025-07-31,internship programs,3.0,3400.0,No
+01-Aug-2025,Internship,11.0,12800.0,0
+2025-08-02,Internship,4.0,4900.0,FALSE
+2025-08-03,Internship Programs,1.0,1500.0,0
+2025-08-04,Internship Programs,4.0,5000.0,0
+2025-08-05,Internship,4.0,4300.0,FALSE
+2025-08-06,Internship Programs,4.0,4600.0,N
+07-Aug-2025,Internship Programs,3.0,5000.0,N
+2025-08-08,Internship Programs,16.0,19500.0,FALSE
+09-Aug-2025,Internship,4.0,5400.0,N
+10-Aug-2025,Internship,7.0,8900.0,FALSE
+2025-08-11,Internship Programs,9.0,11000.0,0
+2025-08-12,Internship Programs,5.0,6000.0,No
+2025-08-13,Internship Programs,8.0,10500.0,FALSE
+2025-08-14,Internships,13.0,16500.0,0
+15-Aug-2025,Internship Programs,8.0,9800.0,N
+16-Aug-2025,Internship,4.0,4300.0,N
+2025-08-17,Internship Programs,4.0,5000.0,No
+2025-08-18,internship programs,9.0,10700.0,0
+2025-08-19,Internship Programs,11.0,12800.0,No
+20-Aug-2025,Internship Programs,4.0,7100.0,No
+2025-08-21,Internships,8.0 units,8100.0,No
+2025-08-22,Internship,0.0,0.0,N
+2025-08-23,Internship Programs,4.0,4200.0,N
+24-Aug-2025,Internship,2.0,2400.0,FALSE
+2025-08-25,Internship Programs,6.0,9800.0,No
+2025-08-26,Internships,7.0,7500.0,FALSE
+2025-08-27,Internships,5.0,5400.0,N
+28-Aug-2025,Internship Programs,4.0,4700.0,N
+2025-08-29,internship programs,7.0,7600.0,N
+2025-08-30,Internship Programs,3.0,,N
+2025-08-31,Internships,1.0,1000.0,FALSE
+01-Sep-2025,Internship Programs,12.0,15200.0,0
+01-Sep-2025,Internship Programs,12.0,15200.0,0
+2025-09-02,Internship,11.0,11700.0,FALSE
+2025-09-03,Internships,12.0,12300.0,N
+2025-09-04,Internship Programs,6.0,6900.0,0
+05-Sep-2025,Internship Programs,9.0,9200.0,0
+06-Sep-2025,Internships,1.0,1800.0,N
+07-Sep-2025,Internship Programs,3.0,2700.0,N
+2025-09-08,Internship Programs,6.0,6300.0,0
+2025-09-09,Internship,4.0,5100.0,N
+2025-09-10,Internship Programs,4.0,4300.0,N
+2025-09-11,Internship Programs,4.0,3800.0,N
+2025-09-12,Internship Programs,2.0,3600.0,0
+13-Sep-2025,internship programs,7.0,7500.0,N
+2025-09-14,Internships,1.0,1100.0,0
+2025-09-15,Internship Programs,60.0,7000.0,0
+16-Sep-2025,Internships,3.0,4000.0,0
+2025-09-17,internship programs,15.0,18600.0,1
+2025-09-18,Internship Programs,2.0,2000.0,Yes
+2025-09-19,Internship,13.0,15100.0,Y
+20-Sep-2025,Internship Programs,6.0,7000.0,Y
+21-Sep-2025,Internships,2.0,2800.0,
+2025-09-22,Internship Programs,,11800.0,TRUE
+2025-09-23,Internship,4.0,6400.0,Y
+24-Sep-2025,Internship,4.0,4200.0,TRUE
+25-Sep-2025,Internship,2.0,2300.0,TRUE
+2025-09-26,Internships,6.0,6200.0,Y
+2025-09-27,Internship Programs,3.0,2800.0,TRUE
+2025-09-28,internship programs,1.0,900.0,N
+2025-09-29,Internship Programs,6.0,6300.0,No
+30-Sep-2025,Internship Programs,5.0,5600.0,
+2025-10-01,Internships,2.0,1900.0,No
+2025-10-02,Internship Programs,4.0,5300.0,No
+2025-10-03,Internship,1.0,900.0,0
+04-Oct-2025,internship programs,7.0,7500.0,0
+2025-10-05,Internship Programs,4.0,4500.0,No
+2025-10-06,Internship Programs,9.0,11900.0,N
+2025-10-06,Internship Programs,9.0,11900.0,N
+2025-10-07,Internship Programs,7.0,8600.0,0
+2025-10-08,Internships,5.0,5900.0,No
+09-Oct-2025,Internship Programs,9.0,9300.0,No
+2025-10-10,Internship Programs,8.0,8500.0,No
+2025-10-11,Internship Programs,1.0,800.0,No
+2025-10-12,Internship Programs,2.0,3100.0,FALSE
+13-Oct-2025,Internships,12.0,15000.0,FALSE
+2025-10-14,Internship Programs,4.0,4200.0,No
+2025-10-15,Internship Programs,8.0,9000.0,Y
+2025-10-16,internship programs,10.0,11000.0,Yes
+2025-10-17,internship programs,3.0,3000.0,1
+2025-10-18,Internship Programs,1.0,1300.0,
+2025-10-19,internship programs,4.0,4500.0,1
+2025-10-20,Internship Programs,9.0,13200.0,TRUE
+2025-10-21,Internship Programs,7.0,9600.0,Yes
+22-Oct-2025,Internship Programs,14.0,18600.0,TRUE
+2025-10-23,Internships,7.0,9000.0,1
+2025-10-23,Internship Programs,7.0,9000.0,1
+2025-10-24,Internship Programs,13.0,15000.0,Y
+25-Oct-2025,Internship Programs,2.0,2700.0,FALSE
+2025-10-26,Internship Programs,4.0,4500.0,No
+27-Oct-2025,internship programs,6.0,8700.0,0
+2025-10-28,internship programs,7.0,8700.0,N
+29-Oct-2025,Internship Programs,5.0,6200.0,FALSE
+30-Oct-2025,internship programs,9.0,10900.0,0
+31-Oct-2025,internship programs,8.0,11500.0,0
+01-Nov-2025,Internship Programs,1.0,700.0,0
+2025-11-02,Internship Programs,4.0,6300.0,0
+2025-11-03,internship programs,3.0,3400.0,
+04-Nov-2025,Internship,5.0,4900.0,N
+2025-11-05,Internship Programs,5.0,5400.0,N
+2025-11-06,Internship Programs,5.0,4800.0,N
+2025-11-07,Internship,5.0,6500.0,FALSE
+2025-11-08,Internships,8.0,8600.0,0
+2025-11-09,Internship Programs,2.0,2400.0,FALSE
+2025-11-10,Internship Programs,4.0,5600.0,N
+2025-11-11,Internship,6.0,6600.0,0
+12-Nov-2025,internship programs,19.0,22300.0,FALSE
+13-Nov-2025,Internship Programs,10.0,10600.0,Y
+2025-11-14,Internships,5.0,5600.0,TRUE
+15-Nov-2025,Internship,10.0,15300.0,Yes
+2025-11-16,internship programs,5.0,6600.0,TRUE
+2025-11-16,internship programs,5.0,6600.0,TRUE
+2025-11-17,Internship Programs,16.0,18800.0,Y
+2025-11-18,Internship Programs,6.0,6600.0,1
+2025-11-19,Internships,14.0,16700.0,TRUE
+2025-11-20,Internships,5.0,6100.0,Y
+21-Nov-2025,Internship,15.0,17400.0,Y
+2025-11-22,Internship Programs,9.0,11300.0,TRUE
+2025-11-22,Internship Programs,9.0,11300.0,TRUE
+2025-11-23,Internships,0.0,0.0,TRUE
+2025-11-24,Internship Programs,10.0,"Rs. 10,900",TRUE
+2025-11-25,Internships,8.0,9900.0,No
+2025-11-26,Internship Programs,3.0,2900.0,N
+2025-11-27,Internship Programs,4.0,5300.0,0
+2025-11-28,Internships,4.0,4700.0,0
+2025-11-29,Internship Programs,4.0,3600.0,FALSE
+2025-11-30,internship programs,2.0,2400.0,FALSE
+01-Dec-2025,Internship Programs,8.0,8000.0,0
+2025-12-02,internship programs,7.0,9000.0,0
+2025-12-03,Internship Programs,11.0,12900.0,No
+2025-12-03,Internship Programs,11.0,12900.0,No
+2025-12-04,Internship Programs,5.0,7600.0,No
+2025-12-05,Internship Programs,5.0,6900.0,0
+2025-12-06,Internship Programs,2.0,1900.0,N
+2025-12-07,Internship Programs,1.0,600.0,No
+2025-12-08,Internship Programs,11.0,12300.0,No
+2025-12-09,Internship Programs,12.0,12900.0,0
+2025-12-10,Internship Programs,9.0,12900.0,FALSE
+2025-12-11,Internship Programs,2.0,2300.0,TRUE
+12-Dec-2025,Internship Programs,4.0,5500.0,Y
+13-Dec-2025,Internship,7.0,8100.0,TRUE
+14-Dec-2025,internship programs,4.0,4600.0,1
+2025-12-15,Internship,11.0,13100.0,Yes
+2025-12-16,Internships,12.0,15800.0,TRUE
+17-Dec-2025,internship programs,13.0,16000.0,Y
+2025-12-18,internship programs,9.0,9700.0,1
+2025-12-19,Internships,12.0,16500.0,1
+20-Dec-2025,Internship,8.0,9300.0,TRUE
+2025-12-21,Internship Programs,9.0,10300.0,1
+2025-12-22,Internship Programs,12.0,11200.0,TRUE
+23-Dec-2025,Internship Programs,13.0,16400.0,TRUE
+2025-12-24,Internship Programs,5.0,6000.0,N
+2025-12-25,Internships,5.0,6000.0,FALSE
+2025-12-26,internship programs,7.0,8000.0,N
+27-Dec-2025,Internship Programs,4.0,4400.0,N
+2025-12-28,Internship,3.0,3300.0,No
+29-Dec-2025,Internship,8.0,10000.0,No
+2025-12-30,Internships,0.0,0.0,0
+2025-12-31,Internship Programs,4.0,4600.0,0
+2026-01-01,Internships,5.0,6800.0,No
+03-Jan-2026,internship programs,4.0,4400.0,Yes
+2026-01-04,Internship Programs,1.0,1200.0,Yes
+2026-01-05,internship programs,8.0,8300.0,TRUE
+2026-01-06,Internships,10.0,12200.0,TRUE
+2026-01-07,internship programs,24.0,26200.0,Yes
+2026-01-08,Internship Programs,11.0,12000.0,TRUE
+09-Jan-2026,Internship Programs,17.0,17600.0,Yes
+10-Jan-2026,Internship Programs,3.0,3400.0,Y
+2026-01-11,Internship Programs,5.0,7400.0,Yes
+2026-01-12,internship programs,12.0,14200.0,Yes
+2026-01-13,Internship Programs,18.0,22500.0,Y
+2026-01-14,Internship Programs,5.0,8200.0,TRUE
+2026-01-15,Internship Programs,11.0,13600.0,TRUE
+2026-01-16,Internship,13.0,14600.0,Yes
+17-Jan-2026,Internship Programs,3.0,3200.0,0
+2026-01-18,Internship Programs,4.0,4700.0,FALSE
+19-Jan-2026,Internship Programs,7.0,7800.0,N
+20-Jan-2026,Internship Programs,19.0,21900.0,FALSE
+2026-01-21,internship programs,10.0,13100.0,N
+2026-01-22,Internship,6.0,8100.0,N
+23-Jan-2026,Internship Programs,8.0,8000.0,0
+2026-01-24,Internship Programs,4.0,4200.0,N
+2026-01-25,Internship Programs,3.0,3300.0,FALSE
+2026-01-26,Internship,10.0,12600.0,FALSE
+2026-01-27,Internship Programs,11.0,14600.0,No
+2026-01-28,Internship Programs,6.0,9900.0,N
+29-Jan-2026,Internship Programs,15.0,17300.0,N
+30-Jan-2026,Internships,5.0,5600.0,0
+31-Jan-2026,Internships,4.0,5200.0,FALSE
+2026-02-01,internship programs,6.0,6600.0,FALSE
+2026-02-02,Internship Programs,17.0,20100.0,No
+2026-02-03,Internships,6.0,6800.0,0
+2026-02-04,Internship Programs,6.0,5200.0,No
+05-Feb-2026,Internship Programs,8.0,9700.0,No
+06-Feb-2026,Internship Programs,21.0,24800.0,FALSE
+2026-02-07,Internship Programs,7.0,9600.0,0
+2026-02-08,Internship Programs,0.0,0.0,FALSE
+2026-02-09,Internship Programs,10.0,10600.0,N
+10-Feb-2026,Internship Programs,7.0,8100.0,FALSE
+2026-02-11,Internship Programs,8.0,7600.0,0
+12-Feb-2026,Internships,26.0,29000.0,N
+13-Feb-2026,Internship Programs,3.0,4000.0,No
+14-Feb-2026,Internship Programs,3.0,3400.0,FALSE
+2026-02-15,internship programs,6.0,8000.0,FALSE
+16-Feb-2026,Internship Programs,12.0,12100.0,0
+2026-02-17,Internship Programs,10.0,11700.0,No
+2026-02-18,Internship Programs,10.0,11400.0,N
+2026-02-19,Internship Programs,10.0,13100.0,0
+2026-02-20,Internship,2.0,2700.0,N
+21-Feb-2026,Internship Programs,6.0,7700.0,0
+2026-02-22,Internships,2.0,3300 INR,0
+2026-02-23,Internship Programs,12.0,13900.0,0
+2026-02-24,Internship Programs,9.0,12300.0,No
+25-Feb-2026,Internship Programs,5.0,5200.0,FALSE
+2026-02-26,Internship Programs,8.0,8500.0,
+2026-02-27,Internship Programs,10.0,12800.0,0
+28-Feb-2026,Internship,5.0,4900.0,FALSE
+2026-03-01,Internship Programs,1.0,1400.0,N
+02-Mar-2026,internship programs,7.0,8400.0,0
+2026-03-03,internship programs,1.0,1600.0,N
+04-Mar-2026,Internships,7.0,8300.0,FALSE
+2026-03-05,Internship,17.0,20400.0,N
+2026-03-06,internship programs,5.0,6400.0,N
+2026-03-07,Internship Programs,1.0,900.0,N
+2026-03-08,Internship Programs,3.0,3100.0,No
+2026-03-09,Internship,8.0,10000 INR,No
+10-Mar-2026,Internship Programs,8.0,9500.0,No
+2026-03-11,Internships,10.0,11500.0,N
+2026-03-12,Internship Programs,6.0,7100.0,No
+2026-03-13,Internships,13.0,"₹17,800",0
+2026-03-14,internship programs,15.0,17300.0,Y
+2026-03-15,Internship Programs,6.0,6700.0,Yes
+2026-03-16,Internship Programs,5.0,4700.0,TRUE
+2026-03-17,Internship Programs,10.0,11900.0,Yes
+2026-03-18,internship programs,9.0,"Rs. 11,500",Y
+2026-03-19,Internship,9.0,11700.0,Yes
+2026-03-20,internship programs,5.0,6000.0,Y
+2026-03-21,internship programs,2.0,2900.0,1
+2026-03-22,internship programs,3.0,4000.0,Y
+2026-03-22,internship programs,3.0,4000.0,Y
+2026-03-23,Internship Programs,8.0,10700.0,Yes
+2026-03-24,Internships,13.0,16900.0,1
+2026-03-25,Internship,11.0,15200.0,Yes
+2026-03-26,Internship Programs,6.0,7000.0,Y
+27-Mar-2026,Internship Programs,9.0,9400.0,Y
+2026-03-28,Internship Programs,5.0,6500.0,FALSE
+29-Mar-2026,Internships,5.0,6600.0,N
+30-Mar-2026,Internship Programs,2.0,3300.0,N
+31-Mar-2026,Internship Programs,6.0,8400.0,0
+2026-04-01,Internships,9.0,13100.0,No
+02-Apr-2026,Internship,4.0,5200.0,N
+2026-04-03,Internship Programs,2.0,2500.0,N
+2026-04-04,Internship Programs,8.0,8200.0,N
+2026-04-05,Internship Programs,4.0,5000.0,No
+2026-04-06,Internship Programs,2.0,2100.0,FALSE
+2026-04-07,Internships,4.0,4900.0,N
+08-Apr-2026,Internship Programs,9.0,10800.0,FALSE
+2026-04-09,Internship Programs,0.0,0.0,No
+2026-04-10,Internship Programs,6.0,7100.0,0
+2026-04-11,Internship Programs,5.0,6700.0,0
+2026-04-12,Internship Programs,4.0,,No
+2026-04-13,internship programs,10.0,12200.0,0
+2026-04-14,Internship Programs,9.0,12100.0,No
+15-Apr-2026,Internship Programs,5.0,7600.0,N
+2026-04-16,Internships,4.0,5300.0,0
+2026-04-17,Internship Programs,7.0,10100.0,N
+2026-04-18,Internship,5.0,6100.0,N
+2026-04-19,Internship Programs,2.0,2300.0,FALSE
+2026-04-20,Internships,10.0,12600.0,No
+21-Apr-2026,Internship,4.0,4700.0,
+2026-04-22,Internship Programs,7.0,7600.0,N
+2026-04-23,Internship Programs,5.0,5500.0,N
+2026-04-24,Internships,4.0,4000.0,No
+2026-04-25,Internship Programs,3.0,3900.0,FALSE
+2026-04-26,Internship,0.0,0.0,FALSE
+2026-04-27,Internship Programs,1.0,1000.0,N
+28-Apr-2026,Internship Programs,9.0,10200.0,0
+29-Apr-2026,Internship Programs,4.0,5100.0,No
+2026-04-30,Internships,7.0,9100.0,FALSE
+2026-05-01,Internship,7.0,7300.0,N
+02-May-2026,Internship Programs,5.0,5000.0,FALSE
+2026-05-03,Internships,5.0,6800.0,0
+2026-05-04,Internship Programs,10.0,10500.0,FALSE
+05-May-2026,Internships,5.0,6400.0,0
+06-May-2026,Internship Programs,8.0,11300.0,0
+2026-05-07,Internship Programs,8.0,11300.0,FALSE
+08-May-2026,Internship Programs,5.0,6600.0,No
+2026-05-09,Internship,3.0,4000.0,No
+2026-05-10,internship programs,4.0,6700.0,0
+2026-05-11,Internship Programs,4.0,3300.0,N
+12-May-2026,Internship,5.0,5600.0,
+13-May-2026,internship programs,,5400.0,N
+2026-05-14,Internships,14.0,16300.0,N
+2026-05-15,internship programs,8.0,10900.0,No
+2026-05-16,Internships,11.0,13100.0,N
+17-May-2026,Internship Programs,1.0,1200.0,TRUE
+2026-05-18,Internship,7.0,8100.0,TRUE
+2026-05-19,Internship Programs,11.0,12500.0,Yes
+2026-05-20,Internship Programs,9.0,10200.0,Yes
+2026-05-21,Internship,9.0,11000.0,TRUE
+2026-05-22,internship programs,14.0,15700.0,Y
+2026-05-23,Internship,4.0,5500.0,TRUE
+2026-05-24,Internship Programs,10.0,12700.0,TRUE
+25-May-2026,internship programs,11.0,14500.0,TRUE
+2026-05-26,Internships,15.0,16400.0,1
+2026-05-27,Internship Programs,10.0,10200.0,1
+28-May-2026,Internship Programs,8.0,9500.0,0
+2026-05-29,Internship Programs,5.0,8800.0,FALSE
+2026-05-30,Internship Programs,4.0,5700.0,N
+2026-05-31,Internship,4.0,4400.0,FALSE
+02-Jun-2026,Internship Programs,6.0,7800.0,0
+03-Jun-2026,Internship Programs,4.0,,N
+2026-06-04,internship programs,13.0,17400.0,N
+05-Jun-2026,Internship,11.0,12900.0,0
+06-Jun-2026,Internship Programs,,9500.0,No
+2026-06-07,Internship Programs,5.0,6000.0,FALSE
+2026-06-08,Internships,21.0,27100.0,0
+2026-06-09,Internship Programs,7.0,7700.0,No
+10-Jun-2026,Internship Programs,14.0,14600.0,FALSE
+11-Jun-2026,Internship Programs,13.0,16000.0,No
+2026-06-12,Internship Programs,6.0,5600.0,No
+2026-06-13,Internship Programs,6.0,6900.0,0
+14-Jun-2026,Internship Programs,8.0,10800.0,N
+2026-06-15,Internship Programs,15.0,18800.0,No
+2026-06-16,internship programs,12.0,15700.0,No
+2026-06-17,Internship,7.0,9000.0,No
+18-Jun-2026,Internship Programs,10.0,15000.0,FALSE
+19-Jun-2026,Internship Programs,10.0,11300.0,N
+2026-06-20,Internship,3.0,3800.0,FALSE
+21-Jun-2026,Internship Programs,2.0,2100.0,FALSE
+22-Jun-2026,Internship Programs,7.0,9300.0,N
+22-Jun-2026,internship programs,7.0,9300.0,N
+2026-06-23,internship programs,10.0,11900.0,FALSE
+2026-06-24,internship programs,9.0,12800.0,FALSE
+2026-06-25,Internship Programs,10.0,11400.0,No
+2026-06-26,Internships,7.0,9800.0,FALSE
+2026-06-27,Internship Programs,6.0,"₹7,700",0
+28-Jun-2026,Internship Programs,8.0,9500.0,0
+29-Jun-2026,Internships,14.0,17500.0,N
+30-Jun-2026,Internship Programs,9.0,11000.0,N
+01-Jul-2026,Internship Programs,8.0,9900.0,FALSE
+2026-07-02,internship programs,5.0,5800.0,0
+2026-07-03,Internship Programs,5.0,5400.0,No
+2026-07-04,Internship Programs,6.0,6900.0,No
+05-Jul-2026,Internship Programs,7.0,6900.0,No
+2026-07-06,Internship,11.0,14200.0,N
+07-Jul-2026,Internship Programs,70.0,7300.0,FALSE
+2026-07-08,Internship Programs,7.0,8100.0,N
+09-Jul-2026,Internship Programs,,6500.0,No
+2026-07-10,Internship Programs,8.0,10400.0,No
+2026-07-11,Internship Programs,5.0,4700.0,0
+2026-07-12,Internship Programs,4.0,4700.0,0
+13-Jul-2026,Internship Programs,10.0,12500.0,0
+2026-07-14,Internship Programs,9.0,10800.0,FALSE
+2026-07-15,Internship Programs,10.0,13600.0,TRUE
+2026-07-16,Internship Programs,12.0,13400.0,1
+2026-07-17,Internship Programs,9.0,8800.0,1
+2026-07-18,Internship Programs,6.0,7900.0,TRUE
+2026-07-19,Internship Programs,2.0,2100.0,1
+2026-07-20,Internship Programs,8.0,7900.0,Y
+21-Jul-2026,Internship Programs,17.0,20100.0,Y
+2026-07-22,Internship Programs,9.0,12200.0,Y
+2026-07-22,Internships,9.0,12200.0,Y
+23-Jul-2026,Internship Programs,10.0,10600.0,TRUE
+2026-07-24,Internship Programs,10.0,14900.0,TRUE
+25-Jul-2026,Internship,4.0,4200.0,N
+2026-07-26,internship programs,1.0,1200.0,0
+2026-07-27,Internships,7.0,7300.0,No
+28-Jul-2026,Internship Programs,13.0,15600.0,No
+29-Jul-2026,Internship,3.0,3500.0,No
+30-Jul-2026,internship programs,9.0,9300.0,FALSE
+2026-07-31,Internship Programs,12.0,18300.0,N
+2026-08-01,Internship Programs,5.0,5600.0,0
+02-Aug-2026,Internship Programs,1.0,1000.0,0
+2026-08-03,Internship Programs,8.0,10600.0,N
+2026-08-04,Internship,7.0,10300.0,0
+2026-08-05,Internship Programs,12.0,15800.0,FALSE
+2026-08-06,Internship Programs,14.0,15200.0,FALSE
+2026-08-07,Internship,6.0,7300.0,No
+2026-08-08,Internship,3.0,2600.0,No
+09-Aug-2026,Internship Programs,3.0,4100.0,0
+2026-08-10,Internship Programs,18.0,19200.0,N
+2026-08-11,Internship Programs,7.0,7600.0,No
+12-Aug-2026,Internship Programs,7.0,8300.0,0
+2026-08-13,Internship Programs,4.0,5100.0,0
+14-Aug-2026,Internship,7.0,8100.0,No
+15-Aug-2026,Internship,3.0,4600.0,1
+2026-08-16,internship programs,5.0,"₹6,600",Yes
+2026-08-17,Internship Programs,6.0,7700.0,1
+18-Aug-2026,Internships,10.0,10600.0,Y
+2026-08-19,Internship Programs,9.0,12700.0,TRUE
+20-Aug-2026,Internship,5.0,5300.0,1
+21-Aug-2026,Internship,8.0,11500.0,TRUE
+2026-08-22,internship programs,4.0,6400.0,Y
+2026-08-23,Internship Programs,3.0,3900.0,1
+24-Aug-2026,Internship Programs,10.0,13200.0,TRUE
+2026-08-25,internship programs,14.0,13100.0,Y
+2026-08-26,Internship,9.0,10500.0,Yes
+27-Aug-2026,Internship,4.0,5600.0,TRUE
+2026-08-28,Internships,5.0,6700.0,FALSE
+2026-08-29,Internship Programs,3.0,2900.0,No
+2026-08-30,internship programs,3.0,3400.0,No
+2026-08-31,Internship Programs,2.0,1400.0,FALSE
+2026-09-01,Internship,2.0,2600.0,0
+2026-09-02,Internships,7.0,6700.0,FALSE
+03-Sep-2026,Internships,6.0,8200.0,No
+2026-09-04,Internship,7.0,9500.0,0
+2026-09-05,Internship Programs,6.0,6700.0,N
+2026-09-06,Internship Programs,7.0,8900.0,No
+07-Sep-2026,Internship,2.0,2200.0,N
+2026-09-08,internship programs,2.0,2500.0,FALSE
+2026-09-09,Internship Programs,7.0,7300.0,0
+2026-09-10,Internship Programs,13.0,16400.0,0
+11-Sep-2026,Internship Programs,9.0,9100.0,FALSE
+2026-09-12,internship programs,6.0,5700.0,N
+13-Sep-2026,Internship Programs,5.0,5800.0,
+13-Sep-2026,Internship,5.0,5800.0,
+14-Sep-2026,Internship Programs,4.0,4600.0,FALSE
+15-Sep-2026,Internship Programs,11.0,13500.0,FALSE
+16-Sep-2026,Internship Programs,12.0,13600.0,N
+2026-09-17,Internship Programs,5.0,7700.0,No
+2026-09-18,Internship Programs,6.0,7300.0,No
+2026-09-19,Internships,4.0,4900.0,N
+2026-09-20,Internship Programs,4.0 units,4900.0,N
+2026-09-21,Internship Programs,8.0,10600.0,0
+22-Sep-2026,Internship,9.0,11400.0,FALSE
+2026-09-23,Internship Programs,3.0,3800.0,FALSE
+24-Sep-2026,Internship,8.0,10300.0,No
+2026-09-25,Internship Programs,2.0,1600.0,0
+26-Sep-2026,Internship Programs,2.0,1600.0,0
+2026-09-27,Internships,4.0,4700.0,N
+2026-09-28,Internship Programs,3.0,3400.0,N
+2026-09-29,Internships,9.0,11400.0,No
+2026-09-30,Internship Programs,9.0,10800.0,No
+2023-10-01,Training Programs,0.0,0.0,FALSE
+2023-10-02,Training Programs,2.0,23200.0,0
+2023-10-03,Training Programs,4.0,67400.0,FALSE
+2023-10-04,Training,6.0,68200.0,FALSE
+2023-10-05,Training Programs,5.0,69300.0,0
+2023-10-06,Training Programs,2.0,25300.0,0
+2023-10-07,Training Programs,1.0,12700.0,0
+2023-10-08,Training,1.0,13600.0,0
+09-Oct-2023,Training Programs,4.0,53100.0,No
+2023-10-10,Training,3.0,47000.0,0
+2023-10-11,training programs,2.0,25500.0,No
+2023-10-12,Training,4.0,74500.0,No
+13-Oct-2023,training programs,3.0,39500.0,FALSE
+14-Oct-2023,Training Program ,0.0,0.0,N
+2023-10-15,Training Programs,4.0,59700.0,No
+16-Oct-2023,Training Programs,4.0,56800.0,FALSE
+2023-10-17,Training Programs,3.0,39400.0,FALSE
+2023-10-18,Training,1.0,11100.0,No
+19-Oct-2023,Training Programs,7.0,67400.0,No
+2023-10-20,Training,1.0,5700.0,0
+2023-10-21,Training Programs,1.0,23900.0,0
+22-Oct-2023,Training Program ,0.0,0.0,N
+23-Oct-2023,Training Programs,8.0,121700.0,N
+2023-10-24,Training Program ,4.0,38100.0,FALSE
+25-Oct-2023,Training Program ,2.0,19200.0,FALSE
+26-Oct-2023,Training Programs,1.0,16200.0,No
+27-Oct-2023,Training Programs,2.0,25000.0,N
+2023-10-28,Training Programs,8.0,114500.0,N
+2023-10-28,Training Programs,8.0,114500.0,N
+2023-10-29,Training,4.0,52400.0,No
+30-Oct-2023,training programs,4.0,50400.0,0
+2023-10-31,Training Program ,2.0,21200.0,No
+2023-11-01,Training Program ,1.0,7700.0,No
+2023-11-02,Training,0.0,0.0,FALSE
+2023-11-03,Training Programs,1.0,23200.0,FALSE
+04-Nov-2023,Training Programs,4.0,42700.0,0
+2023-11-05,Training Program ,4.0,42100.0,0
+2023-11-06,Training Programs,1.0,10800.0,FALSE
+2023-11-07,Training,6.0,83900.0,0
+2023-11-08,Training Programs,4.0,"₹50,700",FALSE
+2023-11-09,Training Programs,6.0,86100.0,No
+2023-11-10,Training Programs,2.0,25400.0,FALSE
+2023-11-11,Training Programs,2.0,24900.0,0
+2023-11-12,Training Program ,0.0,0.0,0
+2023-11-13,training programs,3.0,34700.0,0
+2023-11-14,Training Programs,3.0,57200.0,No
+2023-11-15,training programs,1.0,22100.0,FALSE
+2023-11-15,training programs,1.0,22100.0,FALSE
+2023-11-16,Training Programs,5.0,72200.0,No
+17-Nov-2023,Training Programs,4.0,35700.0,No
+2023-11-19,Training Programs,2.0,22300.0,No
+2023-11-20,Training Programs,0.0,0.0,FALSE
+2023-11-21,training programs,6.0,66700.0,FALSE
+2023-11-22,Training Programs,0.0,0.0,No
+23-Nov-2023,Training,2.0,34000.0,N
+2023-11-24,training programs,3.0,51300.0,FALSE
+2023-11-25,Training Programs,4.0,48700.0,N
+2023-11-25,Training Programs,4.0,48700.0,N
+26-Nov-2023,Training Programs,1.0,8100.0,No
+2023-11-27,Training Programs,5.0,70200.0,N
+2023-11-28,Training Program ,4.0,74600.0,N
+29-Nov-2023,Training,3.0,39800.0,0
+30-Nov-2023,Training Programs,1.0,14800.0,N
+01-Dec-2023,Training Programs,2.0,24100.0,No
+02-Dec-2023,Training Programs,3.0,34800.0,FALSE
+03-Dec-2023,Training Programs,3.0,45600.0,0
+2023-12-04,Training Programs,2.0 units,25000.0,N
+2023-12-05,Training Programs,3.0,,FALSE
+2023-12-06,Training Programs,0.0,0.0,No
+07-Dec-2023,Training Programs,6.0,84000.0,FALSE
+2023-12-08,Training Programs,1.0,15500.0,N
+2023-12-09,Training Programs,2.0,20200.0,FALSE
+2023-12-10,Training Program ,3.0,31700.0,0
+2023-12-11,Training Programs,2.0,25400.0,N
+2023-12-12,Training Programs,5.0,65700.0,0
+13-Dec-2023,Training Programs,4.0,47300.0,No
+2023-12-14,Training Program ,2.0,27600.0,No
+2023-12-15,Training,4.0,63000.0,FALSE
+2023-12-16,Training Programs,2.0,36000.0,No
+2023-12-17,Training,3.0,54200.0,No
+18-Dec-2023,Training Programs,9.0,100300.0,No
+19-Dec-2023,Training Programs,70.0,77800.0,FALSE
+2023-12-20,Training,0.0,0.0,No
+2023-12-21,Training Programs,4.0,53400.0,N
+22-Dec-2023,Training Program ,7.0,89500.0,FALSE
+23-Dec-2023,training programs,1.0,9900.0,FALSE
+2023-12-24,Training Program ,0.0,0.0,0
+25-Dec-2023,Training,1.0,15000.0,FALSE
+26-Dec-2023,Training Programs,3.0,28800.0,0
+27-Dec-2023,Training,,31600.0,0
+2023-12-28,Training Programs,6.0,79600.0,No
+2023-12-29,Training Programs,2.0,34700.0,0
+2023-12-30,Training Programs,0.0,0.0,No
+2023-12-31,Training Programs,0.0,0.0,No
+02-Jan-2024,Training,3.0,47700.0,FALSE
+2024-01-03,Training,4.0,50500.0,0
+04-Jan-2024,Training Programs,4.0,71700.0,N
+2024-01-05,training programs,3.0,27700.0,N
+2024-01-06,Training Programs,3.0,48700.0,0
+07-Jan-2024,Training Programs,2.0,26600.0,No
+08-Jan-2024,Training Programs,5.0,55000.0,FALSE
+2024-01-09,Training Programs,0.0,0.0,0
+2024-01-11,Training Program ,2.0,14300.0,FALSE
+2024-01-12,training programs,8.0,108800.0,N
+13-Jan-2024,Training Programs,5.0,74800.0,FALSE
+2024-01-14,Training Program ,2.0,29200.0,0
+15-Jan-2024,training programs,4.0,71100.0,No
+2024-01-16,Training Programs,2.0,37300.0,N
+2024-01-16,Training Programs,2.0,37300.0,N
+17-Jan-2024,Training Programs,3.0,41600.0,No
+18-Jan-2024,Training Programs,3.0,66200.0,0
+19-Jan-2024,Training Programs,2.0,33600.0,N
+20-Jan-2024,Training Program ,7.0,87900.0,FALSE
+2024-01-21,Training Programs,4.0,47000.0,FALSE
+2024-01-22,training programs,3.0,52200.0,N
+2024-01-23,Training,2.0,20600.0,No
+2024-01-25,Training Programs,5.0,63200.0,N
+2024-01-26,Training,5.0,70300.0,FALSE
+27-Jan-2024,Training Programs,1.0,11400.0,No
+2024-01-28,Training Programs,1.0 units,7300.0,FALSE
+2024-01-29,training programs,3.0,51200.0,FALSE
+2024-01-30,Training Program ,1.0,10500.0,No
+2024-01-31,Training Programs,1.0,27700.0,FALSE
+2024-02-01,Training Programs,3.0,42000.0,No
+2024-02-02,Training Programs,6.0,97600.0,FALSE
+03-Feb-2024,Training Programs,2.0,30800.0,0
+2024-02-04,Training Programs,1.0,20900.0,No
+2024-02-05,Training Programs,3.0,44700.0,No
+06-Feb-2024,Training Programs,4.0,55100.0,No
+2024-02-07,training programs,1.0,19200.0,0
+08-Feb-2024,Training Programs,4.0,86400.0,FALSE
+2024-02-09,Training Programs,2.0,23900.0,No
+2024-02-10,Training,1.0,17000.0,No
+2024-02-11,training programs,,39100.0,N
+2024-02-12,training programs,3.0,44000.0,Yes
+2024-02-13,Training Programs,6.0,79900.0,Y
+2024-02-14,Training Program ,3.0,23800.0,1
+2024-02-15,Training Programs,3.0,37400.0,Y
+16-Feb-2024,training programs,6.0,93400.0,TRUE
+2024-02-17,Training Programs,3.0,32800.0,Y
+18-Feb-2024,training programs,3.0,48400.0,1
+2024-02-19,Training Programs,4.0,54500.0,Y
+2024-02-20,training programs,6.0,76900.0,TRUE
+21-Feb-2024,Training Programs,,48200.0,Yes
+2024-02-22,Training Program ,-3.0,"₹45,800",Y
+2024-02-23,Training Programs,4.0,57100.0,1
+2024-02-24,Training Programs,2.0,34300.0,TRUE
+2024-02-24,Training,2.0,34300.0,TRUE
+2024-02-25,Training Program ,5.0,68400.0,TRUE
+2024-02-26,Training,5.0,49100.0,No
+2024-02-27,Training Programs,2.0,23100.0,FALSE
+2024-02-28,Training,10.0,105800.0,FALSE
+2024-02-29,Training Program ,2.0,31000.0,0
+2024-03-01,Training,4.0,62900.0,FALSE
+2024-03-02,Training Programs,5.0,78000.0,FALSE
+2024-03-03,Training Program ,2.0,29600.0,No
+04-Mar-2024,Training,3.0,48900.0,No
+05-Mar-2024,Training Programs,4.0,38300.0,FALSE
+2024-03-06,Training Programs,4.0,51400.0,FALSE
+07-Mar-2024,Training Programs,3.0,28200.0,0
+2024-03-08,Training Programs,4.0,48900.0,FALSE
+2024-03-09,Training,3.0,56900.0,FALSE
+2024-03-10,Training,0.0,0.0,0
+2024-03-10,training programs,0.0,0.0,0
+11-Mar-2024,training programs,3.0,45600.0,0
+2024-03-12,training programs,4.0,50700.0,No
+2024-03-13,Training Program ,4.0,43100.0,No
+2024-03-14,Training,2.0,27100.0,0
+2024-03-15,Training,1.0,19300.0,FALSE
+2024-03-16,Training Programs,,43000.0,N
+17-Mar-2024,Training Program ,0.0,0.0,FALSE
+18-Mar-2024,training programs,2.0,26500.0,0
+19-Mar-2024,Training Programs,2.0,15000.0,N
+20-Mar-2024,Training,5.0,76100.0,0
+2024-03-21,Training Programs,6.0,70800.0,0
+2024-03-22,Training Programs,5.0,53000.0,No
+2024-03-23,Training Programs,4.0,61900.0,FALSE
+2024-03-24,Training Programs,1.0,15500.0,0
+2024-03-25,Training Programs,5.0,68700.0,N
+26-Mar-2024,Training Programs,4.0,81400.0,No
+2024-03-27,training programs,0.0,0.0,0
+2024-03-28,Training,2.0,21500.0,No
+29-Mar-2024,Training Program ,1.0,15200.0,N
+2024-03-30,Training Programs,0.0,0.0,0
+2024-03-31,Training Program ,0.0,0.0,0
+2024-04-01,Training,3.0,41800.0,0
+02-Apr-2024,Training Programs,1.0,14400.0,0
+03-Apr-2024,Training Programs,0.0,0.0,No
+04-Apr-2024,Training,0.0,₹0,0
+2024-04-05,Training,3.0,38600.0,N
+2024-04-06,Training Programs,3.0,30900.0,No
+2024-04-07,Training Programs,6.0,76500.0,N
+2024-04-08,Training Programs,2.0,29100.0,N
+2024-04-09,Training Programs,2.0,25700.0,No
+10-Apr-2024,Training,0.0,0.0,FALSE
+2024-04-11,training programs,7.0,89000.0,N
+2024-04-12,Training Program ,0.0,0.0,0
+13-Apr-2024,Training Program ,2.0,27200.0,FALSE
+14-Apr-2024,training programs,2.0,26400.0,N
+2024-04-15,Training Programs,2.0,22900.0,FALSE
+16-Apr-2024,Training Programs,7.0,86600.0,N
+2024-04-17,Training Programs,3.0,39800.0,FALSE
+18-Apr-2024,Training Programs,3.0,48900.0,No
+2024-04-19,Training Programs,5.0,69300.0,0
+2024-04-20,Training Program ,2.0,38500.0,N
+21-Apr-2024,Training Program ,0.0,0.0,N
+2024-04-22,Training,3.0,55300.0,0
+23-Apr-2024,Training Programs,6.0,99200.0,No
+24-Apr-2024,Training Programs,0.0,0.0,0
+2024-04-25,Training Programs,1.0,7800.0,0
+26-Apr-2024,Training Program ,4.0,59800.0,0
+2024-04-27,Training Programs,1.0,20100.0,N
+2024-04-28,Training Program ,3.0,54100.0,N
+2024-04-29,Training Programs,5.0,57400.0,No
+30-Apr-2024,Training Programs,2.0,31000.0,FALSE
+2024-05-01,Training Programs,2.0,26300.0,No
+2024-05-02,Training Programs,3.0,60000.0,N
+03-May-2024,Training Programs,2.0,17400.0,FALSE
+2024-05-04,Training Program ,0.0,0.0,N
+05-May-2024,training programs,1.0,6000.0,0
+2024-05-06,training programs,4.0,54100.0,N
+2024-05-07,Training,6.0,114800.0,FALSE
+2024-05-08,Training Programs,1.0,12200.0,0
+2024-05-09,Training Programs,2.0,26500.0,FALSE
+2024-05-10,Training Programs,3.0,44400.0,No
+2024-05-11,Training Programs,2.0,24900.0,0
+2024-05-12,Training Program ,2.0,28600.0,0
+2024-05-13,Training Programs,2.0,28800.0,No
+14-May-2024,training programs,4.0,44400.0,FALSE
+2024-05-15,Training Program ,3.0,38300.0,0
+2024-05-16,training programs,0.0,,FALSE
+17-May-2024,Training Program ,1.0,17900.0,0
+2024-05-18,Training,2.0,37200.0,0
+2024-05-19,Training Programs,1.0,14100.0,N
+2024-05-20,Training,3.0,42500.0,No
+21-May-2024,training programs,2.0,31800.0,No
+2024-05-22,Training Programs,3.0,34100.0,0
+2024-05-23,Training Programs,9.0,109800.0,0
+2024-05-24,training programs,7.0,91000.0,N
+2024-05-25,training programs,4.0,40700.0,0
+2024-05-26,Training Programs,4.0,57000.0,0
+2024-05-27,Training Programs,4.0,64800.0,N
+28-May-2024,Training Program ,4.0,45600.0,0
+2024-05-29,Training Program ,5.0,71300.0,FALSE
+2024-05-30,Training Programs,2.0,21600.0,0
+2024-05-31,Training Programs,2.0,19300.0,N
+01-Jun-2024,Training Programs,2.0,46100.0,N
+2024-06-02,Training Programs,2.0,19400.0,FALSE
+2024-06-03,Training Programs,2.0,17900.0,0
+2024-06-04,Training Programs,8.0,109400.0,FALSE
+2024-06-05,training programs,7.0,96600.0,N
+2024-06-07,Training Programs,0.0,0.0,Y
+2024-06-08,Training Programs,10.0,120500.0,Y
+09-Jun-2024,Training Programs,2.0,21900.0,TRUE
+2024-06-10,Training Programs,3.0,56800.0,TRUE
+2024-06-11,Training,4.0,63400.0,Yes
+2024-06-12,Training,1.0,17000.0,TRUE
+2024-06-12,Training,1.0,17000.0,TRUE
+2024-06-13,Training Programs,7.0,84800.0,TRUE
+14-Jun-2024,Training,0.0,0.0,1
+2024-06-15,Training,3.0,47100.0,1
+2024-06-16,Training Programs,2.0,27200.0,1
+2024-06-17,Training Programs,4.0,46700.0,Yes
+2024-06-18,Training,2.0,26500.0,No
+2024-06-19,Training,12.0,193200.0,No
+2024-06-20,Training Programs,1.0,8000.0,No
+21-Jun-2024,Training Programs,2.0,20500.0,FALSE
+2024-06-22,Training Programs,3.0,33900.0,No
+2024-06-23,Training Programs,4.0,48400.0,No
+2024-06-24,Training Program ,1.0,12300.0,FALSE
+2024-06-25,Training Programs,10.0,150100.0,0
+2024-06-26,Training,9.0,127100.0,N
+2024-06-27,Training Programs,2.0,26200.0,0
+28-Jun-2024,Training Programs,4.0,55500.0,No
+2024-06-29,Training Program ,3.0,45200.0,0
+2024-06-30,Training Programs,2.0,16000.0,N
+2024-07-01,Training Programs,5.0,79900.0,FALSE
+2024-07-02,Training Programs,9.0,107100.0,0
+2024-07-03,training programs,8.0,99700.0,No
+2024-07-04,Training,4.0,56200.0,Yes
+2024-07-05,training programs,4.0,51800.0,
+2024-07-06,Training,5.0,71900.0,Y
+07-Jul-2024,Training Program ,5.0,67600.0,1
+2024-07-08,Training Program ,9.0,115000.0,TRUE
+09-Jul-2024,Training,6.0,101800.0,1
+2024-07-10,Training Programs,10.0,145400.0,TRUE
+2024-07-11,Training Programs,9.0,124400.0,Yes
+2024-07-12,Training Programs,4.0,60300.0,Y
+2024-07-13,training programs,4.0,45600.0,1
+2024-07-14,Training Programs,2.0,47600.0,1
+15-Jul-2024,Training Program ,7.0,78700.0,Yes
+16-Jul-2024,Training Program ,3.0,40200.0,No
+2024-07-17,Training Programs,6.0,75700.0,No
+18-Jul-2024,training programs,6.0,75200.0,No
+2024-07-19,Training Programs,9.0,112500.0,0
+20-Jul-2024,Training Programs,5.0,57400.0,FALSE
+2024-07-21,Training Programs,1.0,19900.0,N
+2024-07-22,Training Programs,4.0,41300.0,N
+2024-07-23,Training Programs,4.0,64000.0,N
+2024-07-23,Training,4.0,64000.0,N
+2024-07-24,Training Program ,6.0,88200.0,FALSE
+25-Jul-2024,Training Programs,3.0,35800 INR,FALSE
+26-Jul-2024,Training Programs,8.0,114400.0,0
+2024-07-27,Training Programs,5.0,64100.0,No
+28-Jul-2024,Training Programs,3.0,30400.0,FALSE
+29-Jul-2024,Training Programs,7.0,78600.0,FALSE
+2024-07-30,Training Programs,4.0,59900.0,0
+2024-07-31,Training Programs,2.0,30500.0,N
+2024-08-01,Training Program ,9.0,123500.0,0
+2024-08-02,Training Programs,4.0,48600.0,0
+2024-08-03,Training,4.0,50600.0,N
+04-Aug-2024,Training Programs,3.0,36300.0,FALSE
+2024-08-05,Training Program ,6.0,59600.0,No
+2024-08-06,Training,5.0,66700.0,N
+2024-08-07,Training Programs,5.0,72400.0,0
+2024-08-08,Training Programs,4.0,53300.0,FALSE
+09-Aug-2024,Training Programs,6.0,105900.0,N
+2024-08-10,Training Programs,4.0,43000.0,FALSE
+11-Aug-2024,Training Programs,5.0,58600.0,0
+2024-08-12,Training Programs,6.0,81100.0,No
+2024-08-13,Training,2.0,27600.0,
+2024-08-14,Training Programs,3.0,25200.0,FALSE
+15-Aug-2024,Training Programs,3.0,45000.0,0
+16-Aug-2024,Training Programs,3.0,41500.0,FALSE
+2024-08-17,Training,2.0,14100.0,FALSE
+18-Aug-2024,Training Program ,1.0,11800.0,No
+2024-08-19,training programs,4.0,44700.0,No
+2024-08-20,Training,4.0,48000.0,FALSE
+2024-08-21,Training Programs,9.0,100000.0,N
+22-Aug-2024,training programs,8.0,112600.0,No
+2024-08-23,Training Programs,7.0,121000.0,N
+2024-08-24,Training Programs,7.0,96500.0,N
+2024-08-25,Training Program ,3.0,23800.0,FALSE
+2024-08-26,Training,8.0,110500.0,FALSE
+27-Aug-2024,Training Program ,3.0,37400.0,No
+28-Aug-2024,Training Programs,6.0,66300.0,FALSE
+2024-08-29,Training Programs,3.0,42500.0,FALSE
+2024-08-30,Training Programs,5.0,77200.0,FALSE
+2024-08-31,Training Program ,4.0,46000.0,No
+2024-09-01,Training Program ,3.0,26800.0,0
+02-Sep-2024,Training Programs,4.0,"Rs. 35,100",FALSE
+03-Sep-2024,training programs,3.0,33600.0,N
+04-Sep-2024,Training Programs,3.0,37800.0,0
+2024-09-05,Training Programs,4.0,47400.0,No
+2024-09-06,Training Programs,2.0,21200.0,FALSE
+2024-09-07,Training Programs,6.0,87000.0,0
+2024-09-08,Training Programs,2.0,29400.0,FALSE
+2024-09-09,Training Programs,7.0,95600.0,N
+2024-09-10,Training Programs,2.0,32400.0,N
+2024-09-11,Training Programs,1.0,9500.0,0
+2024-09-12,Training Programs,7.0,78600.0,No
+2024-09-13,Training,3.0,34700.0,FALSE
+2024-09-14,Training Program ,1.0,9800.0,N
+2024-09-15,Training Programs,3.0,"Rs. 24,400",No
+2024-09-16,training programs,2.0,22100.0,FALSE
+2024-09-17,Training Programs,2.0,35200.0,0
+2024-09-18,Training Programs,4.0,61700.0,0
+2024-09-19,Training Programs,4.0,58400.0,0
+2024-09-20,Training Programs,4.0,53900.0,FALSE
+2024-09-21,Training Programs,5.0,85400.0,N
+2024-09-22,training programs,2.0,19100.0,No
+2024-09-23,Training Programs,3.0,31300.0,0
+24-Sep-2024,Training Programs,5.0,80600.0,No
+25-Sep-2024,Training Programs,4.0,52800.0,FALSE
+2024-09-26,training programs,4.0,45900.0,FALSE
+27-Sep-2024,Training Programs,3.0,44500.0,N
+2024-09-28,Training Programs,2.0,22700.0,N
+29-Sep-2024,Training,1.0,8800.0,N
+2024-09-30,Training Programs,2.0,20200.0,FALSE
+2024-10-01,Training,4.0,56000.0,0
+2024-10-02,Training Program ,7.0,95700.0,N
+2024-10-03,training programs,6.0,101600.0,N
+2024-10-04,Training Programs,5.0,62600.0,0
+2024-10-05,Training Programs,6.0,75500.0,No
+2024-10-06,Training Programs,2.0,38700.0,No
+2024-10-07,Training Program ,8.0,122000.0,0
+2024-10-08,Training Programs,2.0,26800.0,No
+2024-10-09,Training Programs,9.0,97100.0,0
+2024-10-10,Training Programs,20.0,20500.0,0
+2024-10-11,Training Programs,3.0,30700.0,N
+2024-10-12,Training Programs,8.0,106700.0,FALSE
+2024-10-13,Training Program ,3.0,34800.0,TRUE
+2024-10-14,Training Program ,1.0,23500.0,Y
+15-Oct-2024,training programs,4.0,38400.0,Yes
+2024-10-16,Training Programs,7.0,77800.0,TRUE
+2024-10-17,Training Programs,13.0,177900.0,1
+18-Oct-2024,Training Programs,6.0,86400.0,Y
+2024-10-19,Training Program ,8.0,73600.0,Y
+20-Oct-2024,Training Programs,4.0,37100.0,Yes
+2024-10-21,Training Program ,8.0,102200.0,Y
+2024-10-22,Training,6.0,99000.0,Yes
+23-Oct-2024,training programs,3.0,60500.0,1
+2024-10-24,Training Programs,8.0,100100.0,1
+2024-10-25,Training Programs,4.0,50800.0,FALSE
+2024-10-26,Training Programs,3.0,32300.0,No
+2024-10-27,Training,1.0,15900.0,0
+28-Oct-2024,Training Programs,3.0,55700.0,0
+2024-10-29,Training Program ,2.0,"Rs. 36,700",0
+2024-10-30,Training Programs,2.0,25500.0,No
+31-Oct-2024,Training Programs,4.0,44400.0,FALSE
+2024-11-01,Training Programs,2.0,25800.0,No
+2024-11-02,training programs,3.0,53800.0,0
+2024-11-03,training programs,5.0,61400.0,FALSE
+2024-11-05,Training,3.0,36000.0,0
+2024-11-06,Training Programs,4.0,49700.0,0
+2024-11-07,Training,6.0,58900.0,FALSE
+2024-11-08,Training,5.0,68700.0,FALSE
+2024-11-09,training programs,4.0 units,58100.0,N
+10-Nov-2024,Training Programs,3.0,60100 INR,No
+2024-11-11,Training Programs,8.0,87900.0,N
+2024-11-12,Training Programs,10.0,145800.0,N
+2024-11-13,Training Programs,7.0,107300.0,0
+14-Nov-2024,Training Programs,6.0,86400.0,FALSE
+2024-11-15,Training Programs,5.0,55100.0,0
+2024-11-16,Training,2.0,19100.0,No
+17-Nov-2024,Training Programs,2.0,26500.0,0
+2024-11-18,Training Programs,5.0,67000.0,No
+2024-11-19,Training Programs,7.0,85200.0,No
+20-Nov-2024,Training Programs,3.0,52700.0,FALSE
+2024-11-21,training programs,3.0,35700.0,0
+22-Nov-2024,training programs,5.0,47000.0,N
+23-Nov-2024,Training,4.0,50200.0,No
+2024-11-24,Training Programs,1.0,15000.0,FALSE
+25-Nov-2024,Training Programs,4.0,56300.0,N
+2024-11-26,Training Programs,2.0,28300.0,0
+27-Nov-2024,Training Programs,4.0,70800.0,No
+2024-11-28,Training,0.0,0.0,FALSE
+2024-11-29,Training Programs,3.0,35500.0,N
+30-Nov-2024,Training,2.0,39900.0,0
+01-Dec-2024,Training Programs,0.0,0.0,0
+2024-12-02,Training Programs,4.0,52000.0,FALSE
+03-Dec-2024,Training Programs,2.0,36500.0,0
+04-Dec-2024,Training Programs,5.0,81900.0,N
+2024-12-05,Training Programs,0.0,0.0,N
+06-Dec-2024,training programs,12.0,172900.0,No
+2024-12-07,Training Programs,0.0,0.0,FALSE
+08-Dec-2024,Training Programs,2.0,38000.0,N
+2024-12-09,training programs,4.0,41300.0,No
+2024-12-10,Training Programs,3.0,30100.0,No
+2024-12-11,training programs,6.0,84500.0,N
+2024-12-12,Training Programs,2.0,22400.0,FALSE
+2024-12-13,Training Programs,30.0,41100.0,N
+2024-12-14,training programs,4.0,57300.0,0
+15-Dec-2024,Training Programs,1.0,25200.0,FALSE
+2024-12-16,Training Programs,2.0,29100.0,FALSE
+17-Dec-2024,Training Programs,4.0,46400.0,N
+2024-12-18,Training Programs,5.0,74400.0,Yes
+2024-12-19,Training Programs,4.0,44500.0,Yes
+20-Dec-2024,Training Program ,3.0,48300.0,Yes
+2024-12-21,Training Programs,0.0,0.0,Yes
+22-Dec-2024,Training Program ,0.0,0.0,1
+2024-12-23,Training Programs,4.0,36800.0,TRUE
+24-Dec-2024,Training,2.0,13600.0,TRUE
+2024-12-25,Training Programs,2.0,16800.0,TRUE
+2024-12-26,Training Programs,3.0,58600.0,Y
+2024-12-27,Training Programs,2.0,18600.0,TRUE
+2024-12-28,training programs,4.0,60800.0,TRUE
+2024-12-29,Training Program ,1.0,9600.0,Yes
+2024-12-30,Training Programs,0.0,0.0,Yes
+2024-12-31,Training Program ,5.0,65400.0,Yes
+01-Jan-2025,Training Programs,5.0,88500.0,N
+2025-01-02,training programs,3.0,44800.0,FALSE
+03-Jan-2025,Training,5.0,70600.0,0
+2025-01-04,Training Programs,0.0,0.0,0
+2025-01-05,Training Programs,,21500.0,N
+06-Jan-2025,Training Programs,4.0,65100.0,0
+2025-01-07,Training Programs,5.0,77500.0,FALSE
+2025-01-08,Training Program ,8.0,120400.0,0
+2025-01-09,Training Program ,3.0,37800.0,FALSE
+10-Jan-2025,training programs,3.0,35400.0,FALSE
+2025-01-11,Training Program ,3.0,32000.0,FALSE
+2025-01-12,Training Program ,4.0,44700.0,N
+2025-01-13,Training Programs,3.0,31700.0,FALSE
+2025-01-14,training programs,5.0,70400.0,0
+2025-01-15,Training,2.0,24100.0,FALSE
+2025-01-16,training programs,7.0,99000.0,0
+2025-01-16,Training Program ,7.0,99000.0,0
+2025-01-17,Training Programs,7.0,99800.0,FALSE
+2025-01-18,Training Programs,2.0,19100.0,N
+2025-01-19,Training Programs,2.0,18900.0,No
+2025-01-20,Training Programs,6.0,76400.0,No
+2025-01-21,Training Program ,3.0,32700.0,No
+2025-01-22,Training Programs,2.0,20100.0,0
+23-Jan-2025,Training,4.0,73800.0,0
+2025-01-24,Training Programs,6.0,61800.0,No
+2025-01-25,Training Program ,,45600.0,N
+2025-01-25,Training Program ,,45600.0,N
+2025-01-26,Training Program ,0.0,0.0,0
+2025-01-27,training programs,10.0,150600.0,N
+2025-01-28,Training Programs,6.0,91400.0,No
+2025-01-29,Training Program ,11.0,157600.0,0
+2025-01-30,Training,2.0,41200.0,No
+31-Jan-2025,Training Programs,6.0,66500.0,FALSE
+2025-02-01,Training Programs,,11600.0,No
+2025-02-02,Training Programs,8.0,94100.0,No
+03-Feb-2025,Training,6.0,60100.0,No
+04-Feb-2025,Training,1.0,9500.0,0
+05-Feb-2025,Training Programs,1.0,26200.0,No
+2025-02-06,Training,4.0,50700.0,0
+2025-02-07,Training Programs,2.0,45100.0,FALSE
+2025-02-08,Training Programs,7.0,127100.0,0
+09-Feb-2025,Training Programs,3.0,78200.0,No
+2025-02-15,Training Programs,2.0,25700.0,Y
+2025-02-16,Training Programs,1.0,13100.0,TRUE
+17-Feb-2025,Training Programs,9.0,132100.0,Y
+2025-02-18,training programs,5.0,60700.0,TRUE
+2025-02-19,Training Programs,6.0,63400.0,Y
+2025-02-20,Training Program ,10.0,139200.0,Yes
+21-Feb-2025,Training Program ,4.0,45700.0,Y
+2025-02-22,Training Programs,2.0,21800.0,N
+23-Feb-2025,Training Programs,1.0,11700.0,FALSE
+24-Feb-2025,Training Programs,4.0,48800.0,FALSE
+2025-02-25,Training Program ,1.0,19300.0,0
+26-Feb-2025,Training,1.0,11600.0,FALSE
+27-Feb-2025,Training Programs,1.0,19700.0,0
+28-Feb-2025,Training Programs,2.0,27300.0,FALSE
+2025-03-01,Training Programs,4.0,51600.0,N
+02-Mar-2025,training programs,5.0,67800.0,FALSE
+2025-03-03,Training Program ,8.0,88400.0,0
+04-Mar-2025,Training Programs,4.0,56200.0,No
+2025-03-05,Training Programs,5.0,76800.0,N
+2025-03-06,Training Programs,0.0,0.0,0
+2025-03-07,Training Programs,4.0,,N
+2025-03-08,Training Programs,2.0,16800.0,No
+09-Mar-2025,Training Programs,1.0,10000.0,N
+2025-03-10,Training Programs,2.0,38100.0,FALSE
+11-Mar-2025,Training Program ,8.0,109500.0,No
+12-Mar-2025,Training Programs,7.0,82500.0,N
+2025-03-13,Training Programs,6.0,62600.0,FALSE
+14-Mar-2025,Training Programs,4.0,45800.0,N
+15-Mar-2025,Training,4.0,45200.0,No
+15-Mar-2025,Training,4.0,45200.0,No
+16-Mar-2025,Training Programs,5.0,77900.0,N
+2025-03-17,Training Programs,3.0,49500.0,0
+2025-03-18,training programs,3.0,30700.0,FALSE
+19-Mar-2025,Training Program ,1.0,16700.0,No
+2025-03-20,Training Programs,4.0,59800.0,0
+2025-03-21,Training,3.0,29800.0,0
+22-Mar-2025,Training Programs,1.0,12000.0,FALSE
+2025-03-23,Training Programs,4.0,56200.0,No
+2025-03-24,Training Programs,11.0,149200.0,FALSE
+2025-03-25,Training Programs,3.0,26400.0,No
+26-Mar-2025,training programs,2.0,26700.0,0
+2025-03-27,Training Programs,3.0,45300.0,No
+2025-03-28,Training Programs,1.0,23300.0,No
+2025-03-29,training programs,3.0,33500.0,0
+30-Mar-2025,training programs,0.0,0.0,No
+2025-03-31,Training Programs,4.0,50400.0,No
+01-Apr-2025,Training Programs,0.0,0.0,FALSE
+02-Apr-2025,Training Programs,6.0,80600.0,0
+03-Apr-2025,Training Program ,9.0,129600.0,FALSE
+2025-04-04,Training,2.0,18700.0,0
+2025-04-05,Training Programs,3.0,42900.0,No
+2025-04-06,Training Programs,1.0,9200.0,N
+2025-04-07,Training Programs,2.0,24700.0,N
+2025-04-09,training programs,3.0,28300.0,No
+2025-04-10,Training Programs,2.0,23800.0,N
+11-Apr-2025,Training Programs,2.0,18000.0,FALSE
+2025-04-12,training programs,4.0,54200.0,0
+13-Apr-2025,Training,3.0,49900.0,0
+2025-04-14,Training Programs,3.0,40700.0,0
+15-Apr-2025,Training,10.0,131000.0,TRUE
+2025-04-16,Training Programs,5.0,83600.0,TRUE
+2025-04-17,Training Programs,0.0,0.0,Y
+2025-04-18,Training Program ,3.0,47300.0,TRUE
+19-Apr-2025,Training Program ,1.0,16500.0,Y
+20-Apr-2025,Training Programs,3.0,20100.0,Y
+2025-04-21,Training,5.0,65000.0,1
+2025-04-21,Training Program ,5.0,65000.0,1
+2025-04-22,training programs,7.0,78800.0,Yes
+2025-04-23,Training,5.0,56800.0,Yes
+2025-04-24,Training Programs,4.0,70600.0,1
+2025-04-25,Training Programs,1.0,10600.0,1
+2025-04-26,Training Programs,4.0,76700.0,Yes
+2025-04-27,Training Programs,3.0,28300.0,Yes
+2025-04-28,Training Programs,1.0,8000.0,Y
+29-Apr-2025,Training Programs,9.0,132300.0,No
+2025-04-30,Training Programs,4.0,49100.0,N
+01-May-2025,Training Programs,0.0,0.0,No
+2025-05-02,Training Programs,11.0,144400.0,N
+2025-05-03,Training Program ,5.0,64300.0,N
+2025-05-04,Training Programs,6.0,75500.0,N
+05-May-2025,Training Programs,5.0,68100.0,N
+06-May-2025,Training Program ,4.0,59700.0,N
+2025-05-07,training programs,3.0,56800.0,N
+08-May-2025,training programs,5.0,63600.0,No
+2025-05-09,Training Programs,5.0,61500.0,FALSE
+2025-05-10,training programs,3.0,34700.0,0
+2025-05-11,Training Programs,4.0,70500.0,N
+2025-05-12,Training Programs,8.0,117000.0,1
+13-May-2025,training programs,4.0,35900.0,Y
+2025-05-14,training programs,6.0,"Rs. 57,800",TRUE
+15-May-2025,Training Programs,15.0,183500.0,TRUE
+16-May-2025,Training Programs,7.0,96000.0,TRUE
+2025-05-17,Training,1.0,12200.0,Y
+2025-05-18,Training Programs,5.0,72300.0,TRUE
+2025-05-19,Training Programs,7.0,90300.0,1
+21-May-2025,Training Programs,12.0,174600.0,TRUE
+2025-05-22,Training Programs,3.0,39800.0,FALSE
+2025-05-23,Training,4.0,66100.0,FALSE
+2025-05-24,Training Programs,5.0,49100.0,FALSE
+25-May-2025,Training Programs,1.0,12000.0,No
+2025-05-26,Training Program ,5.0,67600.0,FALSE
+2025-05-27,Training Program ,5.0,73400.0,0
+28-May-2025,Training Programs,5.0,48500.0,N
+2025-05-29,Training Programs,2.0,23900.0,N
+2025-05-30,Training Programs,5.0,70800.0,0
+2025-05-31,training programs,6.0,85800.0,N
+2025-06-01,Training Programs,5.0,81500.0,No
+2025-06-02,Training,3.0,46700.0,0
+2025-06-03,Training Programs,4.0,51900.0,N
+04-Jun-2025,Training,4.0,60100.0,No
+2025-06-05,training programs,5.0,63600.0,
+2025-06-06,Training Programs,0.0,0.0,0
+07-Jun-2025,Training Programs,7.0,"₹104,600",FALSE
+2025-06-08,Training,0.0,0.0,0
+2025-06-09,Training Programs,5.0,70300 INR,FALSE
+2025-06-10,Training Programs,2.0,33800.0,No
+11-Jun-2025,Training Programs,4.0,60600.0,FALSE
+2025-06-12,Training Programs,4.0,67200.0,N
+2025-06-13,Training,8.0,147500.0,N
+2025-06-14,Training,3.0,46000.0,Y
+2025-06-15,training programs,6.0,73600.0,TRUE
+2025-06-16,Training Programs,6.0,86300.0,Yes
+2025-06-17,Training Programs,6.0,85600.0,1
+2025-06-18,Training,9.0,129700.0,Yes
+2025-06-19,Training Programs,4.0,70800.0,Yes
+20-Jun-2025,Training Programs,4.0,37500.0,TRUE
+21-Jun-2025,Training Programs,5.0,86400.0,Yes
+2025-06-22,Training,2.0,43500.0,TRUE
+2025-06-23,Training Program ,5.0,73000.0,Y
+24-Jun-2025,Training Programs,10.0,143300.0,Yes
+2025-06-25,Training Programs,10.0,128900.0,TRUE
+2025-06-26,training programs,4.0,52600.0,TRUE
+2025-06-27,training programs,10.0 units,145200.0,N
+2025-06-28,Training,4.0,59600.0,No
+2025-06-28,training programs,4.0,59600.0,No
+2025-06-29,Training Programs,,16500.0,0
+30-Jun-2025,training programs,6.0,87900.0,No
+2025-07-01,Training Programs,2.0,33200.0,No
+2025-07-02,Training Programs,4.0,61500.0,No
+2025-07-03,Training Programs,4.0,42800.0,0
+05-Jul-2025,Training Programs,5.0,91900.0,FALSE
+06-Jul-2025,Training Programs,3.0,38900.0,0
+2025-07-07,Training Programs,1.0,22500.0,N
+2025-07-08,Training,,56000.0,FALSE
+09-Jul-2025,Training Program ,8.0,105700.0,N
+2025-07-10,Training Programs,10.0,122600.0,N
+2025-07-12,Training Programs,5.0,88400.0,No
+2025-07-13,Training Programs,3.0,38300.0,N
+2025-07-14,Training Programs,19.0,282300.0,FALSE
+15-Jul-2025,Training,6.0,103900.0,0
+2025-07-16,Training Programs,8.0,105600.0,N
+2025-07-17,training programs,3.0,40300.0,
+2025-07-18,Training,5.0,75200.0,N
+2025-07-19,Training,8.0,94200.0,No
+2025-07-20,Training Programs,5.0,67200.0,FALSE
+2025-07-21,training programs,8.0,143700.0,N
+2025-07-22,training programs,10.0,124800.0,0
+23-Jul-2025,Training Program ,7.0,105500.0,0
+24-Jul-2025,Training Programs,5.0,72400.0,FALSE
+25-Jul-2025,Training Programs,2.0,24600.0,No
+2025-07-26,Training,1.0,13500.0,FALSE
+2025-07-26,training programs,1.0,13500.0,FALSE
+2025-07-27,training programs,5.0,90200.0,0
+2025-07-28,Training Programs,6.0,86800.0,0
+2025-07-29,Training Programs,7.0,103200.0,N
+30-Jul-2025,training programs,5.0,87800.0,No
+31-Jul-2025,Training Programs,6.0,75700.0,No
+01-Aug-2025,Training Programs,8.0,91500.0,No
+2025-08-02,Training Programs,3.0,58900.0,N
+2025-08-03,Training Programs,2.0,26800.0,0
+2025-08-04,Training Programs,7.0,106100.0,N
+05-Aug-2025,Training Programs,8.0,95300.0,No
+2025-08-06,Training Programs,7.0,98300.0,FALSE
+2025-08-07,Training Programs,2.0,18900.0,N
+2025-08-08,training programs,6.0,80200.0,No
+09-Aug-2025,Training Programs,2.0,21400.0,FALSE
+2025-08-10,training programs,1.0,8700.0,FALSE
+2025-08-11,Training Program ,8.0,"Rs. 101,700",FALSE
+2025-08-12,training programs,7.0,65600.0,0
+2025-08-13,Training Programs,5.0,53600 INR,FALSE
+2025-08-14,Training Program ,3.0,46900.0,No
+2025-08-15,Training Programs,3.0,42400.0,0
+2025-08-16,Training Programs,3.0,30500.0,N
+2025-08-17,Training Programs,0.0,0.0,No
+18-Aug-2025,training programs,6.0,68700.0,0
+2025-08-19,Training Programs,9.0,131600.0,N
+2025-08-20,Training,4.0,51300.0,N
+2025-08-21,Training Programs,6.0,75200.0,N
+2025-08-22,Training Program ,5.0,64900.0,N
+2025-08-23,Training Programs,5.0,104200.0,FALSE
+2025-08-24,Training Programs,1.0,9100.0,No
+25-Aug-2025,Training Programs,3.0,41200.0,FALSE
+2025-08-26,training programs,6.0,90100.0,FALSE
+2025-08-27,Training Programs,5.0,55500.0,No
+28-Aug-2025,Training Programs,7.0,72900.0,No
+2025-08-29,Training,3.0,34100.0,N
+2025-08-30,Training Programs,2.0,31900.0,No
+31-Aug-2025,Training Programs,2.0,23400.0,N
+01-Sep-2025,training programs,2.0,24100.0,0
+2025-09-02,Training Programs,4.0,63000.0,FALSE
+03-Sep-2025,Training Program ,4.0,44700.0,0
+2025-09-04,Training Program ,3.0,38300.0,
+2025-09-05,Training Programs,5.0,50300.0,0
+2025-09-06,Training Programs,1.0,14100.0,0
+2025-09-07,Training Programs,4.0,55000.0,No
+08-Sep-2025,training programs,4.0,61600.0,N
+2025-09-09,Training Programs,7.0,78000.0,FALSE
+2025-09-09,Training Programs,7.0,78000.0,FALSE
+2025-09-10,Training Programs,3.0,37400.0,N
+2025-09-11,Training Programs,8.0,88600.0,0
+2025-09-12,Training,7.0,89300.0,No
+2025-09-13,Training Programs,5.0,85900.0,0
+2025-09-14,training programs,3.0,36300.0,N
+2025-09-15,Training Programs,3.0,28600.0,N
+2025-09-16,Training Programs,2.0,21200.0,0
+2025-09-17,training programs,1.0,6500.0,N
+18-Sep-2025,Training,6.0,64200.0,Y
+2025-09-19,Training Programs,1.0,16200.0,TRUE
+20-Sep-2025,Training Programs,4.0,39300.0,TRUE
+2025-09-21,Training Programs,4.0,55900.0,TRUE
+22-Sep-2025,Training Programs,6.0,79700.0,Y
+23-Sep-2025,Training Programs,9.0,111400.0,Y
+23-Sep-2025,Training,9.0,111400.0,Y
+2025-09-24,training programs,4.0,55000.0,TRUE
+2025-09-25,Training Programs,8.0,93000.0,Y
+26-Sep-2025,Training Programs,1.0,17300 INR,TRUE
+2025-09-27,Training Programs,5.0,58200.0,Y
+2025-09-28,Training Programs,1.0,10600.0,1
+2025-09-30,Training Programs,7.0,102900.0,1
+2025-09-30,Training Programs,7.0,102900.0,1
+2025-10-01,Training Program ,7.0,100700.0,Y
+2025-10-02,Training Programs,5.0,41300.0,FALSE
+2025-10-03,Training Programs,5.0,69000.0,N
+2025-10-04,Training Program ,5.0,48300.0,FALSE
+2025-10-05,Training Programs,0.0,0.0,No
+2025-10-06,Training Programs,11.0,144400.0,Yes
+2025-10-07,Training Programs,4.0,49000.0,Y
+2025-10-08,Training Programs,10.0,141600.0,TRUE
+2025-10-09,Training Programs,7.0,103400.0,TRUE
+10-Oct-2025,Training Programs,7.0,82500.0,1
+2025-10-11,Training Programs,2.0,20500.0,Y
+2025-10-13,Training Programs,11.0,121500.0,Yes
+2025-10-14,Training Programs,5.0,60500.0,TRUE
+2025-10-15,Training Programs,6.0,"Rs. 98,900",1
+2025-10-17,training programs,4.0,49100.0,Yes
+2025-10-18,Training Programs,0.0,0.0,0
+2025-10-19,Training Programs,3.0,62200.0,N
+2025-10-20,Training Program ,4.0,47200.0,FALSE
+21-Oct-2025,Training Program ,1.0,10200.0,FALSE
+2025-10-22,Training Programs,6.0,67000.0,No
+2025-10-23,Training Programs,5.0,66000.0,No
+2025-10-24,training programs,7.0,96600.0,0
+2025-10-24,training programs,7.0,96600.0,0
+25-Oct-2025,Training,1.0,8700.0,N
+2025-10-26,Training Programs,3.0,49200.0,No
+2025-10-27,Training Programs,4.0,55500.0,0
+28-Oct-2025,Training Programs,2.0,32800.0,FALSE
+2025-10-29,Training Programs,6.0,75200.0,0
+2025-10-30,Training Program ,6.0,82500.0,N
+31-Oct-2025,Training Programs,6.0,76600.0,N
+2025-11-01,Training Programs,0.0,0.0,FALSE
+02-Nov-2025,Training Programs,0.0,0.0,0
+2025-11-03,Training Program ,8.0,106300.0,0
+2025-11-04,Training Programs,2.0,22600.0,FALSE
+05-Nov-2025,Training Programs,12.0,150500.0,No
+2025-11-06,Training Program ,4.0,55100.0,N
+2025-11-07,Training Programs,2.0,32500.0,No
+08-Nov-2025,Training Programs,1.0,9400.0,No
+2025-11-09,Training Programs,3.0,,N
+2025-11-10,Training Programs,3.0,40800.0,N
+2025-11-11,Training Programs,13.0,180200.0,0
+2025-11-12,Training Programs,7.0,71600.0,N
+2025-11-13,Training,3.0,31600.0,N
+14-Nov-2025,training programs,3.0,28600.0,0
+2025-11-15,Training Programs,1.0,12500.0,No
+2025-11-16,Training Programs,1.0,8600.0,FALSE
+2025-11-16,Training Programs,1.0,8600.0,FALSE
+17-Nov-2025,Training Programs,5.0,60300.0,N
+2025-11-18,Training Programs,4.0,41400.0,0
+2025-11-19,Training Programs,2.0,23000.0,FALSE
+2025-11-20,Training Programs,4.0,42000.0,No
+21-Nov-2025,Training Programs,3.0,46600.0,N
+22-Nov-2025,Training Program ,2.0,29500.0,0
+2025-11-23,Training Program ,6.0,81300.0,0
+2025-11-24,Training Programs,7.0,88600.0,N
+2025-11-24,Training Programs,7.0,88600.0,N
+2025-11-25,Training Programs,6.0,56900.0,N
+2025-11-26,Training Programs,0.0,0.0,FALSE
+2025-11-27,training programs,6.0,70100.0,No
+2025-11-28,Training Programs,2.0,27600.0,N
+2025-11-29,Training Programs,1.0,15800.0,0
+2025-11-30,training programs,2.0,28200.0,0
+2025-12-01,training programs,0.0,0.0,No
+2025-12-02,Training Programs,2.0,21900.0,0
+2025-12-03,Training Programs,3.0,34000.0,N
+04-Dec-2025,Training Programs,8.0,122900.0,0
+2025-12-05,Training Program ,2.0,27000.0,Y
+2025-12-06,Training Program ,5.0,63100.0,
+2025-12-07,Training Programs,1.0,25900.0,1
+2025-12-08,Training Programs,8.0,115200.0,TRUE
+2025-12-09,training programs,1.0,11500.0,Yes
+2025-12-10,training programs,5.0,58300.0,1
+2025-12-11,Training Programs,6.0 units,98500.0,1
+2025-12-12,Training Programs,4.0,54800.0,1
+13-Dec-2025,Training Programs,6.0,79700.0,Yes
+2025-12-14,Training Program ,2.0,31200.0,Y
+2025-12-15,Training Programs,0.0,0.0,Yes
+2025-12-16,Training,10.0,142500.0,Y
+17-Dec-2025,Training Program ,5.0,77200.0,Y
+2025-12-18,Training Programs,9.0,126900.0,Y
+19-Dec-2025,Training Programs,2.0,30100.0,N
+2025-12-20,training programs,3.0,33100.0,0
+2025-12-21,Training,2.0,43000.0,N
+2025-12-22,Training Programs,3.0,29400.0,No
+23-Dec-2025,Training Programs,2.0,28100.0,0
+2025-12-24,Training Programs,2.0,17600.0,FALSE
+2025-12-25,Training Programs,2.0,25000.0,N
+2025-12-26,Training Programs,8.0,97900.0,N
+2025-12-27,Training Programs,2.0,26800.0,FALSE
+2025-12-28,Training Programs,0.0,₹0,0
+2025-12-29,Training,5.0,55600.0,FALSE
+2025-12-30,Training,4.0,52200.0,0
+2025-12-31,Training Programs,0.0,0.0,0
+2026-01-01,Training Programs,2.0,17800.0,0
+2026-01-02,Training Programs,4.0,44300.0,0
+03-Jan-2026,Training Programs,4.0,62400.0,0
+2026-01-04,Training,4.0,"Rs. 53,400",0
+05-Jan-2026,Training Programs,11.0,149000.0,N
+2026-01-06,Training,5.0,79200.0,TRUE
+2026-01-07,training programs,10.0,120200.0,1
+08-Jan-2026,Training,7.0,85700.0,TRUE
+2026-01-09,Training Programs,6.0,71400.0,Y
+10-Jan-2026,training programs,9.0,114100.0,TRUE
+11-Jan-2026,Training Programs,4.0,68700.0,TRUE
+11-Jan-2026,Training Programs,4.0,68700.0,TRUE
+2026-01-12,Training Programs,10.0,107200.0,1
+13-Jan-2026,Training Programs,9.0,101900.0,1
+2026-01-14,Training Programs,5.0,51600.0,Yes
+2026-01-15,Training Programs,10.0,158700.0,TRUE
+2026-01-16,Training Program ,11.0,135900.0,FALSE
+2026-01-17,Training Programs,3.0,36300.0,FALSE
+2026-01-17,training programs,3.0,36300.0,FALSE
+2026-01-18,Training Programs,7.0,72600.0,0
+2026-01-19,Training Program ,6.0,76000.0,FALSE
+2026-01-20,training programs,3.0,47800.0,N
+2026-01-21,Training Programs,6.0 units,82700.0,N
+2026-01-22,Training Programs,7.0,91200.0,FALSE
+2026-01-23,Training Program ,3.0 units,27300.0,N
+2026-01-24,Training Programs,5.0,62200.0,FALSE
+25-Jan-2026,Training Programs,7.0,94800.0,0
+2026-01-26,Training Program ,7.0,79800.0,No
+2026-01-27,Training Programs,8.0,116400.0,FALSE
+2026-01-28,Training Programs,11.0,162800.0,No
+2026-01-29,Training Programs,9.0,111400.0,No
+30-Jan-2026,training programs,4.0,60700.0,FALSE
+31-Jan-2026,Training Programs,2.0,25000.0,N
+01-Feb-2026,Training Programs,1.0,19600.0,FALSE
+2026-02-02,Training Programs,11.0,187000.0,0
+2026-02-03,Training Programs,4.0,42200.0,0
+04-Feb-2026,training programs,5.0,75700.0,FALSE
+2026-02-05,Training Programs,4.0,68200.0,0
+06-Feb-2026,Training Programs,6.0,67700.0,N
+2026-02-07,training programs,7.0,85000.0,N
+2026-02-08,Training Programs,0.0,0.0,N
+2026-02-09,Training Programs,3.0,38000.0,FALSE
+2026-02-10,Training Programs,7.0,87900.0,N
+2026-02-12,Training Programs,3.0,47500.0,TRUE
+2026-02-13,Training Programs,4.0,36000.0,Y
+2026-02-14,Training Programs,2.0,19500.0,TRUE
+2026-02-15,Training Programs,7.0,102600.0,Yes
+2026-02-15,Training Programs,7.0,102600.0,Yes
+16-Feb-2026,Training Programs,7.0,100800.0,1
+2026-02-17,Training Programs,5.0,54600.0,Y
+2026-02-18,Training Programs,4.0,58800.0,1
+19-Feb-2026,Training Programs,13.0,200600.0,Y
+2026-02-20,Training Programs,9.0,118800.0,Y
+2026-02-21,Training,3.0,31000.0,Y
+22-Feb-2026,Training Programs,0.0,0.0,TRUE
+2026-02-23,Training Programs,2.0,41900.0,1
+2026-02-24,Training,6.0,68600.0,Yes
+2026-02-25,training programs,7.0,93300.0,FALSE
+26-Feb-2026,Training,5.0,80100.0,N
+2026-02-27,training programs,20.0,269700.0,N
+2026-02-28,Training,5.0,48200.0,N
+2026-03-01,Training Programs,1.0,14800.0,No
+2026-03-02,training programs,3.0,31200.0,FALSE
+2026-03-03,Training Programs,2.0,18000.0,No
+2026-03-04,Training Programs,7.0,71400.0,FALSE
+2026-03-04,Training Programs,7.0,71400.0,FALSE
+2026-03-05,Training Programs,7.0,111000.0,N
+06-Mar-2026,Training Programs,5.0,56800.0,0
+2026-03-07,Training,2.0,28300.0,Y
+2026-03-07,training programs,2.0,28300.0,Y
+08-Mar-2026,Training Programs,2.0,30300.0,1
+2026-03-09,Training Programs,7.0,95000.0,Y
+10-Mar-2026,Training Programs,4.0,55700.0,Yes
+11-Mar-2026,Training Programs,5.0,70600.0,TRUE
+2026-03-12,Training Program ,4.0,54000.0,Yes
+14-Mar-2026,Training,6.0,69100.0,Y
+2026-03-15,Training Programs,5.0,64700.0,Yes
+2026-03-16,training programs,9.0,117500.0,TRUE
+2026-03-17,Training Program ,11.0,154100.0,TRUE
+2026-03-18,training programs,4.0,65500.0,Y
+2026-03-19,Training Program ,5.0,70100.0,1
+2026-03-20,Training Programs,4.0,44700.0,Yes
+2026-03-21,Training,4.0,34000.0,0
+2026-03-22,Training Programs,2.0,20700.0,0
+2026-03-23,Training Program ,4.0,40200.0,FALSE
+2026-03-24,training programs,3.0,33100.0,0
+25-Mar-2026,Training Program ,7.0,96200.0,No
+2026-03-26,Training Programs,7.0,93900.0,N
+2026-03-27,Training Programs,1.0,26000.0,N
+2026-03-28,Training Programs,9.0,127500.0,No
+29-Mar-2026,Training Program ,2.0,44200.0,No
+30-Mar-2026,Training Programs,1.0,16500.0,N
+31-Mar-2026,Training,3.0,50300.0,FALSE
+2026-04-01,Training Programs,3.0,36000.0,0
+2026-04-02,Training,4.0,42400.0,N
+03-Apr-2026,Training Program ,2.0,22700.0,No
+2026-04-04,Training Programs,4.0,52400.0,No
+2026-04-06,Training Programs,1.0,8300.0,FALSE
+2026-04-07,Training,7.0,98800.0,No
+2026-04-08,Training Programs,1.0,8300.0,N
+09-Apr-2026,training programs,4.0,38700.0,No
+2026-04-10,Training Programs,4.0,42000.0,No
+11-Apr-2026,Training Programs,6.0,76400.0,0
+2026-04-12,Training Programs,1.0,8300.0,0
+2026-04-13,training programs,3.0,37100.0,Y
+2026-04-14,training programs,6.0,87500.0,1
+15-Apr-2026,training programs,5.0,73100.0,TRUE
+2026-04-16,Training Programs,6.0,71200.0,TRUE
+2026-04-17,training programs,6.0,64100.0,TRUE
+2026-04-18,Training Programs,6.0,72200.0,Y
+19-Apr-2026,training programs,1.0,16100.0,1
+2026-04-20,Training Programs,0.0,0.0,1
+2026-04-20,Training Program ,0.0,0.0,1
+21-Apr-2026,Training Programs,9.0,125300.0,1
+2026-04-22,Training Programs,7.0,111200.0,TRUE
+2026-04-23,training programs,12.0,195000.0,1
+2026-04-24,training programs,6.0,73300.0,Yes
+25-Apr-2026,Training Programs,5.0,86000.0,1
+2026-04-26,Training Programs,4.0,49900.0,No
+2026-04-27,Training Programs,5.0,79100.0,N
+2026-04-28,Training Programs,6.0,89100.0,No
+2026-04-28,Training Programs,6.0,89100.0,No
+2026-04-29,Training Programs,1.0,5600.0,FALSE
+30-Apr-2026,Training Programs,2.0,19600.0,No
+2026-05-01,Training,0.0,0.0,N
+02-May-2026,Training Program ,3.0,25900.0,N
+03-May-2026,Training,3.0,48000.0,N
+2026-05-04,Training Programs,0.0,0.0,0
+05-May-2026,Training,9.0,115500.0,No
+06-May-2026,Training Programs,4.0,62300.0,No
+2026-05-07,Training Programs,4.0,70700.0,0
+2026-05-08,Training Program ,5.0,68400.0,FALSE
+2026-05-09,Training Programs,0.0,0.0,No
+2026-05-10,Training Programs,1.0,11200.0,No
+2026-05-11,Training,6.0,86600.0,0
+2026-05-12,Training Programs,6.0,91500.0,0
+2026-05-13,Training Programs,4.0,57600.0,0
+15-May-2026,training programs,7.0,92000.0,0
+2026-05-16,Training,5.0,49600.0,0
+17-May-2026,Training Programs,2.0,33200.0,N
+2026-05-18,Training Programs,3.0,"₹29,100",N
+2026-05-19,Training Programs,4.0,59500.0,0
+20-May-2026,Training Program ,4.0,61100.0,No
+21-May-2026,Training Programs,5.0,53800.0,0
+2026-05-22,Training Programs,4.0,46500.0,No
+2026-05-23,training programs,6.0,112200.0,No
+2026-05-24,Training,3.0,38400.0,0
+2026-05-25,Training Programs,2.0,18200.0,No
+2026-05-26,Training Programs,8.0,118900.0,FALSE
+2026-05-27,Training Programs,3.0,32700.0,FALSE
+28-May-2026,Training Programs,5.0,46800.0,No
+29-May-2026,Training Programs,2.0,29800.0,No
+2026-05-30,Training Programs,4.0,43700.0,FALSE
+2026-05-31,Training Programs,3.0,42200.0,No
+2026-06-01,training programs,8.0,94600.0,1
+2026-06-02,Training Programs,3.0,46100.0,Y
+2026-06-03,Training Programs,11.0,149600.0,Y
+2026-06-04,Training Program ,6.0,52000.0,Y
+05-Jun-2026,training programs,8.0,112000.0,1
+2026-06-06,Training Programs,3.0,36600.0,1
+07-Jun-2026,Training,4.0,69700.0,Yes
+2026-06-08,Training Programs,7.0,98400.0,Y
+09-Jun-2026,Training Programs,9.0,132200.0,Yes
+10-Jun-2026,Training,5.0,58100.0,TRUE
+2026-06-11,Training Program ,7.0,82300.0,1
+2026-06-12,Training Programs,3.0,38900.0,1
+2026-06-13,training programs,6.0,74800.0,TRUE
+2026-06-14,Training Programs,3.0,53300.0,N
+2026-06-15,Training Program ,9.0,117100.0,FALSE
+2026-06-16,Training Programs,1.0,7600.0,0
+2026-06-17,Training Programs,5.0,,FALSE
+18-Jun-2026,Training Programs,4.0,63700.0,FALSE
+19-Jun-2026,Training Programs,5.0,64000.0,0
+2026-06-20,Training Programs,5.0,63400.0,N
+2026-06-21,training programs,3.0,50000.0,No
+2026-06-22,Training Programs,11.0,131000.0,N
+23-Jun-2026,Training Programs,4.0,33600.0,0
+2026-06-24,Training Program ,6.0,69000.0,0
+25-Jun-2026,Training Programs,4.0,55100.0,0
+26-Jun-2026,Training Programs,4.0,50000.0,FALSE
+2026-06-27,Training Program ,8.0,85100.0,No
+2026-06-28,Training Programs,3.0,49500.0,FALSE
+29-Jun-2026,Training,2.0,27000.0,0
+2026-06-30,Training Programs,15.0,208100.0,0
+01-Jul-2026,Training Programs,2.0,29000.0,FALSE
+2026-07-02,Training Program ,7.0,76200.0,N
+2026-07-03,training programs,5.0,"₹69,600",0
+2026-07-04,Training Programs,7.0,106400.0,N
+2026-07-05,Training Programs,1.0,19500.0,N
+06-Jul-2026,Training Programs,4.0,60700.0,FALSE
+07-Jul-2026,Training Programs,7.0,100200.0,No
+08-Jul-2026,Training Programs,7.0,71300.0,0
+09-Jul-2026,Training Programs,3.0,39000.0,No
+2026-07-10,Training Programs,14.0,168400.0,No
+2026-07-11,Training Programs,,127200.0,No
+12-Jul-2026,Training Program ,2.0,35400.0,N
+2026-07-13,Training Programs,7.0,80300.0,FALSE
+2026-07-14,training programs,12.0,158900.0,0
+2026-07-15,Training Programs,7.0,96300.0,N
+2026-07-16,Training Programs,3.0,48200.0,No
+2026-07-17,Training Programs,7.0,,N
+2026-07-18,Training Program ,3.0,23500.0,No
+19-Jul-2026,Training Program ,,39500.0,No
+2026-07-21,Training Programs,8.0,108500.0,N
+2026-07-22,Training Programs,20.0,281500.0,0
+2026-07-23,training programs,11.0,169900.0,No
+2026-07-24,Training Programs,3.0,33900.0,N
+2026-07-25,Training Program ,8.0,108600.0,No
+26-Jul-2026,training programs,2.0,31000.0,FALSE
+27-Jul-2026,training programs,11.0,127000.0,0
+2026-07-28,Training Programs,11.0,163400.0,No
+29-Jul-2026,Training Programs,8.0,110300.0,FALSE
+2026-07-30,Training Programs,7.0,84600.0,0
+2026-07-31,Training Program ,4.0,54000.0,0
+2026-08-01,training programs,11.0,143900.0,N
+2026-08-02,Training Program ,3.0,46900.0,FALSE
+03-Aug-2026,Training Programs,7.0,87800.0,FALSE
+2026-08-04,Training Program ,8.0,109600.0,FALSE
+05-Aug-2026,training programs,7.0,84400.0,0
+2026-08-06,training programs,13.0,156000.0,0
+2026-08-07,Training Program ,7.0,95200.0,No
+2026-08-08,training programs,5.0,56200.0,N
+09-Aug-2026,Training,2.0,32300.0,0
+10-Aug-2026,Training Program ,4.0,59100.0,FALSE
+11-Aug-2026,Training Programs,4.0 units,45100.0,FALSE
+2026-08-12,Training Programs,7.0,95800.0,FALSE
+2026-08-13,Training,3.0,32800.0,FALSE
+14-Aug-2026,Training Programs,3.0,27000.0,No
+2026-08-15,Training,3.0,34100.0,N
+16-Aug-2026,Training Programs,2.0,25400.0,0
+2026-08-17,Training Programs,7.0,100300.0,No
+18-Aug-2026,training programs,7.0,94900.0,Y
+18-Aug-2026,Training,7.0,94900.0,Y
+2026-08-19,Training Programs,10.0,149100.0,TRUE
+2026-08-20,Training Programs,12.0,142600.0,Y
+21-Aug-2026,Training Program ,6.0,,1
+2026-08-22,Training Programs,1.0,23900.0,1
+2026-08-23,training programs,2.0,14900.0,1
+24-Aug-2026,Training Programs,9.0,112500.0,1
+2026-08-25,Training Program ,14.0,166300.0,TRUE
+2026-08-26,Training Program ,16.0,209200.0,TRUE
+2026-08-27,Training Programs,1.0,10400.0,1
+2026-08-28,Training Programs,11.0,157400.0,Yes
+2026-08-29,Training Programs,3.0,41500.0,N
+2026-08-30,Training Programs,6.0,64100.0,0
+31-Aug-2026,Training Programs,6.0,72100.0,0
+01-Sep-2026,Training,8.0,106100.0,FALSE
+02-Sep-2026,Training Programs,7.0,103700.0,Yes
+2026-09-03,Training Programs,14.0,241900.0,Y
+2026-09-04,Training,8.0,117200.0,Y
+05-Sep-2026,Training Program ,8.0,92000.0,Yes
+2026-09-06,Training Program ,0.0,0.0,1
+2026-09-07,Training Programs,8.0,108900.0,Y
+2026-09-08,Training Programs,9.0,111500.0,Yes
+09-Sep-2026,Training Programs,7.0,99600.0,Yes
+2026-09-10,Training Programs,4.0 units,33400.0,1
+2026-09-11,Training Programs,6.0,86800.0,TRUE
+2026-09-12,Training Programs,7.0,86300.0,TRUE
+2026-09-13,Training Programs,1.0,11800.0,Y
+2026-09-14,Training,12.0,189200.0,Yes
+15-Sep-2026,Training Programs,6.0,64600.0,Y
+2026-09-16,Training Program ,4.0,55500.0,FALSE
+2026-09-17,Training Programs,3.0,47000.0,FALSE
+2026-09-18,Training Program ,2.0,27000.0,No
+2026-09-19,Training Programs,6.0,,FALSE
+2026-09-20,Training Programs,1.0,21200.0,FALSE
+21-Sep-2026,Training Programs,4.0,50400.0,0
+2026-09-22,Training Programs,5.0,60000.0,FALSE
+2026-09-23,Training Program ,,10900.0,No
+2026-09-25,Training Programs,5.0,53300.0,N
+2026-09-26,Training Programs,1.0,13200.0,0
+27-Sep-2026,Training Programs,1.0,9700.0,No
+2026-09-28,Training Program ,4.0,60100.0,N
+2026-09-29,Training,6.0,86300.0,0
+30-Sep-2026,Training Programs,6.0,103500.0,0
+2023-10-01,IT Services,0.0,0.0,0
+2023-10-01,IT Services,0.0,0.0,0
+2023-10-02,IT Services,-1.0,66700.0,0
+2023-10-03,IT Services,,48500.0,N
+2023-10-04,IT Services,2.0,210600.0,N
+2023-10-05,it services,4.0,268600.0,N
+2023-10-06,IT,6.0,516300.0,N
+07-Oct-2023,IT Services,0.0,0.0,0
+2023-10-08,IT Services,1.0,18500.0,No
+09-Oct-2023,it services,6.0,413000.0,No
+2023-10-10,IT Services,6.0,790200.0,N
+2023-10-11,IT Services,1.0,91100.0,No
+12-Oct-2023,IT,7.0,586900.0,N
+13-Oct-2023,IT Services,6.0,"Rs. 339,400",FALSE
+2023-10-14,IT Services,1.0,20900.0,0
+2023-10-15,IT,0.0,0.0,N
+2023-10-16,IT,4.0,421200.0,N
+2023-10-17,IT Services,0.0,0.0,N
+2023-10-18,it services,2.0,412100.0,FALSE
+2023-10-19,IT Services,0.0,0.0,FALSE
+20-Oct-2023,IT Services,1.0,66600.0,FALSE
+21-Oct-2023,IT Services,1.0,12400.0,0
+2023-10-22,IT Services,0.0,0.0,0
+2023-10-23,it services,2.0,353700.0,0
+24-Oct-2023,IT Services,5.0,257700.0,N
+2023-10-25,IT Service,3.0,345100.0,No
+2023-10-26,IT Services,4.0,587700.0,No
+27-Oct-2023,IT Service,1.0,30500.0,N
+2023-10-28,IT Services,0.0,0.0,0
+2023-10-29,IT Services,3.0,506300.0,No
+2023-10-30,IT,2.0,160800.0,0
+2023-10-31,IT Services,1.0,115100.0,0
+01-Nov-2023,IT Services,0.0,0.0,FALSE
+02-Nov-2023,IT Service,,97000.0,N
+2023-11-03,IT Services,1.0,90300.0,N
+04-Nov-2023,it services,2.0,59700.0,FALSE
+2023-11-05,IT Services,1.0,23800.0,No
+2023-11-06,IT Services,0.0,0.0,No
+2023-11-07,IT Services,3.0,190400.0,FALSE
+2023-11-08,IT Services,8.0,920800.0,0
+2023-11-09,IT Services,5.0,444100.0,No
+2023-11-10,IT Services,1.0,59600.0,0
+2023-11-11,IT Services,2.0,124600.0,No
+2023-11-12,IT Services,2.0,167300.0,N
+2023-11-13,IT Services,2.0,231400.0,N
+2023-11-14,IT Services,4.0,390700.0,Yes
+2023-11-15,IT Services,1.0,38700.0,TRUE
+2023-11-16,IT Service,3.0,424200.0,Yes
+2023-11-17,IT Services,3.0,313600.0,TRUE
+18-Nov-2023,IT Service,0.0,0.0,Yes
+2023-11-19,IT Service,0.0,0.0,Yes
+2023-11-20,IT Service,6.0,572900.0,1
+2023-11-21,IT Services,2.0,43300.0,1
+2023-11-22,IT Services,2.0,"Rs. 161,900",1
+2023-11-23,IT Services,3.0,522400.0,Yes
+2023-11-24,IT Services,3.0,249800.0,Yes
+2023-11-25,IT Services,1.0,61100.0,1
+2023-11-26,IT Services,1.0,33200.0,0
+27-Nov-2023,it services,4.0,383500.0,FALSE
+27-Nov-2023,IT Service,4.0,383500.0,FALSE
+2023-11-28,IT Services,4.0,281400.0,N
+2023-11-29,IT Services,2.0,319400.0,FALSE
+30-Nov-2023,it services,3.0,142200.0,N
+2023-12-01,IT Services,1.0,37700.0,N
+2023-12-02,IT Services,0.0,0.0,No
+2023-12-03,IT Service,1.0,295500.0,0
+2023-12-04,IT Services,3.0,201900.0,FALSE
+2023-12-05,IT Services,1.0,34600.0,FALSE
+06-Dec-2023,it services,1.0,8600.0,No
+2023-12-07,IT Services,7.0,411900.0,FALSE
+2023-12-08,IT Services,6.0,578700.0,0
+2023-12-09,IT Services,2.0,193800.0,N
+2023-12-10,it services,0.0,0.0,FALSE
+2023-12-11,IT,4.0,235000.0,N
+2023-12-12,IT Services,2.0,453500.0,FALSE
+2023-12-13,IT Services,2.0,772200.0,FALSE
+2023-12-14,IT Services,0.0,0.0,0
+2023-12-15,IT Services,0.0,0.0,FALSE
+2023-12-16,IT Services,1.0,279200.0,N
+17-Dec-2023,IT Services,0.0,0.0,0
+18-Dec-2023,IT Services,1.0,43200.0,No
+19-Dec-2023,IT Services,0.0,0.0,N
+2023-12-20,it services,2.0,445900.0,No
+2023-12-21,IT Service,1.0,23800.0,N
+2023-12-22,it services,3.0,130600.0,FALSE
+23-Dec-2023,IT Services,0.0,0.0,No
+24-Dec-2023,it services,0.0,0.0,N
+25-Dec-2023,IT,0.0,0.0,FALSE
+2023-12-26,IT Services,2.0,55800.0,N
+27-Dec-2023,IT Services,3.0,161200.0,0
+2023-12-28,IT Services,3.0,119700.0,0
+29-Dec-2023,IT Services,4.0,495600.0,No
+2023-12-30,IT Services,1.0,57000.0,FALSE
+2023-12-31,IT Service,0.0,0.0,N
+01-Jan-2024,IT Services,2.0,186900.0,Y
+2024-01-02,IT,4.0,280000.0,Y
+03-Jan-2024,IT Services,2.0,260400.0,Y
+2024-01-04,IT Services,3.0,281800 INR,Yes
+2024-01-05,IT Services,0.0,0.0,1
+2024-01-06,IT Services,1.0,12500.0,TRUE
+2024-01-07,IT Services,0.0,0.0,TRUE
+2024-01-08,it services,7.0,365600.0,1
+09-Jan-2024,IT Services,5.0,456800.0,Yes
+2024-01-10,IT Services,0.0,0.0,TRUE
+2024-01-11,IT Services,2.0,58400.0,No
+2024-01-12,IT,2.0,163700.0,No
+2024-01-13,IT Services,1.0,67300.0,N
+2024-01-14,IT Service,0.0,0.0,No
+2024-01-15,it services,2.0,152500.0,0
+16-Jan-2024,IT Services,4.0,229100.0,N
+2024-01-17,IT Services,1.0,96600.0,FALSE
+2024-01-18,IT Services,0.0,0.0,N
+2024-01-19,IT,0.0,0.0,FALSE
+2024-01-20,IT,2.0,213300.0,N
+2024-01-21,IT Service,0.0,0.0,0
+2024-01-22,IT Services,0.0,0.0,FALSE
+2024-01-23,it services,4.0,"Rs. 279,900",FALSE
+2024-01-24,it services,2.0,40400.0,No
+2024-01-25,IT Service,2.0,356500.0,N
+2024-01-26,IT Services,3.0,80700.0,FALSE
+2024-01-26,it services,3.0,80700.0,FALSE
+2024-01-27,IT Services,0.0,0.0,No
+28-Jan-2024,it services,1.0,378700.0,0
+2024-01-29,IT Services,1.0,64900.0,N
+2024-01-30,IT Services,5.0,440700.0,No
+2024-01-31,IT Services,2.0,176700.0,No
+2024-02-01,IT Services,2.0,157500.0,No
+2024-02-02,IT Services,2.0,619700.0,FALSE
+2024-02-03,IT Services,0.0,0.0,0
+2024-02-04,IT Services,0.0,0.0,No
+05-Feb-2024,IT Services,3.0,187900.0,TRUE
+2024-02-06,IT Services,1.0,271600.0,Y
+07-Feb-2024,IT Services,6.0,385700.0,Y
+08-Feb-2024,it services,4.0,372900.0,Yes
+2024-02-09,IT Services,4.0,497500.0,TRUE
+2024-02-10,IT Services,1.0,114300.0,Y
+11-Feb-2024,IT,0.0,0.0,TRUE
+2024-02-12,it services,3.0,465500.0,Y
+2024-02-13,IT Services,4.0,353000.0,Y
+2024-02-14,IT Services,4.0,250100.0,Y
+2024-02-15,it services,3.0,240500.0,Yes
+16-Feb-2024,IT Services,4.0,263800.0,Y
+2024-02-17,IT Services,,548400.0,1
+2024-02-18,IT,0.0,0.0,TRUE
+2024-02-19,it services,7.0,661900.0,N
+2024-02-21,IT,2.0,151100.0,0
+2024-02-22,IT Services,1.0,43800.0,N
+2024-02-23,IT Services,4.0,416400.0,FALSE
+2024-02-24,IT Services,1.0,,FALSE
+2024-02-25,IT Services,2.0,342100.0,N
+26-Feb-2024,IT Services,5.0,671500.0,N
+27-Feb-2024,IT Services,3.0,215300.0,0
+2024-02-28,IT Services,3.0,136400.0,No
+29-Feb-2024,IT Services,5.0,281000.0,0
+01-Mar-2024,IT Service,0.0,0.0,FALSE
+2024-03-02,IT Services,1.0,65300.0,FALSE
+2024-03-03,IT Services,0.0,0.0,No
+2024-03-04,IT Services,4.0 units,241500.0,FALSE
+2024-03-05,IT,5.0,698900.0,FALSE
+2024-03-06,IT Service,7.0,340300.0,No
+2024-03-07,IT Services,5.0,309000.0,TRUE
+2024-03-08,IT Services,2.0,70000.0,Y
+2024-03-09,IT Services,1.0,47000.0,1
+2024-03-10,IT Services,1.0,174100.0,Y
+2024-03-11,it services,5.0,349100.0,1
+2024-03-12,IT Services,3.0,234900.0,Yes
+2024-03-13,IT Services,,314600.0,Y
+2024-03-14,IT Services,2.0,112200.0,1
+2024-03-15,IT,1.0,80000.0,Yes
+2024-03-16,IT Services,2.0,162900.0,Yes
+17-Mar-2024,IT Services,2.0,67600.0,Yes
+2024-03-18,IT Services,9.0,636200.0,1
+2024-03-19,IT Services,2.0,174000.0,1
+20-Mar-2024,IT Services,1.0,179800.0,FALSE
+2024-03-21,IT Services,3.0,433600.0,No
+2024-03-22,IT Services,4.0,788900.0,FALSE
+2024-03-23,IT,2.0,189100.0,0
+24-Mar-2024,IT Services,1.0,39100.0,FALSE
+2024-03-25,IT Services,1.0,53500.0,No
+2024-03-26,IT Services,1.0,51200.0,0
+27-Mar-2024,IT Services,6.0,410400.0,No
+28-Mar-2024,IT Service,3.0,271900.0,0
+2024-03-29,it services,3.0,278500.0,0
+2024-03-30,IT Services,2.0,65800.0,FALSE
+2024-03-31,IT Services,0.0,0.0,N
+2024-04-01,it services,6.0,242700.0,0
+2024-04-02,IT Service,3.0,198500.0,0
+2024-04-03,IT Services,4.0,515400.0,FALSE
+2024-04-04,IT,4.0,403800.0,FALSE
+05-Apr-2024,IT,2.0,110600.0,N
+2024-04-06,IT Services,1.0,333500.0,N
+07-Apr-2024,IT Services,0.0,0.0,No
+2024-04-08,IT,2.0,38800.0,No
+2024-04-08,IT,2.0,38800.0,No
+09-Apr-2024,IT Services,4.0,376700.0,0
+10-Apr-2024,IT Services,4.0,138000.0,Y
+2024-04-11,IT Services,2.0,81800.0,1
+2024-04-12,IT Services,4.0,406600.0,TRUE
+14-Apr-2024,IT Services,1.0,95600.0,TRUE
+15-Apr-2024,IT Services,1.0,20000.0,Yes
+2024-04-16,it services,3.0,348000.0,Yes
+2024-04-17,IT Services,7.0,315900.0,Y
+2024-04-18,IT Services,3.0,442100.0,Y
+19-Apr-2024,IT,3.0,174000.0,Y
+20-Apr-2024,IT Services,1.0,224900.0,1
+2024-04-21,IT Services,1.0,26600.0,TRUE
+2024-04-22,IT Services,1.0,320500.0,Yes
+23-Apr-2024,IT Service,4.0,199700.0,TRUE
+2024-04-24,IT Services,5.0,190400.0,0
+2024-04-25,IT Services,1.0,58900.0,FALSE
+2024-04-26,IT Service,0.0,0.0,No
+2024-04-26,IT Service,0.0,0.0,No
+27-Apr-2024,IT Services,0.0,0.0,No
+2024-04-28,IT,0.0,0.0,N
+2024-04-29,IT,3.0,339500.0,0
+2024-04-30,IT Services,1.0,27100.0,N
+2024-05-01,IT Service,0.0,0.0,0
+2024-05-02,it services,1.0,61600.0,No
+2024-05-03,IT Services,0.0,0.0,No
+2024-05-04,IT Services,0.0,0.0,N
+2024-05-05,IT,1.0,53900.0,FALSE
+2024-05-06,IT Services,4.0,581100.0,N
+2024-05-07,IT Services,2.0,100000.0,N
+08-May-2024,IT Services,1.0,34200.0,No
+2024-05-09,IT Services,7.0,442800.0,0
+2024-05-10,IT Services,1.0,312600.0,No
+2024-05-11,IT Services,0.0,0.0,N
+2024-05-12,IT Services,0.0,0.0,0
+2024-05-13,IT,1.0,22400.0,0
+14-May-2024,IT Services,2.0,191700.0,N
+2024-05-15,IT Service,0.0,0.0,N
+2024-05-16,IT Services,5.0,643900.0,1
+2024-05-17,IT Services,6.0,711100.0,Yes
+18-May-2024,it services,1.0,"Rs. 61,000",Yes
+2024-05-19,IT,1.0,35000.0,1
+20-May-2024,IT,,638400.0,Yes
+2024-05-21,IT Services,1.0,32000.0,Y
+2024-05-22,IT Services,6.0,207200.0,TRUE
+23-May-2024,IT Services,2.0,42500.0,Yes
+24-May-2024,IT Services,5.0,204600.0,Y
+2024-05-25,IT Services,1.0,96900.0,Yes
+2024-05-26,IT Services,1.0,416000.0,FALSE
+2024-05-27,IT,3.0,77200.0,0
+28-May-2024,IT Service,1.0,28000.0,FALSE
+2024-05-29,it services,3.0,233300.0,No
+2024-05-30,IT Services,7.0,950000.0,No
+2024-05-31,IT Services,2.0,84100.0,No
+2024-06-01,IT Services,0.0,0 INR,FALSE
+2024-06-02,IT Services,0.0,0.0,FALSE
+03-Jun-2024,IT,6.0,1242500.0,FALSE
+2024-06-04,IT Services,3.0,240200.0,N
+2024-06-05,IT Service,1.0,78100.0,N
+2024-06-06,IT Services,2.0,146500.0,Yes
+2024-06-07,IT Service,2.0,106600.0,Yes
+2024-06-08,IT Services,4.0,471100.0,1
+09-Jun-2024,IT Services,1.0,20000.0,Yes
+2024-06-10,IT Services,4.0,124800.0,TRUE
+2024-06-11,IT,5.0,368900.0,1
+2024-06-12,IT Services,0.0,0.0,1
+13-Jun-2024,IT Services,4.0,236600.0,TRUE
+14-Jun-2024,IT,2.0,156300.0,Yes
+2024-06-15,IT,0.0,0.0,1
+2024-06-16,it services,1.0,147500.0,FALSE
+2024-06-17,IT Services,5.0,509500.0,0
+2024-06-18,IT Services,3.0,225100.0,FALSE
+19-Jun-2024,IT Services,4.0,331500.0,
+2024-06-20,IT Services,3.0,108000.0,N
+2024-06-21,it services,1.0,16800.0,FALSE
+2024-06-22,it services,1.0,50800.0,No
+2024-06-23,IT Services,0.0,0.0,N
+24-Jun-2024,it services,2.0,198800.0,FALSE
+2024-06-25,it services,6.0,417200.0,FALSE
+2024-06-26,IT Services,2.0,223100.0,N
+27-Jun-2024,IT Services,2.0,342900.0,FALSE
+2024-06-28,IT Services,3.0,212800.0,N
+2024-06-29,IT Services,1.0,74900.0,0
+2024-06-30,IT,1.0,47000.0,No
+2024-07-01,IT Services,2.0,128100.0,FALSE
+2024-07-02,it services,3.0,243300.0,FALSE
+2024-07-03,it services,1.0,262600.0,N
+2024-07-04,IT Services,3.0,358500.0,N
+2024-07-05,IT Services,3.0,342100.0,No
+06-Jul-2024,IT Service,0.0,0.0,0
+2024-07-07,IT Services,0.0,0.0,FALSE
+08-Jul-2024,it services,3.0,272800.0,0
+2024-07-09,IT Services,3.0,425200.0,No
+10-Jul-2024,IT,3.0,545500.0,N
+2024-07-11,IT Services,3.0,62300.0,No
+12-Jul-2024,IT Services,1.0,512600.0,0
+2024-07-13,IT Service,0.0,0.0,0
+14-Jul-2024,IT Services,0.0,0.0,N
+2024-07-15,it services,1.0,11800.0,0
+16-Jul-2024,IT Service,1.0,45800.0,FALSE
+2024-07-17,IT Services,6.0,645000.0,No
+18-Jul-2024,it services,3.0,121000.0,No
+19-Jul-2024,IT Services,2.0,22100.0,No
+20-Jul-2024,IT Services,0.0,0.0,FALSE
+21-Jul-2024,IT Services,1.0,54200.0,N
+2024-07-22,it services,1.0,207400.0,N
+2024-07-23,it services,10.0,779900.0,No
+2024-07-24,IT Services,0.0,0.0,N
+2024-07-25,IT Service,7.0,712000.0,0
+2024-07-26,IT Services,1.0,143700.0,No
+2024-07-27,IT Services,0.0,0.0,No
+28-Jul-2024,it services,0.0,0.0,0
+29-Jul-2024,IT Services,1.0,35400.0,N
+2024-07-30,IT Services,4.0,309600.0,FALSE
+01-Aug-2024,IT Services,0.0,0.0,N
+2024-08-02,IT Services,0.0,0.0,0
+2024-08-03,IT Services,1.0,21400.0,N
+04-Aug-2024,IT Services,1.0,10500.0,FALSE
+2024-08-05,IT Services,2.0,123200.0,No
+2024-08-06,IT Services,3.0,369100.0,0
+2024-08-07,IT Service,2.0,184800.0,0
+2024-08-08,IT Services,3.0,252700.0,FALSE
+2024-08-09,IT Services,6.0,,0
+2024-08-10,IT Services,1.0,74900.0,No
+11-Aug-2024,IT Service,1.0,23200.0,N
+12-Aug-2024,IT Service,3.0,334200.0,No
+13-Aug-2024,IT Services,2.0,237900.0,FALSE
+2024-08-14,IT Services,7.0,497600.0,No
+2024-08-15,IT,2.0,183400.0,No
+2024-08-16,IT Services,1.0,12100.0,No
+2024-08-17,IT Services,0.0,0.0,No
+18-Aug-2024,IT Service,0.0,0.0,FALSE
+2024-08-19,it services,0.0,0.0,FALSE
+20-Aug-2024,IT Services,4.0,281000.0,N
+21-Aug-2024,IT Service,6.0,655900.0,No
+2024-08-22,IT Services,4.0,257700.0,No
+2024-08-23,it services,2.0,32400.0,No
+2024-08-24,IT Service,1.0,46300.0,N
+2024-08-25,IT Services,1.0,67700.0,N
+26-Aug-2024,IT Service,2.0,152800.0,N
+27-Aug-2024,it services,3.0,242900.0,0
+2024-08-28,IT Services,2.0,100600.0,FALSE
+29-Aug-2024,it services,4.0,265600.0,No
+30-Aug-2024,IT,2.0,67800.0,0
+2024-08-31,IT Services,2.0,39000.0,N
+2024-09-01,it services,1.0,51500.0,No
+02-Sep-2024,IT Services,0.0,0.0,No
+2024-09-03,IT Services,4.0,499500.0,FALSE
+2024-09-04,it services,5.0,162900.0,No
+05-Sep-2024,IT,4.0,350300.0,FALSE
+2024-09-06,IT Services,8.0,1269700.0,FALSE
+2024-09-07,IT Services,0.0,0.0,N
+2024-09-08,IT Service,0.0,0.0,FALSE
+2024-09-09,it services,2.0,182100.0,N
+2024-09-10,IT,2.0,191400.0,0
+2024-09-11,IT Service,8.0,567600.0,N
+12-Sep-2024,IT Service,5.0,261200.0,No
+2024-09-14,IT Services,0.0,0.0,N
+2024-09-16,IT Services,0.0,0.0,N
+17-Sep-2024,IT Services,5.0,392400.0,0
+2024-09-18,IT Services,1.0,35300.0,No
+2024-09-19,IT Services,2.0,345100.0,FALSE
+20-Sep-2024,IT Services,0.0,0.0,N
+2024-09-21,IT,1.0,42400.0,FALSE
+2024-09-22,it services,1.0,41400.0,FALSE
+2024-09-23,IT Services,1.0,49600.0,No
+2024-09-24,it services,8.0,1386000.0,No
+25-Sep-2024,IT Service,2.0,60000.0,0
+2024-09-26,it services,2.0,276600.0,FALSE
+2024-09-27,IT Service,3.0,299300.0,N
+2024-09-28,IT,1.0,226700.0,No
+29-Sep-2024,IT,1.0,99900.0,No
+2024-09-30,IT Services,4.0,307700.0,No
+01-Oct-2024,IT,4.0,486200.0,N
+02-Oct-2024,IT Services,9.0,783500.0,0
+2024-10-03,IT,1.0,111800 INR,No
+2024-10-04,IT Services,10.0,1225600.0,FALSE
+2024-10-05,IT,0.0,0.0,0
+2024-10-06,IT,1.0,38700.0,N
+2024-10-07,it services,2.0,92200.0,N
+2024-10-08,IT Service,5.0,469900.0,FALSE
+2024-10-09,IT Services,2.0,79400.0,FALSE
+2024-10-10,IT Services,3.0,185800.0,No
+2024-10-11,IT,6.0,334100.0,No
+12-Oct-2024,IT Services,2.0,191900.0,FALSE
+13-Oct-2024,IT Services,0.0,0.0,FALSE
+2024-10-14,IT Services,2.0,61200.0,FALSE
+2024-10-15,IT Services,6.0,317000.0,0
+16-Oct-2024,IT Services,3.0,165600.0,0
+2024-10-17,IT Service,4.0,247500.0,No
+2024-10-18,IT Services,1.0,71100.0,No
+2024-10-19,IT Services,1.0,49000.0,No
+20-Oct-2024,IT Services,1.0,79100.0,No
+2024-10-21,IT Services,2.0,184900.0,N
+2024-10-22,IT Services,5.0,528000.0,N
+2024-10-23,IT,5.0,181900.0,N
+2024-10-24,IT Services,4.0,185000.0,No
+2024-10-25,IT Services,0.0,0.0,FALSE
+26-Oct-2024,IT Services,1.0 units,"Rs. 68,600",N
+2024-10-27,it services,1.0,136600.0,FALSE
+2024-10-28,IT Services,1.0,14100.0,FALSE
+2024-10-29,IT Services,5.0,323700 INR,0
+2024-10-30,IT Services,3.0,191000.0,0
+2024-10-31,IT Services,4.0,331200.0,0
+2024-11-01,it services,0.0,0.0,FALSE
+2024-11-03,IT Service,0.0,0.0,N
+2024-11-04,IT Services,0.0,0.0,FALSE
+2024-11-05,IT Services,2.0,407300.0,No
+2024-11-06,IT Services,1.0,20700.0,No
+2024-11-07,IT Service,1.0,59000.0,N
+2024-11-08,IT,2.0,230700.0,No
+2024-11-09,IT Service,0.0,0.0,FALSE
+10-Nov-2024,IT Services,1.0,39300.0,0
+2024-11-11,IT Services,3.0,254300.0,N
+2024-11-12,IT,2.0,50700.0,N
+2024-11-13,IT Services,8.0,642500.0,0
+2024-11-14,IT Services,1.0,15200.0,FALSE
+2024-11-15,it services,6.0,574500.0,0
+16-Nov-2024,IT Services,0.0,0.0,N
+2024-11-17,IT Services,1.0,65700.0,FALSE
+18-Nov-2024,it services,4.0,354700.0,FALSE
+2024-11-19,IT Services,4.0,317900.0,FALSE
+20-Nov-2024,IT Services,2.0,92900.0,FALSE
+2024-11-21,IT Services,4.0,279500.0,0
+22-Nov-2024,IT Services,5.0,630500.0,No
+23-Nov-2024,IT Service,1.0,38700.0,0
+2024-11-24,IT Services,0.0 units,0.0,0
+2024-11-25,it services,6.0,"Rs. 388,500",N
+2024-11-26,IT Services,3.0,378600.0,N
+2024-11-27,IT Services,2.0,145900.0,0
+2024-11-28,IT Service,1.0,28500.0,FALSE
+2024-11-29,IT Services,5.0,393100.0,No
+30-Nov-2024,IT Service,0.0,0.0,0
+2024-12-01,IT Services,0.0,0.0,N
+02-Dec-2024,IT Services,1.0,54500.0,N
+2024-12-03,IT,1.0,16300.0,FALSE
+04-Dec-2024,IT Service,3.0,288700.0,N
+2024-12-05,it services,3.0,563600.0,No
+2024-12-06,IT,3.0,415000.0,0
+07-Dec-2024,IT Services,1.0,21000.0,N
+2024-12-08,IT Services,1.0,44500.0,0
+2024-12-09,IT Services,4.0,303000.0,FALSE
+10-Dec-2024,IT Service,1.0,55800.0,No
+2024-12-11,IT Services,0.0,0.0,FALSE
+2024-12-12,IT,3.0,186300.0,0
+2024-12-13,IT Services,3.0,138400.0,N
+2024-12-14,it services,1.0,133500.0,FALSE
+2024-12-15,it services,0.0,0.0,N
+16-Dec-2024,IT Services,3.0,146900.0,FALSE
+2024-12-17,IT,2.0,67600.0,No
+2024-12-18,IT Services,3.0,306200.0,0
+19-Dec-2024,it services,7.0,582300.0,FALSE
+2024-12-20,it services,2.0,243600.0,No
+2024-12-21,IT Services,0.0,0.0,FALSE
+22-Dec-2024,IT Services,0.0,0.0,0
+2024-12-23,IT Services,2.0,"₹104,700",FALSE
+24-Dec-2024,it services,1.0,48100.0,N
+2024-12-25,IT Services,1.0,68400.0,No
+2024-12-25,IT Services,1.0,68400.0,No
+26-Dec-2024,it services,0.0,0.0,No
+2024-12-27,IT Services,1.0,87200.0,N
+28-Dec-2024,IT Services,0.0,0.0,0
+29-Dec-2024,IT Services,0.0,0.0,N
+2024-12-30,IT,1.0,163000.0,No
+31-Dec-2024,IT,2.0,34600.0,No
+2025-01-01,IT Service,1.0,75800.0,N
+2025-01-02,IT,2.0,170100.0,FALSE
+2025-01-03,IT Services,2.0,82500.0,0
+2025-01-04,IT Services,0.0,0.0,No
+05-Jan-2025,IT Services,0.0,0.0,No
+2025-01-06,it services,3.0,617800.0,0
+2025-01-07,IT Services,4.0,496100.0,N
+2025-01-08,it services,7.0,1066600.0,N
+2025-01-09,IT Services,3.0,155600.0,0
+2025-01-10,IT Services,4.0,150900.0,0
+11-Jan-2025,IT Services,0.0,0.0,No
+12-Jan-2025,IT,0.0,0.0,No
+2025-01-13,IT Services,0.0,0.0,N
+2025-01-14,IT Services,2.0,77000.0,No
+15-Jan-2025,IT,4.0,212900.0,N
+2025-01-16,it services,0.0,0.0,No
+2025-01-17,IT Services,5.0,429500.0,FALSE
+2025-01-18,IT Services,4.0,216800.0,No
+2025-01-19,IT Services,0.0,0.0,N
+2025-01-20,IT Services,0.0,0.0,N
+2025-01-21,IT,0.0,0.0,No
+22-Jan-2025,IT Services,0.0,,N
+2025-01-23,IT Services,0.0,0.0,0
+2025-01-24,IT,0.0,0.0,No
+2025-01-25,IT,0.0,0.0,N
+2025-01-26,it services,1.0,55400.0,No
+27-Jan-2025,IT Services,2.0,120200.0,0
+2025-01-28,IT,4.0,680900.0,No
+2025-01-29,IT Services,1.0,80000.0,N
+2025-01-30,IT Services,2.0,109800.0,FALSE
+2025-01-31,IT Services,1.0,33500.0,No
+2025-02-01,IT Services,1.0,19600.0,0
+2025-02-02,IT Services,1.0,53400.0,N
+2025-02-03,IT Services,1.0,74800.0,FALSE
+2025-02-04,IT Services,2.0,41100.0,FALSE
+2025-02-05,IT Services,3.0,109700.0,0
+06-Feb-2025,IT Services,3.0,170400.0,N
+07-Feb-2025,IT Services,3.0,125900.0,FALSE
+2025-02-08,IT Service,2.0,142700.0,Yes
+2025-02-09,IT Service,1.0,66800.0,Y
+2025-02-15,IT Services,0.0,0.0,TRUE
+2025-02-16,IT Services,0.0,0.0,1
+2025-02-17,it services,12.0,722300.0,Y
+2025-02-18,it services,5.0,"₹368,200",N
+2025-02-19,it services,2.0,135500.0,N
+2025-02-20,IT Services,3.0,257800.0,No
+21-Feb-2025,IT Services,1.0,75500.0,No
+2025-02-22,IT Services,0.0,0.0,0
+2025-02-23,IT Services,0.0,0.0,N
+24-Feb-2025,IT Services,4.0,388800.0,N
+25-Feb-2025,IT Services,1.0,29500.0,FALSE
+26-Feb-2025,IT Services,6.0,313300.0,FALSE
+27-Feb-2025,IT Services,3.0,159100.0,0
+27-Feb-2025,IT Services,3.0,159100.0,0
+28-Feb-2025,IT Services,2.0,54400.0,N
+2025-03-01,IT Services,1.0,68400.0,No
+2025-03-02,IT Services,,0.0,No
+2025-03-03,IT Services,5.0,694500.0,FALSE
+04-Mar-2025,IT Services,8.0,457100.0,No
+2025-03-05,IT Services,4.0,437800.0,N
+2025-03-06,IT Services,7.0,577900.0,No
+2025-03-07,IT Services,4.0,104500.0,No
+08-Mar-2025,IT Service,2.0,112400.0,FALSE
+09-Mar-2025,IT Services,0.0,0.0,No
+2025-03-10,IT Services,1.0,168600.0,0
+2025-03-11,IT Services,4.0,207600.0,No
+2025-03-12,IT,5.0,491600.0,0
+2025-03-13,IT Service,11.0,875400.0,FALSE
+2025-03-14,IT Services,5.0,219000.0,No
+15-Mar-2025,IT,2.0,97700.0,No
+2025-03-16,IT Service,0.0,0.0,No
+2025-03-17,IT,5.0,365500.0,No
+2025-03-18,IT Services,8.0,862400.0,FALSE
+2025-03-19,IT Services,1.0,121900.0,0
+2025-03-20,IT Service,6.0,404300.0,N
+21-Mar-2025,IT,4.0,172500.0,No
+2025-03-22,it services,2.0,66700.0,No
+23-Mar-2025,IT Services,3.0,473700.0,No
+24-Mar-2025,IT Service,1.0,65000.0,N
+2025-03-25,IT Services,2.0,46100.0,FALSE
+2025-03-26,IT Services,4.0,447200.0,FALSE
+2025-03-27,IT Service,4.0,137500.0,FALSE
+28-Mar-2025,IT Service,2.0,82100.0,No
+2025-03-29,IT Services,2.0,146200.0,N
+2025-03-30,IT,0.0,0.0,0
+2025-03-31,IT Service,2.0,233400.0,0
+2025-04-01,IT Services,6.0,399300.0,0
+2025-04-02,IT Services,1.0,58200.0,FALSE
+03-Apr-2025,IT Service,2.0,249300.0,N
+2025-04-04,IT Services,4.0,582600.0,No
+2025-04-05,it services,2.0,118600.0,0
+2025-04-06,it services,0.0,0.0,FALSE
+2025-04-06,it services,0.0,0.0,FALSE
+2025-04-07,IT Services,5.0,280600.0,No
+2025-04-08,IT Services,5.0 units,512200.0,0
+2025-04-09,IT Services,3.0,379700.0,FALSE
+10-Apr-2025,IT Services,1.0,9900.0,FALSE
+2025-04-11,IT Services,2.0,107900.0,0
+2025-04-12,IT Services,3.0,118600.0,0
+2025-04-13,IT Services,0.0,0.0,FALSE
+14-Apr-2025,it services,4.0,176000.0,N
+2025-04-15,IT Services,4.0,169600.0,N
+2025-04-16,it services,4.0,509400.0,0
+17-Apr-2025,it services,0.0,0.0,N
+18-Apr-2025,IT Services,1.0,53700.0,0
+2025-04-19,IT,0.0,0.0,No
+2025-04-20,IT Services,0.0,0.0,FALSE
+2025-04-21,IT Service,4.0,254500.0,N
+22-Apr-2025,IT Services,,39700.0,No
+2025-04-23,IT Services,6.0,412800.0,N
+2025-04-24,IT Service,3.0,390800.0,N
+2025-04-25,IT Services,5.0,381300.0,0
+2025-04-26,IT Services,1.0,43600.0,0
+2025-04-27,IT Services,1.0,80600.0,N
+2025-04-28,IT Services,2.0,445300.0,N
+2025-04-29,IT Services,4.0,317700.0,N
+30-Apr-2025,it services,2.0,117000.0,N
+2025-05-01,it services,6.0,973400.0,FALSE
+2025-05-02,IT Services,9.0,1089900.0,0
+03-May-2025,IT Services,1.0,164700.0,No
+04-May-2025,IT Services,1.0,36100.0,No
+2025-05-05,IT Services,6.0,382400.0,FALSE
+2025-05-06,IT Services,1.0,10900.0,No
+2025-05-07,IT Services,4.0,474300.0,FALSE
+2025-05-08,IT,4.0,318100.0,No
+2025-05-10,IT Services,1.0,167200.0,No
+2025-05-11,IT Services,0.0,0.0,N
+12-May-2025,IT Service,1.0,46800.0,No
+2025-05-13,IT Services,1.0,14500.0,FALSE
+2025-05-14,IT Services,3.0,287700.0,No
+2025-05-15,IT Service,2.0,191100.0,No
+2025-05-16,it services,6.0,468400.0,No
+2025-05-17,IT Services,0.0 units,0.0,FALSE
+18-May-2025,IT Services,1.0,602700.0,0
+2025-05-19,it services,3.0,119200.0,N
+2025-05-20,IT Services,,87700.0,No
+2025-05-21,IT Services,4.0,422600.0,0
+22-May-2025,it services,,72800.0,N
+2025-05-23,it services,0.0,0.0,No
+2025-05-24,IT Service,1.0,157000.0,0
+2025-05-25,IT Services,0.0,0.0,0
+2025-05-26,IT Service,4.0,382100.0,0
+2025-05-27,IT,6.0,509600.0,N
+28-May-2025,IT Services,4.0,,FALSE
+2025-05-29,IT Services,1.0,45200.0,N
+30-May-2025,IT Services,1.0,52800.0,No
+2025-05-31,IT Services,1.0,121400.0,No
+01-Jun-2025,IT,0.0,0.0,FALSE
+2025-06-02,IT Services,3.0,137600.0,No
+03-Jun-2025,IT Services,5.0,538500.0,0
+2025-06-04,IT Services,9.0,442000.0,FALSE
+2025-06-05,IT Services,3.0,188600.0,0
+2025-06-06,IT Services,1.0,20300.0,FALSE
+2025-06-07,it services,1.0,26200.0,0
+2025-06-08,IT,0.0,0.0,N
+2025-06-09,IT,4.0,158500.0,N
+2025-06-10,it services,7.0,425000.0,TRUE
+2025-06-11,IT Service,2.0,192100.0,TRUE
+12-Jun-2025,IT Services,1.0,37100.0,TRUE
+12-Jun-2025,IT Services,1.0,37100.0,TRUE
+2025-06-13,IT Services,5.0,417300.0,Y
+2025-06-14,IT Services,2.0,344800.0,TRUE
+2025-06-15,IT Services,1.0,102200.0,Y
+2025-06-16,IT Services,8.0,556900.0,Yes
+2025-06-17,IT Services,2.0,127500.0,Y
+2025-06-18,IT,1.0,91400.0,Yes
+2025-06-19,IT Services,4.0,408900.0,Y
+20-Jun-2025,IT,0.0,0.0,TRUE
+2025-06-21,IT Services,1.0,78400.0,1
+2025-06-22,IT Services,1.0,78500.0,Y
+2025-06-24,IT Services,4.0,234000.0,0
+2025-06-25,IT Services,2.0,222700.0,No
+26-Jun-2025,IT Service,2.0,167200.0,0
+2025-06-27,IT,4.0,120500.0,N
+2025-06-28,IT Services,1.0,27000.0,0
+2025-06-29,IT Services,0.0,0.0,No
+2025-06-30,IT Services,2.0,122200.0,No
+2025-07-01,IT Service,3.0,"Rs. 416,500",No
+02-Jul-2025,IT Services,7.0,1669100.0,N
+2025-07-03,IT,3.0,62100.0,No
+04-Jul-2025,IT Services,1.0,74600.0,FALSE
+05-Jul-2025,IT Services,0.0,0.0,N
+2025-07-06,IT,0.0,0.0,N
+2025-07-07,IT Services,4.0,392300.0,No
+2025-07-08,IT Services,7.0,590900.0,TRUE
+2025-07-09,IT,3.0,,Y
+2025-07-10,it services,4.0,311300.0,1
+2025-07-10,it services,4.0,311300.0,1
+2025-07-11,it services,1.0,93600.0,TRUE
+2025-07-12,IT Services,4.0,378200.0,Y
+13-Jul-2025,IT Services,0.0,0.0,Y
+2025-07-14,IT Services,4.0,236300.0,1
+2025-07-15,IT,1.0,716900.0,1
+16-Jul-2025,it services,1.0,78400.0,Yes
+2025-07-17,IT,5.0,532700.0,Y
+2025-07-18,IT Service,12.0,864300.0,Y
+2025-07-19,IT Service,0.0,0.0,N
+2025-07-20,IT Services,3.0,244800.0,No
+2025-07-20,IT Services,3.0,244800.0,No
+2025-07-21,IT Services,5.0,181600.0,FALSE
+22-Jul-2025,IT Services,4.0,"₹222,600",FALSE
+23-Jul-2025,IT Services,4.0,220700.0,N
+2025-07-24,IT,0.0,0.0,FALSE
+2025-07-25,IT Services,3.0,127800.0,No
+2025-07-26,IT Services,0.0,0.0,0
+27-Jul-2025,IT Services,1.0,199400.0,No
+2025-07-28,it services,0.0,0.0,No
+2025-07-29,IT Services,1.0,19600.0,FALSE
+2025-07-30,IT Services,5.0,258800.0,No
+31-Jul-2025,IT,3.0,183200.0,FALSE
+2025-08-01,IT Services,1.0 units,15900.0,No
+02-Aug-2025,IT Services,1.0,74600.0,FALSE
+2025-08-03,IT Service,0.0,0.0,No
+2025-08-04,IT Services,0.0,0.0,FALSE
+2025-08-05,IT Services,3.0,231800.0,N
+2025-08-06,IT,3.0,178300.0,No
+2025-08-07,IT Services,3.0,160600.0,FALSE
+2025-08-08,IT,5.0,423000.0,N
+09-Aug-2025,IT Services,1.0,31200.0,FALSE
+2025-08-10,IT Services,0.0,0.0,0
+2025-08-11,IT Services,5.0,204200.0,N
+2025-08-12,IT Services,4.0,316300.0,0
+13-Aug-2025,IT Services,,496600.0,FALSE
+14-Aug-2025,IT,2.0,217800.0,N
+15-Aug-2025,IT Services,1.0,217100.0,N
+16-Aug-2025,IT Services,0.0,0.0,FALSE
+2025-08-17,IT Service,0.0,0.0,FALSE
+2025-08-18,IT,4.0,187100.0,0
+19-Aug-2025,IT Services,2.0,218000.0,0
+19-Aug-2025,it services,2.0,218000.0,0
+20-Aug-2025,IT Services,3.0,523500.0,FALSE
+2025-08-21,IT Services,2.0,190700.0,0
+22-Aug-2025,IT Services,4.0,649100.0,FALSE
+2025-08-23,IT Services,1.0,33100.0,No
+2025-08-24,IT Services,1.0,50200.0,No
+2025-08-25,it services,4.0,203500.0,N
+2025-08-26,IT Services,6.0,482800.0,N
+2025-08-27,IT,5.0,436900.0,0
+2025-08-28,it services,6.0,481300.0,N
+2025-08-29,IT Services,1.0,37000.0,FALSE
+30-Aug-2025,IT,1.0,36500.0,0
+31-Aug-2025,IT,0.0,0.0,0
+2025-09-01,it services,4.0,286000.0,No
+2025-09-02,it services,4.0,183000.0,FALSE
+2025-09-03,IT Services,3.0,83100.0,0
+2025-09-04,IT Services,3.0,163500.0,0
+2025-09-05,IT Services,3.0,108600.0,No
+2025-09-06,IT Services,1.0,26700.0,FALSE
+07-Sep-2025,IT Services,0.0,0.0,0
+2025-09-08,IT Service,6.0,451800.0,No
+2025-09-09,IT Services,1.0,31100.0,FALSE
+2025-09-10,IT Services,3.0,695600.0,0
+2025-09-11,IT Services,5.0,235900.0,0
+2025-09-12,IT Services,1.0,168300.0,N
+2025-09-13,IT Services,1.0,49000.0,0
+2025-09-14,IT Services,0.0,0.0,FALSE
+2025-09-15,IT Services,6.0,591600.0,FALSE
+2025-09-15,IT Services,6.0,591600.0,FALSE
+2025-09-16,IT,3.0,176100.0,FALSE
+17-Sep-2025,IT Services,4.0,213700.0,N
+18-Sep-2025,IT Services,3.0,564700.0,FALSE
+19-Sep-2025,IT,6.0,212900.0,No
+2025-09-20,IT Services,2.0,118800.0,0
+2025-09-21,IT Service,0.0,0.0,FALSE
+22-Sep-2025,IT Services,3.0,463100.0,FALSE
+2025-09-23,IT Services,4.0,256800.0,FALSE
+2025-09-24,IT Service,1.0,621800.0,N
+25-Sep-2025,IT Services,1.0,112300.0,No
+2025-09-26,IT Services,3.0,65100.0,0
+2025-09-27,IT Services,1.0,15300.0,0
+2025-09-28,IT Service,0.0,0.0,No
+29-Sep-2025,IT Services,5.0,247300.0,N
+2025-09-30,IT Services,2.0,196800.0,FALSE
+2025-10-01,IT Services,1.0,37700.0,N
+2025-10-02,IT Services,4.0,179400.0,FALSE
+03-Oct-2025,IT,2.0,,N
+2025-10-04,IT Services,1.0,122000.0,0
+2025-10-05,IT Services,1.0,9200.0,Y
+2025-10-06,IT,2.0,270000.0,TRUE
+2025-10-07,IT Service,3.0,389400.0,Yes
+2025-10-08,it services,2.0,"Rs. 112,400",TRUE
+2025-10-09,IT Services,5.0,222700.0,1
+10-Oct-2025,IT Services,3.0,297400.0,TRUE
+2025-10-11,IT Services,1.0,36600.0,Y
+2025-10-12,IT Service,0.0,0.0,Y
+2025-10-13,IT Services,3.0,600800.0,Yes
+2025-10-14,IT Services,2.0,79100.0,
+2025-10-15,IT Services,3.0,103700.0,Y
+16-Oct-2025,IT,4.0,349300.0,No
+2025-10-17,IT Service,2.0,133000.0,FALSE
+18-Oct-2025,IT Services,1.0,216000.0,FALSE
+19-Oct-2025,IT,0.0,0.0,No
+2025-10-20,IT Services,3.0,183800.0,FALSE
+2025-10-21,IT Services,5.0,448500.0,FALSE
+2025-10-22,IT Services,6.0,513000.0,No
+2025-10-23,IT,5.0,430000.0,No
+2025-10-24,IT,6.0,526800.0,N
+2025-10-25,it services,0.0,0.0,FALSE
+2025-10-26,IT Services,0.0,0.0,FALSE
+2025-10-27,IT Service,6.0,647300.0,No
+28-Oct-2025,IT Service,8.0,576500.0,0
+29-Oct-2025,IT Services,1.0,116900 INR,No
+2025-10-30,IT Services,1.0,197700.0,0
+2025-10-31,IT Services,3.0,156700.0,No
+2025-11-01,IT Service,1.0,493600.0,N
+2025-11-02,IT Services,3.0,153900.0,N
+03-Nov-2025,IT Service,6.0,367900.0,N
+2025-11-04,IT Services,3.0,295000.0,0
+2025-11-05,it services,10.0,925600.0,0
+06-Nov-2025,IT Services,-2.0,145300.0,FALSE
+2025-11-07,it services,4.0,444000.0,No
+2025-11-08,IT,1.0,71200.0,No
+2025-11-09,IT Services,0.0,0.0,FALSE
+10-Nov-2025,IT Services,2.0,134200.0,0
+2025-11-11,IT Service,2.0,80600.0,N
+12-Nov-2025,IT,4.0,239700.0,No
+2025-11-13,IT,3.0,284600.0,No
+14-Nov-2025,IT Services,5.0,476600.0,FALSE
+15-Nov-2025,IT,1.0 units,68300.0,FALSE
+2025-11-16,IT,0.0,0.0,N
+2025-11-17,IT Services,5.0,612400.0,0
+2025-11-18,IT Service,4.0,734600.0,FALSE
+2025-11-19,IT Services,,396600.0,N
+20-Nov-2025,IT Services,6.0,927200.0,N
+21-Nov-2025,IT Services,2.0,240900.0,FALSE
+2025-11-22,IT,1.0,417600.0,FALSE
+2025-11-23,IT Services,0.0,0.0,No
+2025-11-24,it services,4.0,326700.0,FALSE
+2025-11-25,it services,1.0,121000.0,N
+26-Nov-2025,IT Services,6.0,406500.0,No
+27-Nov-2025,it services,4.0,369000.0,0
+2025-11-28,it services,5.0,669600.0,0
+29-Nov-2025,IT Services,0.0,0.0,FALSE
+2025-11-30,IT Service,0.0,0.0,N
+01-Dec-2025,IT Services,6.0,513100.0,0
+2025-12-02,it services,2.0,224900.0,N
+2025-12-03,IT Services,4.0,425700.0,No
+04-Dec-2025,IT Service,1.0,111400.0,FALSE
+05-Dec-2025,IT Services,1.0,76900.0,FALSE
+06-Dec-2025,IT Services,1.0,27000.0,FALSE
+07-Dec-2025,IT Services,0.0,0.0,N
+2025-12-08,IT Services,4.0,378100.0,0
+2025-12-09,IT Services,2.0,235700.0,N
+10-Dec-2025,IT Services,0.0,0.0,N
+2025-12-11,it services,2.0,90300.0,No
+2025-12-12,IT Service,2.0,126100.0,0
+2025-12-13,IT Services,2.0,65800.0,0
+2025-12-14,IT Services,0.0,0.0,TRUE
+2025-12-15,IT Service,0.0,0.0,Yes
+16-Dec-2025,IT Service,3.0,451200.0,TRUE
+2025-12-17,IT Services,3.0,234700.0,TRUE
+2025-12-18,IT Service,3.0,600500.0,Yes
+19-Dec-2025,IT Services,2.0,125100.0,1
+20-Dec-2025,IT Services,1.0,58300.0,TRUE
+2025-12-21,IT Services,0.0,0.0,Y
+22-Dec-2025,IT Services,2.0,111300 INR,Y
+22-Dec-2025,IT Services,2.0,111300 INR,Y
+23-Dec-2025,it services,3.0,120100.0,TRUE
+2025-12-24,IT Service,4.0,153300.0,FALSE
+2025-12-25,IT Services,2.0,65800.0,FALSE
+2025-12-26,IT Service,2.0,146600.0,FALSE
+2025-12-27,IT Service,1.0,29200.0,No
+2025-12-28,IT,0.0,0.0,N
+29-Dec-2025,IT,2.0,180200.0,No
+30-Dec-2025,IT Services,0.0,0.0,N
+2025-12-31,IT Service,1.0,61000.0,0
+2026-01-01,it services,0.0,0.0,0
+02-Jan-2026,IT Services,2.0 units,251700.0,N
+2026-01-03,it services,0.0,0.0,No
+2026-01-04,IT Services,1.0,54100.0,0
+05-Jan-2026,IT,1.0,32300.0,No
+06-Jan-2026,IT Service,3.0,213500.0,N
+07-Jan-2026,IT Services,1.0,251100.0,0
+2026-01-08,IT Services,2.0,165200.0,N
+2026-01-09,IT Services,1.0,51500.0,0
+2026-01-10,IT Service,1.0,94200.0,0
+2026-01-11,IT Services,,0.0,0
+12-Jan-2026,IT Services,7.0,606400.0,FALSE
+2026-01-13,it services,2.0,118700.0,No
+2026-01-14,IT,0.0,0.0,N
+2026-01-15,it services,2.0,261700.0,No
+2026-01-16,IT Services,5.0,178800.0,0
+2026-01-17,IT Service,2.0,188300.0,FALSE
+18-Jan-2026,IT Services,0.0,0.0,No
+19-Jan-2026,IT Services,0.0,0.0,FALSE
+20-Jan-2026,IT Service,5.0,264800.0,N
+21-Jan-2026,IT Services,4.0,302300.0,N
+22-Jan-2026,IT,1.0,62100.0,N
+2026-01-23,IT Services,1.0,110300.0,N
+24-Jan-2026,IT Services,3.0,339000.0,FALSE
+25-Jan-2026,IT Services,0.0,0.0,FALSE
+2026-01-26,IT Services,1.0,79600.0,FALSE
+2026-01-27,IT Service,,426500.0,0
+2026-01-28,IT Service,2.0,159600.0,
+2026-01-29,IT Services,5.0,479800.0,No
+2026-01-30,IT,3.0,81600.0,N
+31-Jan-2026,IT Service,0.0,0.0,0
+2026-02-01,IT Services,0.0,0.0,0
+2026-02-02,it services,4.0,270900.0,N
+03-Feb-2026,IT,3.0,707300.0,0
+2026-02-04,IT,1.0,17900.0,0
+2026-02-05,IT,2.0,375600.0,N
+2026-02-06,IT Services,1.0,32700.0,No
+2026-02-07,IT Services,4.0,453000.0,N
+2026-02-08,IT,0.0,0.0,0
+2026-02-09,IT Services,1.0,62900.0,No
+10-Feb-2026,IT Services,1.0,96900.0,FALSE
+2026-02-11,IT Service,7.0,455800.0,FALSE
+2026-02-12,IT,2.0,231200.0,N
+2026-02-13,IT Services,2.0,117200.0,0
+2026-02-13,IT,2.0,117200.0,0
+14-Feb-2026,IT Services,3.0,244400.0,No
+15-Feb-2026,IT Service,0.0,0.0,No
+2026-02-17,IT,8.0,966300.0,No
+18-Feb-2026,IT Services,4.0,420000.0,No
+19-Feb-2026,IT,6.0,660300.0,N
+2026-02-20,IT Services,2.0,143600.0,0
+21-Feb-2026,IT Services,0.0,0.0,FALSE
+2026-02-22,IT Services,0.0,0.0,0
+23-Feb-2026,IT Service,3.0,158100.0,No
+2026-02-24,IT,2.0,239200.0,0
+2026-02-25,IT Service,5.0,568200.0,N
+2026-02-26,IT Services,4.0,407900.0,FALSE
+2026-02-27,it services,1.0,39400.0,No
+28-Feb-2026,IT Services,2.0,166100.0,FALSE
+2026-03-01,IT,1.0,198700.0,N
+2026-03-02,IT Service,7.0,660600.0,N
+03-Mar-2026,IT Services,,158000.0,No
+2026-03-04,IT Service,6.0,378400.0,N
+2026-03-05,IT,10.0,673500.0,0
+2026-03-06,IT Services,6.0,361300.0,FALSE
+2026-03-07,IT Services,2.0,36200.0,0
+2026-03-08,IT Services,1.0,310800.0,0
+09-Mar-2026,IT Service,5.0,275400.0,0
+10-Mar-2026,it services,5.0,283600.0,
+11-Mar-2026,IT Services,4.0,128200.0,0
+2026-03-12,IT Services,4.0,453800.0,FALSE
+2026-03-13,IT Services,3.0,212500.0,FALSE
+2026-03-14,it services,1.0,41300.0,0
+2026-03-15,IT Services,2.0,114900.0,N
+2026-03-16,it services,3.0,302400.0,TRUE
+2026-03-17,IT Services,3.0,173600.0,1
+18-Mar-2026,IT Services,11.0,525300.0,TRUE
+2026-03-19,IT,4.0,171800.0,Y
+20-Mar-2026,IT Services,5.0,228200.0,TRUE
+2026-03-21,IT,3.0,257100.0,Y
+2026-03-22,IT,3.0,361200.0,Y
+23-Mar-2026,IT Service,10.0,"Rs. 1,238,800",Y
+2026-03-24,IT Service,6.0,261400.0,Yes
+2026-03-25,IT,5.0,503100.0,TRUE
+2026-03-26,it services,2.0,93900.0,Yes
+2026-03-27,IT Services,11.0,1992300.0,TRUE
+2026-03-28,IT Services,4.0,572700.0,No
+29-Mar-2026,IT Services,1.0,262300.0,0
+2026-03-30,IT,1.0,"Rs. 116,700",No
+2026-03-31,IT Service,2.0,177000.0,N
+01-Apr-2026,IT,5.0,333300.0,N
+2026-04-02,IT Services,3.0,163200.0,FALSE
+03-Apr-2026,IT Services,4.0,214400.0,FALSE
+2026-04-04,it services,0.0,0.0,FALSE
+2026-04-05,IT Service,0.0,0.0,FALSE
+2026-04-06,IT Services,6.0,418100.0,0
+07-Apr-2026,IT Services,3.0,153100.0,0
+07-Apr-2026,IT Services,3.0,153100.0,0
+08-Apr-2026,IT Services,4.0,"Rs. 157,600",FALSE
+09-Apr-2026,IT Services,7.0,610300.0,No
+2026-04-10,IT Services,13.0,1455800.0,N
+2026-04-11,it services,4.0,546400.0,N
+2026-04-12,it services,1.0,196000.0,N
+2026-04-13,IT Services,6.0,555300.0,FALSE
+14-Apr-2026,IT Services,5.0,406400.0,N
+2026-04-15,it services,4.0,547100.0,FALSE
+16-Apr-2026,IT Services,3.0,125100.0,N
+2026-04-17,IT Service,2.0,104900.0,0
+2026-04-18,IT,2.0,412400.0,0
+19-Apr-2026,IT Service,0.0,0.0,0
+20-Apr-2026,it services,7.0,555000.0,FALSE
+2026-04-21,IT,5.0,505300.0,No
+2026-04-22,IT Services,3.0,232600.0,0
+2026-04-23,IT,2.0,288500.0,N
+24-Apr-2026,IT Services,7.0,943600.0,FALSE
+2026-04-25,IT Services,0.0,0.0,N
+2026-04-26,IT Service,0.0,0.0,No
+27-Apr-2026,it services,2.0,76900.0,0
+2026-04-28,IT Services,8.0,614800.0,N
+2026-04-29,IT Services,3.0,777500.0,No
+2026-04-30,IT Services,5.0,856700.0,0
+2026-05-01,IT Services,1.0,18000.0,N
+02-May-2026,it services,0.0 units,0.0,No
+2026-05-03,IT Service,1.0,"₹64,100",FALSE
+2026-05-04,IT Services,4.0 units,370600.0,FALSE
+2026-05-05,it services,3.0,431900.0,No
+2026-05-06,IT Services,4.0,703000.0,FALSE
+2026-05-07,IT,5.0,397900.0,N
+08-May-2026,it services,4.0,509100.0,FALSE
+2026-05-09,IT Services,1.0,101600.0,N
+2026-05-10,IT Services,1.0,55600.0,N
+2026-05-10,IT Services,1.0,55600.0,N
+2026-05-11,IT Services,7.0,315100.0,0
+2026-05-12,IT Services,8.0,893900.0,No
+2026-05-13,IT Services,2.0,204100.0,Yes
+2026-05-13,IT Services,2.0,204100.0,Yes
+2026-05-14,IT Services,4.0,366100.0,1
+15-May-2026,it services,6.0,332400.0,TRUE
+2026-05-16,IT Services,1.0,330600.0,1
+17-May-2026,IT Services,2.0,153000.0,TRUE
+18-May-2026,IT Services,8.0,449600.0,Y
+2026-05-19,IT Services,2.0,60600.0,Y
+2026-05-20,IT Service,1.0,104300.0,Yes
+2026-05-21,IT Service,2.0,217800.0,Yes
+22-May-2026,IT Services,2.0,103400.0,Y
+2026-05-23,IT Services,2.0,186400.0,Yes
+24-May-2026,IT Services,0.0,0.0,0
+25-May-2026,IT Services,2.0,151800.0,0
+2026-05-26,IT,3.0,154800.0,FALSE
+27-May-2026,IT Services,6.0,678700.0,No
+28-May-2026,IT Service,1.0,120500.0,FALSE
+29-May-2026,IT Services,3.0 units,299200.0,N
+2026-05-30,IT Services,0.0,0.0,No
+2026-05-31,IT Services,2.0,59500.0,N
+01-Jun-2026,IT Services,4.0,318000.0,No
+2026-06-02,IT Services,2.0,250900.0,N
+2026-06-03,IT Services,3.0,382500.0,FALSE
+04-Jun-2026,IT Services,4.0,399700.0,No
+05-Jun-2026,IT Services,2.0 units,104200.0,0
+2026-06-06,IT Services,0.0,0.0,0
+2026-06-07,IT,0.0,0.0,FALSE
+2026-06-08,IT Services,2.0,138200.0,No
+09-Jun-2026,IT,3.0,396100.0,Y
+10-Jun-2026,IT Services,3.0,173600.0,TRUE
+11-Jun-2026,IT Services,2.0,107900.0,TRUE
+12-Jun-2026,IT Services,3.0,648100.0,Yes
+13-Jun-2026,IT Services,1.0,229000.0,TRUE
+14-Jun-2026,IT Services,,0.0,Yes
+2026-06-15,IT Services,0.0,0.0,1
+2026-06-16,IT Service,2.0,68000.0,Y
+2026-06-17,IT Services,4.0,252700.0,TRUE
+2026-06-18,IT Services,5.0,344500.0,Y
+2026-06-19,IT Services,9.0 units,714500.0,1
+2026-06-20,it services,0.0,0.0,Y
+2026-06-21,IT Services,0.0,0.0,No
+2026-06-22,IT Services,3.0,306600.0,No
+2026-06-23,IT Services,0.0,0.0,FALSE
+2026-06-24,it services,4.0,363600.0,N
+25-Jun-2026,it services,5.0,404600.0,No
+2026-06-26,it services,5.0,224100.0,0
+27-Jun-2026,it services,1.0,87600.0,FALSE
+28-Jun-2026,IT Services,1.0,61800.0,FALSE
+29-Jun-2026,IT,20.0,88100.0,0
+2026-06-30,IT Services,5.0,330300.0,FALSE
+2026-07-01,IT,1.0,39500.0,N
+02-Jul-2026,IT Services,3.0,196200.0,No
+2026-07-03,it services,3.0,555700.0,FALSE
+04-Jul-2026,IT Services,1.0,372000.0,N
+05-Jul-2026,IT Services,0.0,0.0,No
+2026-07-06,IT Services,4.0,382700.0,No
+07-Jul-2026,IT Services,6.0,677100.0,0
+2026-07-08,IT Service,4.0,278800.0,FALSE
+2026-07-09,IT Services,2.0,250600.0,FALSE
+2026-07-10,it services,2.0,397800.0,N
+2026-07-11,IT,2.0,58000.0,0
+2026-07-12,IT,2.0,151200.0,0
+13-Jul-2026,IT Services,8.0,1204800.0,FALSE
+2026-07-14,IT Services,2.0,63200.0,N
+15-Jul-2026,IT,0.0,0.0,0
+16-Jul-2026,IT Services,4.0,251100.0,No
+2026-07-17,IT Services,1.0,146100.0,0
+2026-07-18,IT Services,2.0,296300.0,FALSE
+2026-07-19,IT Services,0.0,0.0,No
+2026-07-20,IT Services,1.0,58400.0,FALSE
+2026-07-21,IT Service,5.0,196200.0,0
+2026-07-22,IT Services,1.0,204000.0,No
+2026-07-23,IT Services,3.0,185400.0,0
+24-Jul-2026,IT Services,2.0,126800.0,FALSE
+2026-07-25,IT,0.0,0.0,0
+2026-07-26,IT Service,0.0,0.0,No
+27-Jul-2026,IT Services,,0.0,N
+2026-07-28,it services,1.0,97600.0,N
+2026-07-29,IT Service,3.0,247700.0,0
+30-Jul-2026,IT Services,1.0,75000.0,N
+2026-07-31,IT Services,2.0,67900.0,N
+2026-08-01,IT,0.0,0.0,0
+02-Aug-2026,IT Services,2.0,276800.0,N
+2026-08-03,IT Services,6.0,342700.0,FALSE
+2026-08-04,IT Service,0.0,0.0,No
+2026-08-05,IT Services,1.0,25700.0,N
+2026-08-06,it services,1.0,65100.0,No
+2026-08-07,it services,2.0,339000.0,FALSE
+2026-08-08,IT Services,1.0,92800.0,FALSE
+2026-08-09,IT Services,1.0,8000.0,0
+2026-08-10,IT Services,1.0,101600.0,No
+11-Aug-2026,IT Services,2.0,104800.0,N
+2026-08-12,IT Service,5.0,481100.0,FALSE
+2026-08-13,it services,0.0,0.0,FALSE
+2026-08-14,IT Services,5.0,277200.0,FALSE
+15-Aug-2026,it services,0.0,₹0,N
+2026-08-16,IT Services,0.0,0.0,0
+17-Aug-2026,IT Service,5.0,443600.0,TRUE
+2026-08-18,it services,7.0,415400.0,Y
+2026-08-19,IT Service,3.0,124200.0,Y
+2026-08-20,IT Services,0.0,0.0,Yes
+2026-08-21,IT Services,1.0,153800.0,Yes
+2026-08-22,IT Services,2.0,200800.0,TRUE
+2026-08-23,IT,4.0,229500.0,Y
+24-Aug-2026,IT Services,2.0,86700.0,1
+2026-08-25,it services,4.0,226000.0,TRUE
+26-Aug-2026,IT Service,2.0,244700.0,TRUE
+27-Aug-2026,it services,3.0,145100.0,1
+28-Aug-2026,IT,9.0,953500.0,Y
+29-Aug-2026,IT Services,0.0,0.0,1
+30-Aug-2026,IT Service,1.0,172700.0,TRUE
+31-Aug-2026,IT Services,6.0,704500.0,N
+2026-09-01,IT Services,0.0,0.0,N
+2026-09-02,IT,1.0,15100.0,0
+03-Sep-2026,IT,2.0,204700.0,N
+05-Sep-2026,it services,2.0,109500.0,No
+2026-09-06,IT Service,0.0,0.0,FALSE
+07-Sep-2026,IT Services,2.0,126100.0,N
+2026-09-08,IT Services,0.0,0.0,0
+2026-09-09,IT Services,3.0,399600.0,FALSE
+10-Sep-2026,IT Services,3.0,180500.0,No
+2026-09-11,it services,3.0,164900.0,1
+2026-09-12,IT Service,2.0,67800.0,Y
+13-Sep-2026,it services,0.0,0.0,1
+14-Sep-2026,IT Services,1.0,29300.0,Yes
+2026-09-15,IT Services,4.0,406300.0,Y
+2026-09-16,IT Service,6.0,327800.0,Yes
+2026-09-17,IT Services,6.0,240900.0,1
+18-Sep-2026,IT Services,3.0,260800.0,Y
+2026-09-19,IT,2.0,92700.0,Yes
+20-Sep-2026,IT Services,1.0,55900.0,1
+21-Sep-2026,IT Services,2.0,314000.0,Y
+22-Sep-2026,IT Services,7.0,575400.0,Y
+2026-09-23,IT Services,6.0,830100.0,1
+24-Sep-2026,IT Services,1.0,53300.0,N
+2026-09-25,it services,5.0,587800.0,0
+2026-09-26,IT Services,2.0,98000.0,0
+2026-09-27,IT Services,0.0,0.0,N
+2026-09-28,IT,7.0,408800.0,No
+2026-09-29,it services,6.0,353500.0,FALSE
+2026-09-30,IT Services,3.0,198200.0,N
+01-Oct-2023,Digital Services,0.0,0.0,N
+02-Oct-2023,Digital Services,4.0,37800.0,No
+03-Oct-2023,DIGITAL SERVICES,5.0,64200.0,0
+2023-10-04,Digital Services,,28800.0,FALSE
+2023-10-05,Digital,4.0,22600.0,FALSE
+2023-10-06,Digital Services,2.0,20300.0,0
+2023-10-07,Digital Services,0.0,0.0,N
+2023-10-08,DIGITAL SERVICES,1.0,6500.0,FALSE
+09-Oct-2023,Digital Services,1.0,3400.0,No
+10-Oct-2023,digital services,2.0,26400.0,No
+2023-10-11,Digital Services,3.0,24200.0,No
+2023-10-12,Digital Services,3.0,16100.0,N
+2023-10-13,digital services,2.0,32600.0,N
+2023-10-14,digital services,1.0,6200.0,N
+15-Oct-2023,Digital Services,0.0,0.0,FALSE
+16-Oct-2023,Digital,2.0 units,13100.0,No
+17-Oct-2023,digital services,3.0,52800.0,N
+2023-10-18,digital services,4.0,49600.0,No
+2023-10-19,Digital Services,2.0,15700.0,FALSE
+2023-10-20,digital services,2.0,8200.0,N
+2023-10-21,Digital Services,0.0,0.0,N
+2023-10-22,Digital Services,1.0,37500.0,No
+2023-10-22,digital services,1.0,37500.0,No
+2023-10-23,DIGITAL SERVICES,3.0,"₹59,400",N
+24-Oct-2023,DIGITAL SERVICES,2.0,15000.0,FALSE
+2023-10-25,Digital Services,3.0,27100.0,0
+26-Oct-2023,digital services,3.0,39000.0,0
+2023-10-27,Digital Services,1.0,5000.0,N
+28-Oct-2023,Digital Services,1.0,4700.0,N
+2023-10-29,Digital Services,0.0,0.0,No
+2023-10-30,DIGITAL SERVICES,3.0,32400.0,No
+2023-10-31,DIGITAL SERVICES,6.0,50200.0,0
+01-Nov-2023,Digital Services,0.0,0.0,N
+2023-11-02,Digital Services,2.0,16000.0,FALSE
+03-Nov-2023,Digital,3.0,14900.0,N
+2023-11-04,digital services,1.0,4200.0,N
+2023-11-05,DIGITAL SERVICES,1.0,6500.0,N
+2023-11-06,Digital Services,3.0,36300.0,FALSE
+2023-11-07,Digital Services,1.0,10600.0,Yes
+08-Nov-2023,Digital,9.0,140000.0,TRUE
+09-Nov-2023,Digital,1.0,8000.0,Yes
+2023-11-10,Digital,2.0,16900.0,1
+2023-11-11,Digital Services,1.0,22500.0,Y
+2023-11-12,Digital Services,3.0,49300.0,Y
+2023-11-13,Digital Services,1.0,8100.0,Y
+2023-11-14,Digital Services,4.0,50000.0,TRUE
+16-Nov-2023,Digital Services,2.0,11900.0,1
+17-Nov-2023,Digital Services,3.0,80600.0,TRUE
+2023-11-18,Digital Services,0.0,0.0,TRUE
+2023-11-19,Digital Services,2.0,24600.0,No
+2023-11-20,Digital,,10000.0,0
+2023-11-21,Digital,0.0,0.0,No
+2023-11-22,Digital,7.0,59000.0,No
+2023-11-23,Digital Services,2.0,48700.0,N
+2023-11-24,Digital Services,4.0,84700.0,N
+25-Nov-2023,Digital Services,2.0,28100.0,0
+2023-11-26,digital services,0.0,0.0,0
+2023-11-26,digital services,0.0,0.0,0
+2023-11-27,DIGITAL SERVICES,1.0,8200.0,FALSE
+2023-11-28,Digital Services,2.0,20700.0,FALSE
+2023-11-29,Digital Services,0.0,0.0,FALSE
+30-Nov-2023,Digital Services,1.0,10000.0,No
+2023-12-01,Digital Services,1.0,18700.0,No
+2023-12-02,Digital Services,1.0,4900.0,No
+2023-12-03,Digital Services,1.0,27400.0,No
+2023-12-04,DIGITAL SERVICES,0.0,0.0,FALSE
+2023-12-05,DIGITAL SERVICES,3.0,24500.0,0
+2023-12-06,DIGITAL SERVICES,1.0,12100.0,No
+2023-12-07,Digital Services,0.0,0.0,No
+2023-12-08,Digital Services,1.0,2800.0,No
+09-Dec-2023,DIGITAL SERVICES,0.0,0.0,N
+10-Dec-2023,Digital Services,2.0,7200.0,N
+2023-12-11,Digital Services,2.0,15200.0,FALSE
+2023-12-12,Digital Services,3.0,25700.0,0
+13-Dec-2023,Digital Services,2.0,24600.0,N
+2023-12-14,Digital Services,5.0,44600.0,No
+2023-12-15,digital services,0.0,0.0,0
+2023-12-16,Digital Services,0.0,0.0,FALSE
+2023-12-17,Digital Services,0.0,0.0,No
+18-Dec-2023,Digital Services,5.0,42800.0,0
+2023-12-19,Digital Services,2.0,35200.0,N
+2023-12-20,Digital Services,1.0,12300.0,FALSE
+2023-12-21,DIGITAL SERVICES,2.0,9000.0,FALSE
+22-Dec-2023,Digital Services,2.0,14400.0,No
+23-Dec-2023,Digital Services,0.0,0.0,N
+24-Dec-2023,Digital,0.0,0.0,No
+2023-12-25,Digital Services,1.0,4400.0,No
+2023-12-26,Digital Services,0.0,0.0,No
+2023-12-27,DIGITAL SERVICES,3.0,93800.0,FALSE
+2023-12-28,DIGITAL SERVICES,1.0,28600.0,N
+2023-12-29,Digital,1.0,5500.0,0
+2023-12-30,Digital,0.0,0.0,N
+2024-01-01,Digital,0.0,0.0,FALSE
+02-Jan-2024,DIGITAL SERVICES,2.0,34700.0,N
+2024-01-03,Digital Services,1.0,63800.0,N
+2024-01-04,Digital Services,2.0,29700.0,No
+2024-01-05,digital services,0.0,0.0,FALSE
+06-Jan-2024,Digital Services,0.0,0.0,0
+07-Jan-2024,Digital Services,0.0,0.0,No
+08-Jan-2024,digital services,1.0,11500.0,0
+2024-01-09,digital services,7.0,63000.0,
+10-Jan-2024,Digital,6.0,99900.0,TRUE
+2024-01-11,Digital Services,3.0,21400.0,Yes
+12-Jan-2024,Digital Services,3.0,44000.0,Y
+2024-01-13,Digital Services,0.0,0.0,Y
+2024-01-14,Digital Services,2.0,16600.0,Yes
+2024-01-15,DIGITAL SERVICES,0.0,0.0,TRUE
+16-Jan-2024,digital services,1.0,8300.0,TRUE
+2024-01-17,DIGITAL SERVICES,5.0,43200.0,1
+2024-01-18,Digital Services,1.0,10500.0,1
+2024-01-19,Digital Services,2.0,13500.0,TRUE
+20-Jan-2024,Digital Services,1.0,5200.0,1
+2024-01-21,digital services,2.0,27800.0,0
+2024-01-22,Digital,5.0,69300.0,N
+2024-01-22,digital services,5.0,69300.0,N
+23-Jan-2024,DIGITAL SERVICES,1.0,7600.0,0
+24-Jan-2024,Digital Services,0.0,0.0,N
+25-Jan-2024,digital services,4.0,68000.0,FALSE
+2024-01-26,digital services,2.0,17000.0,0
+2024-01-27,Digital Services,3.0,76300.0,No
+2024-01-28,DIGITAL SERVICES,0.0,0.0,N
+29-Jan-2024,Digital Services,3.0,35000.0,FALSE
+2024-01-30,Digital Services,0.0,0.0,N
+31-Jan-2024,Digital Services,3.0,36600.0,No
+2024-02-01,Digital Services,0.0,0.0,N
+2024-02-02,Digital Services,0.0,0.0,FALSE
+2024-02-03,Digital Services,2.0,39900.0,No
+2024-02-04,digital services,0.0,0.0,N
+2024-02-05,Digital Services,4.0,68100.0,FALSE
+2024-02-06,Digital Services,3.0,15200.0,FALSE
+2024-02-07,digital services,1.0,36600.0,FALSE
+2024-02-08,Digital Services,0.0,0.0,No
+2024-02-09,Digital,0.0,0.0,0
+2024-02-10,Digital Services,0.0,0.0,No
+11-Feb-2024,Digital Services,0.0,0.0,No
+2024-02-12,digital services,1.0,4200.0,No
+2024-02-13,Digital Services,1.0,1700.0,Y
+2024-02-14,Digital Services,3.0,69400.0,Yes
+2024-02-15,Digital Services,2.0,19000.0,TRUE
+16-Feb-2024,Digital Services,1.0,6100.0,1
+17-Feb-2024,Digital Services,2.0,16300.0,1
+18-Feb-2024,digital services,0.0,0.0,Y
+2024-02-19,Digital Services,0.0,0.0,Yes
+20-Feb-2024,Digital Services,5.0,69900.0,Y
+2024-02-21,Digital Services,2.0,18000.0,1
+2024-02-22,Digital Services,1.0,3900.0,1
+2024-02-22,Digital Services,1.0,3900.0,1
+2024-02-23,Digital Services,0.0,0.0,TRUE
+2024-02-24,DIGITAL SERVICES,2.0,36700.0,TRUE
+2024-02-25,Digital Services,0.0,0.0,1
+2024-02-26,DIGITAL SERVICES,4.0 units,44600.0,Yes
+2024-02-27,Digital Services,2.0,22300.0,FALSE
+2024-02-28,Digital Services,0.0,0.0,FALSE
+2024-02-29,Digital Services,2.0,56300.0,N
+2024-03-01,Digital Services,2.0,,No
+2024-03-02,digital services,1.0,7500.0,FALSE
+2024-03-03,Digital Services,2.0,19500.0,0
+04-Mar-2024,Digital,5.0,42500.0,FALSE
+2024-03-05,Digital Services,0.0,0.0,0
+2024-03-06,digital services,1.0,10300.0,N
+07-Mar-2024,Digital Services,1.0,13600.0,0
+08-Mar-2024,Digital Services,1.0,9400.0,FALSE
+08-Mar-2024,Digital Services,1.0,9400.0,FALSE
+2024-03-09,Digital,2.0,20600.0,N
+2024-03-10,digital services,0.0,0.0,N
+2024-03-11,Digital Services,3.0,36700.0,No
+2024-03-12,Digital Services,0.0,0.0,N
+2024-03-13,Digital Services,3.0,40200.0,No
+14-Mar-2024,Digital Services,,11800.0,0
+2024-03-15,Digital,1.0,12400.0,0
+2024-03-16,digital services,2.0,40800.0,No
+2024-03-17,Digital Services,2.0,28200.0,0
+18-Mar-2024,DIGITAL SERVICES,6.0,79300.0,N
+2024-03-19,Digital Services,4.0,24500.0,0
+2024-03-20,Digital,3.0,50800.0,N
+2024-03-21,Digital Services,4.0 units,40700.0,N
+2024-03-22,Digital Services,0.0,0.0,No
+2024-03-23,Digital,2.0,11300.0,No
+2024-03-24,Digital Services,0.0,0.0,No
+25-Mar-2024,Digital,2.0,6200.0,0
+2024-03-26,Digital,5.0,91000.0,0
+27-Mar-2024,DIGITAL SERVICES,0.0,0.0,FALSE
+2024-03-28,DIGITAL SERVICES,3.0,15400.0,0
+2024-03-29,Digital Services,0.0,0.0,No
+30-Mar-2024,Digital Services,,0.0,FALSE
+2024-03-31,Digital Services,1.0,1800.0,N
+2024-04-01,Digital Services,4.0,38900.0,No
+2024-04-02,Digital Services,0.0,0.0,
+2024-04-03,Digital Services,4.0,82200.0,FALSE
+2024-04-04,Digital Services,0.0,0.0,N
+05-Apr-2024,DIGITAL SERVICES,0.0,0.0,N
+2024-04-06,Digital Services,1.0,26100.0,0
+2024-04-07,Digital,0.0,0.0,No
+2024-04-08,Digital Services,3.0,13500.0,0
+09-Apr-2024,DIGITAL SERVICES,6.0,76200.0,0
+10-Apr-2024,Digital Services,2.0,26500.0,FALSE
+2024-04-11,Digital,5.0,51600.0,N
+12-Apr-2024,Digital,1.0,5300.0,N
+2024-04-13,Digital Services,2.0,15700.0,1
+2024-04-14,Digital Services,3.0,29100.0,1
+15-Apr-2024,Digital Services,3.0,38300.0,Yes
+2024-04-16,digital services,3.0,45600.0,1
+2024-04-17,Digital Services,3.0,13900.0,Yes
+2024-04-18,Digital Services,3.0,36800.0,Yes
+2024-04-19,Digital Services,0.0,0.0,Yes
+2024-04-20,Digital Services,0.0,0.0,TRUE
+2024-04-21,Digital,3.0,28200.0,Y
+2024-04-22,Digital Services,6.0,103700.0,TRUE
+2024-04-23,Digital Services,5.0,87000.0,Yes
+2024-04-24,DIGITAL SERVICES,5.0,50900.0,Y
+25-Apr-2024,digital services,5.0,55700.0,Yes
+2024-04-26,Digital Services,4.0,59200.0,Yes
+2024-04-27,Digital Services,3.0,55700.0,N
+28-Apr-2024,Digital,0.0,0.0,0
+29-Apr-2024,digital services,3.0,21700.0,FALSE
+2024-04-30,Digital Services,3.0,37100.0,0
+2024-05-01,Digital Services,5.0,40200.0,No
+02-May-2024,Digital Services,1.0,2400.0,No
+02-May-2024,Digital Services,1.0,2400.0,No
+2024-05-03,Digital,0.0,0.0,No
+2024-05-04,Digital,0.0,0.0,0
+05-May-2024,DIGITAL SERVICES,4.0,77800.0,
+06-May-2024,Digital,4.0,35200.0,Y
+07-May-2024,Digital Services,3.0,"₹31,600",Y
+2024-05-08,Digital Services,1.0,10500.0,TRUE
+09-May-2024,Digital Services,3.0,25500.0,Y
+2024-05-10,Digital,0.0,0.0,TRUE
+2024-05-10,Digital,0.0,0.0,TRUE
+2024-05-11,DIGITAL SERVICES,2.0,25100.0,1
+2024-05-12,digital services,0.0,0.0,1
+13-May-2024,Digital Services,7.0,66200.0,Y
+2024-05-14,Digital Services,5.0,53600.0,TRUE
+2024-05-15,DIGITAL SERVICES,4.0,50500.0,Y
+2024-05-16,Digital Services,3.0,18000.0,Yes
+2024-05-17,Digital Services,3.0,31500.0,No
+2024-05-18,DIGITAL SERVICES,1.0,3800.0,0
+2024-05-19,digital services,1.0,5800.0,No
+2024-05-20,Digital Services,10.0,139400.0,N
+2024-05-21,Digital Services,1.0,8900.0,N
+2024-05-22,Digital,2.0,48500.0,FALSE
+23-May-2024,Digital,1.0,8900.0,0
+24-May-2024,Digital Services,1.0,18500.0,FALSE
+2024-05-25,Digital Services,0.0,0.0,No
+2024-05-26,DIGITAL SERVICES,1.0,9300.0,0
+2024-05-27,Digital Services,3.0,19500.0,0
+28-May-2024,Digital Services,3.0,31800.0,N
+2024-05-29,Digital Services,2.0,16300.0,No
+30-May-2024,DIGITAL SERVICES,2.0,16000.0,FALSE
+31-May-2024,digital services,1.0,10500.0,No
+2024-06-01,Digital Services,2.0,10400.0,0
+2024-06-02,Digital Services,1.0,5100.0,N
+2024-06-02,DIGITAL SERVICES,1.0,5100.0,N
+03-Jun-2024,Digital Services,5.0,41600.0,0
+04-Jun-2024,Digital Services,3.0,29900.0,FALSE
+05-Jun-2024,Digital Services,3.0,24300.0,N
+2024-06-06,digital services,1.0,5700.0,N
+2024-06-07,Digital Services,4.0,47300.0,0
+2024-06-08,digital services,0.0,0.0,N
+2024-06-09,Digital Services,1.0,9400.0,N
+10-Jun-2024,Digital Services,2.0,12200.0,No
+2024-06-11,digital services,-1.0,5300.0,N
+2024-06-12,Digital Services,1.0,39200.0,No
+2024-06-13,Digital,2.0,15000.0,N
+14-Jun-2024,Digital Services,0.0,0.0,No
+2024-06-15,Digital Services,1.0,11900.0,No
+2024-06-16,Digital Services,0.0,0.0,No
+2024-06-17,Digital Services,2.0,24000.0,No
+2024-06-18,digital services,3.0,32000.0,Y
+2024-06-19,Digital,3.0,41400.0,Yes
+20-Jun-2024,DIGITAL SERVICES,3.0,31900.0,Y
+2024-06-21,Digital Services,3.0,30300.0,TRUE
+22-Jun-2024,Digital Services,4.0,67500.0,TRUE
+2024-06-23,digital services,1.0,2000.0,1
+2024-06-24,Digital Services,4.0,28400.0,1
+2024-06-25,Digital,2.0,14100.0,1
+26-Jun-2024,Digital Services,1.0,2900.0,Y
+2024-06-27,Digital Services,6.0,60300.0,Yes
+2024-06-28,Digital Services,2.0,15900.0,Y
+2024-06-29,digital services,1.0,18600.0,0
+2024-06-30,digital services,1.0,8800.0,N
+2024-07-01,DIGITAL SERVICES,5.0,53400.0,0
+2024-07-02,Digital Services,4.0,39500.0,0
+2024-07-03,Digital Services,2.0,12600.0,N
+2024-07-04,Digital,2.0,33000.0,
+2024-07-05,Digital Services,2.0,38600.0,0
+2024-07-06,digital services,0.0,0.0,FALSE
+07-Jul-2024,digital services,1.0,29200.0,No
+08-Jul-2024,Digital Services,5.0,46300.0,FALSE
+2024-07-09,DIGITAL SERVICES,3.0,24500.0,FALSE
+10-Jul-2024,Digital Services,1.0,13100.0,No
+2024-07-11,digital services,9.0,119800.0,FALSE
+2024-07-12,Digital,1.0,8900.0,0
+2024-07-13,Digital Services,6.0,62600.0,N
+2024-07-14,Digital,1.0,21300.0,N
+2024-07-15,digital services,5.0,47000 INR,FALSE
+2024-07-16,Digital Services,3.0,32300.0,No
+17-Jul-2024,Digital Services,4.0,81700.0,FALSE
+2024-07-18,Digital Services,4.0,28300.0,0
+2024-07-18,Digital Services,4.0,28300.0,0
+2024-07-19,Digital Services,,49500.0,No
+2024-07-20,digital services,3.0,50200.0,N
+2024-07-21,digital services,0.0,0.0,N
+22-Jul-2024,Digital Services,3.0,"Rs. 47,600",No
+2024-07-23,Digital Services,7.0,57200.0,FALSE
+24-Jul-2024,Digital Services,5.0,63200.0,0
+25-Jul-2024,DIGITAL SERVICES,7.0,75200.0,N
+26-Jul-2024,Digital Services,3.0,83100.0,No
+2024-07-27,DIGITAL SERVICES,0.0,0.0,N
+2024-07-28,Digital,2.0,21000.0,0
+2024-07-29,Digital Services,1.0,11500.0,No
+2024-07-30,DIGITAL SERVICES,8.0,94400.0,No
+31-Jul-2024,Digital Services,4.0,57700.0,N
+2024-08-01,Digital,4.0,33500.0,N
+2024-08-02,Digital Services,1.0,24400.0,No
+2024-08-03,Digital Services,4.0,28400.0,0
+2024-08-04,Digital Services,0.0,0.0,N
+05-Aug-2024,Digital Services,2.0,14100.0,FALSE
+2024-08-06,Digital Services,2.0,21700.0,N
+08-Aug-2024,Digital Services,2.0,9100.0,N
+09-Aug-2024,digital services,0.0,0.0,N
+2024-08-10,Digital Services,4.0,27300.0,FALSE
+2024-08-11,Digital Services,2.0,18500.0,FALSE
+2024-08-12,digital services,4.0,27300.0,FALSE
+2024-08-13,DIGITAL SERVICES,1.0,10500.0,FALSE
+2024-08-14,Digital Services,3.0,27900.0,N
+15-Aug-2024,Digital Services,5.0,72200.0,0
+2024-08-16,Digital Services,4.0,69400.0,No
+2024-08-17,Digital Services,2.0,21300.0,N
+2024-08-18,digital services,0.0,0.0,0
+19-Aug-2024,Digital Services,3.0,58000.0,FALSE
+2024-08-20,Digital Services,1.0,4900.0,FALSE
+21-Aug-2024,Digital Services,2.0,43200.0,FALSE
+2024-08-22,Digital Services,2.0,20800.0,FALSE
+2024-08-23,Digital Services,7.0,62600.0,No
+2024-08-24,DIGITAL SERVICES,5.0,62700.0,FALSE
+2024-08-25,Digital Services,1.0,8900.0,N
+26-Aug-2024,Digital Services,6.0,46200.0,No
+2024-08-27,Digital Services,6.0,50500.0,FALSE
+2024-08-28,Digital Services,6.0,110400.0,N
+2024-08-29,Digital Services,2.0,24400.0,0
+2024-08-30,Digital,2.0,44200.0,0
+31-Aug-2024,DIGITAL SERVICES,1.0,7000.0,No
+2024-09-01,DIGITAL SERVICES,0.0,0.0,No
+2024-09-02,Digital Services,2.0,9200.0,N
+2024-09-03,Digital Services,3.0,49100 INR,N
+04-Sep-2024,digital services,2.0,26000.0,No
+2024-09-05,DIGITAL SERVICES,0.0,0.0,No
+06-Sep-2024,Digital Services,3.0,24100.0,N
+2024-09-07,Digital Services,1.0,20700.0,0
+08-Sep-2024,DIGITAL SERVICES,2.0,19400.0,FALSE
+09-Sep-2024,Digital,4.0,42600.0,N
+2024-09-11,Digital Services,1.0,7100.0,0
+12-Sep-2024,Digital Services,6.0,80900.0,FALSE
+2024-09-13,Digital Services,4.0,27500.0,N
+14-Sep-2024,Digital Services,3.0,34300.0,N
+2024-09-15,Digital Services,0.0,0.0,0
+16-Sep-2024,digital services,2.0,20400.0,FALSE
+2024-09-17,Digital Services,0.0,0.0,0
+2024-09-18,DIGITAL SERVICES,7.0,115600.0,0
+19-Sep-2024,Digital Services,6.0,89500.0,0
+2024-09-20,DIGITAL SERVICES,2.0,16300.0,No
+21-Sep-2024,Digital Services,0.0,0.0,N
+2024-09-22,Digital Services,0.0,0.0,FALSE
+2024-09-23,digital services,1.0,6800.0,N
+2024-09-23,digital services,1.0,6800.0,N
+2024-09-24,Digital Services,1.0,6600.0,N
+2024-09-25,Digital Services,3.0,26400.0,0
+2024-09-26,Digital Services,1.0,55700.0,N
+2024-09-27,Digital Services,,0.0,0
+2024-09-28,Digital,0.0,0.0,No
+2024-09-29,digital services,1.0,5100.0,No
+2024-09-30,digital services,3.0,66000.0,No
+2024-10-02,Digital,5.0,58100.0,No
+2024-10-03,Digital Services,5.0,"₹32,200",0
+2024-10-04,DIGITAL SERVICES,1.0 units,20500.0,No
+2024-10-05,DIGITAL SERVICES,3.0,56900.0,FALSE
+2024-10-06,Digital Services,1.0,4100.0,0
+2024-10-07,Digital Services,2.0,38000.0,N
+2024-10-08,DIGITAL SERVICES,4.0,28300.0,No
+2024-10-09,Digital Services,1.0,14600.0,N
+2024-10-10,Digital Services,3.0,29500.0,FALSE
+2024-10-11,Digital Services,5.0,86800.0,No
+2024-10-12,DIGITAL SERVICES,2.0,24000.0,FALSE
+2024-10-13,Digital Services,3.0,48300.0,N
+2024-10-14,DIGITAL SERVICES,4.0,69600.0,N
+15-Oct-2024,Digital Services,0.0,0 INR,FALSE
+2024-10-17,Digital Services,0.0,0.0,0
+2024-10-18,Digital Services,1.0,7600.0,N
+2024-10-18,digital services,1.0,7600.0,N
+19-Oct-2024,Digital Services,2.0,55100.0,0
+20-Oct-2024,DIGITAL SERVICES,1.0,15900.0,No
+21-Oct-2024,digital services,2.0,12700.0,No
+2024-10-22,digital services,1.0,29400.0,0
+23-Oct-2024,Digital Services,2.0,25700.0,N
+2024-10-24,digital services,2.0,32000.0,FALSE
+25-Oct-2024,Digital Services,3.0,40500.0,No
+26-Oct-2024,Digital,4.0,52300.0,N
+2024-10-27,Digital Services,1.0,2300.0,No
+28-Oct-2024,DIGITAL SERVICES,6.0,94800.0,N
+2024-10-29,DIGITAL SERVICES,4.0,20500.0,No
+2024-10-30,Digital Services,4.0,64400.0,0
+31-Oct-2024,digital services,1.0,10100.0,No
+2024-11-01,Digital Services,1.0,16900.0,0
+02-Nov-2024,digital services,2.0,23000.0,0
+2024-11-03,Digital,3.0,50600.0,N
+2024-11-04,DIGITAL SERVICES,2.0,21400.0,No
+2024-11-05,DIGITAL SERVICES,3.0,37200.0,No
+2024-11-06,Digital Services,4.0,52000.0,0
+2024-11-07,Digital Services,2.0,"₹53,800",FALSE
+2024-11-08,digital services,4.0,55700.0,No
+09-Nov-2024,Digital Services,0.0,0.0,FALSE
+2024-11-10,digital services,0.0,0.0,TRUE
+2024-11-11,Digital Services,7.0,95000.0,Y
+12-Nov-2024,DIGITAL SERVICES,6.0,,Yes
+2024-11-13,Digital Services,6.0,56200.0,1
+2024-11-14,DIGITAL SERVICES,4.0,98900.0,1
+2024-11-15,DIGITAL SERVICES,5.0,60400.0,TRUE
+2024-11-16,Digital Services,2.0,26100.0,TRUE
+2024-11-17,Digital Services,1.0,3900.0,Y
+2024-11-18,Digital Services,2.0,36900.0,Yes
+2024-11-19,Digital Services,4.0,38600.0,Yes
+2024-11-20,Digital Services,9.0,88300.0,Yes
+2024-11-21,DIGITAL SERVICES,6.0,63100.0,TRUE
+2024-11-21,DIGITAL SERVICES,6.0,63100.0,TRUE
+2024-11-22,digital services,1.0,24700.0,TRUE
+2024-11-23,Digital Services,2.0,26700.0,0
+2024-11-24,digital services,1.0,5000.0,N
+2024-11-25,digital services,2.0,16300.0,No
+2024-11-25,Digital,2.0,16300.0,No
+2024-11-26,Digital Services,5.0,88800.0,FALSE
+2024-11-27,Digital Services,2.0,18900.0,FALSE
+2024-11-28,Digital Services,3.0,41600.0,No
+2024-11-29,digital services,4.0,59800.0,0
+2024-11-30,Digital,2.0 units,3900.0,0
+2024-12-01,Digital Services,2.0,39700.0,0
+2024-12-02,DIGITAL SERVICES,2.0,13900.0,No
+2024-12-03,Digital Services,2.0,17800.0,0
+2024-12-04,Digital Services,3.0,61800.0,FALSE
+2024-12-05,Digital,0.0,0.0,N
+2024-12-06,Digital Services,2.0,27100.0,FALSE
+2024-12-07,digital services,0.0,0.0,N
+2024-12-08,Digital,3.0,49300.0,No
+2024-12-09,Digital Services,1.0,25600.0,1
+2024-12-10,Digital Services,4.0,77900.0,Yes
+2024-12-11,Digital Services,5.0,59100.0,Y
+2024-12-12,DIGITAL SERVICES,4.0,34900.0,Yes
+2024-12-13,Digital Services,1.0,7900.0,1
+2024-12-14,DIGITAL SERVICES,1.0,10300.0,Y
+15-Dec-2024,Digital Services,0.0,0.0,1
+2024-12-16,Digital,2.0,12900.0,Yes
+17-Dec-2024,digital services,3.0,39600.0,TRUE
+2024-12-18,Digital Services,6.0,44200.0,TRUE
+2024-12-19,Digital Services,5.0,58700.0,Y
+2024-12-20,Digital Services,3.0,35200.0,Yes
+2024-12-21,Digital Services,0.0,0.0,1
+2024-12-22,Digital Services,1.0,17000.0,Y
+2024-12-22,Digital Services,1.0,17000.0,Y
+2024-12-23,digital services,4.0,58100.0,N
+2024-12-23,digital services,4.0,58100.0,N
+2024-12-24,Digital Services,1.0,44500.0,FALSE
+25-Dec-2024,DIGITAL SERVICES,1.0,6500.0,FALSE
+2024-12-26,DIGITAL SERVICES,2.0,24400.0,N
+2024-12-27,Digital,2.0,23600.0,N
+2024-12-28,Digital Services,2.0,23100.0,0
+2024-12-29,DIGITAL SERVICES,20.0,11400.0,No
+2024-12-30,Digital Services,3.0,20600.0,0
+31-Dec-2024,digital services,2.0,21300.0,No
+2025-01-01,Digital Services,1.0,3100.0,0
+02-Jan-2025,Digital Services,5.0,51500.0,No
+03-Jan-2025,Digital Services,1.0,,Y
+2025-01-04,DIGITAL SERVICES,1.0,"₹7,600",Yes
+2025-01-05,Digital Services,1.0,20700.0,TRUE
+2025-01-06,DIGITAL SERVICES,9.0,81700.0,1
+07-Jan-2025,Digital,5.0,75000.0,1
+2025-01-08,Digital Services,0.0,0.0,Yes
+2025-01-09,Digital Services,4.0,38600.0,Yes
+10-Jan-2025,Digital,0.0,0.0,Yes
+2025-01-11,Digital,1.0,7800.0,1
+2025-01-12,Digital Services,2.0,13700.0,Y
+13-Jan-2025,Digital Services,2.0,17700.0,TRUE
+14-Jan-2025,Digital Services,1.0,2700.0,TRUE
+2025-01-15,Digital Services,3.0,38700.0,Y
+2025-01-16,Digital,2.0,4600.0,Y
+2025-01-17,Digital Services,3.0,47500.0,N
+2025-01-18,Digital Services,1.0,14400.0,N
+2025-01-19,Digital Services,1.0,28800.0,No
+2025-01-20,Digital Services,1.0,43300.0,0
+2025-01-21,digital services,6.0,90300.0,FALSE
+2025-01-22,DIGITAL SERVICES,4.0,36200.0,FALSE
+2025-01-23,Digital Services,2.0,62200.0,0
+24-Jan-2025,Digital Services,1.0,4100.0,FALSE
+2025-01-25,Digital Services,0.0,0.0,No
+26-Jan-2025,Digital Services,0.0,0.0,No
+2025-01-27,Digital,0.0,0.0,FALSE
+28-Jan-2025,Digital,6.0,40400.0,0
+2025-01-29,Digital Services,5.0,37400.0,No
+2025-01-30,Digital Services,3.0,41500.0,FALSE
+2025-01-31,Digital,4.0,33300.0,0
+01-Feb-2025,Digital Services,6.0,56200.0,0
+2025-02-02,Digital Services,1.0,37200.0,No
+2025-02-03,Digital Services,2.0,61500.0,0
+2025-02-05,digital services,0.0,0.0,FALSE
+2025-02-06,digital services,4.0,61900.0,N
+2025-02-07,DIGITAL SERVICES,2.0,16100.0,0
+2025-02-08,Digital Services,0.0,0.0,0
+09-Feb-2025,DIGITAL SERVICES,0.0,0.0,FALSE
+2025-02-15,Digital Services,1.0,24800.0,0
+2025-02-16,Digital,0.0,0.0,N
+2025-02-17,Digital Services,3.0,37100.0,No
+2025-02-18,Digital,7.0,80300.0,No
+2025-02-19,Digital Services,4.0,41200.0,No
+20-Feb-2025,Digital Services,3.0,17600.0,FALSE
+2025-02-21,Digital Services,6.0,96600.0,No
+22-Feb-2025,Digital Services,1.0,7200.0,0
+2025-02-23,Digital Services,0.0,0.0,N
+2025-02-24,Digital Services,5.0,48200.0,N
+2025-02-25,Digital Services,2.0,10900.0,No
+2025-02-26,Digital Services,4.0,43800.0,0
+27-Feb-2025,Digital Services,5.0,67200.0,No
+28-Feb-2025,Digital Services,1.0,5700.0,No
+2025-03-01,Digital,0.0,0.0,0
+02-Mar-2025,Digital Services,1.0,7300.0,0
+03-Mar-2025,Digital Services,3.0,"Rs. 17,900",FALSE
+2025-03-04,Digital,4.0,73000.0,0
+2025-03-05,Digital Services,1.0,10800.0,No
+06-Mar-2025,Digital,4.0,61100.0,FALSE
+06-Mar-2025,Digital,4.0,61100.0,FALSE
+2025-03-07,Digital Services,3.0,47500.0,N
+2025-03-08,Digital Services,1.0,4800.0,FALSE
+2025-03-09,DIGITAL SERVICES,0.0,0.0,1
+2025-03-09,Digital,0.0,0.0,1
+2025-03-10,DIGITAL SERVICES,6.0,92900.0,Y
+2025-03-11,digital services,5.0,101500.0,Y
+2025-03-12,Digital Services,3.0,34000.0,Yes
+13-Mar-2025,Digital Services,0.0,0.0,TRUE
+2025-03-14,Digital Services,1.0,30500.0,1
+2025-03-14,Digital Services,1.0,30500.0,1
+2025-03-15,Digital Services,1.0,6100.0,1
+16-Mar-2025,Digital Services,0.0,0.0,1
+2025-03-17,DIGITAL SERVICES,6.0,61200.0,Y
+2025-03-18,Digital Services,8.0,99500.0,1
+2025-03-19,Digital,,22600.0,0
+20-Mar-2025,Digital,2.0,17600.0,FALSE
+2025-03-21,Digital Services,1.0,6100.0,N
+2025-03-22,Digital Services,,14900.0,N
+23-Mar-2025,Digital,1.0,10500.0,FALSE
+2025-03-24,digital services,3.0,47400.0,No
+2025-03-25,Digital,1.0,5300.0,FALSE
+26-Mar-2025,Digital Services,2.0,19200.0,No
+2025-03-27,Digital Services,3.0,42700.0,No
+2025-03-28,Digital Services,2.0,32500.0,FALSE
+2025-03-29,Digital Services,3.0,18500.0,FALSE
+2025-03-30,Digital Services,2.0,24800.0,No
+31-Mar-2025,Digital,3.0,23900.0,FALSE
+2025-04-01,Digital Services,3.0,47900.0,N
+02-Apr-2025,Digital Services,3.0,70400.0,0
+2025-04-03,digital services,3.0,11500.0,N
+2025-04-04,DIGITAL SERVICES,2.0,15300.0,0
+2025-04-05,digital services,0.0,0.0,N
+2025-04-06,Digital Services,3.0,33100.0,No
+07-Apr-2025,Digital Services,4.0,62700 INR,N
+2025-04-08,digital services,4.0,46400.0,N
+2025-04-09,Digital,2.0,16300.0,FALSE
+2025-04-10,DIGITAL SERVICES,9.0,82800.0,0
+11-Apr-2025,Digital,1.0,4100.0,No
+2025-04-12,Digital Services,1.0,5600.0,FALSE
+2025-04-13,Digital Services,1.0,6300.0,FALSE
+14-Apr-2025,Digital Services,2.0,25700.0,FALSE
+2025-04-15,Digital Services,5.0,54400.0,N
+2025-04-15,Digital Services,5.0,54400.0,N
+2025-04-16,digital services,2.0,15400.0,Y
+2025-04-17,digital services,4.0,31700.0,1
+2025-04-18,Digital Services,0.0,0.0,TRUE
+2025-04-19,Digital Services,2.0,16100.0,Yes
+2025-04-20,DIGITAL SERVICES,1.0,5600.0,Y
+2025-04-21,DIGITAL SERVICES,1.0,15000.0,TRUE
+2025-04-22,Digital Services,4.0,72900.0,TRUE
+2025-04-23,Digital Services,5.0,39500.0,Y
+2025-04-24,Digital Services,-11.0,163500.0,Yes
+2025-04-25,Digital Services,7.0,97400.0,Yes
+2025-04-26,Digital Services,4.0,"₹48,100",Y
+2025-04-27,digital services,2.0,45200.0,0
+28-Apr-2025,Digital Services,3.0,31000.0,FALSE
+2025-04-29,Digital Services,5.0,64800.0,N
+2025-04-30,DIGITAL SERVICES,4.0,47100.0,0
+2025-05-01,Digital Services,2.0,21800.0,N
+02-May-2025,Digital,3.0,39900.0,0
+2025-05-03,Digital Services,1.0,9700.0,No
+04-May-2025,Digital Services,2.0,26700.0,0
+2025-05-05,Digital,3.0,25300.0,FALSE
+2025-05-06,digital services,8.0,79500.0,N
+07-May-2025,Digital,4.0,35700.0,N
+2025-05-08,digital services,2.0,17700.0,FALSE
+2025-05-09,digital services,4.0,64400.0,0
+2025-05-10,Digital,5.0,49400.0,N
+11-May-2025,Digital,0.0,0.0,0
+12-May-2025,Digital,3.0 units,36900.0,0
+13-May-2025,Digital Services,6.0,60900.0,0
+14-May-2025,digital services,6.0,100500.0,N
+2025-05-16,Digital Services,5.0,57200.0,0
+17-May-2025,DIGITAL SERVICES,3.0,32100.0,N
+2025-05-18,Digital,0.0,0.0,No
+2025-05-19,Digital Services,5.0,35400.0,FALSE
+2025-05-20,digital services,0.0,0.0,No
+2025-05-21,Digital Services,2.0,26700.0,N
+2025-05-22,Digital Services,2.0,9700.0,No
+2025-05-23,Digital Services,5.0,45200.0,FALSE
+2025-05-24,Digital Services,3.0,28300.0,FALSE
+2025-05-25,Digital Services,1.0,71700.0,FALSE
+2025-05-26,Digital Services,4.0,57200.0,FALSE
+27-May-2025,digital services,5.0,80500.0,FALSE
+2025-05-28,digital services,2.0,14300.0,No
+2025-05-29,digital services,4.0,51200.0,N
+2025-05-30,DIGITAL SERVICES,1.0,2700.0,FALSE
+2025-05-31,digital services,1.0,7500.0,0
+2025-06-02,DIGITAL SERVICES,7.0,55700.0,FALSE
+03-Jun-2025,Digital Services,4.0,51800.0,0
+2025-06-04,Digital Services,1.0,13100.0,0
+2025-06-05,Digital Services,4.0,36600.0,No
+2025-06-06,DIGITAL SERVICES,4.0,33700.0,0
+2025-06-07,Digital Services,0.0,0.0,FALSE
+2025-06-08,Digital Services,1.0,7400.0,N
+09-Jun-2025,Digital Services,5.0,51700.0,N
+2025-06-10,DIGITAL SERVICES,2.0,27300.0,0
+2025-06-11,Digital Services,3.0,26700.0,FALSE
+2025-06-12,Digital,2.0,46900.0,0
+13-Jun-2025,Digital,4.0,78900.0,1
+2025-06-14,Digital Services,6.0,73900.0,Yes
+2025-06-15,Digital Services,0.0,0.0,TRUE
+16-Jun-2025,Digital Services,1.0,6500.0,Y
+17-Jun-2025,digital services,7.0,88200.0,Yes
+2025-06-18,Digital Services,5.0,66600.0,Yes
+2025-06-19,Digital Services,,100300.0,Yes
+2025-06-20,digital services,2.0,17500.0,TRUE
+2025-06-21,Digital Services,5.0,63800.0,Y
+2025-06-22,Digital,0.0,0.0,Y
+2025-06-23,Digital Services,4.0,37000.0,TRUE
+2025-06-24,Digital Services,7.0,83600.0,Y
+25-Jun-2025,Digital Services,4.0,36500.0,FALSE
+2025-06-26,DIGITAL SERVICES,2.0,14600.0,N
+2025-06-27,Digital,0.0,0.0,No
+2025-06-28,DIGITAL SERVICES,2.0,16000.0,FALSE
+2025-06-29,Digital Services,1.0,5600.0,FALSE
+30-Jun-2025,DIGITAL SERVICES,1.0,19500.0,0
+01-Jul-2025,Digital Services,6.0,61800.0,FALSE
+2025-07-02,Digital,3.0,69900.0,0
+2025-07-03,Digital Services,4.0,,FALSE
+04-Jul-2025,digital services,2.0,14100.0,N
+2025-07-05,DIGITAL SERVICES,1.0,21200.0,No
+2025-07-06,DIGITAL SERVICES,0.0,0.0,No
+07-Jul-2025,Digital Services,9.0,166600.0,FALSE
+08-Jul-2025,Digital Services,1.0,11000.0,No
+2025-07-09,Digital Services,6.0,80700.0,N
+10-Jul-2025,DIGITAL SERVICES,4.0,45600.0,N
+2025-07-11,Digital Services,3.0,36900.0,0
+2025-07-12,Digital Services,2.0,19000.0,FALSE
+2025-07-13,DIGITAL SERVICES,0.0,0.0,0
+14-Jul-2025,Digital Services,5.0,63500.0,Y
+15-Jul-2025,Digital,8.0,120000.0,1
+2025-07-16,Digital Services,1.0,4100.0,Y
+2025-07-17,DIGITAL SERVICES,9.0,150600.0,Y
+2025-07-18,Digital Services,13.0,172000.0,1
+19-Jul-2025,Digital Services,6.0,61000.0,Yes
+2025-07-20,Digital Services,3.0,27600.0,Yes
+2025-07-21,Digital Services,7.0,132800.0,TRUE
+2025-07-22,Digital Services,6.0,90400.0,Y
+2025-07-23,Digital Services,7.0,109700.0,1
+2025-07-24,Digital Services,4.0,41400.0,FALSE
+2025-07-25,digital services,3.0,41500.0,FALSE
+2025-07-26,DIGITAL SERVICES,2.0,25200.0,No
+27-Jul-2025,Digital Services,1.0,8300.0,FALSE
+28-Jul-2025,DIGITAL SERVICES,2.0,22400.0,FALSE
+2025-07-29,Digital Services,7.0,108800.0,No
+2025-07-30,digital services,4.0,79000.0,No
+31-Jul-2025,Digital Services,1.0,7900.0,N
+2025-08-01,Digital Services,3.0,19500.0,FALSE
+02-Aug-2025,DIGITAL SERVICES,4.0,80300.0,No
+2025-08-03,Digital,0.0,0.0,No
+2025-08-04,DIGITAL SERVICES,3.0,39000.0,FALSE
+2025-08-05,Digital Services,3.0,68500.0,FALSE
+06-Aug-2025,Digital Services,3.0,37900.0,FALSE
+2025-08-07,Digital,2.0,13500.0,N
+2025-08-07,Digital,2.0,13500.0,N
+2025-08-08,digital services,4.0,28500.0,N
+2025-08-09,DIGITAL SERVICES,3.0,19400.0,N
+10-Aug-2025,Digital Services,3.0,33200.0,0
+2025-08-11,Digital Services,9.0,94300.0,FALSE
+2025-08-12,Digital Services,6.0,58600.0,No
+2025-08-13,Digital Services,3.0,31800.0,N
+2025-08-14,DIGITAL SERVICES,2.0,32500.0,Y
+2025-08-15,Digital Services,8.0,81300.0,Y
+2025-08-16,Digital Services,4.0,,TRUE
+2025-08-17,Digital,0.0,0.0,TRUE
+2025-08-18,Digital Services,6.0,89900.0,Yes
+2025-08-18,Digital Services,6.0,89900.0,Yes
+2025-08-19,Digital Services,6.0,67700.0,Y
+2025-08-20,Digital Services,1.0,11400.0,Y
+2025-08-21,digital services,2.0,45800.0,1
+2025-08-21,digital services,2.0,45800.0,1
+22-Aug-2025,Digital Services,3.0,104700.0,Yes
+2025-08-23,Digital Services,3.0,43000.0,Y
+2025-08-24,Digital Services,2.0,27800.0,Y
+2025-08-25,Digital Services,4.0,29800.0,1
+2025-08-25,Digital Services,4.0,29800.0,1
+2025-08-26,Digital Services,7.0,89400.0,1
+2025-08-27,digital services,9.0,106600.0,Y
+28-Aug-2025,digital services,1.0,17500.0,0
+2025-08-29,digital services,2.0,17500.0,FALSE
+2025-08-30,Digital Services,1.0,10800.0,No
+2025-08-31,Digital Services,3.0,42400.0,N
+2025-08-31,DIGITAL SERVICES,3.0,42400.0,N
+2025-09-01,Digital Services,11.0,192700.0,N
+02-Sep-2025,Digital Services,1.0,28100.0,0
+2025-09-03,digital services,1.0,22800.0,FALSE
+2025-09-04,Digital Services,1.0,15600.0,N
+2025-09-05,Digital,3.0,27900.0,0
+2025-09-06,Digital Services,3.0,44500.0,N
+2025-09-07,Digital,2.0,14500.0,0
+2025-09-08,Digital Services,2.0,19200.0,N
+09-Sep-2025,Digital Services,6.0,114900.0,No
+2025-09-10,digital services,5.0,67600.0,0
+2025-09-11,DIGITAL SERVICES,2.0,23800.0,
+2025-09-12,Digital,4.0,51100.0,N
+2025-09-13,digital services,1.0,8800.0,N
+2025-09-14,Digital Services,1.0,2100.0,No
+2025-09-15,Digital,3.0,19900.0,N
+16-Sep-2025,Digital,4.0,56000.0,FALSE
+17-Sep-2025,Digital Services,10.0,95500.0,No
+18-Sep-2025,Digital Services,4.0,43500.0,No
+19-Sep-2025,Digital Services,1.0,4000.0,N
+2025-09-20,Digital Services,0.0,0.0,FALSE
+2025-09-21,Digital,1.0,9400.0,No
+2025-09-22,digital services,5.0,76300.0,N
+23-Sep-2025,Digital,4.0,66900.0,FALSE
+2025-09-24,Digital Services,2.0,14800.0,No
+25-Sep-2025,Digital Services,3.0,37600.0,N
+2025-09-26,DIGITAL SERVICES,0.0,0 INR,FALSE
+27-Sep-2025,Digital Services,0.0,0.0,N
+2025-09-28,DIGITAL SERVICES,2.0,34000.0,No
+2025-09-29,DIGITAL SERVICES,1.0,9000.0,0
+2025-09-30,Digital Services,3.0,56500.0,N
+01-Oct-2025,DIGITAL SERVICES,2.0,32100.0,No
+2025-10-02,Digital Services,4.0,49100.0,No
+03-Oct-2025,Digital Services,2.0,18800.0,0
+2025-10-04,Digital,0.0,0.0,0
+2025-10-05,Digital Services,0.0,0.0,N
+2025-10-06,Digital Services,3.0,19700.0,N
+2025-10-07,Digital,-3.0,49600.0,N
+2025-10-08,Digital Services,2.0,44900.0,0
+2025-10-09,Digital,4.0,30900.0,N
+2025-10-10,Digital,1.0,9900.0,FALSE
+11-Oct-2025,Digital,1.0,3100.0,0
+2025-10-12,Digital Services,2.0,13100.0,No
+2025-10-13,Digital,9.0,111700.0,FALSE
+2025-10-14,Digital Services,5.0,48600.0,N
+2025-10-15,DIGITAL SERVICES,5.0,31400.0,0
+2025-10-16,DIGITAL SERVICES,5.0,97800.0,0
+17-Oct-2025,Digital Services,0.0,0.0,N
+2025-10-18,Digital,0.0,0.0,0
+2025-10-19,Digital Services,,0.0,0
+2025-10-20,Digital Services,1.0,8900.0,FALSE
+2025-10-21,Digital Services,10.0,128600.0,N
+2025-10-21,Digital Services,10.0,128600.0,N
+2025-10-22,Digital Services,3.0,28900.0,N
+2025-10-23,DIGITAL SERVICES,2.0,24800.0,N
+2025-10-24,Digital Services,6.0,90500.0,No
+2025-10-25,Digital,1.0,3700.0,No
+2025-10-26,Digital Services,1.0,5800.0,0
+2025-10-27,digital services,3.0,46600.0,FALSE
+2025-10-28,digital services,4.0,37200.0,FALSE
+2025-10-29,digital services,4.0,43900.0,FALSE
+2025-10-30,digital services,7.0,71600.0,No
+2025-10-31,digital services,3.0,28100.0,FALSE
+2025-11-01,Digital Services,2.0,16600.0,N
+02-Nov-2025,DIGITAL SERVICES,1.0,3900.0,0
+02-Nov-2025,Digital Services,1.0,3900.0,0
+2025-11-03,digital services,5.0,66000.0,0
+2025-11-04,DIGITAL SERVICES,5.0,79700.0,0
+2025-11-05,digital services,4.0,42400.0,0
+2025-11-06,Digital Services,6.0,90700.0,0
+07-Nov-2025,DIGITAL SERVICES,2.0,16700.0,N
+2025-11-08,Digital Services,2.0,16200 INR,0
+2025-11-09,DIGITAL SERVICES,0.0,0.0,No
+2025-11-10,Digital Services,2.0,26200.0,0
+11-Nov-2025,digital services,4.0,43400.0,FALSE
+2025-11-12,Digital,5.0,70600.0,No
+13-Nov-2025,Digital Services,4.0,28800.0,0
+14-Nov-2025,Digital Services,6.0,"Rs. 63,400",FALSE
+15-Nov-2025,digital services,7.0,104700.0,TRUE
+16-Nov-2025,Digital,1.0,18400.0,Y
+17-Nov-2025,DIGITAL SERVICES,3.0,46500.0,1
+2025-11-18,Digital,4.0,64500.0,TRUE
+19-Nov-2025,Digital Services,5.0,,Yes
+20-Nov-2025,DIGITAL SERVICES,6.0,42500.0,1
+21-Nov-2025,Digital Services,1.0,7800.0,Yes
+2025-11-22,Digital Services,1.0,14700.0,1
+2025-11-23,Digital Services,4.0,59700.0,TRUE
+2025-11-24,Digital Services,5.0,48500.0,Yes
+25-Nov-2025,Digital Services,6.0,52400.0,TRUE
+2025-11-26,Digital Services,3.0,23400.0,No
+2025-11-27,Digital,9.0,92600.0,No
+2025-11-28,DIGITAL SERVICES,2.0,8300.0,0
+2025-11-29,digital services,3.0,26800.0,0
+2025-11-30,Digital Services,0.0,0.0,0
+2025-12-02,digital services,3.0,29000.0,N
+2025-12-03,Digital Services,1.0,5800.0,FALSE
+04-Dec-2025,DIGITAL SERVICES,4.0,36900.0,FALSE
+2025-12-05,digital services,4.0,37200.0,0
+06-Dec-2025,Digital Services,,,No
+07-Dec-2025,Digital Services,3.0,33200.0,Y
+08-Dec-2025,digital services,8.0,203900.0,Yes
+09-Dec-2025,Digital,2.0,18000.0,Yes
+10-Dec-2025,Digital Services,4.0,52600.0,1
+2025-12-11,Digital Services,7.0,74700.0,Y
+2025-12-12,Digital,3.0,29000.0,Y
+2025-12-13,Digital,7.0,122600.0,Yes
+14-Dec-2025,digital services,1.0,"Rs. 18,900",1
+15-Dec-2025,Digital Services,1.0,2800.0,Yes
+2025-12-16,digital services,5.0,41500.0,1
+17-Dec-2025,Digital Services,9.0,101800 INR,TRUE
+18-Dec-2025,DIGITAL SERVICES,5.0,48600.0,Y
+2025-12-19,Digital Services,3.0,18000.0,0
+2025-12-20,Digital Services,3.0,34800.0,0
+2025-12-21,Digital Services,1.0,2500.0,FALSE
+2025-12-22,digital services,4.0,47200.0,N
+2025-12-23,digital services,3.0,44600.0,0
+2025-12-24,DIGITAL SERVICES,2.0,32700.0,N
+2025-12-25,DIGITAL SERVICES,3.0,31300.0,N
+2025-12-26,Digital Services,-3.0,61100.0,FALSE
+2025-12-27,Digital Services,3.0,37900.0,No
+2025-12-28,Digital Services,0.0,0.0,0
+2025-12-29,Digital Services,2.0,14700.0,N
+30-Dec-2025,Digital Services,2.0,45100.0,No
+31-Dec-2025,Digital,1.0,9400.0,0
+2026-01-01,Digital,4.0,78400.0,N
+2026-01-02,Digital Services,2.0,41600.0,N
+2026-01-03,DIGITAL SERVICES,0.0,0.0,N
+2026-01-04,digital services,2.0,26000.0,TRUE
+2026-01-05,digital services,7.0,77300.0,Yes
+06-Jan-2026,digital services,6.0,54700.0,TRUE
+2026-01-07,Digital Services,4.0,55600.0,TRUE
+2026-01-08,DIGITAL SERVICES,2.0,27800.0,TRUE
+09-Jan-2026,Digital Services,2.0,9500.0,1
+2026-01-10,digital services,2.0,20400.0,TRUE
+2026-01-11,digital services,1.0,17200.0,TRUE
+2026-01-12,Digital Services,4.0,75400.0,1
+2026-01-14,digital services,5.0,35500.0,0
+15-Jan-2026,Digital,,12600.0,No
+2026-01-16,Digital,2.0,17900.0,No
+2026-01-17,Digital Services,1.0,25000.0,No
+2026-01-18,Digital Services,0.0,0.0,FALSE
+20-Jan-2026,Digital,2.0,15600.0,N
+2026-01-21,Digital Services,0.0,0.0,FALSE
+2026-01-21,digital services,0.0,0.0,FALSE
+2026-01-22,Digital Services,3.0,22700.0,No
+2026-01-23,Digital Services,0.0,0.0,N
+2026-01-24,DIGITAL SERVICES,1.0,4300.0,No
+25-Jan-2026,Digital Services,3.0,59400.0,FALSE
+2026-01-26,Digital,2.0,15100.0,FALSE
+2026-01-27,DIGITAL SERVICES,1.0,3200.0,FALSE
+2026-01-28,DIGITAL SERVICES,3.0,17200.0,FALSE
+2026-01-29,Digital Services,4.0,43800.0,FALSE
+30-Jan-2026,Digital Services,1.0,6800.0,0
+2026-01-31,Digital Services,1.0,14800.0,0
+01-Feb-2026,Digital Services,2.0,18900.0,FALSE
+2026-02-02,Digital Services,3.0,53100.0,N
+03-Feb-2026,digital services,1.0,7200.0,N
+2026-02-04,Digital,1.0,19300.0,0
+2026-02-05,Digital,1.0,4800.0,FALSE
+2026-02-06,Digital Services,1.0,3300.0,0
+07-Feb-2026,Digital,1.0,5300.0,No
+08-Feb-2026,digital services,1.0,4300.0,0
+2026-02-10,Digital Services,4.0,52200.0,
+2026-02-12,Digital Services,4.0,47400.0,N
+2026-02-13,Digital,0.0,0.0,N
+2026-02-14,digital services,0.0,0.0,FALSE
+2026-02-15,Digital Services,1.0,14000.0,FALSE
+2026-02-16,Digital Services,,59000.0,0
+2026-02-17,Digital,4.0,36900.0,No
+2026-02-18,Digital Services,0.0,0.0,0
+2026-02-19,Digital Services,3.0,43200.0,N
+20-Feb-2026,Digital Services,1.0,2900.0,FALSE
+2026-02-21,Digital Services,1.0,4100.0,No
+2026-02-22,Digital Services,0.0,0.0,No
+2026-02-23,DIGITAL SERVICES,4.0,43200.0,N
+2026-02-23,DIGITAL SERVICES,4.0,43200.0,N
+2026-02-24,Digital Services,1.0,8400.0,No
+2026-02-25,Digital Services,40.0,60000.0,N
+2026-02-26,Digital Services,4.0,43500.0,FALSE
+2026-02-27,Digital Services,2.0,34200.0,0
+2026-02-28,digital services,3.0,38700.0,0
+2026-03-01,Digital Services,1.0,4800.0,No
+2026-03-02,Digital Services,5.0,46400.0,N
+2026-03-03,Digital,7.0,121000.0,No
+04-Mar-2026,Digital Services,3.0,54500.0,FALSE
+05-Mar-2026,digital services,1.0,16700.0,0
+2026-03-06,Digital,6.0,90800.0,No
+07-Mar-2026,Digital,3.0,40000.0,N
+2026-03-08,Digital,2.0,25100.0,No
+09-Mar-2026,Digital Services,2.0,21800.0,0
+2026-03-10,Digital Services,7.0,127100.0,TRUE
+2026-03-11,digital services,5.0,,Yes
+2026-03-12,Digital,3.0,36600.0,TRUE
+2026-03-14,Digital Services,2.0,10500.0,1
+2026-03-15,digital services,0.0,0.0,1
+16-Mar-2026,DIGITAL SERVICES,6.0,82400.0,TRUE
+2026-03-17,Digital,3.0,30400.0,
+18-Mar-2026,DIGITAL SERVICES,6.0,70700.0,Yes
+2026-03-19,DIGITAL SERVICES,4.0,28100.0,1
+2026-03-20,Digital Services,5.0,50000.0,Yes
+2026-03-21,Digital Services,0.0,0.0,Yes
+2026-03-22,digital services,2.0,18300.0,FALSE
+23-Mar-2026,Digital Services,5.0,"₹70,700",0
+24-Mar-2026,Digital Services,4.0,52900.0,0
+2026-03-25,digital services,3.0,63100.0,FALSE
+26-Mar-2026,Digital Services,4.0,50100.0,N
+2026-03-27,digital services,3.0,12200.0,0
+2026-03-28,Digital Services,0.0,0.0,0
+2026-03-29,Digital,0.0,0.0,0
+2026-03-30,Digital Services,5.0,60100.0,FALSE
+2026-03-31,digital services,2.0,22300.0,0
+01-Apr-2026,digital services,7.0,86400.0,N
+01-Apr-2026,Digital Services,7.0,86400.0,N
+2026-04-02,DIGITAL SERVICES,0.0,,N
+2026-04-03,Digital Services,0.0,0.0,FALSE
+04-Apr-2026,Digital,6.0,47400.0,FALSE
+2026-04-05,Digital Services,0.0,0.0,FALSE
+2026-04-06,Digital Services,6.0,83300.0,0
+07-Apr-2026,Digital,4.0,46000.0,FALSE
+08-Apr-2026,Digital Services,5.0,101700.0,FALSE
+2026-04-09,Digital Services,3.0,21500.0,FALSE
+2026-04-10,Digital Services,0.0,0.0,FALSE
+11-Apr-2026,Digital Services,2.0,16100.0,N
+12-Apr-2026,DIGITAL SERVICES,0.0,0.0,N
+2026-04-13,digital services,5.0,65200.0,FALSE
+2026-04-14,Digital Services,4.0,19900.0,FALSE
+2026-04-15,digital services,8.0,65300.0,FALSE
+2026-04-16,Digital,1.0,28500.0,FALSE
+17-Apr-2026,DIGITAL SERVICES,7.0,75900.0,N
+18-Apr-2026,Digital Services,1.0,38100.0,FALSE
+2026-04-19,digital services,1.0,23500.0,No
+20-Apr-2026,Digital Services,6.0,64900.0,FALSE
+2026-04-21,Digital Services,1.0,7600.0,No
+2026-04-22,Digital Services,2.0,48000.0,No
+23-Apr-2026,digital services,6.0,126100.0,0
+2026-04-24,Digital Services,5.0,52200.0,0
+2026-04-25,Digital,3.0,61800.0,FALSE
+2026-04-26,Digital Services,0.0,0.0,No
+2026-04-26,Digital Services,0.0,0.0,No
+2026-04-27,Digital Services,3.0,53900.0,No
+28-Apr-2026,Digital Services,5.0,59000.0,No
+29-Apr-2026,Digital Services,1.0,5900.0,N
+30-Apr-2026,digital services,4.0,31200.0,FALSE
+2026-05-01,DIGITAL SERVICES,2.0,11100.0,0
+2026-05-02,Digital Services,3.0,71800.0,N
+03-May-2026,Digital,1.0,9500.0,0
+2026-05-04,Digital Services,9.0,80500.0,N
+2026-05-05,DIGITAL SERVICES,2.0,34900.0,N
+2026-05-06,Digital,3.0,27300.0,N
+07-May-2026,DIGITAL SERVICES,7.0,68300.0,0
+2026-05-08,Digital Services,2.0,59100.0,FALSE
+2026-05-09,Digital Services,1.0,3700.0,No
+10-May-2026,DIGITAL SERVICES,1.0,11100.0,No
+2026-05-11,digital services,3.0,26100.0,N
+2026-05-12,Digital Services,3.0,24500.0,N
+13-May-2026,Digital Services,5.0,36100.0,0
+2026-05-14,DIGITAL SERVICES,1.0,9800.0,N
+15-May-2026,Digital Services,5.0,43500.0,FALSE
+16-May-2026,Digital Services,0.0,0.0,FALSE
+2026-05-17,Digital Services,1.0,9100.0,FALSE
+2026-05-18,Digital Services,5.0,,FALSE
+19-May-2026,Digital Services,,23400.0,0
+2026-05-20,Digital,5.0,89400.0,No
+2026-05-21,digital services,3.0,44700.0,No
+22-May-2026,Digital Services,4.0,35600.0,N
+2026-05-23,Digital Services,3.0,"Rs. 19,200",N
+2026-05-24,Digital,1.0,2500.0,FALSE
+2026-05-25,digital services,6.0,95700.0,0
+26-May-2026,Digital Services,1.0,17700.0,No
+2026-05-27,Digital Services,3.0,50600.0,FALSE
+2026-05-28,Digital Services,7.0,78600.0,N
+2026-05-29,Digital Services,2.0,31600.0,FALSE
+30-May-2026,Digital Services,1.0,19300.0,0
+31-May-2026,Digital,5.0,55900.0,N
+01-Jun-2026,DIGITAL SERVICES,7.0,73800.0,N
+2026-06-02,Digital Services,3.0,22400.0,FALSE
+03-Jun-2026,Digital Services,6.0,78100.0,Yes
+04-Jun-2026,Digital Services,8.0,106900.0,TRUE
+05-Jun-2026,digital services,8.0,84200.0,Yes
+2026-06-06,Digital Services,3.0,29500.0,Y
+2026-06-07,Digital Services,3.0,30400.0,Y
+2026-06-08,Digital Services,7.0,100000.0,Y
+2026-06-09,Digital Services,7.0,56400.0,Yes
+2026-06-10,Digital,11.0,102200.0,Yes
+2026-06-11,digital services,8.0,71200.0,Yes
+2026-06-12,Digital Services,2.0,19700.0,1
+13-Jun-2026,digital services,1.0,11700.0,TRUE
+2026-06-14,Digital Services,4.0,31100.0,1
+2026-06-15,Digital Services,9.0,129900.0,1
+2026-06-16,Digital Services,4.0,75300.0,FALSE
+2026-06-17,Digital,2.0,26100.0,FALSE
+18-Jun-2026,Digital Services,2.0,37000.0,No
+2026-06-19,Digital Services,5.0,42900.0,N
+2026-06-20,Digital Services,1.0,5000.0,N
+2026-06-21,Digital Services,1.0,13500.0,N
+2026-06-22,Digital Services,3.0,32700.0,N
+23-Jun-2026,DIGITAL SERVICES,7.0,64000.0,FALSE
+2026-06-24,Digital Services,8.0,132500.0,0
+25-Jun-2026,Digital,3.0,37400.0,FALSE
+2026-06-26,Digital Services,2.0,30100.0,N
+2026-06-27,digital services,8.0,78800.0,No
+2026-06-28,Digital Services,2.0,48800.0,FALSE
+2026-06-29,digital services,2.0,19700.0,FALSE
+30-Jun-2026,Digital Services,5.0,78600.0,0
+2026-07-01,Digital Services,2.0,15900.0,N
+02-Jul-2026,Digital,4.0,47900.0,N
+03-Jul-2026,Digital Services,16.0,,No
+2026-07-04,Digital Services,5.0,106700.0,No
+2026-07-05,DIGITAL SERVICES,2.0,17100.0,0
+2026-07-06,Digital Services,,85600.0,N
+07-Jul-2026,Digital Services,14.0,184400.0,Yes
+2026-07-08,Digital Services,5.0,36700.0,TRUE
+2026-07-09,Digital Services,9.0 units,63300.0,Yes
+10-Jul-2026,Digital Services,4.0,31900.0,TRUE
+10-Jul-2026,Digital,4.0,31900.0,TRUE
+11-Jul-2026,Digital Services,9.0,131700.0,Yes
+12-Jul-2026,Digital Services,3.0,66400.0,Yes
+2026-07-13,Digital Services,6.0,53100.0,Y
+14-Jul-2026,Digital Services,3.0,20300.0,Yes
+2026-07-15,Digital,10.0,164500.0,1
+2026-07-16,Digital Services,3.0,26400.0,1
+2026-07-17,Digital Services,7.0,73500.0,FALSE
+2026-07-18,Digital Services,4.0,75200.0,FALSE
+19-Jul-2026,Digital Services,1.0,23200.0,FALSE
+20-Jul-2026,digital services,9.0,130700.0,FALSE
+2026-07-21,DIGITAL SERVICES,7.0,51600.0,FALSE
+2026-07-22,Digital Services,6.0,48200.0,N
+2026-07-23,Digital Services,8.0,122900.0,No
+2026-07-24,Digital Services,3.0,37700.0,N
+2026-07-25,Digital Services,3.0,"₹24,200",0
+2026-07-26,Digital Services,3.0,28900.0,No
+2026-07-27,Digital Services,6.0,94900.0,FALSE
+2026-07-28,Digital,1.0,27400.0,0
+29-Jul-2026,Digital Services,1.0,9400.0,0
+2026-07-30,Digital Services,2.0,15100.0,No
+31-Jul-2026,digital services,,52400.0,FALSE
+01-Aug-2026,Digital Services,6.0,101500.0,Y
+2026-08-02,Digital Services,4.0,71700.0,Y
+2026-08-04,digital services,10.0,104100.0,Yes
+2026-08-05,Digital,14.0,202200.0,Y
+2026-08-06,Digital Services,16.0,251200.0,Yes
+2026-08-07,Digital Services,12.0,"Rs. 105,200",TRUE
+2026-08-08,Digital Services,3.0,30200.0,TRUE
+2026-08-09,digital services,2.0,37600.0,1
+2026-08-10,Digital,15.0,179500.0,1
+2026-08-11,Digital Services,5.0,49000.0,No
+2026-08-12,Digital Services,1.0,10700.0,FALSE
+2026-08-13,DIGITAL SERVICES,14.0,176900.0,0
+14-Aug-2026,Digital Services,6.0,50100.0,No
+15-Aug-2026,Digital Services,2.0,22200.0,FALSE
+2026-08-16,Digital Services,,25500.0,N
+2026-08-16,Digital Services,,25500.0,N
+17-Aug-2026,Digital Services,9.0,93700.0,FALSE
+2026-08-18,Digital Services,5.0,44800.0,No
+2026-08-19,Digital Services,6.0,59300.0,0
+20-Aug-2026,Digital Services,6.0,52400.0,FALSE
+2026-08-21,Digital Services,2.0,32300.0,No
+2026-08-22,Digital Services,5.0,42000.0,No
+2026-08-23,Digital Services,1.0,10700.0,0
+2026-08-24,Digital Services,2.0,17600.0,0
+2026-08-25,Digital,1.0,5700.0,FALSE
+2026-08-26,digital services,10.0,158600.0,FALSE
+27-Aug-2026,Digital Services,7.0,78400.0,FALSE
+2026-08-28,Digital Services,4.0,35700.0,No
+2026-08-30,Digital Services,1.0,11900.0,No
+31-Aug-2026,Digital Services,4.0,60300.0,N
+2026-09-01,digital services,10.0,155100.0,0
+2026-09-02,Digital Services,5.0,54200.0,FALSE
+2026-09-02,Digital Services,5.0,54200.0,FALSE
+2026-09-03,Digital Services,5.0,53200.0,0
+2026-09-04,Digital Services,8.0,96200.0,FALSE
+2026-09-05,Digital,5.0,60200.0,0
+2026-09-06,Digital Services,5.0,44900.0,No
+2026-09-07,Digital Services,3.0,59900.0,N
+2026-09-08,Digital Services,5.0,57500.0,No
+2026-09-09,digital services,4.0,54400.0,Y
+10-Sep-2026,DIGITAL SERVICES,7.0,90800.0,Yes
+12-Sep-2026,Digital Services,6.0,51900.0,Yes
+2026-09-13,Digital,2.0,21200.0,Yes
+2026-09-14,Digital Services,2.0,65700.0,Yes
+2026-09-15,Digital Services,8.0,137900.0,Yes
+2026-09-16,Digital,13.0,157800.0,Yes
+2026-09-17,Digital Services,8.0,85000.0,TRUE
+2026-09-18,Digital Services,7.0,45100.0,Y
+19-Sep-2026,Digital,4.0,37900.0,TRUE
+2026-09-20,DIGITAL SERVICES,6.0,67600.0,Y
+2026-09-21,digital services,7.0,74600.0,Y
+2026-09-22,Digital Services,5.0,52900.0,No
+2026-09-23,Digital Services,4.0,56100.0,N
+2026-09-24,digital services,12.0,115300.0,No
+2026-09-25,digital services,6.0,74700.0,0
+2026-09-26,Digital Services,,31700.0,N
+2026-09-27,Digital,5.0,,No
+28-Sep-2026,Digital Services,9.0,155300.0,No
+2026-09-29,digital services,3.0,44900.0,No
+2026-09-30,digital services,2.0,14400.0,0
