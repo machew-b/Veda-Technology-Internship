@@ -73,7 +73,7 @@ Veda-Technology-Internship/
 │   ├── Student_Performance_Dataset.csv
 │   ├── Student_Learning_Analytics_Cleaned.csv
 │   └── Student_Learning_Analytics_Features.csv
-└── student-performance-learning-analytics/
+└── 06-student-performance-learning-analytics/
     ├── part-1-data-cleaning-and-eda.ipynb
     ├── part-2-correlation-and-feature-engineering.ipynb
     └── part-3-prediction-models-and-final-report.ipynb

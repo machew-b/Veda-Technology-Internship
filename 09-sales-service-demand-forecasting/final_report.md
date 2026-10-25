@@ -91,7 +91,7 @@ The impacts are scenarios with stated assumptions (for example, the revenue per 
 
 ## 10. Project Documentation
 
-The notebooks and deliverables are kept together in `sales-service-demand-forecasting/`:
+The notebooks and deliverables are kept together in `09-sales-service-demand-forecasting/`:
 
 - `part-1-demand-data-cleaning-and-eda.ipynb`
 - `part-2-seasonality-and-baseline-forecasting.ipynb`
@@ -101,4 +101,4 @@ The notebooks and deliverables are kept together in `sales-service-demand-foreca
 
 The raw, cleaned, reference, analysis, and forecast data remain in `../datasets/veda_demand/`.
 
-Run the notebooks in part order. To launch the dashboard from the repository root, run `streamlit run sales-service-demand-forecasting/app.py`.
+Run the notebooks in part order. To launch the dashboard from the repository root, run `streamlit run 09-sales-service-demand-forecasting/app.py`.

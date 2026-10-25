@@ -82,7 +82,7 @@ Veda-Technology-Internship/
 │   ├── features/     # engineered and standardized features (Day 41)
 │   ├── clustered/    # customers with their cluster, and the evaluation by number of clusters (Day 41)
 │   └── segments/     # segment profiles, service catalog, segmented customers, recommendations (Day 42)
-└── customer-segmentation-recommendation-system/
+└── 08-customer-segmentation-recommendation-system/
     ├── part-1-customer-data-and-behavior-analysis.ipynb
     ├── part-2-feature-engineering-and-k-means-clustering.ipynb
     ├── part-3-segment-profiles-and-service-recommendations.ipynb
@@ -92,7 +92,7 @@ Veda-Technology-Internship/
     └── business_recommendations.csv
 ```
 
-The notebooks and project deliverables are kept together in `customer-segmentation-recommendation-system/`.
+The notebooks and project deliverables are kept together in `08-customer-segmentation-recommendation-system/`.
 
 **How to reproduce:** run the `part-1` through `part-4` notebooks in order. They use relative paths such as `../datasets/veda_customers/`. The random seeds are fixed, so the tables are identical on every run.
 
@@ -100,5 +100,5 @@ The notebooks and project deliverables are kept together in `customer-segmentati
 
 ```
 pip install streamlit pandas altair
-streamlit run customer-segmentation-recommendation-system/app.py
+streamlit run 08-customer-segmentation-recommendation-system/app.py
 ```

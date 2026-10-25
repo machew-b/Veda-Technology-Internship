@@ -80,7 +80,7 @@ Veda-Technology-Internship/
 │   ├── raw/        # 7 messy tables created on Day 35
 │   ├── cleaned/    # 7 cleaned tables (input for Days 36 to 38)
 │   └── powerbi/    # 6 tables for the Power BI dashboard (Day 37)
-└── veda-business-service-analytics/
+└── 07-veda-business-service-analytics/
     ├── part-1-dataset-cleaning-and-business-overview.ipynb
     ├── part-2-training-inquiry-and-service-analysis.ipynb
     ├── part-3-marketing-segmentation-and-kpi-dashboard.ipynb
@@ -89,7 +89,7 @@ Veda-Technology-Internship/
     └── business_recommendations.csv
 ```
 
-The project notebooks and report assets are kept together in `veda-business-service-analytics/`.
+The project notebooks and report assets are kept together in `07-veda-business-service-analytics/`.
 
 **How to reproduce:**
 

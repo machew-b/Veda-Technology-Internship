@@ -2,7 +2,7 @@
 
 Run from the repository root:
 
-    streamlit run sales-service-demand-forecasting/app.py
+    streamlit run 09-sales-service-demand-forecasting/app.py
 
 The app reads the files saved on Days 45 to 48 in datasets/veda_demand/.
 All data is simulated (synthetic).

@@ -2,7 +2,7 @@
 
 Run from the repository root:
 
-    streamlit run customer-segmentation-recommendation-system/app.py
+    streamlit run 08-customer-segmentation-recommendation-system/app.py
 
 The app reads the files saved on Day 42 in datasets/veda_customers/segments/.
 All data is simulated (synthetic).
