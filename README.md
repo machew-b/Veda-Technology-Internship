@@ -1,78 +1,54 @@
 # Veda Technology Internship: Data Science Track
 
-Daily tasks completed for the Veda Technology internship, Data Science track. The program runs from **Day 01 to Day 45**, with one task tackled per day and its own folder containing the notebook, dataset references, and a short README write-up.
+This repository contains data science learning notebooks and four end-to-end analytics projects completed during the Veda Technology internship.
 
-## Progress Tracker
+## Repository structure
 
-| Day | Task | Status | Date Submitted |
-|-----|------|--------|----------------|
-| [Day 01](./day-01) | Python Variables and Data Types | Finished | September 08, 2026 |
-| [Day 02](./day-02) | Conditional Statements for Data Decisions | Finished | September 09, 2026 |
-| [Day 03](./day-03) | Loops for Dataset Processing | Finished | September 10, 2026 |
-| [Day 04](./day-04) | Functions for Reusable Data Tasks | Finished | September 11, 2026 |
-| [Day 05](./day-05) | Python Lists, Tuples, Sets and Dictionaries | Finished | September 12, 2026 |
-| [Day 06](./day-06) | List and Dictionary Comprehensions | Finished | September 13, 2026 |
-| [Day 07](./day-07) | String Processing for Data Cleaning | Finished | September 14, 2026 |
-| [Day 08](./day-08) | Exception Handling for Data Programs | Finished | September 15, 2026 |
-| [Day 09](./day-09) | NumPy Array Creation and Data Types | Finished | September 16, 2026 |
-| [Day 10](./day-10) | NumPy Indexing and Slicing | Finished | September 17, 2026 |
-| [Day 11](./day-11) | NumPy Vectorization and Broadcasting | Finished | September 18, 2026 |
-| [Day 12](./day-12) | NumPy Aggregations and Statistics | Finished | September 19, 2026 |
-| [Day 13](./day-13) | NumPy Random Sampling | Finished | September 20, 2026 |
-| [Day 14](./day-14) | NumPy Array Reshaping and Stacking | Finished | September 21, 2026 |
-| [Day 15](./day-15) | Pandas DataFrame Basics | Finished | September 22, 2026 |
-| [Day 16](./day-16) | Selecting Rows and Columns with loc and iloc | Finished | September 23, 2026 |
-| [Day 17](./day-17) | Filtering and Sorting DataFrames | Finished | September 24, 2026 |
-| [Day 18](./day-18) | Missing Values in Pandas | Finished | September 25, 2026 |
-| [Day 19](./day-19) | Duplicate Records and Data Validation | Finished | September 26, 2026 |
-| [Day 20](./day-20) | Data Types and Type Conversion | Finished | September 27, 2026 |
-| [Day 21](./day-21) | Date Parsing and Datetime Basics | Finished | September 28, 2026 |
-| [Day 22](./day-22) | A/B Test Analysis | Finished | September 29, 2026 |
-| [Day 23](./day-23) | Multiple Linear Regression | Finished | September 30, 2026 |
-| [Day 24](./day-24) | Regression Metrics | Finished | October 01, 2026 |
-| [Day 25](./day-25) | Logistic Regression Classification | Finished | October 02, 2026 |
-| [Day 26](./day-26) | Classification Metrics Deep Dive | Finished | October 03, 2026 |
-| [Day 27](./day-27) | Confusion Matrix and Threshold Tuning | Finished | October 04, 2026 |
-| [Day 28](./day-28) | Decision Tree Classifier | Finished | October 05, 2026 |
-| [Day 29](./day-29) | Random Forest Classifier | Finished | October 06, 2026 |
-| [Day 30](./day-30) | K-Nearest Neighbors | Finished | October 07, 2026 |
-| [Day 31](./day-31) | Student Performance & Learning Analytics (Part 1): Data Cleaning and EDA | Finished | October 08, 2026 |
-| [Day 32](./day-32) | Student Performance & Learning Analytics (Part 2): Correlation and Feature Engineering | Finished | October 09, 2026 |
-| [Day 33](./day-33) | Student Performance & Learning Analytics (Part 3): Prediction Models and Final Report | Finished | October 10, 2026 |
-| [Day 34](./day-34) | Buffer Day: Project Polish | Finished | October 11, 2026 |
-| [Day 35](./day-35) | Veda Technology Business & Service Analytics (Part 1): Dataset, Cleaning, Website and Internship Analysis | Finished | October 12, 2026 |
-| [Day 36](./day-36) | Veda Technology Business & Service Analytics (Part 2): Training, Inquiry, and Service Request Analysis | Finished | October 13, 2026 |
-| [Day 37](./day-37) | Veda Technology Business & Service Analytics (Part 3): Marketing, Segmentation, Demand, and KPI Dashboard | Finished | October 14, 2026 |
-| [Day 38](./day-38) | Veda Technology Business & Service Analytics (Part 4): Predictive Analysis, Recommendations, and Executive Report | Finished | October 15, 2026 |
-| [Day 39](./day-39) | Buffer Day: Project Polish | Finished | October 16, 2026 |
-| [Day 40](./day-40) | Customer Segmentation & Service Recommendation System (Part 1): Dataset, Preprocessing, and Customer Behavior Analysis | Finished | October 17, 2026 |
-| [Day 41](./day-41) | Customer Segmentation & Service Recommendation System (Part 2): Feature Engineering, K-Means Clustering, and Cluster Evaluation | Finished | October 18, 2026 |
-| [Day 42](./day-42) | Customer Segmentation & Service Recommendation System (Part 3): Customer Segment Profiles, 2D Cluster Visualization, and Service Recommendation Logic | Finished | October 19, 2026 |
-| [Day 43](./day-43) | Customer Segmentation & Service Recommendation System (Part 4): Customer Segment Dashboard, Business Recommendations, and Final Report | Finished | October 20, 2026 |
-| [Day 44](./day-44) | Buffer Day: Project Polish | Finished | October 21, 2026 |
+| Folder | What it covers | Original day range |
+|---|---|---|
+| [`01-python-fundamentals/`](./01-python-fundamentals/) | Python data types, conditionals, loops, functions, collections, comprehensions, string processing, and exception handling | Days 01–08 |
+| [`02-numpy/`](./02-numpy/) | NumPy arrays, indexing, vectorization, aggregation, random sampling, reshaping, and stacking | Days 09–14 |
+| [`03-pandas-data-cleaning/`](./03-pandas-data-cleaning/) | DataFrames, selection, filtering, sorting, missing and duplicate data, type conversion, and date parsing | Days 15–21 |
+| [`04-ab-testing-and-regression/`](./04-ab-testing-and-regression/) | A/B testing, multiple linear regression, and regression metrics | Days 22–24 |
+| [`05-classification-models/`](./05-classification-models/) | Logistic regression, classification metrics, threshold tuning, decision trees, random forests, and K-nearest neighbors | Days 25–30 |
+| [`student-performance-learning-analytics/`](./student-performance-learning-analytics/) | Student data cleaning, exploratory and learning analytics, feature engineering, prediction, and reporting | Days 31–33 |
+| [`veda-business-service-analytics/`](./veda-business-service-analytics/) | Veda business, service, marketing, segmentation, demand, and executive analytics | Days 35–38 |
+| [`customer-segmentation-recommendation-system/`](./customer-segmentation-recommendation-system/) | Customer behavior analysis, clustering, segment profiles, recommendations, and dashboards | Days 40–43 |
+| [`sales-service-demand-forecasting/`](./sales-service-demand-forecasting/) | Sales and service demand analysis, forecast modeling, validation, and business planning | Days 45–48 |
+| [`datasets/`](./datasets/) | Shared source datasets and project data files; notebooks refer to this folder using relative paths | Shared |
 
-**Status key:** `Finished` — task complete · `In Progress` — currently working on it · `Pending` — not yet started.
+The project notebooks are named by part and should generally be run in order. Some later parts read intermediate datasets created by earlier parts. In particular, the student analytics project creates its cleaned and feature datasets as it runs.
 
-## Repository Structure
+## Tools and libraries
 
-Each day follows the same layout:
+The notebooks use Python and Jupyter with NumPy, pandas, Matplotlib, Seaborn, SciPy, scikit-learn, and statsmodels. The Streamlit dashboards also use Streamlit and Altair. A few notebooks and apps use Python's standard-library modules, including `sqlite3` and `pathlib`.
 
-```
-day-XX/
-├── README.md              # Description, objective, approach, and outcome for the day
-└── <notebook_name>.ipynb  # The Jupyter Notebook for the day's task
-```
+## How to use this repository
 
-Shared datasets used across multiple days live in the top-level `datasets/` folder (e.g. `Employee_Salary_Dataset.csv`, `Student_Performance_Dataset.csv`) and are referenced by each notebook using a relative path such as `../datasets/<file>.csv`.
+1. Clone the repository and enter its folder:
 
-## Tools
+   ```bash
+   git clone https://github.com/machew-b/Veda-Technology-Internship.git
+   cd Veda-Technology-Internship
+   ```
 
-- Python
-- Jupyter Notebook
-- pandas
+2. Create and activate a virtual environment, then install the notebook dependencies:
 
-## How to Use This Repo
+   ```bash
+   python -m venv .venv
+   # Windows PowerShell:
+   .\.venv\Scripts\Activate.ps1
+   # macOS/Linux:
+   source .venv/bin/activate
+   python -m pip install -r requirements.txt
+   ```
 
-1. Open the day folder you're interested in (e.g. `day-01/`).
-2. Read that day's `README.md` for the task description, objective, and a summary of the approach taken.
-3. Open the `.ipynb` file in the same folder to see the full code and outputs.
+3. Start JupyterLab:
+
+   ```bash
+   jupyter lab
+   ```
+
+4. Open a topic or project folder and run its notebook. Run multi-part project notebooks in order when a later part depends on generated files.
+
+The shared `datasets/` folder stays at the repository root. From a notebook in any topic or project folder, the relative path to it is `../datasets/`.
